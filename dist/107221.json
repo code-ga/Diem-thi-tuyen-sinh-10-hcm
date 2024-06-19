@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107221",
+      "Id": "107221",
+      "TinhId": 10,
+      "NGAY_SINH": "04/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.991183",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107221",
+      "HO_TEN": "Nguyễn Thúy Kiều",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "107221",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

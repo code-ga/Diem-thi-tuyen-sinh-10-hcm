@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104785",
+      "Id": "104785",
+      "TinhId": 10,
+      "NGAY_SINH": "07/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.735254",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104785",
+      "HO_TEN": "Trần Huỳnh An Khánh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "104785",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106257",
+      "Id": "106257",
+      "TinhId": 10,
+      "NGAY_SINH": "09/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.863982",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106257",
+      "HO_TEN": "Trần Ngọc Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "106257",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

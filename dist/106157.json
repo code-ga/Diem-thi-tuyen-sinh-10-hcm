@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106157",
+      "Id": "106157",
+      "TinhId": 10,
+      "NGAY_SINH": "10/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.796085",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106157",
+      "HO_TEN": "Lê Hoàng Nguyên Khoa",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "106157",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105906",
+      "Id": "105906",
+      "TinhId": 10,
+      "NGAY_SINH": "04/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.796165",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105906",
+      "HO_TEN": "Nguyễn Gia Cơ",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "105906",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

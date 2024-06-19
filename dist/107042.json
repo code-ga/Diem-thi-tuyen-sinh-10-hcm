@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107042",
+      "Id": "107042",
+      "TinhId": 10,
+      "NGAY_SINH": "12/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.994043",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107042",
+      "HO_TEN": "Phạm Khánh Bình",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "107042",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

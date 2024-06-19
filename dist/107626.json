@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107626",
+      "Id": "107626",
+      "TinhId": 10,
+      "NGAY_SINH": "10/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.994580",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107626",
+      "HO_TEN": "Đặng Lâm Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "107626",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

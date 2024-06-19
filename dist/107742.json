@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107742",
+      "Id": "107742",
+      "TinhId": 10,
+      "NGAY_SINH": "06/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.867820",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107742",
+      "HO_TEN": "Võ Hoàng Yến Chi",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "107742",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105973",
+      "Id": "105973",
+      "TinhId": 10,
+      "NGAY_SINH": "08/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.796671",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105973",
+      "HO_TEN": "Nguyễn Trọng Duy",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "105973",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

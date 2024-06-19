@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105540",
+      "Id": "105540",
+      "TinhId": 10,
+      "NGAY_SINH": "11/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.801667",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105540",
+      "HO_TEN": "Phạm Đình Minh Triết",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4.25,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "105540",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

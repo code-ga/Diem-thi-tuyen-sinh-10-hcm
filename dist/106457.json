@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106457",
+      "Id": "106457",
+      "TinhId": 10,
+      "NGAY_SINH": "11/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.862544",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106457",
+      "HO_TEN": "Bùi Ngọc Linh Nhi",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "106457",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

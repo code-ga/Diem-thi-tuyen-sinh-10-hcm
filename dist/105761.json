@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105761",
+      "Id": "105761",
+      "TinhId": 10,
+      "NGAY_SINH": "04/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.742397",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105761",
+      "HO_TEN": "Trương Thụy Gia An",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "105761",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

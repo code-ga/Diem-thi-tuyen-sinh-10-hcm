@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106637",
+      "Id": "106637",
+      "TinhId": 10,
+      "NGAY_SINH": "08/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.794680",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106637",
+      "HO_TEN": "Trương Nguyễn Thái Sơn",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "106637",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

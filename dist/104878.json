@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104878",
+      "Id": "104878",
+      "TinhId": 10,
+      "NGAY_SINH": "12/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.800697",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104878",
+      "HO_TEN": "Đặng Thiên Kỳ",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "104878",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105426",
+      "Id": "105426",
+      "TinhId": 10,
+      "NGAY_SINH": "07/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.864662",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105426",
+      "HO_TEN": "Nguyễn Thạch Thái Thịnh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "105426",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105098",
+      "Id": "105098",
+      "TinhId": 10,
+      "NGAY_SINH": "04/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.857810",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105098",
+      "HO_TEN": "Phạm Thái Bảo Nghi",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "105098",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

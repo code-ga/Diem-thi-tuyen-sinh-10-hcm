@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105885",
+      "Id": "105885",
+      "TinhId": 10,
+      "NGAY_SINH": "06/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.738851",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105885",
+      "HO_TEN": "Trần Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "105885",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

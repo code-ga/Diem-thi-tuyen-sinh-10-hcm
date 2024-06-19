@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106178",
+      "Id": "106178",
+      "TinhId": 10,
+      "NGAY_SINH": "09/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.796063",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106178",
+      "HO_TEN": "Lê Nguyễn Bá Khôi",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 25,
+      "SOBAODANH": "106178",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

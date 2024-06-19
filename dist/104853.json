@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104853",
+      "Id": "104853",
+      "TinhId": 10,
+      "NGAY_SINH": "06/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.858927",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104853",
+      "HO_TEN": "Lê Trương Minh Khuê",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "104853",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

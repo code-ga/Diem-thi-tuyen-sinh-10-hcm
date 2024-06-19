@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106096",
+      "Id": "106096",
+      "TinhId": 10,
+      "NGAY_SINH": "11/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.864026",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106096",
+      "HO_TEN": "Nguyễn Trần Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "106096",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

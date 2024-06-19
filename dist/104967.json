@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104967",
+      "Id": "104967",
+      "TinhId": 10,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.732335",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104967",
+      "HO_TEN": "Trịnh Phi Long",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "104967",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

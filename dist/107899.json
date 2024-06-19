@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107899",
+      "Id": "107899",
+      "TinhId": 10,
+      "NGAY_SINH": "12/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.936817",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107899",
+      "HO_TEN": "Phạm Đỗ Huỳnh Khang",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "107899",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

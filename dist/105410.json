@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105410",
+      "Id": "105410",
+      "TinhId": 10,
+      "NGAY_SINH": "04/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.866409",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105410",
+      "HO_TEN": "Đặng Nguyễn Thanh Thiên",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "105410",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

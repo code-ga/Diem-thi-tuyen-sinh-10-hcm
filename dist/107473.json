@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107473",
+      "Id": "107473",
+      "TinhId": 10,
+      "NGAY_SINH": "07/25/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.933044",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107473",
+      "HO_TEN": "Nguyễn Phạm Minh Tâm",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 5,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "107473",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

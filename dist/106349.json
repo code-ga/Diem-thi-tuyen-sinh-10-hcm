@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106349",
+      "Id": "106349",
+      "TinhId": 10,
+      "NGAY_SINH": "03/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.739428",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106349",
+      "HO_TEN": "Trương Kim Ngọc Mỹ",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "106349",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

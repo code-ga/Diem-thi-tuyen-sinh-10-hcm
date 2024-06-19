@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107925",
+      "Id": "107925",
+      "TinhId": 10,
+      "NGAY_SINH": "10/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.936750",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107925",
+      "HO_TEN": "Trần Minh Khoa",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "107925",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

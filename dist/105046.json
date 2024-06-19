@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105046",
+      "Id": "105046",
+      "TinhId": 10,
+      "NGAY_SINH": "02/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.800874",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105046",
+      "HO_TEN": "Trần Hoài Nam",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "105046",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

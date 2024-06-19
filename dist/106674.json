@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106674",
+      "Id": "106674",
+      "TinhId": 10,
+      "NGAY_SINH": "06/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.863596",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106674",
+      "HO_TEN": "Phan Nguyễn Chí Thành",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "106674",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

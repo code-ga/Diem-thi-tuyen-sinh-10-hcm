@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107240",
+      "Id": "107240",
+      "TinhId": 10,
+      "NGAY_SINH": "05/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.940904",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107240",
+      "HO_TEN": "Nguyễn Phương Linh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "107240",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

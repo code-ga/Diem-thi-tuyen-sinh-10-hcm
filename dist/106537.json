@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106537",
+      "Id": "106537",
+      "TinhId": 10,
+      "NGAY_SINH": "10/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.738327",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106537",
+      "HO_TEN": "Hoàng Thiên Phúc",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "106537",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

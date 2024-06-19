@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105369",
+      "Id": "105369",
+      "TinhId": 10,
+      "NGAY_SINH": "10/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.665490",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105369",
+      "HO_TEN": "Nguyễn Viết Tâm",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "105369",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

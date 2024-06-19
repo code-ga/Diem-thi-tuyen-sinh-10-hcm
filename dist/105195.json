@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105195",
+      "Id": "105195",
+      "TinhId": 10,
+      "NGAY_SINH": "07/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.856949",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105195",
+      "HO_TEN": "Trương Tuệ Nhi",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "105195",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

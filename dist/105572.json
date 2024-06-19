@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105572",
+      "Id": "105572",
+      "TinhId": 10,
+      "NGAY_SINH": "09/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.733149",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105572",
+      "HO_TEN": "Lương Gia Tuệ",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "105572",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

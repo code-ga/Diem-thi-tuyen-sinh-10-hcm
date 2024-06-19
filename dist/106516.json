@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106516",
+      "Id": "106516",
+      "TinhId": 10,
+      "NGAY_SINH": "11/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.864102",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106516",
+      "HO_TEN": "Võ Tấn Phát",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.75,
+      "SOBAODANH": "106516",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

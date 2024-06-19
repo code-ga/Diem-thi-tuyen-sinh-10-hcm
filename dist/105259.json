@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105259",
+      "Id": "105259",
+      "TinhId": 10,
+      "NGAY_SINH": "12/22/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.864310",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105259",
+      "HO_TEN": "Nguyễn Hồng Nhất Phúc",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "105259",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

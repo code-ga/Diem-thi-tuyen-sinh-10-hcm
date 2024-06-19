@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105471",
+      "Id": "105471",
+      "TinhId": 10,
+      "NGAY_SINH": "04/10/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.732729",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105471",
+      "HO_TEN": "Nguyễn Ngọc Thuận",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "105471",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

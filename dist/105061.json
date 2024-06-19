@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105061",
+      "Id": "105061",
+      "TinhId": 10,
+      "NGAY_SINH": "01/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.733242",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105061",
+      "HO_TEN": "Nguyễn Lê Thiên Ngân",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.25,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "105061",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

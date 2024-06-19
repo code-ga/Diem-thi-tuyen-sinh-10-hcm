@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105647",
+      "Id": "105647",
+      "TinhId": 10,
+      "NGAY_SINH": "12/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.860765",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105647",
+      "HO_TEN": "Nguyễn Phương Vy",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "105647",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

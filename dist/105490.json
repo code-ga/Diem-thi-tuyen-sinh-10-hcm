@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105490",
+      "Id": "105490",
+      "TinhId": 10,
+      "NGAY_SINH": "09/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.664859",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105490",
+      "HO_TEN": "Trịnh Nguyễn Anh Thy",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "105490",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

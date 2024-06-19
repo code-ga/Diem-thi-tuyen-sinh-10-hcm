@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104803",
+      "Id": "104803",
+      "TinhId": 10,
+      "NGAY_SINH": "09/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.798285",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104803",
+      "HO_TEN": "Lý Long Khoa",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "104803",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

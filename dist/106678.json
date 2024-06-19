@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106678",
+      "Id": "106678",
+      "TinhId": 10,
+      "NGAY_SINH": "05/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.794201",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106678",
+      "HO_TEN": "Lê Ngọc Hương Thảo",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "106678",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107398",
+      "Id": "107398",
+      "TinhId": 10,
+      "NGAY_SINH": "11/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.995442",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107398",
+      "HO_TEN": "Nguyễn Tấn Phát",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "107398",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

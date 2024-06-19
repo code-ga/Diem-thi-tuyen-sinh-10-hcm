@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105796",
+      "Id": "105796",
+      "TinhId": 10,
+      "NGAY_SINH": "05/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.738137",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105796",
+      "HO_TEN": "Lê Kim Bảo Anh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "105796",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

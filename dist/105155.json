@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105155",
+      "Id": "105155",
+      "TinhId": 10,
+      "NGAY_SINH": "03/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.865600",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105155",
+      "HO_TEN": "Phan Gia Bảo Nguyên",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "105155",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

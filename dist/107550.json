@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107550",
+      "Id": "107550",
+      "TinhId": 10,
+      "NGAY_SINH": "03/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.991035",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107550",
+      "HO_TEN": "Phạm Nguyễn Ngọc Trâm",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "107550",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106698",
+      "Id": "106698",
+      "TinhId": 10,
+      "NGAY_SINH": "01/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.739787",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106698",
+      "HO_TEN": "Vũ Lê Đức Thiện",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "106698",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

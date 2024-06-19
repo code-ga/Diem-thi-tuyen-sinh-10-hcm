@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106492",
+      "Id": "106492",
+      "TinhId": 10,
+      "NGAY_SINH": "06/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.740086",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106492",
+      "HO_TEN": "Lưu Nguyên Như",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "106492",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105211",
+      "Id": "105211",
+      "TinhId": 10,
+      "NGAY_SINH": "09/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.798217",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105211",
+      "HO_TEN": "Phan Ngọc Tâm Như",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "105211",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

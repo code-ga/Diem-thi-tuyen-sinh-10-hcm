@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105337",
+      "Id": "105337",
+      "TinhId": 10,
+      "NGAY_SINH": "06/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.865943",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105337",
+      "HO_TEN": "Hồ Đỗ Quyên",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "105337",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

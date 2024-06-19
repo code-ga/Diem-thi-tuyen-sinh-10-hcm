@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107425",
+      "Id": "107425",
+      "TinhId": 10,
+      "NGAY_SINH": "11/05/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.932753",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107425",
+      "HO_TEN": "Trần Công Phước",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 3.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "107425",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

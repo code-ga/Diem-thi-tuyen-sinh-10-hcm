@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106741",
+      "Id": "106741",
+      "TinhId": 10,
+      "NGAY_SINH": "07/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.737873",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106741",
+      "HO_TEN": "Nguyễn Bảo Uyên Thy",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "106741",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

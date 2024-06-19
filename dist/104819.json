@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104819",
+      "Id": "104819",
+      "TinhId": 10,
+      "NGAY_SINH": "03/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.665788",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104819",
+      "HO_TEN": "Châu Minh Khôi",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 8,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "104819",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

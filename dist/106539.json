@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106539",
+      "Id": "106539",
+      "TinhId": 10,
+      "NGAY_SINH": "01/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.742965",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106539",
+      "HO_TEN": "Lê Lâm Gia Phúc",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "106539",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

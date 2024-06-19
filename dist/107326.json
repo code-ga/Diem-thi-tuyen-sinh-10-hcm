@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107326",
+      "Id": "107326",
+      "TinhId": 10,
+      "NGAY_SINH": "10/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.995571",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107326",
+      "HO_TEN": "Phan Thành Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 3,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "107326",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

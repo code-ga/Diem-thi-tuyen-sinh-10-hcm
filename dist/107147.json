@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107147",
+      "Id": "107147",
+      "TinhId": 10,
+      "NGAY_SINH": "04/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.995795",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107147",
+      "HO_TEN": "Lê Minh Huy",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "107147",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104943",
+      "Id": "104943",
+      "TinhId": 10,
+      "NGAY_SINH": "05/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.665189",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104943",
+      "HO_TEN": "Trần Anh Tấn Lộc",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "104943",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

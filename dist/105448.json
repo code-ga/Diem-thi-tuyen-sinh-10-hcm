@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105448",
+      "Id": "105448",
+      "TinhId": 10,
+      "NGAY_SINH": "09/11/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.732773",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105448",
+      "HO_TEN": "Lê Minh Thư",
+      "TINH": "HCM",
+      "TOAN": 1,
+      "VAN": 3.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "105448",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

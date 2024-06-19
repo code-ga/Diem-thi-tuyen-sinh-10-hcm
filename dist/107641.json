@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107641",
+      "Id": "107641",
+      "TinhId": 10,
+      "NGAY_SINH": "12/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.994469",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107641",
+      "HO_TEN": "Nguyễn Trần Thanh Vy",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "107641",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

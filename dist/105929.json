@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105929",
+      "Id": "105929",
+      "TinhId": 10,
+      "NGAY_SINH": "05/07/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.737747",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105929",
+      "HO_TEN": "Phan Thị Cẩm Đào",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "105929",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

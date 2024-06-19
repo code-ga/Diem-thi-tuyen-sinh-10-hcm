@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107784",
+      "Id": "107784",
+      "TinhId": 10,
+      "NGAY_SINH": "10/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.993458",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107784",
+      "HO_TEN": "Lê Trần Ánh Dương",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "107784",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

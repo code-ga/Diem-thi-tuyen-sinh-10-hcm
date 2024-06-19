@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104820",
+      "Id": "104820",
+      "TinhId": 10,
+      "NGAY_SINH": "02/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.859263",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104820",
+      "HO_TEN": "Đặng Trần Khôi",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "104820",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

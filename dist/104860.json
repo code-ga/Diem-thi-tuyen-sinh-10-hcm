@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104860",
+      "Id": "104860",
+      "TinhId": 10,
+      "NGAY_SINH": "07/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.665122",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104860",
+      "HO_TEN": "Lý Đặng Anh Kiệt",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "104860",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

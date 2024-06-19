@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107142",
+      "Id": "107142",
+      "TinhId": 10,
+      "NGAY_SINH": "02/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.995148",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107142",
+      "HO_TEN": "Hồ Huỳnh Hương",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "107142",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

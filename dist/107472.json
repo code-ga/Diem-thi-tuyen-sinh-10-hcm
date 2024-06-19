@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107472",
+      "Id": "107472",
+      "TinhId": 10,
+      "NGAY_SINH": "06/28/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.996403",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107472",
+      "HO_TEN": "LAI BẢO NGỌC MINH TÂM",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "107472",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

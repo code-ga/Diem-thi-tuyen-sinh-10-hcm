@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106246",
+      "Id": "106246",
+      "TinhId": 10,
+      "NGAY_SINH": "07/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.791898",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106246",
+      "HO_TEN": "Hồ Vũ Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "106246",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

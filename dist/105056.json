@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105056",
+      "Id": "105056",
+      "TinhId": 10,
+      "NGAY_SINH": "09/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.665912",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105056",
+      "HO_TEN": "Dương Nguyễn Kim Ngân",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "105056",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

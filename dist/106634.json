@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106634",
+      "Id": "106634",
+      "TinhId": 10,
+      "NGAY_SINH": "06/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.738640",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106634",
+      "HO_TEN": "Huỳnh Ngọc Sơn",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "106634",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107396",
+      "Id": "107396",
+      "TinhId": 10,
+      "NGAY_SINH": "08/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.993771",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107396",
+      "HO_TEN": "Lê Võ Hoàng Phát",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "107396",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

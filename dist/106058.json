@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106058",
+      "Id": "106058",
+      "TinhId": 10,
+      "NGAY_SINH": "07/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.793659",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106058",
+      "HO_TEN": "Phạm Dũng Hoàng",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 3.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "106058",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104823",
+      "Id": "104823",
+      "TinhId": 10,
+      "NGAY_SINH": "12/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.803473",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104823",
+      "HO_TEN": "Đỗ Nguyên Anh Khôi",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "104823",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

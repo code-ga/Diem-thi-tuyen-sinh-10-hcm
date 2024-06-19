@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105625",
+      "Id": "105625",
+      "TinhId": 10,
+      "NGAY_SINH": "07/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.864718",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105625",
+      "HO_TEN": "Phạm Thanh Vượng",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "105625",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

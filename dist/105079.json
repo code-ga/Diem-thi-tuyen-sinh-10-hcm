@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105079",
+      "Id": "105079",
+      "TinhId": 10,
+      "NGAY_SINH": "07/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.798195",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105079",
+      "HO_TEN": "Hoàng Phương Nghi",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "105079",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

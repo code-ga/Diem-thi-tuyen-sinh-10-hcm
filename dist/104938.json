@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104938",
+      "Id": "104938",
+      "TinhId": 10,
+      "NGAY_SINH": "11/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.731700",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104938",
+      "HO_TEN": "Hồ Quý Lộc",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "104938",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

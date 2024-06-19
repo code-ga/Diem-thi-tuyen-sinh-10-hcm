@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104749",
+      "Id": "104749",
+      "TinhId": 10,
+      "NGAY_SINH": "04/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.734402",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104749",
+      "HO_TEN": "Nguyễn Trần Phúc Khang",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "104749",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

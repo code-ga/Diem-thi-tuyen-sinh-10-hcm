@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107454",
+      "Id": "107454",
+      "TinhId": 10,
+      "NGAY_SINH": "05/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.941360",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107454",
+      "HO_TEN": "Dương Nguyễn Ngân Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "107454",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

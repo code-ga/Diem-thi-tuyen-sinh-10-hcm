@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106837",
+      "Id": "106837",
+      "TinhId": 10,
+      "NGAY_SINH": "10/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.796625",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106837",
+      "HO_TEN": "Nguyễn Hải Cát Tường",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "106837",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

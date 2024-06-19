@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106755",
+      "Id": "106755",
+      "TinhId": 10,
+      "NGAY_SINH": "03/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.738572",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106755",
+      "HO_TEN": "Phan Bùi Thủy Tiên",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 8,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 25,
+      "SOBAODANH": "106755",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

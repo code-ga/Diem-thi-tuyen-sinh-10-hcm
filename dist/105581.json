@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105581",
+      "Id": "105581",
+      "TinhId": 10,
+      "NGAY_SINH": "09/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.736316",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105581",
+      "HO_TEN": "Chung Huỳnh Tỷ",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 5.25,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "105581",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

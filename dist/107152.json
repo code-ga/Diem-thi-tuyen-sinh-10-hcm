@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "107152",
+      "Id": "107152",
+      "TinhId": 10,
+      "NGAY_SINH": "11/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.991828",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "107152",
+      "HO_TEN": "Phan Đức Huy",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "107152",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

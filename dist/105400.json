@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105400",
+      "Id": "105400",
+      "TinhId": 10,
+      "NGAY_SINH": "10/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.866420",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105400",
+      "HO_TEN": "Nguyễn Ngọc Thanh Thảo",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "105400",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

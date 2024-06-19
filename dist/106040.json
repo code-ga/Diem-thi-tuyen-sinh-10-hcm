@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "106040",
+      "Id": "106040",
+      "TinhId": 10,
+      "NGAY_SINH": "01/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.797028",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "106040",
+      "HO_TEN": "Nguyễn Hiếu",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "106040",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

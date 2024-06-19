@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "105892",
+      "Id": "105892",
+      "TinhId": 10,
+      "NGAY_SINH": "11/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.791189",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "105892",
+      "HO_TEN": "Phạm Nguyễn Quế Châm",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "105892",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}
