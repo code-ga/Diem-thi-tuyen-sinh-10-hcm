@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109226",
+      "Id": "109226",
+      "TinhId": 10,
+      "NGAY_SINH": "02/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.188006",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109226",
+      "HO_TEN": "Trần Đình Nguyên",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "109226",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

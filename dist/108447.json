@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108447",
+      "Id": "108447",
+      "TinhId": 10,
+      "NGAY_SINH": "10/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.930790",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108447",
+      "HO_TEN": "Đào Lê Như Ý",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "108447",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

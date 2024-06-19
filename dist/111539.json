@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111539",
+      "Id": "111539",
+      "TinhId": 11,
+      "NGAY_SINH": "05/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.311179",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111539",
+      "HO_TEN": "Lê Khiết Linh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "111539",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

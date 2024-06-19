@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118691",
+      "Id": "118691",
+      "TinhId": 11,
+      "NGAY_SINH": "01/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.868454",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118691",
+      "HO_TEN": "Nguyễn Ngọc Quỳnh Thy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "118691",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

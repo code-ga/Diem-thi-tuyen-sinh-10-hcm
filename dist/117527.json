@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117527",
+      "Id": "117527",
+      "TinhId": 11,
+      "NGAY_SINH": "11/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.731900",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117527",
+      "HO_TEN": "Giang Diệp Khánh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "117527",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

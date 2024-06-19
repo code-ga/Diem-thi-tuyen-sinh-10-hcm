@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115142",
+      "Id": "115142",
+      "TinhId": 11,
+      "NGAY_SINH": "07/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.666899",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115142",
+      "HO_TEN": "Phạm Trần Đức Minh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "115142",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

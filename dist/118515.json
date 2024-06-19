@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118515",
+      "Id": "118515",
+      "TinhId": 11,
+      "NGAY_SINH": "04/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.798030",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118515",
+      "HO_TEN": "MAI DƯƠNG GIA NGHĨA",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "118515",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

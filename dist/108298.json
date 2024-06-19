@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108298",
+      "Id": "108298",
+      "TinhId": 10,
+      "NGAY_SINH": "10/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.938632",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108298",
+      "HO_TEN": "Nguyễn Huỳnh Khánh Tiên",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "108298",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

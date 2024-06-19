@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111576",
+      "Id": "111576",
+      "TinhId": 11,
+      "NGAY_SINH": "02/26/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.316305",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111576",
+      "HO_TEN": "Trịnh Khánh Long",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "111576",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

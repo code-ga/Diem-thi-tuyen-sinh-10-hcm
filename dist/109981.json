@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109981",
+      "Id": "109981",
+      "TinhId": 10,
+      "NGAY_SINH": "06/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.191463",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109981",
+      "HO_TEN": "Cao Kỳ Duyên",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "109981",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111781",
+      "Id": "111781",
+      "TinhId": 11,
+      "NGAY_SINH": "08/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.315395",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111781",
+      "HO_TEN": "Huỳnh Tấn Phát",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "111781",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

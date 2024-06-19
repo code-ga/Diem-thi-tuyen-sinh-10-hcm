@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109776",
+      "Id": "109776",
+      "TinhId": 10,
+      "NGAY_SINH": "12/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.058622",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109776",
+      "HO_TEN": "Nguyễn Lâm Như Ý",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "109776",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

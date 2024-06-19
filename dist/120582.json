@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120582",
+      "Id": "120582",
+      "TinhId": 12,
+      "NGAY_SINH": "07/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.862677",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120582",
+      "HO_TEN": "Thành Hoàng Phi Tuyết",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "120582",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114428",
+      "Id": "114428",
+      "TinhId": 11,
+      "NGAY_SINH": "03/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.476185",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114428",
+      "HO_TEN": "Bùi Minh Thiên Phúc",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "114428",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

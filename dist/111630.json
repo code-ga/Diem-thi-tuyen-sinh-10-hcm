@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111630",
+      "Id": "111630",
+      "TinhId": 11,
+      "NGAY_SINH": "09/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.255246",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111630",
+      "HO_TEN": "Nguyễn Thị Kim Ngân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "111630",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

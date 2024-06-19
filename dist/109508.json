@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109508",
+      "Id": "109508",
+      "TinhId": 10,
+      "NGAY_SINH": "04/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.061329",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109508",
+      "HO_TEN": "Ngô Tuệ Thi",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "109508",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

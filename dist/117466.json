@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117466",
+      "Id": "117466",
+      "TinhId": 11,
+      "NGAY_SINH": "12/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.730728",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117466",
+      "HO_TEN": "Võ Khánh Hưng",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "117466",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

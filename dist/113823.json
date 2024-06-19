@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113823",
+      "Id": "113823",
+      "TinhId": 11,
+      "NGAY_SINH": "12/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.256165",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113823",
+      "HO_TEN": "Phạm Gia Tường",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "113823",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

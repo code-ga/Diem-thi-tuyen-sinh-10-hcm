@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115859",
+      "Id": "115859",
+      "TinhId": 11,
+      "NGAY_SINH": "08/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.539940",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115859",
+      "HO_TEN": "Võ Gia Khánh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "115859",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113764",
+      "Id": "113764",
+      "TinhId": 11,
+      "NGAY_SINH": "02/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.395074",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113764",
+      "HO_TEN": "La Ngọc Phương Trinh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "113764",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

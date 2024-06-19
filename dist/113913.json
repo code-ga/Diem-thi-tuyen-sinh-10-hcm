@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113913",
+      "Id": "113913",
+      "TinhId": 11,
+      "NGAY_SINH": "09/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.317788",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113913",
+      "HO_TEN": "Nguyễn Thanh Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 1.25,
+      "VAN": 3.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8,
+      "SOBAODANH": "113913",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120516",
+      "Id": "120516",
+      "TinhId": 12,
+      "NGAY_SINH": "06/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.799520",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120516",
+      "HO_TEN": "Đỗ Phụng Tiên",
+      "TINH": "HCM",
+      "TOAN": 0.75,
+      "VAN": 5,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "120516",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

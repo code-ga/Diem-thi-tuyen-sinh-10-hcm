@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111156",
+      "Id": "111156",
+      "TinhId": 11,
+      "NGAY_SINH": "07/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.254261",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111156",
+      "HO_TEN": "Trần Lâm Bách",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "111156",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

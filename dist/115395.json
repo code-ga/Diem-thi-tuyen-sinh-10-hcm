@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115395",
+      "Id": "115395",
+      "TinhId": 11,
+      "NGAY_SINH": "07/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.471176",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115395",
+      "HO_TEN": "Lý Kim Thịnh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "115395",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

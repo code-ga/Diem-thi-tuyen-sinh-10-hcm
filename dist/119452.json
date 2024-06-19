@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119452",
+      "Id": "119452",
+      "TinhId": 11,
+      "NGAY_SINH": "10/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.737886",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119452",
+      "HO_TEN": "Võ Hoàng Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "119452",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

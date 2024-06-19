@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109912",
+      "Id": "109912",
+      "TinhId": 10,
+      "NGAY_SINH": "04/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.119634",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109912",
+      "HO_TEN": "Trần Vĩ Dân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "109912",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

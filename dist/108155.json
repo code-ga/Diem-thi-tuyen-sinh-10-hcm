@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108155",
+      "Id": "108155",
+      "TinhId": 10,
+      "NGAY_SINH": "03/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.938236",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108155",
+      "HO_TEN": "Phạm Trang Ngọc Phúc",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 7,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "108155",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

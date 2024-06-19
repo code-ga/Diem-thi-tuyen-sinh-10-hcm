@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110708",
+      "Id": "110708",
+      "TinhId": 11,
+      "NGAY_SINH": "04/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.123264",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110708",
+      "HO_TEN": "Dương Thị Tố Quyên",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "110708",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

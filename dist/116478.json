@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116478",
+      "Id": "116478",
+      "TinhId": 11,
+      "NGAY_SINH": "02/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.602418",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116478",
+      "HO_TEN": "Trịnh Đoàn Minh Anh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 1.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "116478",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

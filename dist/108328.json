@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108328",
+      "Id": "108328",
+      "TinhId": 10,
+      "NGAY_SINH": "10/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.935732",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108328",
+      "HO_TEN": "Lê Trần Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "108328",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

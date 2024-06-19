@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117043",
+      "Id": "117043",
+      "TinhId": 11,
+      "NGAY_SINH": "02/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.596456",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117043",
+      "HO_TEN": "Võ Ngọc Phương Thảo",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "117043",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

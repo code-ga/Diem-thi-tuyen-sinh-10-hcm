@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114858",
+      "Id": "114858",
+      "TinhId": 11,
+      "NGAY_SINH": "08/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.666493",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114858",
+      "HO_TEN": "Phan Việt Cường",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "114858",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112901",
+      "Id": "112901",
+      "TinhId": 11,
+      "NGAY_SINH": "10/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.259847",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112901",
+      "HO_TEN": "Phạm Thủy Linh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "112901",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

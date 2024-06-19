@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116636",
+      "Id": "116636",
+      "TinhId": 11,
+      "NGAY_SINH": "10/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.662600",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116636",
+      "HO_TEN": "Lê Huỳnh Ngọc Hiển",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "116636",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115570",
+      "Id": "115570",
+      "TinhId": 11,
+      "NGAY_SINH": "04/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.595703",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115570",
+      "HO_TEN": "Nguyễn Mai Anh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "115570",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

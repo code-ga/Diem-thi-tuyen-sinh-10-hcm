@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114599",
+      "Id": "114599",
+      "TinhId": 11,
+      "NGAY_SINH": "10/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.466938",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114599",
+      "HO_TEN": "Đoàn Ngọc Quỳnh Trâm",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "114599",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108044",
+      "Id": "108044",
+      "TinhId": 10,
+      "NGAY_SINH": "12/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.934427",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108044",
+      "HO_TEN": "Trần Đức Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "108044",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

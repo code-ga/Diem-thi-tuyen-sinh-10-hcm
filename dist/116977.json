@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116977",
+      "Id": "116977",
+      "TinhId": 11,
+      "NGAY_SINH": "08/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.603074",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116977",
+      "HO_TEN": "Bùi Hoàng Minh Quân",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "116977",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

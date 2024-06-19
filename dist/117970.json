@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117970",
+      "Id": "117970",
+      "TinhId": 11,
+      "NGAY_SINH": "02/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.730433",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117970",
+      "HO_TEN": "Huỳnh Thủy Tiên",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "117970",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

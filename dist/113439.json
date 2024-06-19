@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113439",
+      "Id": "113439",
+      "TinhId": 11,
+      "NGAY_SINH": "10/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.260462",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113439",
+      "HO_TEN": "Hà Kim Sa",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "113439",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

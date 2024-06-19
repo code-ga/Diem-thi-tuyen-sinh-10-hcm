@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109062",
+      "Id": "109062",
+      "TinhId": 10,
+      "NGAY_SINH": "02/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.062803",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109062",
+      "HO_TEN": "Nguyễn Lâm Bá Luân",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "109062",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

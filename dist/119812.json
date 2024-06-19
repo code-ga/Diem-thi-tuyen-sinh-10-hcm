@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119812",
+      "Id": "119812",
+      "TinhId": 11,
+      "NGAY_SINH": "03/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.739446",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119812",
+      "HO_TEN": "Hà Gia Thịnh",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 8,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "119812",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

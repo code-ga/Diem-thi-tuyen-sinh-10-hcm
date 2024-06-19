@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114308",
+      "Id": "114308",
+      "TinhId": 11,
+      "NGAY_SINH": "02/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.533662",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114308",
+      "HO_TEN": "Phí Hoàng Gia Minh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "114308",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

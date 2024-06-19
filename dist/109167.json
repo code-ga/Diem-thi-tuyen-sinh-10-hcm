@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109167",
+      "Id": "109167",
+      "TinhId": 10,
+      "NGAY_SINH": "07/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.188892",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109167",
+      "HO_TEN": "Trương Gia Nghi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "109167",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

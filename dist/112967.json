@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112967",
+      "Id": "112967",
+      "TinhId": 11,
+      "NGAY_SINH": "11/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.317517",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112967",
+      "HO_TEN": "Nhỉn Từ Mạch Miêu",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "112967",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

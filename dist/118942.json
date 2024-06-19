@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118942",
+      "Id": "118942",
+      "TinhId": 11,
+      "NGAY_SINH": "05/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.864480",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118942",
+      "HO_TEN": "Bùi Thụy Bích Hằng",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "118942",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

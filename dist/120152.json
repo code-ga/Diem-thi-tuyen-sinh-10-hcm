@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120152",
+      "Id": "120152",
+      "TinhId": 12,
+      "NGAY_SINH": "03/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.802324",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120152",
+      "HO_TEN": "Hoàng Đỗ Duy Khoa",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "120152",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

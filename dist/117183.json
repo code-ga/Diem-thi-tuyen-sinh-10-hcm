@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117183",
+      "Id": "117183",
+      "TinhId": 11,
+      "NGAY_SINH": "02/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.662197",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117183",
+      "HO_TEN": "Lê Ngọc Phương Uyên",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "117183",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

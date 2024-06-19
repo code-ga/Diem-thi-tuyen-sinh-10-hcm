@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115078",
+      "Id": "115078",
+      "TinhId": 11,
+      "NGAY_SINH": "04/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.470314",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115078",
+      "HO_TEN": "Lê Quỳnh Lam",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "115078",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

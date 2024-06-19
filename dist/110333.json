@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110333",
+      "Id": "110333",
+      "TinhId": 11,
+      "NGAY_SINH": "08/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.120143",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110333",
+      "HO_TEN": "Nguyễn Huỳnh Diệu Linh",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "110333",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

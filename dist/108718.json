@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108718",
+      "Id": "108718",
+      "TinhId": 10,
+      "NGAY_SINH": "11/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.056921",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108718",
+      "HO_TEN": "Lê Ngọc Hân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "108718",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

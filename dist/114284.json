@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114284",
+      "Id": "114284",
+      "TinhId": 11,
+      "NGAY_SINH": "11/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.467955",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114284",
+      "HO_TEN": "Trần Hiển Long",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "114284",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111610",
+      "Id": "111610",
+      "TinhId": 11,
+      "NGAY_SINH": "10/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.252440",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111610",
+      "HO_TEN": "Huỳnh Khải My",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "111610",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

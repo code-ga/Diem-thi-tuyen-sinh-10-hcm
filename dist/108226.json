@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108226",
+      "Id": "108226",
+      "TinhId": 10,
+      "NGAY_SINH": "01/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.992301",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108226",
+      "HO_TEN": "Huỳnh Chí Thành",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "108226",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

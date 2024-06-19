@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111604",
+      "Id": "111604",
+      "TinhId": 11,
+      "NGAY_SINH": "07/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.390870",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111604",
+      "HO_TEN": "Phan Đình Thành Minh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "111604",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

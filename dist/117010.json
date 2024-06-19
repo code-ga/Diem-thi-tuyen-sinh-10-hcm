@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117010",
+      "Id": "117010",
+      "TinhId": 11,
+      "NGAY_SINH": "11/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.597343",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117010",
+      "HO_TEN": "Lê Hồng Sơn",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "117010",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

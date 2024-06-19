@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115878",
+      "Id": "115878",
+      "TinhId": 11,
+      "NGAY_SINH": "04/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.594333",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115878",
+      "HO_TEN": "Nguyễn Lê Nguyên Khôi",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "115878",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

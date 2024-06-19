@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116848",
+      "Id": "116848",
+      "TinhId": 11,
+      "NGAY_SINH": "12/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.599390",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116848",
+      "HO_TEN": "Trần Kim Ngân",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "116848",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -20,7 +20,7 @@ const main = async () => {
         console.log(`Fetched success student ${i} - ${student.HO_TEN} - Total score: ${student.TONGDIEM} - ${student.NGAY_SINH}`)
         i += 1
         if (i > 200000) break
-        await sleep(2)
+        // await sleep(2)
     }
 }
 

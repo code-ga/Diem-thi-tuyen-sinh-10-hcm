@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117521",
+      "Id": "117521",
+      "TinhId": 11,
+      "NGAY_SINH": "08/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.735622",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117521",
+      "HO_TEN": "Phan Tuấn Khang",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "117521",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

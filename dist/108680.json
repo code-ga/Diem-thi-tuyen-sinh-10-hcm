@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108680",
+      "Id": "108680",
+      "TinhId": 10,
+      "NGAY_SINH": "06/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.185373",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108680",
+      "HO_TEN": "Nguyễn Khang Duy",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 4.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "108680",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

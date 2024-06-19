@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112678",
+      "Id": "112678",
+      "TinhId": 11,
+      "NGAY_SINH": "02/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.384170",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112678",
+      "HO_TEN": "Dương Đình Khánh Huy",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "112678",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

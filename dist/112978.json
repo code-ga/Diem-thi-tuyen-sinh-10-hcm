@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112978",
+      "Id": "112978",
+      "TinhId": 11,
+      "NGAY_SINH": "08/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.317038",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112978",
+      "HO_TEN": "Ngô Lê Bảo Minh",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 4.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "112978",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

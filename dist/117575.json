@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117575",
+      "Id": "117575",
+      "TinhId": 11,
+      "NGAY_SINH": "04/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.734135",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117575",
+      "HO_TEN": "Phạm Thúy Kỳ",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "117575",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

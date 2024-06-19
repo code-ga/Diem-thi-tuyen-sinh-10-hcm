@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120366",
+      "Id": "120366",
+      "TinhId": 12,
+      "NGAY_SINH": "09/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.860762",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120366",
+      "HO_TEN": "Trần Hoàng Phát",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "120366",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

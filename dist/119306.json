@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119306",
+      "Id": "119306",
+      "TinhId": 11,
+      "NGAY_SINH": "07/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.858964",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119306",
+      "HO_TEN": "Nguyễn Đàm Hồng Trang",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 4.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "119306",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

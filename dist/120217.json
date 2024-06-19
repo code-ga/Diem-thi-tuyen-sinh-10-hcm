@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120217",
+      "Id": "120217",
+      "TinhId": 12,
+      "NGAY_SINH": "10/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.802597",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120217",
+      "HO_TEN": "Phan Quốc Long",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "120217",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

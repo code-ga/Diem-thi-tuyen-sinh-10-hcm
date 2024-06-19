@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112338",
+      "Id": "112338",
+      "TinhId": 11,
+      "NGAY_SINH": "07/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.322563",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112338",
+      "HO_TEN": "Trương Hoàng Quốc Bảo",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "112338",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

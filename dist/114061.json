@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114061",
+      "Id": "114061",
+      "TinhId": 11,
+      "NGAY_SINH": "06/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.667693",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114061",
+      "HO_TEN": "Trần Hải Chi",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "114061",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

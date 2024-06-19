@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120431",
+      "Id": "120431",
+      "TinhId": 12,
+      "NGAY_SINH": "04/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.860939",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120431",
+      "HO_TEN": "Lê Thanh Sơn",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "120431",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

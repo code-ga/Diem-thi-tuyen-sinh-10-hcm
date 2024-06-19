@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112600",
+      "Id": "112600",
+      "TinhId": 11,
+      "NGAY_SINH": "08/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.322204",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112600",
+      "HO_TEN": "Đỗ Trung Hiếu",
+      "TINH": "HCM",
+      "TOAN": 0.25,
+      "VAN": 2,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 4,
+      "SOBAODANH": "112600",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

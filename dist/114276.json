@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114276",
+      "Id": "114276",
+      "TinhId": 11,
+      "NGAY_SINH": "08/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.534124",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114276",
+      "HO_TEN": "Trương Hồng Cát Lợi",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "114276",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

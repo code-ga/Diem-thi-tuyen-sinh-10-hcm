@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119365",
+      "Id": "119365",
+      "TinhId": 11,
+      "NGAY_SINH": "05/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.866174",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119365",
+      "HO_TEN": "Phương Dư Thế Vinh",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "119365",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

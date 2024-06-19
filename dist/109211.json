@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109211",
+      "Id": "109211",
+      "TinhId": 10,
+      "NGAY_SINH": "08/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.996479",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109211",
+      "HO_TEN": "Đỗ Đông Nguyên",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "109211",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

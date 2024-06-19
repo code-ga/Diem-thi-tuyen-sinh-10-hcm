@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120502",
+      "Id": "120502",
+      "TinhId": 12,
+      "NGAY_SINH": "08/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.799215",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120502",
+      "HO_TEN": "Phạm Đức Thuận",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "120502",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

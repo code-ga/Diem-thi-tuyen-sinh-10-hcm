@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111307",
+      "Id": "111307",
+      "TinhId": 11,
+      "NGAY_SINH": "02/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.389368",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111307",
+      "HO_TEN": "Bùi Thị Ngọc Giàu",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "111307",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

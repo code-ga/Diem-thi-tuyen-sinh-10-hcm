@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115192",
+      "Id": "115192",
+      "TinhId": 11,
+      "NGAY_SINH": "02/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.471832",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115192",
+      "HO_TEN": "Võ Trúc Minh Ngân",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "115192",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

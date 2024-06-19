@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111896",
+      "Id": "111896",
+      "TinhId": 11,
+      "NGAY_SINH": "06/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.195281",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111896",
+      "HO_TEN": "Trương Phối Sang",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "111896",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117790",
+      "Id": "117790",
+      "TinhId": 11,
+      "NGAY_SINH": "10/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.729775",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117790",
+      "HO_TEN": "Lê Bình Phú",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 4,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "117790",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

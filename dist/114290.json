@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114290",
+      "Id": "114290",
+      "TinhId": 11,
+      "NGAY_SINH": "01/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.535236",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114290",
+      "HO_TEN": "Nguyễn Quế Mai",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "114290",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112023",
+      "Id": "112023",
+      "TinhId": 11,
+      "NGAY_SINH": "08/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.316442",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112023",
+      "HO_TEN": "Nguyễn Ngọc Thủy Tiên",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "112023",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

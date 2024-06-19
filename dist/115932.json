@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115932",
+      "Id": "115932",
+      "TinhId": 11,
+      "NGAY_SINH": "11/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.595369",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115932",
+      "HO_TEN": "Lê Thế Long",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "115932",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

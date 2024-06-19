@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111041",
+      "Id": "111041",
+      "TinhId": 11,
+      "NGAY_SINH": "02/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.113826",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111041",
+      "HO_TEN": "Phạm Khang Vĩnh",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "111041",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

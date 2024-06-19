@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109627",
+      "Id": "109627",
+      "TinhId": 10,
+      "NGAY_SINH": "02/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.056078",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109627",
+      "HO_TEN": "Phạm Phương Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "109627",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

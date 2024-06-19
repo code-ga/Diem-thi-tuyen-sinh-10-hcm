@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116381",
+      "Id": "116381",
+      "TinhId": 11,
+      "NGAY_SINH": "03/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.540188",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116381",
+      "HO_TEN": "Trần Quang Vinh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "116381",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

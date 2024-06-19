@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116584",
+      "Id": "116584",
+      "TinhId": 11,
+      "NGAY_SINH": "02/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.598669",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116584",
+      "HO_TEN": "Đỗ Gia",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "116584",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117342",
+      "Id": "117342",
+      "TinhId": 11,
+      "NGAY_SINH": "11/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.729512",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117342",
+      "HO_TEN": "Trần Thanh Danh",
+      "TINH": "HCM",
+      "TOAN": 0.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 0.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 6.25,
+      "SOBAODANH": "117342",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 0.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114141",
+      "Id": "114141",
+      "TinhId": 11,
+      "NGAY_SINH": "02/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.534300",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114141",
+      "HO_TEN": "Trần Phước Hòa",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "114141",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

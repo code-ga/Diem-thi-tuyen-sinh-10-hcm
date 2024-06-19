@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119847",
+      "Id": "119847",
+      "TinhId": 11,
+      "NGAY_SINH": "04/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.737852",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119847",
+      "HO_TEN": "Vương Hoàng Quỳnh Trân",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "119847",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

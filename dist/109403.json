@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109403",
+      "Id": "109403",
+      "TinhId": 10,
+      "NGAY_SINH": "07/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.061619",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109403",
+      "HO_TEN": "Hoàng Nguyễn Quân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "109403",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

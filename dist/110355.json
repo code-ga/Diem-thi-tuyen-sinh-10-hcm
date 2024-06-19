@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110355",
+      "Id": "110355",
+      "TinhId": 11,
+      "NGAY_SINH": "10/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.119041",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110355",
+      "HO_TEN": "Âu Ân Lợi",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "110355",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

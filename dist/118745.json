@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118745",
+      "Id": "118745",
+      "TinhId": 11,
+      "NGAY_SINH": "12/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.798521",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118745",
+      "HO_TEN": "NGUYỄN NGỌC THANH TÚ",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5,
+      "NGOAI_NGU": 1.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.75,
+      "SOBAODANH": "118745",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

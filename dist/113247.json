@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113247",
+      "Id": "113247",
+      "TinhId": 11,
+      "NGAY_SINH": "07/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.386838",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113247",
+      "HO_TEN": "Huỳnh Hiệp Phát",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "113247",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

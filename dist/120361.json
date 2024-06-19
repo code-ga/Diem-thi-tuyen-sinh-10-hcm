@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120361",
+      "Id": "120361",
+      "TinhId": 12,
+      "NGAY_SINH": "01/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.800873",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120361",
+      "HO_TEN": "Đỗ Tiến Phát",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "120361",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

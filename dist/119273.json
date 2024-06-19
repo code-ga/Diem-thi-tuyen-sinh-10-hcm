@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119273",
+      "Id": "119273",
+      "TinhId": 11,
+      "NGAY_SINH": "04/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.866141",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119273",
+      "HO_TEN": "Châu Cẩm Thuận",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "119273",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

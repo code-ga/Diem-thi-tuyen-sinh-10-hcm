@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113785",
+      "Id": "113785",
+      "TinhId": 11,
+      "NGAY_SINH": "10/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.258799",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113785",
+      "HO_TEN": "Nguyễn Phạm Thành Trung",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "113785",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

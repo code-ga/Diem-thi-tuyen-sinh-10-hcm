@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117795",
+      "Id": "117795",
+      "TinhId": 11,
+      "NGAY_SINH": "03/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.925421",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117795",
+      "HO_TEN": "Đinh Trọng Phúc",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "117795",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

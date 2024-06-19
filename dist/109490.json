@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109490",
+      "Id": "109490",
+      "TinhId": 10,
+      "NGAY_SINH": "03/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.061386",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109490",
+      "HO_TEN": "Lý Khải Thành",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "109490",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

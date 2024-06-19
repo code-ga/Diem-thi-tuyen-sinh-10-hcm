@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119011",
+      "Id": "119011",
+      "TinhId": 11,
+      "NGAY_SINH": "12/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.858885",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119011",
+      "HO_TEN": "Lâm Gia Khánh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "119011",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

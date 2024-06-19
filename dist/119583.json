@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119583",
+      "Id": "119583",
+      "TinhId": 11,
+      "NGAY_SINH": "11/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.795239",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119583",
+      "HO_TEN": "Đỗ Kiến Khoa",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 4,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "119583",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

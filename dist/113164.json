@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113164",
+      "Id": "113164",
+      "TinhId": 11,
+      "NGAY_SINH": "12/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.259902",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113164",
+      "HO_TEN": "Danh Thúy Nhàn",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 3.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "113164",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

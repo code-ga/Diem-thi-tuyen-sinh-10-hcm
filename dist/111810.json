@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111810",
+      "Id": "111810",
+      "TinhId": 11,
+      "NGAY_SINH": "11/18/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.315778",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111810",
+      "HO_TEN": "Trần Văn Phú",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.5,
+      "SOBAODANH": "111810",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

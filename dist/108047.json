@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108047",
+      "Id": "108047",
+      "TinhId": 10,
+      "NGAY_SINH": "01/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.930869",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108047",
+      "HO_TEN": "Hồ Phạm Bảo Ngọc",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "108047",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

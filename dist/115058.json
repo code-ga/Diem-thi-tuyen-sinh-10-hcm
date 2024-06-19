@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115058",
+      "Id": "115058",
+      "TinhId": 11,
+      "NGAY_SINH": "02/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.664025",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115058",
+      "HO_TEN": "Phạm Lê Kiên",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "115058",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

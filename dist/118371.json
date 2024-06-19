@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118371",
+      "Id": "118371",
+      "TinhId": 11,
+      "NGAY_SINH": "01/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.798477",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118371",
+      "HO_TEN": "CHÂU MINH KHA",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "118371",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111384",
+      "Id": "111384",
+      "TinhId": 11,
+      "NGAY_SINH": "06/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.255169",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111384",
+      "HO_TEN": "Trịnh Kim Hồng",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "111384",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

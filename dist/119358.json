@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119358",
+      "Id": "119358",
+      "TinhId": 11,
+      "NGAY_SINH": "03/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.865172",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119358",
+      "HO_TEN": "Triệu Thùy Vân",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "119358",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

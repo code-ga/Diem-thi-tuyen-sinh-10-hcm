@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118707",
+      "Id": "118707",
+      "TinhId": 11,
+      "NGAY_SINH": "10/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.866634",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118707",
+      "HO_TEN": "Kiến Ngọc Thùy Trâm",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "118707",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

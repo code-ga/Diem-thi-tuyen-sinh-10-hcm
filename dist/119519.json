@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119519",
+      "Id": "119519",
+      "TinhId": 11,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.738157",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119519",
+      "HO_TEN": "Nguyễn Lâm Gia Hào",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "119519",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

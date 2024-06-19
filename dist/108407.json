@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108407",
+      "Id": "108407",
+      "TinhId": 10,
+      "NGAY_SINH": "07/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.992368",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108407",
+      "HO_TEN": "Đặng Bảo Vy",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.5,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "108407",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

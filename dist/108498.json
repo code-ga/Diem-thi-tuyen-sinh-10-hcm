@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108498",
+      "Id": "108498",
+      "TinhId": 10,
+      "NGAY_SINH": "10/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.001010",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108498",
+      "HO_TEN": "Lê Tú Anh",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.5,
+      "SOBAODANH": "108498",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

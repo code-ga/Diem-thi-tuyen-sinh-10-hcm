@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111697",
+      "Id": "111697",
+      "TinhId": 11,
+      "NGAY_SINH": "12/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.390421",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111697",
+      "HO_TEN": "Lê Lý Khiết Nguyên",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 2.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "111697",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

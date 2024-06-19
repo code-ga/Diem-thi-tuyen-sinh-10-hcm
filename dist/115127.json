@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115127",
+      "Id": "115127",
+      "TinhId": 11,
+      "NGAY_SINH": "02/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.665904",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115127",
+      "HO_TEN": "Đàm Quang Minh",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 7,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "115127",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

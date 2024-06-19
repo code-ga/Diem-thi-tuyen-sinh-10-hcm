@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110562",
+      "Id": "110562",
+      "TinhId": 11,
+      "NGAY_SINH": "03/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.191965",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110562",
+      "HO_TEN": "Diệp Khánh Như",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8.75,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "110562",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

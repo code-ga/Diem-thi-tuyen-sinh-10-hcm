@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112860",
+      "Id": "112860",
+      "TinhId": 11,
+      "NGAY_SINH": "08/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.316741",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112860",
+      "HO_TEN": "Hồng Tử Kỳ",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "112860",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

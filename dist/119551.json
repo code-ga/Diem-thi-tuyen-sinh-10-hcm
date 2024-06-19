@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119551",
+      "Id": "119551",
+      "TinhId": 11,
+      "NGAY_SINH": "05/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.796572",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119551",
+      "HO_TEN": "Huỳnh Trần Minh Huy",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "119551",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

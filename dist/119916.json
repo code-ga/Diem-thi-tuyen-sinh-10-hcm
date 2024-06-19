@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119916",
+      "Id": "119916",
+      "TinhId": 11,
+      "NGAY_SINH": "10/21/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.795115",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119916",
+      "HO_TEN": "Đặng Thu Yến",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 2.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 8,
+      "SOBAODANH": "119916",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

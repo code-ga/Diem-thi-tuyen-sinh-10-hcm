@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113342",
+      "Id": "113342",
+      "TinhId": 11,
+      "NGAY_SINH": "08/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.260507",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113342",
+      "HO_TEN": "La Tiểu Phụng",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "113342",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

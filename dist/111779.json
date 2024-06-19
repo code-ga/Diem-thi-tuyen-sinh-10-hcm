@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111779",
+      "Id": "111779",
+      "TinhId": 11,
+      "NGAY_SINH": "07/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.252991",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111779",
+      "HO_TEN": "Bùi Tấn Phát",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "111779",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

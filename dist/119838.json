@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119838",
+      "Id": "119838",
+      "TinhId": 11,
+      "NGAY_SINH": "05/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.796384",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119838",
+      "HO_TEN": "Lê Thị Trâm",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "119838",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

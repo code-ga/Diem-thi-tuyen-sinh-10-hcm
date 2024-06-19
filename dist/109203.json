@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109203",
+      "Id": "109203",
+      "TinhId": 10,
+      "NGAY_SINH": "01/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.055914",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109203",
+      "HO_TEN": "Phạm Lâm Hồng Ngọc",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "109203",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

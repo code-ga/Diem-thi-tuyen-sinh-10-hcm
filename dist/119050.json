@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119050",
+      "Id": "119050",
+      "TinhId": 11,
+      "NGAY_SINH": "10/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.858236",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119050",
+      "HO_TEN": "Nguyễn Thị Tường Lam",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "119050",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

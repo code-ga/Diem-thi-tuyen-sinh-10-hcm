@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116495",
+      "Id": "116495",
+      "TinhId": 11,
+      "NGAY_SINH": "12/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.603096",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116495",
+      "HO_TEN": "Nguyễn Quốc Bảo",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "116495",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

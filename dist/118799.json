@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118799",
+      "Id": "118799",
+      "TinhId": 11,
+      "NGAY_SINH": "11/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.797247",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118799",
+      "HO_TEN": "TRẦN TRƯƠNG PHƯƠNG VY",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 4.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "118799",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111761",
+      "Id": "111761",
+      "TinhId": 11,
+      "NGAY_SINH": "05/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.313342",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111761",
+      "HO_TEN": "Lê Võ Khánh Như",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "111761",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

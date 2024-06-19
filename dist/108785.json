@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108785",
+      "Id": "108785",
+      "TinhId": 10,
+      "NGAY_SINH": "10/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.000084",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108785",
+      "HO_TEN": "Huỳnh Song Hoàng",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "108785",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

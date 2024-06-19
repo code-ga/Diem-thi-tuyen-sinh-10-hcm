@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118763",
+      "Id": "118763",
+      "TinhId": 11,
+      "NGAY_SINH": "12/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.671555",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118763",
+      "HO_TEN": "Phạm Bích Vân",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "118763",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

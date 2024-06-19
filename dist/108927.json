@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108927",
+      "Id": "108927",
+      "TinhId": 10,
+      "NGAY_SINH": "02/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.188209",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108927",
+      "HO_TEN": "Phạm Nguyễn Anh Khoa",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "108927",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

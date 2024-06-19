@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113927",
+      "Id": "113927",
+      "TinhId": 11,
+      "NGAY_SINH": "09/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.257332",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113927",
+      "HO_TEN": "Huỳnh Chí Vỹ",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "113927",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

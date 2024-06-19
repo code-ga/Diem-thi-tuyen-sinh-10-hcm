@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110669",
+      "Id": "110669",
+      "TinhId": 11,
+      "NGAY_SINH": "12/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.118635",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110669",
+      "HO_TEN": "Vũ Tống Quỳnh Phước",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "110669",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

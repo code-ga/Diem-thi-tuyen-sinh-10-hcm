@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118727",
+      "Id": "118727",
+      "TinhId": 11,
+      "NGAY_SINH": "05/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.671265",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118727",
+      "HO_TEN": "Nguyễn Ngọc Mỹ Trinh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "118727",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

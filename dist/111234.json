@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111234",
+      "Id": "111234",
+      "TinhId": 11,
+      "NGAY_SINH": "05/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.314277",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111234",
+      "HO_TEN": "Dương Minh Đạt",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "111234",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

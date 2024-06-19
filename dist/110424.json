@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110424",
+      "Id": "110424",
+      "TinhId": 11,
+      "NGAY_SINH": "10/31/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.116188",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110424",
+      "HO_TEN": "Trương Han Na",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 3.75,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "110424",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

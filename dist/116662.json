@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116662",
+      "Id": "116662",
+      "TinhId": 11,
+      "NGAY_SINH": "11/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.599723",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116662",
+      "HO_TEN": "Lê Hoàng Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4.25,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "116662",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

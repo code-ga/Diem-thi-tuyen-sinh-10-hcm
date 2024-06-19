@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115115",
+      "Id": "115115",
+      "TinhId": 11,
+      "NGAY_SINH": "10/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.471085",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115115",
+      "HO_TEN": "Sơn Nhật Long",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "115115",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

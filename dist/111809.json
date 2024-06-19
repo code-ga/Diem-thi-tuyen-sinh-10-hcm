@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111809",
+      "Id": "111809",
+      "TinhId": 11,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.388491",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111809",
+      "HO_TEN": "Quách Vĩnh Phú",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "111809",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

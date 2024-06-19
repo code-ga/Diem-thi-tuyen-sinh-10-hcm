@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119110",
+      "Id": "119110",
+      "TinhId": 11,
+      "NGAY_SINH": "12/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.858784",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119110",
+      "HO_TEN": "Châu Yến Ngọc",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "119110",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

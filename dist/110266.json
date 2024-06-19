@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110266",
+      "Id": "110266",
+      "TinhId": 11,
+      "NGAY_SINH": "03/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.184699",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110266",
+      "HO_TEN": "Hoàng Tuấn Kiệt",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "110266",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

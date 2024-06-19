@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109338",
+      "Id": "109338",
+      "TinhId": 10,
+      "NGAY_SINH": "11/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.061892",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109338",
+      "HO_TEN": "Quan Chí Phát",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "109338",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116113",
+      "Id": "116113",
+      "TinhId": 11,
+      "NGAY_SINH": "03/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.541450",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116113",
+      "HO_TEN": "Lê Minh Thuận Phúc",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "116113",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

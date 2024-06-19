@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119905",
+      "Id": "119905",
+      "TinhId": 11,
+      "NGAY_SINH": "01/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.796439",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119905",
+      "HO_TEN": "Phạm Kim Nhật Vy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "119905",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

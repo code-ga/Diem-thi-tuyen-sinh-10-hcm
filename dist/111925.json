@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111925",
+      "Id": "111925",
+      "TinhId": 11,
+      "NGAY_SINH": "04/10/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.389175",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111925",
+      "HO_TEN": "Liên Tôn Thắng",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "111925",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

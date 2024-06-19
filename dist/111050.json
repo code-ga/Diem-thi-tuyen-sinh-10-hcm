@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111050",
+      "Id": "111050",
+      "TinhId": 11,
+      "NGAY_SINH": "09/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.118483",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111050",
+      "HO_TEN": "Đỗ Ngọc Thảo Vy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "111050",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

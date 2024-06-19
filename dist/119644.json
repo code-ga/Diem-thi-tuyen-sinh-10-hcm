@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119644",
+      "Id": "119644",
+      "TinhId": 11,
+      "NGAY_SINH": "09/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.796316",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119644",
+      "HO_TEN": "Lê Mai Hải My",
+      "TINH": "HCM",
+      "TOAN": 0.25,
+      "VAN": 3.25,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 6.75,
+      "SOBAODANH": "119644",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

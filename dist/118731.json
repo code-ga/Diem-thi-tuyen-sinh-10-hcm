@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118731",
+      "Id": "118731",
+      "TinhId": 11,
+      "NGAY_SINH": "05/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.670935",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118731",
+      "HO_TEN": "Hoàng Thanh Trúc",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "118731",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

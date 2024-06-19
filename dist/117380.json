@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117380",
+      "Id": "117380",
+      "TinhId": 11,
+      "NGAY_SINH": "06/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.731854",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117380",
+      "HO_TEN": "Nguyễn Minh Duy",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "117380",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

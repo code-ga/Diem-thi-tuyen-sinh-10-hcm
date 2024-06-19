@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118177",
+      "Id": "118177",
+      "TinhId": 11,
+      "NGAY_SINH": "10/11/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.670979",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118177",
+      "HO_TEN": "Mohamad Fitry Bin Aminudin",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 4,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "118177",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

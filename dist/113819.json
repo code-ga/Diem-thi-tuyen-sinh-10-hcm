@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113819",
+      "Id": "113819",
+      "TinhId": 11,
+      "NGAY_SINH": "02/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.260562",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113819",
+      "HO_TEN": "Vương Hồ Minh Tuấn",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "113819",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

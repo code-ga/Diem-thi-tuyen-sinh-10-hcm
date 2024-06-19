@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108851",
+      "Id": "108851",
+      "TinhId": 10,
+      "NGAY_SINH": "04/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.186864",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108851",
+      "HO_TEN": "Phạm Trường Kha",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "108851",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

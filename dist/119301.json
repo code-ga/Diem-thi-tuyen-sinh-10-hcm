@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119301",
+      "Id": "119301",
+      "TinhId": 11,
+      "NGAY_SINH": "08/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.863885",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119301",
+      "HO_TEN": "Nguyễn Ngọc Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 8,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "119301",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

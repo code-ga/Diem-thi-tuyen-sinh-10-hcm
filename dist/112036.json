@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112036",
+      "Id": "112036",
+      "TinhId": 11,
+      "NGAY_SINH": "08/23/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.262811",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112036",
+      "HO_TEN": "Nguyễn Minh Toàn",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 3.75,
+      "NGOAI_NGU": 1,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.5,
+      "SOBAODANH": "112036",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

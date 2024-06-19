@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115973",
+      "Id": "115973",
+      "TinhId": 11,
+      "NGAY_SINH": "01/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.541595",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115973",
+      "HO_TEN": "Nguyễn Thị Cẩm My",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "115973",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

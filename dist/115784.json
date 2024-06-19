@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115784",
+      "Id": "115784",
+      "TinhId": 11,
+      "NGAY_SINH": "02/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.539452",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115784",
+      "HO_TEN": "Lê Thanh Hoàng",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "115784",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

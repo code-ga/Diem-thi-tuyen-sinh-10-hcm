@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120044",
+      "Id": "120044",
+      "TinhId": 12,
+      "NGAY_SINH": "08/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.798833",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120044",
+      "HO_TEN": "Trần Bảo Giang",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "120044",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

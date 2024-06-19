@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113469",
+      "Id": "113469",
+      "TinhId": 11,
+      "NGAY_SINH": "10/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.317469",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113469",
+      "HO_TEN": "Đặng Mỹ Tâm",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "113469",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

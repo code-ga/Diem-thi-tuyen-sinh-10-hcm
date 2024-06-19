@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108497",
+      "Id": "108497",
+      "TinhId": 10,
+      "NGAY_SINH": "09/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.064708",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108497",
+      "HO_TEN": "Lê Nguyễn Trâm Anh",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "108497",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120282",
+      "Id": "120282",
+      "TinhId": 12,
+      "NGAY_SINH": "04/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.801308",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120282",
+      "HO_TEN": "Võ Hoàng Thanh Ngân",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "120282",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

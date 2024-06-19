@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112542",
+      "Id": "112542",
+      "TinhId": 11,
+      "NGAY_SINH": "09/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.259004",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112542",
+      "HO_TEN": "Lương Ngọc Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "112542",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

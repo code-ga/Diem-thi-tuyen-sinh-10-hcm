@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118249",
+      "Id": "118249",
+      "TinhId": 11,
+      "NGAY_SINH": "08/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.866679",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118249",
+      "HO_TEN": "Lê Võ Mai Chi",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 8.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.25,
+      "SOBAODANH": "118249",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

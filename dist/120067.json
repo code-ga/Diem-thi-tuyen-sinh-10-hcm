@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120067",
+      "Id": "120067",
+      "TinhId": 12,
+      "NGAY_SINH": "04/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.859701",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120067",
+      "HO_TEN": "Nguyễn Thị Thu Hằng",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "120067",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

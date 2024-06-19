@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119948",
+      "Id": "119948",
+      "TinhId": 11,
+      "NGAY_SINH": "03/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.860101",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119948",
+      "HO_TEN": "Phạm Ngọc Duy Anh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "119948",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

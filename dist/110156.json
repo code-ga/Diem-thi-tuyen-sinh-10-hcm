@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110156",
+      "Id": "110156",
+      "TinhId": 11,
+      "NGAY_SINH": "01/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.191631",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110156",
+      "HO_TEN": "Trịnh Nguyễn Đình Huy",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "110156",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

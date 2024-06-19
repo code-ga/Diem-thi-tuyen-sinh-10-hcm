@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112644",
+      "Id": "112644",
+      "TinhId": 11,
+      "NGAY_SINH": "04/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.321582",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112644",
+      "HO_TEN": "Trần Nguyễn Minh Hùng",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 5.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "112644",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

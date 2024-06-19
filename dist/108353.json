@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108353",
+      "Id": "108353",
+      "TinhId": 10,
+      "NGAY_SINH": "04/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.992543",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108353",
+      "HO_TEN": "Lưu Vinh Trung",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "108353",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

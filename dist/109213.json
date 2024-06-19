@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109213",
+      "Id": "109213",
+      "TinhId": 10,
+      "NGAY_SINH": "08/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.057775",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109213",
+      "HO_TEN": "Hồ Phúc Nguyên",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 4.75,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "109213",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

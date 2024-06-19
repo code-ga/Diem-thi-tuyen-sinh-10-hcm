@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119887",
+      "Id": "119887",
+      "TinhId": 11,
+      "NGAY_SINH": "02/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.795764",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119887",
+      "HO_TEN": "Lê Hoàng Vinh",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 3,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.5,
+      "SOBAODANH": "119887",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

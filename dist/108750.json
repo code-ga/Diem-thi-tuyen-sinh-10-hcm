@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108750",
+      "Id": "108750",
+      "TinhId": 10,
+      "NGAY_SINH": "05/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.063989",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108750",
+      "HO_TEN": "Mai Ý Hạnh",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "108750",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

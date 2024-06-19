@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111992",
+      "Id": "111992",
+      "TinhId": 11,
+      "NGAY_SINH": "02/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.315857",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111992",
+      "HO_TEN": "Phạm Minh Thư",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "111992",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114306",
+      "Id": "114306",
+      "TinhId": 11,
+      "NGAY_SINH": "06/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.467978",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114306",
+      "HO_TEN": "Nguyễn Tấn Minh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "114306",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

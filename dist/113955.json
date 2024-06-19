@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113955",
+      "Id": "113955",
+      "TinhId": 11,
+      "NGAY_SINH": "12/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.320369",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113955",
+      "HO_TEN": "Trịnh Hoàng Yến",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "113955",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

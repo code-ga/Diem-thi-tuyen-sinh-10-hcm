@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111371",
+      "Id": "111371",
+      "TinhId": 11,
+      "NGAY_SINH": "05/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.315417",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111371",
+      "HO_TEN": "Huỳnh Trung Hiếu",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "111371",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

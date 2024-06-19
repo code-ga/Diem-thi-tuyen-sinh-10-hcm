@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117461",
+      "Id": "117461",
+      "TinhId": 11,
+      "NGAY_SINH": "09/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.735209",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117461",
+      "HO_TEN": "Ngô Tấn Vĩnh Hưng",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "117461",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

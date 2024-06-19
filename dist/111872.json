@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111872",
+      "Id": "111872",
+      "TinhId": 11,
+      "NGAY_SINH": "08/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.253056",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111872",
+      "HO_TEN": "Nhan Trúc Quyên",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "111872",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112977",
+      "Id": "112977",
+      "TinhId": 11,
+      "NGAY_SINH": "03/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.317960",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112977",
+      "HO_TEN": "Mã Gia Minh",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 4.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "112977",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

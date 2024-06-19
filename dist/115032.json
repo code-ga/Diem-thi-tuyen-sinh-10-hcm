@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115032",
+      "Id": "115032",
+      "TinhId": 11,
+      "NGAY_SINH": "03/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.663994",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115032",
+      "HO_TEN": "Phạm Gia Khiêm",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "115032",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

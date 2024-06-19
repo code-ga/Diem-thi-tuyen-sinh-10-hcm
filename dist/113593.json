@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113593",
+      "Id": "113593",
+      "TinhId": 11,
+      "NGAY_SINH": "03/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.319475",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113593",
+      "HO_TEN": "Mai Châu Minh Thư",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "113593",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

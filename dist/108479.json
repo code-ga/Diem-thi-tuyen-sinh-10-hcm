@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108479",
+      "Id": "108479",
+      "TinhId": 10,
+      "NGAY_SINH": "09/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.064799",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108479",
+      "HO_TEN": "Phan Thiên Ân",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "108479",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110040",
+      "Id": "110040",
+      "TinhId": 11,
+      "NGAY_SINH": "04/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.121270",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110040",
+      "HO_TEN": "Hứa Gia Hào",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "110040",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

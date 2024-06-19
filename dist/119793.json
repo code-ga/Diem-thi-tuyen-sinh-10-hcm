@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119793",
+      "Id": "119793",
+      "TinhId": 11,
+      "NGAY_SINH": "02/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.795385",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119793",
+      "HO_TEN": "Dương Thanh Thảo",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "119793",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

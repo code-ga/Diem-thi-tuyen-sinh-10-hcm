@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109451",
+      "Id": "109451",
+      "TinhId": 10,
+      "NGAY_SINH": "05/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.188378",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109451",
+      "HO_TEN": "Võ Hoàng Sơn",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "109451",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

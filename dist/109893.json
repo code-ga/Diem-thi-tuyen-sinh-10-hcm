@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109893",
+      "Id": "109893",
+      "TinhId": 10,
+      "NGAY_SINH": "07/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.114202",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109893",
+      "HO_TEN": "Chuang Kim Chi",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "109893",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

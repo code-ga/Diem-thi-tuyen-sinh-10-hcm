@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108637",
+      "Id": "108637",
+      "TinhId": 10,
+      "NGAY_SINH": "04/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.188769",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108637",
+      "HO_TEN": "Phạm Tiến Đạt",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "108637",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

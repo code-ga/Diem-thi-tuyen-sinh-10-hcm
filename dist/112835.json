@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112835",
+      "Id": "112835",
+      "TinhId": 11,
+      "NGAY_SINH": "04/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.466314",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112835",
+      "HO_TEN": "Nguyễn Triết Khôi",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "112835",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110716",
+      "Id": "110716",
+      "TinhId": 11,
+      "NGAY_SINH": "02/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.114905",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110716",
+      "HO_TEN": "Đỗ Ngọc Phương Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "110716",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

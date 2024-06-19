@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108034",
+      "Id": "108034",
+      "TinhId": 10,
+      "NGAY_SINH": "10/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.930443",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108034",
+      "HO_TEN": "Vương Nguyễn Thanh Ngân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "108034",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

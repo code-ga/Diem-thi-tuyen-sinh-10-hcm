@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110043",
+      "Id": "110043",
+      "TinhId": 11,
+      "NGAY_SINH": "05/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.115607",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110043",
+      "HO_TEN": "Lý Gia Hào",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "110043",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

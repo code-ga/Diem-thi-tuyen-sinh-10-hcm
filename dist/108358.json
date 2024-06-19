@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108358",
+      "Id": "108358",
+      "TinhId": 10,
+      "NGAY_SINH": "04/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.938169",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108358",
+      "HO_TEN": "Huỳnh Ngọc Thanh Tú",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "108358",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

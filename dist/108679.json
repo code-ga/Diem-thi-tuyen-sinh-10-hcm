@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108679",
+      "Id": "108679",
+      "TinhId": 10,
+      "NGAY_SINH": "11/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.000425",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108679",
+      "HO_TEN": "Nguyễn Hoàng Dũng Duy",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "108679",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114706",
+      "Id": "114706",
+      "TinhId": 11,
+      "NGAY_SINH": "06/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.467522",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114706",
+      "HO_TEN": "Trần Nhất Thiên Vy",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "114706",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

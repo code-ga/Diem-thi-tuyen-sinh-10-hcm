@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110003",
+      "Id": "110003",
+      "TinhId": 11,
+      "NGAY_SINH": "05/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.115596",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110003",
+      "HO_TEN": "Đoàn Giang Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "110003",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

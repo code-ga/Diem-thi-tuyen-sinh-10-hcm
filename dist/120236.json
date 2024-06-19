@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120236",
+      "Id": "120236",
+      "TinhId": 12,
+      "NGAY_SINH": "05/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.803338",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120236",
+      "HO_TEN": "Lê Nhật Minh",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "120236",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

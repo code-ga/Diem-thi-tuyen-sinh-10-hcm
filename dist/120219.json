@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120219",
+      "Id": "120219",
+      "TinhId": 12,
+      "NGAY_SINH": "04/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.800017",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120219",
+      "HO_TEN": "Quách Nam Long",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "120219",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

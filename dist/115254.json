@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115254",
+      "Id": "115254",
+      "TinhId": 11,
+      "NGAY_SINH": "06/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.667943",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115254",
+      "HO_TEN": "Nguyễn Hạo Nhiên",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "115254",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

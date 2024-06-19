@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109072",
+      "Id": "109072",
+      "TinhId": 10,
+      "NGAY_SINH": "09/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.187571",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109072",
+      "HO_TEN": "Hà Gia Mẫn",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 7,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "109072",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

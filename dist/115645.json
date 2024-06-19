@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115645",
+      "Id": "115645",
+      "TinhId": 11,
+      "NGAY_SINH": "07/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.541708",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115645",
+      "HO_TEN": "Lý Thụy Phương Chi",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "115645",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

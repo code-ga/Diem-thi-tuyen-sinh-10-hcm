@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115193",
+      "Id": "115193",
+      "TinhId": 11,
+      "NGAY_SINH": "09/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.473128",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115193",
+      "HO_TEN": "Dương Gia Nghi",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "115193",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

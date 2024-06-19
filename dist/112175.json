@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112175",
+      "Id": "112175",
+      "TinhId": 11,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.316181",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112175",
+      "HO_TEN": "Tiêu Ngọc Ý",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "112175",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109770",
+      "Id": "109770",
+      "TinhId": 10,
+      "NGAY_SINH": "05/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.060407",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109770",
+      "HO_TEN": "Phùng Thị Kim Xuân",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "109770",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

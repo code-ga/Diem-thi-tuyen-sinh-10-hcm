@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120369",
+      "Id": "120369",
+      "TinhId": 12,
+      "NGAY_SINH": "05/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.802819",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120369",
+      "HO_TEN": "Vương Thành Phát",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "120369",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

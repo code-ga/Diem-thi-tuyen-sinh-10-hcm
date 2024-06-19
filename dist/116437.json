@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116437",
+      "Id": "116437",
+      "TinhId": 11,
+      "NGAY_SINH": "06/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.597712",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116437",
+      "HO_TEN": "Phạm Trần Khánh An",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "116437",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

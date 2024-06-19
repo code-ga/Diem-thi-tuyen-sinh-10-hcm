@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108124",
+      "Id": "108124",
+      "TinhId": 10,
+      "NGAY_SINH": "04/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.929811",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108124",
+      "HO_TEN": "Bùi Duy Phát",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "108124",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

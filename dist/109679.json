@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109679",
+      "Id": "109679",
+      "TinhId": 10,
+      "NGAY_SINH": "02/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.186975",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109679",
+      "HO_TEN": "Trà Khả Tú",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "109679",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

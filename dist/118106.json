@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118106",
+      "Id": "118106",
+      "TinhId": 11,
+      "NGAY_SINH": "09/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.926376",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118106",
+      "HO_TEN": "Đặng Ngọc Thúy Vy",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "118106",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110783",
+      "Id": "110783",
+      "TinhId": 11,
+      "NGAY_SINH": "01/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.116232",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110783",
+      "HO_TEN": "Nguyễn Văn Chí Thành",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "110783",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

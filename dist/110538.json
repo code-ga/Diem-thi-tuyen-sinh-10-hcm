@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110538",
+      "Id": "110538",
+      "TinhId": 11,
+      "NGAY_SINH": "02/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.120617",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110538",
+      "HO_TEN": "La Tuyết Nhi",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "110538",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

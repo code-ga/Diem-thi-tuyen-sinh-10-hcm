@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115948",
+      "Id": "115948",
+      "TinhId": 11,
+      "NGAY_SINH": "04/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.595939",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115948",
+      "HO_TEN": "Nguyễn Khắc Mạnh",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "115948",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

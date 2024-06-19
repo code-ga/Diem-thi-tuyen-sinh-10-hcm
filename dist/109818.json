@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109818",
+      "Id": "109818",
+      "TinhId": 10,
+      "NGAY_SINH": "02/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.114248",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109818",
+      "HO_TEN": "Lương Trần Hà Anh",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "109818",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

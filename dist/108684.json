@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108684",
+      "Id": "108684",
+      "TinhId": 10,
+      "NGAY_SINH": "09/08/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.997161",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108684",
+      "HO_TEN": "Trần Thái Duy",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 2.5,
+      "NGOAI_NGU": 1.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.75,
+      "SOBAODANH": "108684",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

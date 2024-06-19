@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112988",
+      "Id": "112988",
+      "TinhId": 11,
+      "NGAY_SINH": "09/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.256524",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112988",
+      "HO_TEN": "Phạm Khôi Minh",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "112988",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

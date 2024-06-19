@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114285",
+      "Id": "114285",
+      "TinhId": 11,
+      "NGAY_SINH": "08/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.535540",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114285",
+      "HO_TEN": "Nguyễn Trần Công Lý",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 3.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "114285",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118007",
+      "Id": "118007",
+      "TinhId": 11,
+      "NGAY_SINH": "08/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.673498",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118007",
+      "HO_TEN": "Phạm Thị Thùy Trang",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "118007",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

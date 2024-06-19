@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115758",
+      "Id": "115758",
+      "TinhId": 11,
+      "NGAY_SINH": "10/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.540649",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115758",
+      "HO_TEN": "Lê Nguyễn Quốc Hào",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "115758",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118572",
+      "Id": "118572",
+      "TinhId": 11,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.867442",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118572",
+      "HO_TEN": "Nguyễn Đào Tiến Phát",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "118572",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113150",
+      "Id": "113150",
+      "TinhId": 11,
+      "NGAY_SINH": "09/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.320788",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113150",
+      "HO_TEN": "Lê Khải Nguyên",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "113150",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

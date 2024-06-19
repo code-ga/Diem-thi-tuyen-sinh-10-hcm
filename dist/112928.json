@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112928",
+      "Id": "112928",
+      "TinhId": 11,
+      "NGAY_SINH": "07/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.259459",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112928",
+      "HO_TEN": "Phan An Lợi",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "112928",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

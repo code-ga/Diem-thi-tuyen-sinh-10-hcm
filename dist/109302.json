@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109302",
+      "Id": "109302",
+      "TinhId": 10,
+      "NGAY_SINH": "09/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.062045",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109302",
+      "HO_TEN": "Nguyễn Hồng Gia Như",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "109302",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109022",
+      "Id": "109022",
+      "TinhId": 10,
+      "NGAY_SINH": "03/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.997051",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109022",
+      "HO_TEN": "Mai Hoàng Kim Linh",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "109022",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

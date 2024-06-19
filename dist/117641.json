@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117641",
+      "Id": "117641",
+      "TinhId": 11,
+      "NGAY_SINH": "01/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.732044",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117641",
+      "HO_TEN": "Lê Tuấn Minh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "117641",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

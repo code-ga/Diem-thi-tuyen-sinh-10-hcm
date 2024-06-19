@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111878",
+      "Id": "111878",
+      "TinhId": 11,
+      "NGAY_SINH": "02/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.389131",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111878",
+      "HO_TEN": "Vương Tú Quyên",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "111878",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

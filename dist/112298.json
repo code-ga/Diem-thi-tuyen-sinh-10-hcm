@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112298",
+      "Id": "112298",
+      "TinhId": 11,
+      "NGAY_SINH": "09/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.258854",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112298",
+      "HO_TEN": "Nguyễn Lê Bách",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "112298",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

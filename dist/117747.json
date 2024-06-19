@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117747",
+      "Id": "117747",
+      "TinhId": 11,
+      "NGAY_SINH": "11/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.734786",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117747",
+      "HO_TEN": "Trương Tuyết Nhi",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "117747",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

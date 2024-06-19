@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112737",
+      "Id": "112737",
+      "TinhId": 11,
+      "NGAY_SINH": "05/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.320100",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112737",
+      "HO_TEN": "Phan Thế Khải",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.5,
+      "SOBAODANH": "112737",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110468",
+      "Id": "110468",
+      "TinhId": 11,
+      "NGAY_SINH": "05/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.119799",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110468",
+      "HO_TEN": "Lâm Gia Nghi",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "110468",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

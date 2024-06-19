@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117691",
+      "Id": "117691",
+      "TinhId": 11,
+      "NGAY_SINH": "08/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.673102",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117691",
+      "HO_TEN": "Trần Minh Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "117691",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

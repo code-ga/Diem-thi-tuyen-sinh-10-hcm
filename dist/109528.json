@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109528",
+      "Id": "109528",
+      "TinhId": 10,
+      "NGAY_SINH": "03/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.189429",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109528",
+      "HO_TEN": "Nguyễn Trương Quang Thông",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "109528",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

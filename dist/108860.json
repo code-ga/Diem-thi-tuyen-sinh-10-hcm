@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108860",
+      "Id": "108860",
+      "TinhId": 10,
+      "NGAY_SINH": "12/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.999953",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108860",
+      "HO_TEN": "Huỳnh Hữu Khang",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "108860",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

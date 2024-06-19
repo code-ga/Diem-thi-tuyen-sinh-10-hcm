@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110213",
+      "Id": "110213",
+      "TinhId": 11,
+      "NGAY_SINH": "12/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.113687",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110213",
+      "HO_TEN": "Võ Gia Khang",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "110213",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

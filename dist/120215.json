@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120215",
+      "Id": "120215",
+      "TinhId": 12,
+      "NGAY_SINH": "03/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.802586",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120215",
+      "HO_TEN": "Nguyễn Hoàng Long",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "120215",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

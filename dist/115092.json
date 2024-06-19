@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115092",
+      "Id": "115092",
+      "TinhId": 11,
+      "NGAY_SINH": "09/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.668314",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115092",
+      "HO_TEN": "Trần Thị Tuyết Liên",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "115092",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

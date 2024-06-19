@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114415",
+      "Id": "114415",
+      "TinhId": 11,
+      "NGAY_SINH": "03/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.469188",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114415",
+      "HO_TEN": "Trần Nguyễn Huỳnh Như",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "114415",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

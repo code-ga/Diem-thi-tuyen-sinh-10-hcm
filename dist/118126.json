@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118126",
+      "Id": "118126",
+      "TinhId": 11,
+      "NGAY_SINH": "12/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.735498",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118126",
+      "HO_TEN": "Võ Nguyễn Ngọc Vy",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "118126",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

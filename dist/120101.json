@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120101",
+      "Id": "120101",
+      "TinhId": 12,
+      "NGAY_SINH": "01/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.800553",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120101",
+      "HO_TEN": "Lê Phúc Hưng",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 2.75,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "120101",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

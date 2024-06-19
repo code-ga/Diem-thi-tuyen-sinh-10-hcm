@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116877",
+      "Id": "116877",
+      "TinhId": 11,
+      "NGAY_SINH": "01/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.603420",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116877",
+      "HO_TEN": "Nguyễn Trần Bảo Ngọc",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "116877",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

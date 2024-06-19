@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114081",
+      "Id": "114081",
+      "TinhId": 11,
+      "NGAY_SINH": "03/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.536363",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114081",
+      "HO_TEN": "Phạm Phong Đức",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "114081",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

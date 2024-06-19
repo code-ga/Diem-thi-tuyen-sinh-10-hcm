@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119817",
+      "Id": "119817",
+      "TinhId": 11,
+      "NGAY_SINH": "06/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.795408",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119817",
+      "HO_TEN": "Hồ Nguyễn Anh Thư",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "119817",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

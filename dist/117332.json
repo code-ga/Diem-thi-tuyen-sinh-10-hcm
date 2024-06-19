@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117332",
+      "Id": "117332",
+      "TinhId": 11,
+      "NGAY_SINH": "06/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.729867",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117332",
+      "HO_TEN": "Nguyễn Trần Liêm Chính",
+      "TINH": "HCM",
+      "TOAN": 1,
+      "VAN": 3,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.25,
+      "SOBAODANH": "117332",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

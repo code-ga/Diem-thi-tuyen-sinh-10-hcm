@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116274",
+      "Id": "116274",
+      "TinhId": 11,
+      "NGAY_SINH": "06/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.541293",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116274",
+      "HO_TEN": "Trương Đinh Ngân Tiên",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.25,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "116274",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

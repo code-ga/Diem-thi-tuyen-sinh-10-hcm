@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116865",
+      "Id": "116865",
+      "TinhId": 11,
+      "NGAY_SINH": "10/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.597265",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116865",
+      "HO_TEN": "Huỳnh Dương Kim Ngọc",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "116865",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

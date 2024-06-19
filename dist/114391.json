@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114391",
+      "Id": "114391",
+      "TinhId": 11,
+      "NGAY_SINH": "12/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.475699",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114391",
+      "HO_TEN": "Vũ Minh Nhật",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 4.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "114391",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

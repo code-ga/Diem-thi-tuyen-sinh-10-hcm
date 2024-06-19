@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117761",
+      "Id": "117761",
+      "TinhId": 11,
+      "NGAY_SINH": "06/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.735724",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117761",
+      "HO_TEN": "Phạm Ngọc Bích Như",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "117761",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

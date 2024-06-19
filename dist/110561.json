@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110561",
+      "Id": "110561",
+      "TinhId": 11,
+      "NGAY_SINH": "07/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.194835",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110561",
+      "HO_TEN": "Châu Mẫn Như",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "110561",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

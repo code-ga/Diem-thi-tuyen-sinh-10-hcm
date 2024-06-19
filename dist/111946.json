@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111946",
+      "Id": "111946",
+      "TinhId": 11,
+      "NGAY_SINH": "11/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.312076",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111946",
+      "HO_TEN": "Phạm Tiến Thành",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "111946",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

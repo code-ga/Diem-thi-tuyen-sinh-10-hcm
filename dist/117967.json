@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117967",
+      "Id": "117967",
+      "TinhId": 11,
+      "NGAY_SINH": "01/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.735837",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117967",
+      "HO_TEN": "Nguyễn Ngọc Bảo Thy",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "117967",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

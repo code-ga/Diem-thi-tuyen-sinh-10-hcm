@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117365",
+      "Id": "117365",
+      "TinhId": 11,
+      "NGAY_SINH": "05/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.733103",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117365",
+      "HO_TEN": "Lê Lâm Thùy Dung",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "117365",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

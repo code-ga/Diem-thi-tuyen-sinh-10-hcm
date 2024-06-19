@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117038",
+      "Id": "117038",
+      "TinhId": 11,
+      "NGAY_SINH": "07/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.597996",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117038",
+      "HO_TEN": "Lê Thị Thu Thảo",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 3.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "117038",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

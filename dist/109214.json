@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109214",
+      "Id": "109214",
+      "TinhId": 10,
+      "NGAY_SINH": "07/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.062309",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109214",
+      "HO_TEN": "Huỳnh Phan Thảo Nguyên",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "109214",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

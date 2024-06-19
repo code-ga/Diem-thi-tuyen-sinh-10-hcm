@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116434",
+      "Id": "116434",
+      "TinhId": 11,
+      "NGAY_SINH": "10/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.603899",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116434",
+      "HO_TEN": "Nguyễn Ngọc Khánh An",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "116434",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

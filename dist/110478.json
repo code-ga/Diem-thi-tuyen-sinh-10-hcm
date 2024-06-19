@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110478",
+      "Id": "110478",
+      "TinhId": 11,
+      "NGAY_SINH": "01/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.114500",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110478",
+      "HO_TEN": "Trần Phúc Nghi",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "110478",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108939",
+      "Id": "108939",
+      "TinhId": 10,
+      "NGAY_SINH": "11/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.063160",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108939",
+      "HO_TEN": "Đỗ Quang Khôi",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "108939",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

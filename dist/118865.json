@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118865",
+      "Id": "118865",
+      "TinhId": 11,
+      "NGAY_SINH": "09/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.804349",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118865",
+      "HO_TEN": "Lý Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 3.75,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "118865",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

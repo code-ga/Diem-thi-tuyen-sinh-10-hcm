@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117271",
+      "Id": "117271",
+      "TinhId": 11,
+      "NGAY_SINH": "11/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.732726",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117271",
+      "HO_TEN": "Nguyễn Kim Anh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "117271",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

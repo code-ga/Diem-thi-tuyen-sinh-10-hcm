@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114495",
+      "Id": "114495",
+      "TinhId": 11,
+      "NGAY_SINH": "03/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.536440",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114495",
+      "HO_TEN": "Trần Nguyễn Thành Tài",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.75,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "114495",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

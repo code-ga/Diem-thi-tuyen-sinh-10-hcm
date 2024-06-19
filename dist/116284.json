@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116284",
+      "Id": "116284",
+      "TinhId": 11,
+      "NGAY_SINH": "07/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.537768",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116284",
+      "HO_TEN": "Nguyễn Trí Tính",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 3.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "116284",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114534",
+      "Id": "114534",
+      "TinhId": 11,
+      "NGAY_SINH": "12/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.669750",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114534",
+      "HO_TEN": "Chung Phước Thiện",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "114534",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

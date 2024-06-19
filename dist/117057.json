@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117057",
+      "Id": "117057",
+      "TinhId": 11,
+      "NGAY_SINH": "06/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.602260",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117057",
+      "HO_TEN": "Nguyễn Ngọc Hưng Thịnh",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "117057",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

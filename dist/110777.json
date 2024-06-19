@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110777",
+      "Id": "110777",
+      "TinhId": 11,
+      "NGAY_SINH": "10/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.065094",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110777",
+      "HO_TEN": "Huỳnh Lê Đại Thành",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "110777",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

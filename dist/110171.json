@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110171",
+      "Id": "110171",
+      "TinhId": 11,
+      "NGAY_SINH": "03/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.065238",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110171",
+      "HO_TEN": "Bạch Triết Khang",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "110171",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

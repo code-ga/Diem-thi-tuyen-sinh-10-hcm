@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110773",
+      "Id": "110773",
+      "TinhId": 11,
+      "NGAY_SINH": "10/02/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.119431",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110773",
+      "HO_TEN": "Phạm Nguyễn Hoàng Đoan Thanh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "110773",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

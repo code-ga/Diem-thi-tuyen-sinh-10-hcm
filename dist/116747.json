@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116747",
+      "Id": "116747",
+      "TinhId": 11,
+      "NGAY_SINH": "11/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.600488",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116747",
+      "HO_TEN": "Nguyễn Gia Kỳ",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "116747",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

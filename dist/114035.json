@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114035",
+      "Id": "114035",
+      "TinhId": 11,
+      "NGAY_SINH": "12/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.467649",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114035",
+      "HO_TEN": "Lê Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "114035",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

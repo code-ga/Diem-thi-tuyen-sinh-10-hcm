@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113024",
+      "Id": "113024",
+      "TinhId": 11,
+      "NGAY_SINH": "06/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.384499",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113024",
+      "HO_TEN": "Võ Ngọc Mỹ",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "113024",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

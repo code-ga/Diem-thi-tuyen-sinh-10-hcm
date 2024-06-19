@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112911",
+      "Id": "112911",
+      "TinhId": 11,
+      "NGAY_SINH": "02/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.392784",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112911",
+      "HO_TEN": "Võ Thị Yến Linh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "112911",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

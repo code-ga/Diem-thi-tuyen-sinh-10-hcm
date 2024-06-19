@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116594",
+      "Id": "116594",
+      "TinhId": 11,
+      "NGAY_SINH": "06/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.600923",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116594",
+      "HO_TEN": "Phan Thị Ngọc Hà",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "116594",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

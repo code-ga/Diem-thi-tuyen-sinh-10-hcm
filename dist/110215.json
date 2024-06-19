@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110215",
+      "Id": "110215",
+      "TinhId": 11,
+      "NGAY_SINH": "07/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.123463",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110215",
+      "HO_TEN": "Vương Minh Khang",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 3,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.5,
+      "SOBAODANH": "110215",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

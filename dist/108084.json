@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108084",
+      "Id": "108084",
+      "TinhId": 10,
+      "NGAY_SINH": "05/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.867678",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108084",
+      "HO_TEN": "Hồ Nguyễn Song Nhi",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 6,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "108084",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

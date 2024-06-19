@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109654",
+      "Id": "109654",
+      "TinhId": 10,
+      "NGAY_SINH": "09/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.997994",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109654",
+      "HO_TEN": "Ngô Châu Mai Trinh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "109654",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

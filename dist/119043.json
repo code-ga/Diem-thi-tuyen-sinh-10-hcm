@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119043",
+      "Id": "119043",
+      "TinhId": 11,
+      "NGAY_SINH": "02/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.804736",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119043",
+      "HO_TEN": "Hàng Thiên Kim",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 8.5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "119043",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

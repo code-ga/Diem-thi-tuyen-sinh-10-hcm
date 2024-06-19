@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114014",
+      "Id": "114014",
+      "TinhId": 11,
+      "NGAY_SINH": "10/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.476666",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114014",
+      "HO_TEN": "Trần Tống Minh Anh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "114014",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

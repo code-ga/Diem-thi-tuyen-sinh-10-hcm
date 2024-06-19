@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117455",
+      "Id": "117455",
+      "TinhId": 11,
+      "NGAY_SINH": "12/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.733427",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117455",
+      "HO_TEN": "Trần Huy Hoàng",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 2.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.5,
+      "SOBAODANH": "117455",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

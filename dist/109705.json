@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109705",
+      "Id": "109705",
+      "TinhId": 10,
+      "NGAY_SINH": "06/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.185036",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109705",
+      "HO_TEN": "Phan Thanh Tuyền",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "109705",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

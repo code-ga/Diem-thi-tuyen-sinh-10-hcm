@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108228",
+      "Id": "108228",
+      "TinhId": 10,
+      "NGAY_SINH": "07/26/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.934471",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108228",
+      "HO_TEN": "Nguyễn Đức Thành",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "108228",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

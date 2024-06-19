@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116136",
+      "Id": "116136",
+      "TinhId": 11,
+      "NGAY_SINH": "05/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.540397",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116136",
+      "HO_TEN": "Nguyễn Thị Cẩm Phương",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "116136",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

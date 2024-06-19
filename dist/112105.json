@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112105",
+      "Id": "112105",
+      "TinhId": 11,
+      "NGAY_SINH": "11/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.253446",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112105",
+      "HO_TEN": "Nguyễn Ngọc Cát Tường",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "112105",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

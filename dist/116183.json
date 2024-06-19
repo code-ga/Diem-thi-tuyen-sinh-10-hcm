@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116183",
+      "Id": "116183",
+      "TinhId": 11,
+      "NGAY_SINH": "04/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.538799",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116183",
+      "HO_TEN": "Song Dược Tâm",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "116183",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

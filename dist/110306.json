@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110306",
+      "Id": "110306",
+      "TinhId": 11,
+      "NGAY_SINH": "01/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.191664",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110306",
+      "HO_TEN": "Đào Ngọc Công Lâm",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "110306",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

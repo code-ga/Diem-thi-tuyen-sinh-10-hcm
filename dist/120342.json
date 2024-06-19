@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120342",
+      "Id": "120342",
+      "TinhId": 12,
+      "NGAY_SINH": "02/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.859491",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120342",
+      "HO_TEN": "Trương Ý Nhi",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "120342",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

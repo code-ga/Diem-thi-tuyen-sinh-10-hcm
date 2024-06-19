@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "113350",
+      "Id": "113350",
+      "TinhId": 11,
+      "NGAY_SINH": "08/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.392865",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "113350",
+      "HO_TEN": "Vương Thiếu Phụng",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "113350",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

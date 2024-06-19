@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119440",
+      "Id": "119440",
+      "TinhId": 11,
+      "NGAY_SINH": "11/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.738373",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119440",
+      "HO_TEN": "Nguyễn Huy Bảo",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "119440",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

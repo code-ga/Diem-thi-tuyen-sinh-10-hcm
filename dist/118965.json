@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "118965",
+      "Id": "118965",
+      "TinhId": 11,
+      "NGAY_SINH": "03/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.865150",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "118965",
+      "HO_TEN": "Trương Ngọc Hồ",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 3.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "118965",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

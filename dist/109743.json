@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109743",
+      "Id": "109743",
+      "TinhId": 10,
+      "NGAY_SINH": "05/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.997828",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109743",
+      "HO_TEN": "Doãn Nguyễn Khánh Vy",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "109743",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

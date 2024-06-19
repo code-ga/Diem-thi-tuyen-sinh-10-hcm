@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119064",
+      "Id": "119064",
+      "TinhId": 11,
+      "NGAY_SINH": "11/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.864657",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119064",
+      "HO_TEN": "Cao Kim Long",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "119064",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116486",
+      "Id": "116486",
+      "TinhId": 11,
+      "NGAY_SINH": "11/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.599644",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116486",
+      "HO_TEN": "Lê Hoàng Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "116486",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

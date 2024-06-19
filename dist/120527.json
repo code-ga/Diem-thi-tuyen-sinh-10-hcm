@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120527",
+      "Id": "120527",
+      "TinhId": 12,
+      "NGAY_SINH": "12/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.799226",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120527",
+      "HO_TEN": "Phan Thị Trà",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "120527",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

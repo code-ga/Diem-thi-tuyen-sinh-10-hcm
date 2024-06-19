@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110582",
+      "Id": "110582",
+      "TinhId": 11,
+      "NGAY_SINH": "11/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.191976",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110582",
+      "HO_TEN": "Võ Nguyễn Ngọc Tâm Như",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "110582",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

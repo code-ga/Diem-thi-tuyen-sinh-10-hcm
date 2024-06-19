@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112897",
+      "Id": "112897",
+      "TinhId": 11,
+      "NGAY_SINH": "05/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.383905",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112897",
+      "HO_TEN": "Phạm Hoàng Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "112897",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

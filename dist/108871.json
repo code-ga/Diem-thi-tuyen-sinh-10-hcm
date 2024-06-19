@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108871",
+      "Id": "108871",
+      "TinhId": 10,
+      "NGAY_SINH": "03/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.999873",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108871",
+      "HO_TEN": "Nguyễn Đinh Tuấn Khang",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "108871",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

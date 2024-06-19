@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116298",
+      "Id": "116298",
+      "TinhId": 11,
+      "NGAY_SINH": "02/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.543828",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116298",
+      "HO_TEN": "Võ Thị Ngọc Trâm",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "116298",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

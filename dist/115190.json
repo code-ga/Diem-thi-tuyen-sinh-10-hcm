@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115190",
+      "Id": "115190",
+      "TinhId": 11,
+      "NGAY_SINH": "10/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.669451",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115190",
+      "HO_TEN": "Nguyễn Túc Ngân",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "115190",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

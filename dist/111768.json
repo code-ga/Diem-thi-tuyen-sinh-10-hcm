@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111768",
+      "Id": "111768",
+      "TinhId": 11,
+      "NGAY_SINH": "10/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.311133",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111768",
+      "HO_TEN": "Thái Yến Như",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "111768",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115916",
+      "Id": "115916",
+      "TinhId": 11,
+      "NGAY_SINH": "08/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.540321",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115916",
+      "HO_TEN": "Lê Trần Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "115916",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

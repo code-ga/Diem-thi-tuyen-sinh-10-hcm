@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111045",
+      "Id": "111045",
+      "TinhId": 11,
+      "NGAY_SINH": "02/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.122322",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111045",
+      "HO_TEN": "Nguyễn Huỳnh Thanh Vương",
+      "TINH": "HCM",
+      "TOAN": 0.75,
+      "VAN": 1.75,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 4.5,
+      "SOBAODANH": "111045",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

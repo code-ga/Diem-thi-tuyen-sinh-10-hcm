@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114600",
+      "Id": "114600",
+      "TinhId": 11,
+      "NGAY_SINH": "10/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.534402",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114600",
+      "HO_TEN": "Lê Phạm Phương Trâm",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "114600",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

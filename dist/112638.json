@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112638",
+      "Id": "112638",
+      "TinhId": 11,
+      "NGAY_SINH": "12/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.323080",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112638",
+      "HO_TEN": "Trần Du Huệ",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "112638",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

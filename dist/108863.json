@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108863",
+      "Id": "108863",
+      "TinhId": 10,
+      "NGAY_SINH": "07/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.063541",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108863",
+      "HO_TEN": "Lê Kiện Khang",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 8,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "108863",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

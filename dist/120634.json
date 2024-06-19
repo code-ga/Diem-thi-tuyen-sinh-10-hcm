@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120634",
+      "Id": "120634",
+      "TinhId": 12,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.802663",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120634",
+      "HO_TEN": "Ngô Kim Yến",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "120634",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

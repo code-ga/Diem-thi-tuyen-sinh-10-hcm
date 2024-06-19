@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115164",
+      "Id": "115164",
+      "TinhId": 11,
+      "NGAY_SINH": "11/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.663419",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115164",
+      "HO_TEN": "Hà Hải Nam",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "115164",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "119339",
+      "Id": "119339",
+      "TinhId": 11,
+      "NGAY_SINH": "12/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.803788",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "119339",
+      "HO_TEN": "Trần Hoàng Tuấn",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "119339",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

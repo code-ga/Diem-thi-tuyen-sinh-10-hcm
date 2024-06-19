@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110713",
+      "Id": "110713",
+      "TinhId": 11,
+      "NGAY_SINH": "06/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.121492",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110713",
+      "HO_TEN": "Trần Hảo Quyền",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "110713",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

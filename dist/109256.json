@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109256",
+      "Id": "109256",
+      "TinhId": 10,
+      "NGAY_SINH": "03/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.062189",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109256",
+      "HO_TEN": "Hồ Phương Nhi",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "109256",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

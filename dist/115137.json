@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115137",
+      "Id": "115137",
+      "TinhId": 11,
+      "NGAY_SINH": "12/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.668157",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115137",
+      "HO_TEN": "Nguyễn Trần Hải Minh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "115137",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

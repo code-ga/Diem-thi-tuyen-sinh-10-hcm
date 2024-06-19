@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114953",
+      "Id": "114953",
+      "TinhId": 11,
+      "NGAY_SINH": "03/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.469794",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114953",
+      "HO_TEN": "Hán Thị Thu Hiền",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "114953",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

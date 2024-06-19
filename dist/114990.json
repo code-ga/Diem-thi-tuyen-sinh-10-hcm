@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114990",
+      "Id": "114990",
+      "TinhId": 11,
+      "NGAY_SINH": "08/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.472179",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114990",
+      "HO_TEN": "Đào Sỹ Huy",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "114990",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

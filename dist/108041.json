@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108041",
+      "Id": "108041",
+      "TinhId": 10,
+      "NGAY_SINH": "10/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.867972",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108041",
+      "HO_TEN": "Đàm Trung Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "108041",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

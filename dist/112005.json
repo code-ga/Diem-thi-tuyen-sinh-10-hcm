@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "112005",
+      "Id": "112005",
+      "TinhId": 11,
+      "NGAY_SINH": "05/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.314504",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "112005",
+      "HO_TEN": "Lê Phạm Minh Thùy",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "112005",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

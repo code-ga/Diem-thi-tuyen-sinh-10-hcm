@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111553",
+      "Id": "111553",
+      "TinhId": 11,
+      "NGAY_SINH": "07/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.390318",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111553",
+      "HO_TEN": "Hồ Đoàn Tấn Lộc",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "111553",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

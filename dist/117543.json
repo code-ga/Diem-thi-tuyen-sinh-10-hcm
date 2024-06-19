@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117543",
+      "Id": "117543",
+      "TinhId": 11,
+      "NGAY_SINH": "06/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.731267",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117543",
+      "HO_TEN": "Hoàng Nguyên Khôi",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "117543",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

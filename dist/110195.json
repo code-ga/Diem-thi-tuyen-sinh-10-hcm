@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110195",
+      "Id": "110195",
+      "TinhId": 11,
+      "NGAY_SINH": "08/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.190382",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110195",
+      "HO_TEN": "Nguyễn Trọng Khang",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "110195",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

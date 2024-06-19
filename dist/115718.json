@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115718",
+      "Id": "115718",
+      "TinhId": 11,
+      "NGAY_SINH": "12/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.538174",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115718",
+      "HO_TEN": "Trần Hoàng Giang",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "115718",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

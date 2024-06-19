@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "116296",
+      "Id": "116296",
+      "TinhId": 11,
+      "NGAY_SINH": "11/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.537238",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "116296",
+      "HO_TEN": "Phạm Ngọc Bích Trâm",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 4.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.5,
+      "SOBAODANH": "116296",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

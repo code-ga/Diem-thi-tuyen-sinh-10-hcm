@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108770",
+      "Id": "108770",
+      "TinhId": 10,
+      "NGAY_SINH": "05/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.059286",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108770",
+      "HO_TEN": "Lê Trung Hiếu",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "108770",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

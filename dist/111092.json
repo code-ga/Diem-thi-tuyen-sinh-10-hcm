@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111092",
+      "Id": "111092",
+      "TinhId": 11,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.123674",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111092",
+      "HO_TEN": "Trương Gia Yến",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "111092",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

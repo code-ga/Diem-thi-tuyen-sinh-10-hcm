@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "114502",
+      "Id": "114502",
+      "TinhId": 11,
+      "NGAY_SINH": "10/18/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.467556",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "114502",
+      "HO_TEN": "Nguyễn Thanh Bảo Tấn",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "114502",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

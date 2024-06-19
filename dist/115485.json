@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115485",
+      "Id": "115485",
+      "TinhId": 11,
+      "NGAY_SINH": "06/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.472639",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115485",
+      "HO_TEN": "Trần Thanh Tùng",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 3,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "115485",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

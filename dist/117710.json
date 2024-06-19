@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117710",
+      "Id": "117710",
+      "TinhId": 11,
+      "NGAY_SINH": "04/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.925109",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117710",
+      "HO_TEN": "Trần Thế Ngọc",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "117710",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

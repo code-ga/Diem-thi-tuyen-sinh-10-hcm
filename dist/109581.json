@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109581",
+      "Id": "109581",
+      "TinhId": 10,
+      "NGAY_SINH": "05/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.001541",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109581",
+      "HO_TEN": "Phan Trần Bảo Thy",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "109581",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

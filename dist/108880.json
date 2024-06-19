@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108880",
+      "Id": "108880",
+      "TinhId": 10,
+      "NGAY_SINH": "06/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.185407",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108880",
+      "HO_TEN": "Nguyễn Tiến Khang",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "108880",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

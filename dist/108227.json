@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108227",
+      "Id": "108227",
+      "TinhId": 10,
+      "NGAY_SINH": "12/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.936861",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108227",
+      "HO_TEN": "Lâm Sơn Kiến Thành",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "108227",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

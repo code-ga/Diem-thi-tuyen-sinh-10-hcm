@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108344",
+      "Id": "108344",
+      "TinhId": 10,
+      "NGAY_SINH": "07/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.992790",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108344",
+      "HO_TEN": "Lê Hoàng Triều",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "108344",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

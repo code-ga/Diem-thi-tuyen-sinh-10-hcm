@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "108172",
+      "Id": "108172",
+      "TinhId": 10,
+      "NGAY_SINH": "08/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.939673",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "108172",
+      "HO_TEN": "Cao Minh Quân",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "108172",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

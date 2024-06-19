@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120089",
+      "Id": "120089",
+      "TinhId": 12,
+      "NGAY_SINH": "12/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.802929",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120089",
+      "HO_TEN": "Trần Phối Hoa",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "120089",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

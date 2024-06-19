@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120295",
+      "Id": "120295",
+      "TinhId": 12,
+      "NGAY_SINH": "11/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.860416",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120295",
+      "HO_TEN": "Đỗ Mai Bích Ngọc",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "120295",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

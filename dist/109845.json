@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "109845",
+      "Id": "109845",
+      "TinhId": 10,
+      "NGAY_SINH": "07/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.119074",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "109845",
+      "HO_TEN": "Trương Quỳnh Anh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "109845",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "111717",
+      "Id": "111717",
+      "TinhId": 11,
+      "NGAY_SINH": "08/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.316248",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "111717",
+      "HO_TEN": "Trần Hoàng Nhân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "111717",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

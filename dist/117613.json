@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "117613",
+      "Id": "117613",
+      "TinhId": 11,
+      "NGAY_SINH": "10/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.728046",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "117613",
+      "HO_TEN": "Lâm Nghị Long",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "117613",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

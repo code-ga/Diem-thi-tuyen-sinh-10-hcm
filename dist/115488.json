@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "115488",
+      "Id": "115488",
+      "TinhId": 11,
+      "NGAY_SINH": "02/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.470302",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "115488",
+      "HO_TEN": "Phạm Minh Tuyên",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "115488",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

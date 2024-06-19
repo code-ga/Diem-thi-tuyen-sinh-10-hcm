@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120308",
+      "Id": "120308",
+      "TinhId": 12,
+      "NGAY_SINH": "02/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.862207",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120308",
+      "HO_TEN": "Trần Bảo Ngọc",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 3.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 8,
+      "SOBAODANH": "120308",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

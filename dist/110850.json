@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "110850",
+      "Id": "110850",
+      "TinhId": 11,
+      "NGAY_SINH": "06/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.192422",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "110850",
+      "HO_TEN": "Trần Thị Anh Thư",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "110850",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

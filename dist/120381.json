@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "120381",
+      "Id": "120381",
+      "TinhId": 12,
+      "NGAY_SINH": "03/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.862251",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "120381",
+      "HO_TEN": "Trương Minh Phú",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "120381",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}
