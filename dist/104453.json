@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104453",
+      "Id": "104453",
+      "TinhId": 10,
+      "NGAY_SINH": "02/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.666392",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104453",
+      "HO_TEN": "Lê Hoàng Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 4,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "104453",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

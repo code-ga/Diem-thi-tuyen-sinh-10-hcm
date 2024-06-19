@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101194",
+      "Id": "101194",
+      "TinhId": 10,
+      "NGAY_SINH": "09/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.428428",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101194",
+      "HO_TEN": "Bùi Kim Nga",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "101194",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

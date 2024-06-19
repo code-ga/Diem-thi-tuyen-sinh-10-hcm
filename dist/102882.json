@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102882",
+      "Id": "102882",
+      "TinhId": 10,
+      "NGAY_SINH": "09/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.662863",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102882",
+      "HO_TEN": "Võ Bảo Phúc",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "102882",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

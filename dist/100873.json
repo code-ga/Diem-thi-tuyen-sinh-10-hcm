@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100873",
+      "Id": "100873",
+      "TinhId": 10,
+      "NGAY_SINH": "03/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.290221",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100873",
+      "HO_TEN": "Phạm Trần Tú Uyên",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "100873",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

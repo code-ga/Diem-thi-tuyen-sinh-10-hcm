@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104005",
+      "Id": "104005",
+      "TinhId": 10,
+      "NGAY_SINH": "05/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.516259",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104005",
+      "HO_TEN": "Chu Thị Thanh Ngân",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "104005",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

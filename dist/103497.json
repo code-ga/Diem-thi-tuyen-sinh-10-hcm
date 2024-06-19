@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103497",
+      "Id": "103497",
+      "TinhId": 10,
+      "NGAY_SINH": "08/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.596968",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103497",
+      "HO_TEN": "NGUYỄN ĐÌNH QUÝ",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 3.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.5,
+      "SOBAODANH": "103497",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

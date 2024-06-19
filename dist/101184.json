@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101184",
+      "Id": "101184",
+      "TinhId": 10,
+      "NGAY_SINH": "07/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.426400",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101184",
+      "HO_TEN": "Nguyễn Ngọc Khánh My",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "101184",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

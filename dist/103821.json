@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103821",
+      "Id": "103821",
+      "TinhId": 10,
+      "NGAY_SINH": "04/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.513858",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103821",
+      "HO_TEN": "Phạm Ngọc Bảo Hân",
+      "TINH": "HCM",
+      "TOAN": 8.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "103821",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

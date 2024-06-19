@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103713",
+      "Id": "103713",
+      "TinhId": 10,
+      "NGAY_SINH": "09/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.655281",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103713",
+      "HO_TEN": "Mai Trí Bách",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 8,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 26,
+      "SOBAODANH": "103713",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

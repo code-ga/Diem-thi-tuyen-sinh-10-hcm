@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100819",
+      "Id": "100819",
+      "TinhId": 10,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.296439",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100819",
+      "HO_TEN": "LẠC THÁI TRÂN TRÂN",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "100819",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103097",
+      "Id": "103097",
+      "TinhId": 10,
+      "NGAY_SINH": "05/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.657852",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103097",
+      "HO_TEN": "HÒA NGỌC MINH TUYẾT",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "103097",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

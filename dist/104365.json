@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104365",
+      "Id": "104365",
+      "TinhId": 10,
+      "NGAY_SINH": "06/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.734982",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104365",
+      "HO_TEN": "Huỳnh Nhật Mỹ Anh",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "104365",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

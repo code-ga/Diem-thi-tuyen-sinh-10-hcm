@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101783",
+      "Id": "101783",
+      "TinhId": 10,
+      "NGAY_SINH": "12/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.357164",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101783",
+      "HO_TEN": "Phạm Minh Khôi",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "101783",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

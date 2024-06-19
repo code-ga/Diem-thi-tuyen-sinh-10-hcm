@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102773",
+      "Id": "102773",
+      "TinhId": 10,
+      "NGAY_SINH": "05/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.658496",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102773",
+      "HO_TEN": "LÊ HỒNG NGỌC",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "102773",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

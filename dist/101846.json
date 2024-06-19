@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101846",
+      "Id": "101846",
+      "TinhId": 10,
+      "NGAY_SINH": "10/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.352935",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101846",
+      "HO_TEN": "Nguyễn Xuân Lộc",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "101846",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

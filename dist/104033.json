@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104033",
+      "Id": "104033",
+      "TinhId": 10,
+      "NGAY_SINH": "04/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.656525",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104033",
+      "HO_TEN": "Trần Huỳnh Bảo Ngọc",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "104033",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

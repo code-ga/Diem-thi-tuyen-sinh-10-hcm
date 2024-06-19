@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104373",
+      "Id": "104373",
+      "TinhId": 10,
+      "NGAY_SINH": "12/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.864863",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104373",
+      "HO_TEN": "Lê Ngọc Hồng Anh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "104373",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

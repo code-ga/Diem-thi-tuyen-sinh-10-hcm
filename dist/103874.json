@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103874",
+      "Id": "103874",
+      "TinhId": 10,
+      "NGAY_SINH": "04/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.655935",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103874",
+      "HO_TEN": "Lê Phước Khải",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "103874",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

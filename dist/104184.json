@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104184",
+      "Id": "104184",
+      "TinhId": 10,
+      "NGAY_SINH": "06/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.661002",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104184",
+      "HO_TEN": "Trương Nguyễn Phương Thi",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "104184",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

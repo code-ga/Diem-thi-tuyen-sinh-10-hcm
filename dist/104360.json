@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104360",
+      "Id": "104360",
+      "TinhId": 10,
+      "NGAY_SINH": "06/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.797418",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104360",
+      "HO_TEN": "Hoàng Đình Anh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "104360",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100749",
+      "Id": "100749",
+      "TinhId": 10,
+      "NGAY_SINH": "05/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.295245",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100749",
+      "HO_TEN": "NGUYỄN TRỌNG THIÊN",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "100749",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

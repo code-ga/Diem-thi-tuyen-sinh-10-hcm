@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100793",
+      "Id": "100793",
+      "TinhId": 10,
+      "NGAY_SINH": "07/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.296146",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100793",
+      "HO_TEN": "NGUYỄN LÂM MINH TIẾN",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "100793",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

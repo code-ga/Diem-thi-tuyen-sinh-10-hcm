@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104600",
+      "Id": "104600",
+      "TinhId": 10,
+      "NGAY_SINH": "09/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.664554",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104600",
+      "HO_TEN": "Huỳnh Chí Hải",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "104600",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

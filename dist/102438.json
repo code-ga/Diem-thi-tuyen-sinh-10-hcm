@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102438",
+      "Id": "102438",
+      "TinhId": 10,
+      "NGAY_SINH": "10/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.602968",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102438",
+      "HO_TEN": "NGUYỄN THANH BÌNH",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "102438",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

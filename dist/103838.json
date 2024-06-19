@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103838",
+      "Id": "103838",
+      "TinhId": 10,
+      "NGAY_SINH": "01/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.516128",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103838",
+      "HO_TEN": "Phạm Huỳnh Hiếu",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 8,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "103838",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

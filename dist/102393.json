@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102393",
+      "Id": "102393",
+      "TinhId": 10,
+      "NGAY_SINH": "10/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.663373",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102393",
+      "HO_TEN": "Phạm Thị Phương Anh",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 5.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10,
+      "SOBAODANH": "102393",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103751",
+      "Id": "103751",
+      "TinhId": 10,
+      "NGAY_SINH": "08/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.662464",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103751",
+      "HO_TEN": "Trần Phan Cường",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "103751",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

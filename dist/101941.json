@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101941",
+      "Id": "101941",
+      "TinhId": 10,
+      "NGAY_SINH": "12/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.351656",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101941",
+      "HO_TEN": "Trần Phạm Gia Nghi",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "101941",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

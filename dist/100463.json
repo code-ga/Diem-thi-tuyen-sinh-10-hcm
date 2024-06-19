@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100463",
+      "Id": "100463",
+      "TinhId": 10,
+      "NGAY_SINH": "10/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.506232",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100463",
+      "HO_TEN": "Phạm Hoàng Minh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "100463",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

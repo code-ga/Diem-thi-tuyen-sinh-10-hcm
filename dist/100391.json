@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100391",
+      "Id": "100391",
+      "TinhId": 10,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.505580",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100391",
+      "HO_TEN": "Trần Gia Kỳ",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "100391",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103979",
+      "Id": "103979",
+      "TinhId": 10,
+      "NGAY_SINH": "04/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.656215",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103979",
+      "HO_TEN": "Phạm Nhật Minh",
+      "TINH": "HCM",
+      "TOAN": 8.25,
+      "VAN": 8,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.5,
+      "SOBAODANH": "103979",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

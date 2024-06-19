@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102278",
+      "Id": "102278",
+      "TinhId": 10,
+      "NGAY_SINH": "01/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.358698",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102278",
+      "HO_TEN": "Nguyễn Hoàng Kim Vy",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.5,
+      "SOBAODANH": "102278",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

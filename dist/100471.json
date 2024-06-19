@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100471",
+      "Id": "100471",
+      "TinhId": 10,
+      "NGAY_SINH": "07/08/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.291526",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100471",
+      "HO_TEN": "Tiêu Tuấn Minh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "100471",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103576",
+      "Id": "103576",
+      "TinhId": 10,
+      "NGAY_SINH": "08/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.597649",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103576",
+      "HO_TEN": "NGUYỄN MINH TRÍ",
+      "TINH": "HCM",
+      "TOAN": 8.25,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 26,
+      "SOBAODANH": "103576",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

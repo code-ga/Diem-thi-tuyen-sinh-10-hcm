@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102147",
+      "Id": "102147",
+      "TinhId": 10,
+      "NGAY_SINH": "06/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.363055",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102147",
+      "HO_TEN": "Nguyễn Thị Như Thoa",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "102147",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100484",
+      "Id": "100484",
+      "TinhId": 10,
+      "NGAY_SINH": "01/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.287172",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100484",
+      "HO_TEN": "NGUYỄN LÊ THẢO MY",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8.5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "100484",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

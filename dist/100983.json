@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100983",
+      "Id": "100983",
+      "TinhId": 10,
+      "NGAY_SINH": "04/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.426636",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100983",
+      "HO_TEN": "Phạm Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 2.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "100983",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

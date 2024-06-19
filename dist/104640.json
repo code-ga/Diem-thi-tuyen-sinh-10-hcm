@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104640",
+      "Id": "104640",
+      "TinhId": 10,
+      "NGAY_SINH": "05/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.731749",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104640",
+      "HO_TEN": "Phạm Hữu Hào",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "104640",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

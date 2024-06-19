@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101962",
+      "Id": "101962",
+      "TinhId": 10,
+      "NGAY_SINH": "09/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.361972",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101962",
+      "HO_TEN": "Huỳnh Nguyễn Khải Nguyên",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "101962",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

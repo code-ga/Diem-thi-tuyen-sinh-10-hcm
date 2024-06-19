@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101015",
+      "Id": "101015",
+      "TinhId": 10,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.427156",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101015",
+      "HO_TEN": "Nguyễn Tiến Dũng",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "101015",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102392",
+      "Id": "102392",
+      "TinhId": 10,
+      "NGAY_SINH": "05/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.603615",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102392",
+      "HO_TEN": "PHẠM NGỌC TRÂM ANH",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "102392",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

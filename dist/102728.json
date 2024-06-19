@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102728",
+      "Id": "102728",
+      "TinhId": 10,
+      "NGAY_SINH": "02/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.662852",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102728",
+      "HO_TEN": "Nguyễn Thanh Minh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "102728",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

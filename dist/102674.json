@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102674",
+      "Id": "102674",
+      "TinhId": 10,
+      "NGAY_SINH": "05/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.662649",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102674",
+      "HO_TEN": "Võ Hoàng Lâm",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "102674",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

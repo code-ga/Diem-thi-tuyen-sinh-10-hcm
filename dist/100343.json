@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100343",
+      "Id": "100343",
+      "TinhId": 10,
+      "NGAY_SINH": "09/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.292244",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100343",
+      "HO_TEN": "Phan Hoàng Nam Khánh",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "100343",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

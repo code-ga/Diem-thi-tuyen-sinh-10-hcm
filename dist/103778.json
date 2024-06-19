@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103778",
+      "Id": "103778",
+      "TinhId": 10,
+      "NGAY_SINH": "10/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.660758",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103778",
+      "HO_TEN": "Nguyễn Quang Đức",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "103778",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

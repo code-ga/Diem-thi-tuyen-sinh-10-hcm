@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102180",
+      "Id": "102180",
+      "TinhId": 10,
+      "NGAY_SINH": "10/12/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.361176",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102180",
+      "HO_TEN": "Nguyễn Công Ngọc Tiên",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "102180",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

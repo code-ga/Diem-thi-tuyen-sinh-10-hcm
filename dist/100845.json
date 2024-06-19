@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100845",
+      "Id": "100845",
+      "TinhId": 10,
+      "NGAY_SINH": "04/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.296450",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100845",
+      "HO_TEN": "NGUYỄN THÀNH TRUNG",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "100845",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

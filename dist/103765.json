@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103765",
+      "Id": "103765",
+      "TinhId": 10,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.514749",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103765",
+      "HO_TEN": "Nguyễn Tiến Đạt",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 3.25,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "103765",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

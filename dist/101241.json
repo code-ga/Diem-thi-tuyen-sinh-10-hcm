@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101241",
+      "Id": "101241",
+      "TinhId": 10,
+      "NGAY_SINH": "12/29/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.425979",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101241",
+      "HO_TEN": "Nguyễn Hoàng Phát",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "101241",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

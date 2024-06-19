@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103548",
+      "Id": "103548",
+      "TinhId": 10,
+      "NGAY_SINH": "03/28/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.597972",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103548",
+      "HO_TEN": "PHẠM HOÀNG THANH THỦY",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "103548",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

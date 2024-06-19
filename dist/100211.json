@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100211",
+      "Id": "100211",
+      "TinhId": 10,
+      "NGAY_SINH": "02/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.294380",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100211",
+      "HO_TEN": "Lê Huỳnh Bảo Hân",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "100211",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

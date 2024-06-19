@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104157",
+      "Id": "104157",
+      "TinhId": 10,
+      "NGAY_SINH": "10/19/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.516438",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104157",
+      "HO_TEN": "Đỗ Huỳnh Nhật Tân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "104157",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101341",
+      "Id": "101341",
+      "TinhId": 10,
+      "NGAY_SINH": "03/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.430730",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101341",
+      "HO_TEN": "Lê Nguyễn Ngọc Trâm",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "101341",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103000",
+      "Id": "103000",
+      "TinhId": 10,
+      "NGAY_SINH": "11/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.600534",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103000",
+      "HO_TEN": "Hồ Ngọc Thy",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "103000",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

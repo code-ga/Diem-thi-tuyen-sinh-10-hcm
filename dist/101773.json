@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101773",
+      "Id": "101773",
+      "TinhId": 10,
+      "NGAY_SINH": "07/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.363546",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101773",
+      "HO_TEN": "La Duy Khôi",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "101773",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

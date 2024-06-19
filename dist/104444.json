@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104444",
+      "Id": "104444",
+      "TinhId": 10,
+      "NGAY_SINH": "08/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.737013",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104444",
+      "HO_TEN": "Nguyễn Tường Bách",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 6.5,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.5,
+      "SOBAODANH": "104444",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104328",
+      "Id": "104328",
+      "TinhId": 10,
+      "NGAY_SINH": "04/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.735412",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104328",
+      "HO_TEN": "Phạm Trần Nhã An",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 5.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "104328",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

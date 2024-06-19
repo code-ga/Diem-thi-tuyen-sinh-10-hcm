@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104680",
+      "Id": "104680",
+      "TinhId": 10,
+      "NGAY_SINH": "01/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.665650",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104680",
+      "HO_TEN": "Vũ Đỗ Việt Hưng",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "104680",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

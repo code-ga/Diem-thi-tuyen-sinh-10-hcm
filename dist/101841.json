@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101841",
+      "Id": "101841",
+      "TinhId": 10,
+      "NGAY_SINH": "01/01/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.360823",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101841",
+      "HO_TEN": "Dương Thị Bích Loan",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "101841",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102706",
+      "Id": "102706",
+      "TinhId": 10,
+      "NGAY_SINH": "03/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.657009",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102706",
+      "HO_TEN": "NGUYỄN ĐỨC LONG",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "102706",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

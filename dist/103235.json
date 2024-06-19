@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103235",
+      "Id": "103235",
+      "TinhId": 10,
+      "NGAY_SINH": "09/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.597430",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103235",
+      "HO_TEN": "ĐỖ NGUYỄN MINH ĐỨC",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "103235",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

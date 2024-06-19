@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101164",
+      "Id": "101164",
+      "TinhId": 10,
+      "NGAY_SINH": "02/15/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.430281",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101164",
+      "HO_TEN": "Tăng Thành Long",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "101164",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

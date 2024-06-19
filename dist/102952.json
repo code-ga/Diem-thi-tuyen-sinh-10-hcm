@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102952",
+      "Id": "102952",
+      "TinhId": 10,
+      "NGAY_SINH": "09/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.600512",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102952",
+      "HO_TEN": "Trương Phú Thành",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 3.25,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "102952",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

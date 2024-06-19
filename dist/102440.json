@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102440",
+      "Id": "102440",
+      "TinhId": 10,
+      "NGAY_SINH": "03/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.603064",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102440",
+      "HO_TEN": "TRẦN THANH BÌNH",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "102440",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

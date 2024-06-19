@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101821",
+      "Id": "101821",
+      "TinhId": 10,
+      "NGAY_SINH": "05/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.353461",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101821",
+      "HO_TEN": "Huỳnh Trần Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "101821",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

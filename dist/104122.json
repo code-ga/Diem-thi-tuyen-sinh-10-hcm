@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104122",
+      "Id": "104122",
+      "TinhId": 10,
+      "NGAY_SINH": "08/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.661920",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104122",
+      "HO_TEN": "Lê Hồng Quân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "104122",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104077",
+      "Id": "104077",
+      "TinhId": 10,
+      "NGAY_SINH": "10/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.659619",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104077",
+      "HO_TEN": "Lê Phạm An Nhiên",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "104077",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

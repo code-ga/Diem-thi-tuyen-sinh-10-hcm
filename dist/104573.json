@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104573",
+      "Id": "104573",
+      "TinhId": 10,
+      "NGAY_SINH": "08/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.666381",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104573",
+      "HO_TEN": "Phạm Anh Duy",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "104573",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

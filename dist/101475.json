@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101475",
+      "Id": "101475",
+      "TinhId": 10,
+      "NGAY_SINH": "02/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.355555",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101475",
+      "HO_TEN": "Omote Minh Anh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "101475",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102310",
+      "Id": "102310",
+      "TinhId": 10,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.351985",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102310",
+      "HO_TEN": "Đỗ Chí Danh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "102310",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

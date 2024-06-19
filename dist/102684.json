@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102684",
+      "Id": "102684",
+      "TinhId": 10,
+      "NGAY_SINH": "09/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.601699",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102684",
+      "HO_TEN": "NGUYỄN NGỌC KIỀU LINH",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "102684",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

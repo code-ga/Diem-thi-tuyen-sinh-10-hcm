@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102577",
+      "Id": "102577",
+      "TinhId": 10,
+      "NGAY_SINH": "05/08/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.663651",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102577",
+      "HO_TEN": "Trần Nguyễn Thành Hưng",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "102577",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

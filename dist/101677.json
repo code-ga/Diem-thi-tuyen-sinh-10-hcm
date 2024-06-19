@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101677",
+      "Id": "101677",
+      "TinhId": 10,
+      "NGAY_SINH": "11/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.352443",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101677",
+      "HO_TEN": "Nguyễn Diệp Mai Hương",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 2,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.5,
+      "SOBAODANH": "101677",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

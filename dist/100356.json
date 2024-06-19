@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100356",
+      "Id": "100356",
+      "TinhId": 10,
+      "NGAY_SINH": "09/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.294448",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100356",
+      "HO_TEN": "Đào Duy Khôi",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "100356",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

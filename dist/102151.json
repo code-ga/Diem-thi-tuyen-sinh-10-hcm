@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102151",
+      "Id": "102151",
+      "TinhId": 10,
+      "NGAY_SINH": "06/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.297495",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102151",
+      "HO_TEN": "Khương Bảo Thanh Thư",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "102151",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

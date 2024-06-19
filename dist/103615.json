@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103615",
+      "Id": "103615",
+      "TinhId": 10,
+      "NGAY_SINH": "06/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.597671",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103615",
+      "HO_TEN": "TRẦN HOÀNG VIỆT",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "103615",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

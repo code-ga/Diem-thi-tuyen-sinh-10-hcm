@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101933",
+      "Id": "101933",
+      "TinhId": 10,
+      "NGAY_SINH": "01/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.360849",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101933",
+      "HO_TEN": "Lâm Hoài Nghi",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 3.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "101933",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

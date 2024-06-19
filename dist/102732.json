@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102732",
+      "Id": "102732",
+      "TinhId": 10,
+      "NGAY_SINH": "12/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.664190",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102732",
+      "HO_TEN": "Trần Gia Quốc Minh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 3.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "102732",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

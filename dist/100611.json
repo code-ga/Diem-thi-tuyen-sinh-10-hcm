@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100611",
+      "Id": "100611",
+      "TinhId": 10,
+      "NGAY_SINH": "01/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.294169",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100611",
+      "HO_TEN": "Mai Nguyễn Phát",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 2.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "100611",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

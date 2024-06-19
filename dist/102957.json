@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102957",
+      "Id": "102957",
+      "TinhId": 10,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.657396",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102957",
+      "HO_TEN": "NGUYỄN LƯƠNG DẠ THẢO",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "102957",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

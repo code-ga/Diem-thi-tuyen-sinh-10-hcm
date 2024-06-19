@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102429",
+      "Id": "102429",
+      "TinhId": 10,
+      "NGAY_SINH": "01/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.603052",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102429",
+      "HO_TEN": "NGUYỄN THANH BẢO",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.25,
+      "SOBAODANH": "102429",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

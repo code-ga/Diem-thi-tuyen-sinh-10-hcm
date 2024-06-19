@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101886",
+      "Id": "101886",
+      "TinhId": 10,
+      "NGAY_SINH": "02/08/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.353233",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101886",
+      "HO_TEN": "Nguyễn Thị Cao Minh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "101886",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

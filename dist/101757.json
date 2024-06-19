@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101757",
+      "Id": "101757",
+      "TinhId": 10,
+      "NGAY_SINH": "01/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.298804",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101757",
+      "HO_TEN": "Nguyễn Hữu Anh Khoa",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "101757",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

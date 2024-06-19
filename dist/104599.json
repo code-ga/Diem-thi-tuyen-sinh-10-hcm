@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104599",
+      "Id": "104599",
+      "TinhId": 10,
+      "NGAY_SINH": "07/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.732503",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104599",
+      "HO_TEN": "Nguyễn Hoàng Hạc",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "104599",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

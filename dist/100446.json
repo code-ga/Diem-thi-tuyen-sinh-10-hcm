@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100446",
+      "Id": "100446",
+      "TinhId": 10,
+      "NGAY_SINH": "12/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.507311",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100446",
+      "HO_TEN": "Miller Phạm Malcolm",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "100446",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

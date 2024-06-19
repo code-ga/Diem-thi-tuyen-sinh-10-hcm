@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102885",
+      "Id": "102885",
+      "TinhId": 10,
+      "NGAY_SINH": "03/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.600478",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102885",
+      "HO_TEN": "Hồ Mai Phương",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "102885",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

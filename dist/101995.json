@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101995",
+      "Id": "101995",
+      "TinhId": 10,
+      "NGAY_SINH": "08/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.298141",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101995",
+      "HO_TEN": "Trương Thục Nhi",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 8,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "101995",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

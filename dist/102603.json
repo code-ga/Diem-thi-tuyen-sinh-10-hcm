@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102603",
+      "Id": "102603",
+      "TinhId": 10,
+      "NGAY_SINH": "10/01/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.663572",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102603",
+      "HO_TEN": "Nguyễn Ken",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "102603",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

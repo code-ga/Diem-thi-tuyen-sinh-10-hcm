@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104261",
+      "Id": "104261",
+      "TinhId": 10,
+      "NGAY_SINH": "09/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.517131",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104261",
+      "HO_TEN": "Huỳnh Sơn Trường",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "104261",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

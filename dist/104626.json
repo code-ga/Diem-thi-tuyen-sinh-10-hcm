@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104626",
+      "Id": "104626",
+      "TinhId": 10,
+      "NGAY_SINH": "07/09/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.666707",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104626",
+      "HO_TEN": "Tất Ngọc Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 7,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "104626",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

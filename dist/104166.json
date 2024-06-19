@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104166",
+      "Id": "104166",
+      "TinhId": 10,
+      "NGAY_SINH": "04/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.517054",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104166",
+      "HO_TEN": "Lý Minh Thắng",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 8,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "104166",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

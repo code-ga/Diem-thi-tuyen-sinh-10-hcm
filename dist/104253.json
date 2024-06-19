@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104253",
+      "Id": "104253",
+      "TinhId": 10,
+      "NGAY_SINH": "05/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.656570",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104253",
+      "HO_TEN": "Nguyễn Thị Phương Trinh",
+      "TINH": "HCM",
+      "TOAN": 1,
+      "VAN": 4,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10,
+      "SOBAODANH": "104253",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

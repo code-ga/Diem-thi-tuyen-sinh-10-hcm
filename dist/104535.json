@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "104535",
+      "Id": "104535",
+      "TinhId": 10,
+      "NGAY_SINH": "07/14/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.732784",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "104535",
+      "HO_TEN": "Nguyễn Hạo Đông",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 3.75,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "104535",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103257",
+      "Id": "103257",
+      "TinhId": 10,
+      "NGAY_SINH": "11/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.598462",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103257",
+      "HO_TEN": "CÙ ĐẠI HOÀNG GIA",
+      "TINH": "HCM",
+      "TOAN": 1.25,
+      "VAN": 4,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10,
+      "SOBAODANH": "103257",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101014",
+      "Id": "101014",
+      "TinhId": 10,
+      "NGAY_SINH": "01/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.429543",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101014",
+      "HO_TEN": "Mai Viết Dũng",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "101014",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

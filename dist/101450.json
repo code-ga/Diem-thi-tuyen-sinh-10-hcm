@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101450",
+      "Id": "101450",
+      "TinhId": 10,
+      "NGAY_SINH": "06/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.356026",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101450",
+      "HO_TEN": "Nguyễn Đình Thùy Anh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "101450",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102033",
+      "Id": "102033",
+      "TinhId": 10,
+      "NGAY_SINH": "12/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.359602",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102033",
+      "HO_TEN": "Trần Tiến Phong",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "102033",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

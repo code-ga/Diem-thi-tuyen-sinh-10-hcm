@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103356",
+      "Id": "103356",
+      "TinhId": 10,
+      "NGAY_SINH": "08/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.594468",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103356",
+      "HO_TEN": "Huỳnh Hà Hữu Lộc",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "103356",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

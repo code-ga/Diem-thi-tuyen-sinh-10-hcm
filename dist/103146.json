@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103146",
+      "Id": "103146",
+      "TinhId": 10,
+      "NGAY_SINH": "06/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.599089",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103146",
+      "HO_TEN": "Nguyễn Anh Hoàng Yến",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "103146",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

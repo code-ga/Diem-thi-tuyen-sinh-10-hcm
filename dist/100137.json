@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100137",
+      "Id": "100137",
+      "TinhId": 10,
+      "NGAY_SINH": "02/27/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.499552",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100137",
+      "HO_TEN": "Trần Hùng Cường",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 2.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "100137",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

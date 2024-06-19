@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103498",
+      "Id": "103498",
+      "TinhId": 10,
+      "NGAY_SINH": "08/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.523552",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103498",
+      "HO_TEN": "Dương Hà Ninh Quyên",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "103498",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

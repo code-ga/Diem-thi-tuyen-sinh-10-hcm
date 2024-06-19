@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101008",
+      "Id": "101008",
+      "TinhId": 10,
+      "NGAY_SINH": "02/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.432643",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101008",
+      "HO_TEN": "Lê Thành Đạt",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "101008",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

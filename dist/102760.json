@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102760",
+      "Id": "102760",
+      "TinhId": 10,
+      "NGAY_SINH": "09/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.599325",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102760",
+      "HO_TEN": "Nguyễn Thái Kim Ngân",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "102760",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103624",
+      "Id": "103624",
+      "TinhId": 10,
+      "NGAY_SINH": "08/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.597075",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103624",
+      "HO_TEN": "NGUYỄN NGỌC LAN VY",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "103624",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

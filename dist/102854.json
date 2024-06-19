@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102854",
+      "Id": "102854",
+      "TinhId": 10,
+      "NGAY_SINH": "07/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.604459",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102854",
+      "HO_TEN": "PHẠM HƯNG PHÁT",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "102854",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

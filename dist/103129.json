@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103129",
+      "Id": "103129",
+      "TinhId": 10,
+      "NGAY_SINH": "04/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.662986",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103129",
+      "HO_TEN": "Nguyễn Thanh Vy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "103129",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

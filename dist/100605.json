@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100605",
+      "Id": "100605",
+      "TinhId": 10,
+      "NGAY_SINH": "08/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.292481",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100605",
+      "HO_TEN": "Hồ Nguyễn Minh Nhựt",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "100605",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

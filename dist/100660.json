@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100660",
+      "Id": "100660",
+      "TinhId": 10,
+      "NGAY_SINH": "10/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.502279",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100660",
+      "HO_TEN": "Nguyễn Thị Thanh Phương",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 7,
+      "NGOAI_NGU": 1.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "100660",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

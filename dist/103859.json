@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103859",
+      "Id": "103859",
+      "TinhId": 10,
+      "NGAY_SINH": "07/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.519857",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103859",
+      "HO_TEN": "Trương Quang Hưng",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "103859",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103578",
+      "Id": "103578",
+      "TinhId": 10,
+      "NGAY_SINH": "01/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.522756",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103578",
+      "HO_TEN": "Nguyễn Ngọc Minh Triết",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "103578",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

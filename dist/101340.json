@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101340",
+      "Id": "101340",
+      "TinhId": 10,
+      "NGAY_SINH": "07/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.429676",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101340",
+      "HO_TEN": "Nguyễn Trung Toàn",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "101340",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

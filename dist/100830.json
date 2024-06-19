@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100830",
+      "Id": "100830",
+      "TinhId": 10,
+      "NGAY_SINH": "10/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.502546",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100830",
+      "HO_TEN": "Huỳnh Minh Trí",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "100830",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

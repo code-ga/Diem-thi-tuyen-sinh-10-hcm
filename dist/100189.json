@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100189",
+      "Id": "100189",
+      "TinhId": 10,
+      "NGAY_SINH": "09/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.500848",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100189",
+      "HO_TEN": "Lê Tuấn Duy",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "100189",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

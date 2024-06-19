@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "100852",
+      "Id": "100852",
+      "TinhId": 10,
+      "NGAY_SINH": "06/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.291145",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "100852",
+      "HO_TEN": "Trần Minh Truyền",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "100852",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

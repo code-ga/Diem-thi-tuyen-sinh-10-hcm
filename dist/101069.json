@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101069",
+      "Id": "101069",
+      "TinhId": 10,
+      "NGAY_SINH": "12/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.428545",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101069",
+      "HO_TEN": "Lâm Huỳnh Quốc Huy",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "101069",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102584",
+      "Id": "102584",
+      "TinhId": 10,
+      "NGAY_SINH": "04/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.605159",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102584",
+      "HO_TEN": "BÙI PHẠM GIA HUY",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "102584",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103865",
+      "Id": "103865",
+      "TinhId": 10,
+      "NGAY_SINH": "08/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.659234",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103865",
+      "HO_TEN": "Lê Quang Huy",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "103865",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

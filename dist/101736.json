@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101736",
+      "Id": "101736",
+      "TinhId": 10,
+      "NGAY_SINH": "09/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.359711",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101736",
+      "HO_TEN": "Hàn Minh Khánh",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "101736",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

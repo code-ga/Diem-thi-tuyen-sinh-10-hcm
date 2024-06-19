@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103227",
+      "Id": "103227",
+      "TinhId": 10,
+      "NGAY_SINH": "07/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.596526",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103227",
+      "HO_TEN": "PHẠM THANH DANH",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "103227",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

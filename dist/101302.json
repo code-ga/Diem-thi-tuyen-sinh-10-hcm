@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "101302",
+      "Id": "101302",
+      "TinhId": 10,
+      "NGAY_SINH": "12/16/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.430270",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "101302",
+      "HO_TEN": "Nguyễn Tiến Thành",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "101302",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

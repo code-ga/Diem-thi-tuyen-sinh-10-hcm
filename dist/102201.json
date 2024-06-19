@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102201",
+      "Id": "102201",
+      "TinhId": 10,
+      "NGAY_SINH": "09/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.364378",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102201",
+      "HO_TEN": "Nguyễn Ngọc Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "102201",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

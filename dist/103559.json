@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103559",
+      "Id": "103559",
+      "TinhId": 10,
+      "NGAY_SINH": "02/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.597052",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103559",
+      "HO_TEN": "ĐẶNG THỊ KIM TRÂM",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "103559",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

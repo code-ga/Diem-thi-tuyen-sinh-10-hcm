@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103768",
+      "Id": "103768",
+      "TinhId": 10,
+      "NGAY_SINH": "07/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.655890",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103768",
+      "HO_TEN": "Phạm Thanh Điền",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "103768",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103502",
+      "Id": "103502",
+      "TinhId": 10,
+      "NGAY_SINH": "08/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.522679",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103502",
+      "HO_TEN": "Nguyễn Trịnh Bảo Quyên",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "103502",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

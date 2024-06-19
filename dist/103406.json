@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "103406",
+      "Id": "103406",
+      "TinhId": 10,
+      "NGAY_SINH": "09/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.596359",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "103406",
+      "HO_TEN": "PHẠM PHƯƠNG NGHI",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "103406",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

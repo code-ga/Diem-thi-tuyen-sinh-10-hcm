@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "102224",
+      "Id": "102224",
+      "TinhId": 10,
+      "NGAY_SINH": "08/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.351848",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "102224",
+      "HO_TEN": "Nguyễn Hồ Gia Tú",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "102224",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}
