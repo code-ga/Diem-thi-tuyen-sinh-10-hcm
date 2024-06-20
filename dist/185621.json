@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185621",
+      "Id": "185621",
+      "TinhId": 18,
+      "NGAY_SINH": "07/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.709015",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185621",
+      "HO_TEN": "Nguyễn Khả Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "185621",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

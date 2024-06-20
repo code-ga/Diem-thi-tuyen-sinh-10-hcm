@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151698",
+      "Id": "151698",
+      "TinhId": 15,
+      "NGAY_SINH": "10/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.235219",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151698",
+      "HO_TEN": "Phạm Khánh Vy",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.25,
+      "SOBAODANH": "151698",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

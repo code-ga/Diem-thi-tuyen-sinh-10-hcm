@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "181463",
+      "Id": "181463",
+      "TinhId": 18,
+      "NGAY_SINH": "12/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.642733",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "181463",
+      "HO_TEN": "Cao Trần Minh Quốc",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.25,
+      "SOBAODANH": "181463",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

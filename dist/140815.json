@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140815",
+      "Id": "140815",
+      "TinhId": 14,
+      "NGAY_SINH": "06/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.519012",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140815",
+      "HO_TEN": "Nguyễn Phương Ly",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "140815",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

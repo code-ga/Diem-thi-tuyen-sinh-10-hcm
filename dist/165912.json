@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165912",
+      "Id": "165912",
+      "TinhId": 16,
+      "NGAY_SINH": "05/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.298093",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165912",
+      "HO_TEN": "Huỳnh Anh Khôi",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "165912",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132302",
+      "Id": "132302",
+      "TinhId": 13,
+      "NGAY_SINH": "07/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.838508",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132302",
+      "HO_TEN": "Nguyễn Ngọc Thảo Trang",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "132302",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

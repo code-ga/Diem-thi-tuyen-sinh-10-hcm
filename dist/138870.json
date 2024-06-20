@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138870",
+      "Id": "138870",
+      "TinhId": 13,
+      "NGAY_SINH": "02/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.241099",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138870",
+      "HO_TEN": "Nguyễn Trung Hiền",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "138870",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

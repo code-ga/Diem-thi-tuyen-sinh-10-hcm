@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165851",
+      "Id": "165851",
+      "TinhId": 16,
+      "NGAY_SINH": "10/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.298551",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165851",
+      "HO_TEN": "Đỗ Thị Ngọc Hân",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "165851",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

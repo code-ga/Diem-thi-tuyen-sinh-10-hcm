@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162501",
+      "Id": "162501",
+      "TinhId": 16,
+      "NGAY_SINH": "05/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.029082",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162501",
+      "HO_TEN": "Đinh Phú Hiếu",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "162501",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

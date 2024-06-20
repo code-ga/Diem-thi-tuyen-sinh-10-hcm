@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154375",
+      "Id": "154375",
+      "TinhId": 15,
+      "NGAY_SINH": "04/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.496154",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154375",
+      "HO_TEN": "Hà Vũ Quốc Đạt",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "154375",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

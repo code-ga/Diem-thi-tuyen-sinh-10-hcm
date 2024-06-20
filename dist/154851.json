@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154851",
+      "Id": "154851",
+      "TinhId": 15,
+      "NGAY_SINH": "02/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.622834",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154851",
+      "HO_TEN": "Phan Văn Tâm",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "154851",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

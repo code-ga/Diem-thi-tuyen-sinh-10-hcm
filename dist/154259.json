@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154259",
+      "Id": "154259",
+      "TinhId": 15,
+      "NGAY_SINH": "03/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.690875",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154259",
+      "HO_TEN": "Dương Thị Kim Yến",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "154259",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

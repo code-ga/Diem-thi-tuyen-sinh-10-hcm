@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136764",
+      "Id": "136764",
+      "TinhId": 13,
+      "NGAY_SINH": "07/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.034519",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136764",
+      "HO_TEN": "Chu Thụy Diệu Minh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "136764",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155212",
+      "Id": "155212",
+      "TinhId": 15,
+      "NGAY_SINH": "03/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.504719",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155212",
+      "HO_TEN": "NGUYỄN HOÀNG TẤN HÀO",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "155212",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

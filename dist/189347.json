@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189347",
+      "Id": "189347",
+      "TinhId": 18,
+      "NGAY_SINH": "06/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.785458",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189347",
+      "HO_TEN": "Trần Ngọc Mai Phương",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "189347",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

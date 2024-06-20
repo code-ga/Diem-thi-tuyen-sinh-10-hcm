@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129749",
+      "Id": "129749",
+      "TinhId": 12,
+      "NGAY_SINH": "05/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.406790",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129749",
+      "HO_TEN": "Lê Huyền Trân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "129749",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

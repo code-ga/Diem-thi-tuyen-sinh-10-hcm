@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129723",
+      "Id": "129723",
+      "TinhId": 12,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.414763",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129723",
+      "HO_TEN": "Huỳnh Cẩm Tiên",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "129723",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

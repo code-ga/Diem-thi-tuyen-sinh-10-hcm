@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "181581",
+      "Id": "181581",
+      "TinhId": 18,
+      "NGAY_SINH": "12/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.511686",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "181581",
+      "HO_TEN": "Nguyễn Thị Minh Thư",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "181581",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

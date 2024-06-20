@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191524",
+      "Id": "191524",
+      "TinhId": 19,
+      "NGAY_SINH": "10/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.988595",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191524",
+      "HO_TEN": "Đỗ Hoài Thương",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "191524",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

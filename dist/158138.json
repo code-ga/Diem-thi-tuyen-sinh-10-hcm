@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158138",
+      "Id": "158138",
+      "TinhId": 15,
+      "NGAY_SINH": "05/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.835535",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158138",
+      "HO_TEN": "Đoàn Ngọc Thanh Thảo",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 3.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "158138",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

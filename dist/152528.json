@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152528",
+      "Id": "152528",
+      "TinhId": 15,
+      "NGAY_SINH": "08/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.572247",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152528",
+      "HO_TEN": "Nguyễn Ngọc Mỹ Tiên",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "152528",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

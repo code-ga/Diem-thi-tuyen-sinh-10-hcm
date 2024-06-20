@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191150",
+      "Id": "191150",
+      "TinhId": 19,
+      "NGAY_SINH": "05/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.856415",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191150",
+      "HO_TEN": "Lâm Trần Kim Phụng",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "191150",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136417",
+      "Id": "136417",
+      "TinhId": 13,
+      "NGAY_SINH": "02/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.973623",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136417",
+      "HO_TEN": "Trần Hồng Hân",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": 1.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 4,
+      "SOBAODANH": "136417",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

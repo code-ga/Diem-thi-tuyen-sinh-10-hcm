@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184649",
+      "Id": "184649",
+      "TinhId": 18,
+      "NGAY_SINH": "05/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.514922",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184649",
+      "HO_TEN": "Trần Huy Pháp",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 26,
+      "SOBAODANH": "184649",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

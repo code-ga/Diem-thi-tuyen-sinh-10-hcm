@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190017",
+      "Id": "190017",
+      "TinhId": 19,
+      "NGAY_SINH": "07/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.651509",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190017",
+      "HO_TEN": "Lê Bảo Duy",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "190017",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170595",
+      "Id": "170595",
+      "TinhId": 17,
+      "NGAY_SINH": "11/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.683120",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170595",
+      "HO_TEN": "LÊ NGUYỄN MINH CHÂU",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "170595",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

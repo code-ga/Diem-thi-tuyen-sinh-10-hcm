@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184559",
+      "Id": "184559",
+      "TinhId": 18,
+      "NGAY_SINH": "02/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.461907",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184559",
+      "HO_TEN": "Nguyễn Lê Thảo Ly",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "184559",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

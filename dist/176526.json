@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176526",
+      "Id": "176526",
+      "TinhId": 17,
+      "NGAY_SINH": "12/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.992332",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176526",
+      "HO_TEN": "NGUYỄN ĐỨC TIẾN PHÁT",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "176526",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

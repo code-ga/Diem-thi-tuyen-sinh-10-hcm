@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190961",
+      "Id": "190961",
+      "TinhId": 19,
+      "NGAY_SINH": "11/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.853660",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190961",
+      "HO_TEN": "Lê Nguyễn Hoài Nhi",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "190961",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

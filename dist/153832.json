@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153832",
+      "Id": "153832",
+      "TinhId": 15,
+      "NGAY_SINH": "08/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.691668",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153832",
+      "HO_TEN": "Nguyễn Lê Kim Ngân",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "153832",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

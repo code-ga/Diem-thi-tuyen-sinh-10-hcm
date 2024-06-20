@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150756",
+      "Id": "150756",
+      "TinhId": 15,
+      "NGAY_SINH": "11/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.036835",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150756",
+      "HO_TEN": "Cần Hồng Gia Linh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "150756",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

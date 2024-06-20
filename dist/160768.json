@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160768",
+      "Id": "160768",
+      "TinhId": 16,
+      "NGAY_SINH": "11/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.964864",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160768",
+      "HO_TEN": "Phùng Thị Thanh Hoài",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "160768",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

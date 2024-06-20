@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128151",
+      "Id": "128151",
+      "TinhId": 12,
+      "NGAY_SINH": "09/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.473648",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128151",
+      "HO_TEN": "Thái Trần Nhật Minh",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "128151",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170028",
+      "Id": "170028",
+      "TinhId": 17,
+      "NGAY_SINH": "10/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.551032",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170028",
+      "HO_TEN": "Lê Ngọc Thúy Vy",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4.25,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.25,
+      "SOBAODANH": "170028",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

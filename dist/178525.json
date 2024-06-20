@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178525",
+      "Id": "178525",
+      "TinhId": 17,
+      "NGAY_SINH": "05/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.057585",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178525",
+      "HO_TEN": "Tạ Ngọc Quỳnh Trâm",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "178525",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

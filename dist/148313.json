@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148313",
+      "Id": "148313",
+      "TinhId": 14,
+      "NGAY_SINH": "02/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.172345",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148313",
+      "HO_TEN": "Trần Kim Ngọc",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "148313",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

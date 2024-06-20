@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125272",
+      "Id": "125272",
+      "TinhId": 12,
+      "NGAY_SINH": "06/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.066099",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125272",
+      "HO_TEN": "Thái Phạm Diễm My",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "125272",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

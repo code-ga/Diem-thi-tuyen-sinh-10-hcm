@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128501",
+      "Id": "128501",
+      "TinhId": 12,
+      "NGAY_SINH": "07/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.467592",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128501",
+      "HO_TEN": "Nguyễn Huỳnh Tiến Thịnh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "128501",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

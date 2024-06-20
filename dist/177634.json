@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177634",
+      "Id": "177634",
+      "TinhId": 17,
+      "NGAY_SINH": "08/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.053417",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177634",
+      "HO_TEN": "Võ Ngọc Khánh Phương",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "177634",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

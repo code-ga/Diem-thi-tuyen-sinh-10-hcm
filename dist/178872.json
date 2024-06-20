@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178872",
+      "Id": "178872",
+      "TinhId": 17,
+      "NGAY_SINH": "01/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.133362",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178872",
+      "HO_TEN": "Phạm Tuấn Kha",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "178872",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

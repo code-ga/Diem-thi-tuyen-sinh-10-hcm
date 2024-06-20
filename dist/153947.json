@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153947",
+      "Id": "153947",
+      "TinhId": 15,
+      "NGAY_SINH": "01/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.561734",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153947",
+      "HO_TEN": "Nguyễn Lê Hoàng Phúc",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "153947",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

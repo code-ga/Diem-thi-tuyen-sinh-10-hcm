@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121761",
+      "Id": "121761",
+      "TinhId": 12,
+      "NGAY_SINH": "09/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.201121",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121761",
+      "HO_TEN": "Trần Thị Ly Na",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 6,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 10,
+      "SOBAODANH": "121761",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

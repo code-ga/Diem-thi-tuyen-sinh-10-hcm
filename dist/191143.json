@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191143",
+      "Id": "191143",
+      "TinhId": 19,
+      "NGAY_SINH": "11/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.996331",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191143",
+      "HO_TEN": "Thái Anh Phúc",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "191143",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

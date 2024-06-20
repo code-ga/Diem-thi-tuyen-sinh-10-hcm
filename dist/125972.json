@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125972",
+      "Id": "125972",
+      "TinhId": 12,
+      "NGAY_SINH": "12/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.338464",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125972",
+      "HO_TEN": "Trần Phúc Mỹ Lâm",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "125972",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190905",
+      "Id": "190905",
+      "TinhId": 19,
+      "NGAY_SINH": "07/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.994270",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190905",
+      "HO_TEN": "Trần Ngọc Thảo Nguyên",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "190905",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "181866",
+      "Id": "181866",
+      "TinhId": 18,
+      "NGAY_SINH": "03/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.318907",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "181866",
+      "HO_TEN": "Lâm Trúc Anh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "181866",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

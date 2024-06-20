@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153958",
+      "Id": "153958",
+      "TinhId": 15,
+      "NGAY_SINH": "01/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.569310",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153958",
+      "HO_TEN": "Trịnh Lý Ngọc Phụng",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "153958",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125104",
+      "Id": "125104",
+      "TinhId": 12,
+      "NGAY_SINH": "06/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.064840",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125104",
+      "HO_TEN": "Lê Ngọc Hân",
+      "TINH": "HCM",
+      "TOAN": 1.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.5,
+      "SOBAODANH": "125104",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

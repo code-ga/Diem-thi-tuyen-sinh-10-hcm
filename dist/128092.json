@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128092",
+      "Id": "128092",
+      "TinhId": 12,
+      "NGAY_SINH": "01/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.531638",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128092",
+      "HO_TEN": "PHẠM TẤN LỘC",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "128092",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

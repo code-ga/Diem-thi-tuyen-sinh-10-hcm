@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160984",
+      "Id": "160984",
+      "TinhId": 16,
+      "NGAY_SINH": "08/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.957740",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160984",
+      "HO_TEN": "TRƯƠNG QUỲNH NHƯ",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "160984",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

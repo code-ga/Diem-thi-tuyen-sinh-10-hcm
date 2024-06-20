@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148612",
+      "Id": "148612",
+      "TinhId": 14,
+      "NGAY_SINH": "10/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.172012",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148612",
+      "HO_TEN": "Nguyễn Trần Thanh Thảo",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "148612",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

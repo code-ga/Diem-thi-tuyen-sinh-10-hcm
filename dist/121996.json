@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121996",
+      "Id": "121996",
+      "TinhId": 12,
+      "NGAY_SINH": "08/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.989645",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121996",
+      "HO_TEN": "Phạm Trần Minh Thư",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "121996",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

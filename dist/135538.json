@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135538",
+      "Id": "135538",
+      "TinhId": 13,
+      "NGAY_SINH": "06/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.968195",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135538",
+      "HO_TEN": "Trần Dương Ánh Mai",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 3,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.5,
+      "SOBAODANH": "135538",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

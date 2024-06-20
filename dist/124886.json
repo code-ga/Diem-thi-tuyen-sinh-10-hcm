@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124886",
+      "Id": "124886",
+      "TinhId": 12,
+      "NGAY_SINH": "03/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.135733",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124886",
+      "HO_TEN": "Nguyễn Thị Yến Trinh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "124886",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

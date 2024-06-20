@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153663",
+      "Id": "153663",
+      "TinhId": 15,
+      "NGAY_SINH": "12/28/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.563329",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153663",
+      "HO_TEN": "Trần Đỗ Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "153663",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

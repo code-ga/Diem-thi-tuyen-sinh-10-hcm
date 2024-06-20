@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124017",
+      "Id": "124017",
+      "TinhId": 12,
+      "NGAY_SINH": "04/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.197615",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124017",
+      "HO_TEN": "Trịnh Hoài Nam",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 1.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.25,
+      "SOBAODANH": "124017",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

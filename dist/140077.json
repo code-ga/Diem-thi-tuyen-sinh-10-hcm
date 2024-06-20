@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140077",
+      "Id": "140077",
+      "TinhId": 14,
+      "NGAY_SINH": "10/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.370140",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140077",
+      "HO_TEN": "NGUYỄN HOÀNG ANH",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "140077",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

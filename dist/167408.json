@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167408",
+      "Id": "167408",
+      "TinhId": 16,
+      "NGAY_SINH": "05/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.301430",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167408",
+      "HO_TEN": "Nguyễn Thanh Trúc",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.5,
+      "SOBAODANH": "167408",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

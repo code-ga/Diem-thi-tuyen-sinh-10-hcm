@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151947",
+      "Id": "151947",
+      "TinhId": 15,
+      "NGAY_SINH": "10/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.304746",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151947",
+      "HO_TEN": "Phạm Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "151947",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155816",
+      "Id": "155816",
+      "TinhId": 15,
+      "NGAY_SINH": "03/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.374666",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155816",
+      "HO_TEN": "Phạm Nguyễn Trâm Anh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 3.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "155816",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

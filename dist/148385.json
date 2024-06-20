@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148385",
+      "Id": "148385",
+      "TinhId": 14,
+      "NGAY_SINH": "12/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.171971",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148385",
+      "HO_TEN": "Vũ Nguyễn Uyển Nhi",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "148385",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

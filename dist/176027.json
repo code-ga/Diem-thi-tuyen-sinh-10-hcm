@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176027",
+      "Id": "176027",
+      "TinhId": 17,
+      "NGAY_SINH": "05/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.993875",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176027",
+      "HO_TEN": "TRỊNH GIA HUY",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 8,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "176027",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

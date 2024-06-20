@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177555",
+      "Id": "177555",
+      "TinhId": 17,
+      "NGAY_SINH": "07/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.203207",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177555",
+      "HO_TEN": "Nguyễn Trần Bảo Ngọc",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "177555",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

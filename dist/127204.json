@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127204",
+      "Id": "127204",
+      "TinhId": 12,
+      "NGAY_SINH": "01/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.342080",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127204",
+      "HO_TEN": "Phương Gia Phát",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "127204",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

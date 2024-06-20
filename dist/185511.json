@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185511",
+      "Id": "185511",
+      "TinhId": 18,
+      "NGAY_SINH": "10/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.710198",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185511",
+      "HO_TEN": "Nguyễn Thị Kim Thuyên",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.5,
+      "SOBAODANH": "185511",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

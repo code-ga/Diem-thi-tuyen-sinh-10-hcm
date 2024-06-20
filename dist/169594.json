@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169594",
+      "Id": "169594",
+      "TinhId": 16,
+      "NGAY_SINH": "09/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.432733",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169594",
+      "HO_TEN": "Phạm Nguyễn Quang Khôi",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "169594",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

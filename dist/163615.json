@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163615",
+      "Id": "163615",
+      "TinhId": 16,
+      "NGAY_SINH": "09/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.091353",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163615",
+      "HO_TEN": "Hồ Hải Thành",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "163615",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146298",
+      "Id": "146298",
+      "TinhId": 14,
+      "NGAY_SINH": "07/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.804222",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146298",
+      "HO_TEN": "Trịnh Thế Luân",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "146298",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177398",
+      "Id": "177398",
+      "TinhId": 17,
+      "NGAY_SINH": "02/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.054996",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177398",
+      "HO_TEN": "Nguyễn Nhật Tuấn Khang",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "177398",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "180822",
+      "Id": "180822",
+      "TinhId": 18,
+      "NGAY_SINH": "09/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.399777",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "180822",
+      "HO_TEN": "Nguyễn Thị Thuỳ Dương",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "180822",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

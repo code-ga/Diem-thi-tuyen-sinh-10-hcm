@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163308",
+      "Id": "163308",
+      "TinhId": 16,
+      "NGAY_SINH": "02/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.890493",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163308",
+      "HO_TEN": "Trần Nam Khang",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "163308",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

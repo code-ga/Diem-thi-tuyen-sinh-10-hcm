@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132179",
+      "Id": "132179",
+      "TinhId": 13,
+      "NGAY_SINH": "09/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.903307",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132179",
+      "HO_TEN": "Trịnh Dương Gia Thịnh",
+      "TINH": "HCM",
+      "TOAN": 8.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "132179",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

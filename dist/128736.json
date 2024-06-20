@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128736",
+      "Id": "128736",
+      "TinhId": 12,
+      "NGAY_SINH": "05/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.407821",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128736",
+      "HO_TEN": "Đỗ Hữu Quốc Anh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "128736",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

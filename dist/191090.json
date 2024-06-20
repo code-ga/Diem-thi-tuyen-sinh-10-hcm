@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191090",
+      "Id": "191090",
+      "TinhId": 19,
+      "NGAY_SINH": "10/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.858548",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191090",
+      "HO_TEN": "Lê Thanh Phong",
+      "TINH": "HCM",
+      "TOAN": 1,
+      "VAN": 0.5,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 3.25,
+      "SOBAODANH": "191090",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

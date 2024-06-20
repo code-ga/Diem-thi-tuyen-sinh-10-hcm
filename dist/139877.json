@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139877",
+      "Id": "139877",
+      "TinhId": 13,
+      "NGAY_SINH": "07/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.164197",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139877",
+      "HO_TEN": "Nguyễn Minh Tuấn",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 4,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "139877",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

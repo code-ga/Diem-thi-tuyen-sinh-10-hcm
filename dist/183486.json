@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183486",
+      "Id": "183486",
+      "TinhId": 18,
+      "NGAY_SINH": "08/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.588405",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183486",
+      "HO_TEN": "Hoàng Trần Khang",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "183486",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

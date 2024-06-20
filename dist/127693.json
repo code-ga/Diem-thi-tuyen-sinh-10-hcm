@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127693",
+      "Id": "127693",
+      "TinhId": 12,
+      "NGAY_SINH": "10/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.474252",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127693",
+      "HO_TEN": "Huỳnh Vương Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "127693",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

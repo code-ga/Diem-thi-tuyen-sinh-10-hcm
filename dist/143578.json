@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143578",
+      "Id": "143578",
+      "TinhId": 14,
+      "NGAY_SINH": "01/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.585784",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143578",
+      "HO_TEN": "Nguyễn Minh Trí",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "143578",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

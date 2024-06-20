@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158981",
+      "Id": "158981",
+      "TinhId": 15,
+      "NGAY_SINH": "02/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.955754",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158981",
+      "HO_TEN": "Trần Thị Thùy Trang",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "158981",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

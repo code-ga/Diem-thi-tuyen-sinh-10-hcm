@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136780",
+      "Id": "136780",
+      "TinhId": 13,
+      "NGAY_SINH": "07/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.234847",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136780",
+      "HO_TEN": "Nguyễn Quốc Minh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "136780",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

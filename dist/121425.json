@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121425",
+      "Id": "121425",
+      "TinhId": 12,
+      "NGAY_SINH": "09/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.203297",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121425",
+      "HO_TEN": "Nguyễn Mạnh Nhất Anh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "121425",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

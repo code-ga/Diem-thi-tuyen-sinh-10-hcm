@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148506",
+      "Id": "148506",
+      "TinhId": 14,
+      "NGAY_SINH": "01/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.173940",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148506",
+      "HO_TEN": "Trần Trúc Phương",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "148506",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

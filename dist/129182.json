@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129182",
+      "Id": "129182",
+      "TinhId": 12,
+      "NGAY_SINH": "05/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.409439",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129182",
+      "HO_TEN": "Nguyễn Thiên Kim",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "129182",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

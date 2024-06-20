@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162751",
+      "Id": "162751",
+      "TinhId": 16,
+      "NGAY_SINH": "05/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.022142",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162751",
+      "HO_TEN": "Trương Nguyễn",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "162751",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

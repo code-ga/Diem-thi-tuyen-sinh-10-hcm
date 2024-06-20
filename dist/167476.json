@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167476",
+      "Id": "167476",
+      "TinhId": 16,
+      "NGAY_SINH": "10/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.367276",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167476",
+      "HO_TEN": "Mai Thị Quế Anh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "167476",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

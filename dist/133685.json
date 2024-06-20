@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133685",
+      "Id": "133685",
+      "TinhId": 13,
+      "NGAY_SINH": "04/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.779446",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133685",
+      "HO_TEN": "Bùi Ngô Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "133685",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

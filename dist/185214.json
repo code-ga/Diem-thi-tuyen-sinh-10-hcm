@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185214",
+      "Id": "185214",
+      "TinhId": 18,
+      "NGAY_SINH": "01/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.707849",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185214",
+      "HO_TEN": "Hoàng Thị Trà My",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "185214",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

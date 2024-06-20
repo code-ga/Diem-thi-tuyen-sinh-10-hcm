@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140894",
+      "Id": "140894",
+      "TinhId": 14,
+      "NGAY_SINH": "06/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.373520",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140894",
+      "HO_TEN": "Lý Hà My",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 4.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "140894",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

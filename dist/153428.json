@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153428",
+      "Id": "153428",
+      "TinhId": 15,
+      "NGAY_SINH": "03/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.566255",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153428",
+      "HO_TEN": "Phạm Trương Minh Anh",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "153428",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

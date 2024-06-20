@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148374",
+      "Id": "148374",
+      "TinhId": 14,
+      "NGAY_SINH": "08/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.172678",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148374",
+      "HO_TEN": "Thái Trần Phương Nhi",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "148374",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

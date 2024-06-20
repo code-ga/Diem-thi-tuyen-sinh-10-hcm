@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158714",
+      "Id": "158714",
+      "TinhId": 15,
+      "NGAY_SINH": "08/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.765781",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158714",
+      "HO_TEN": "Phan Ngọc Phương Nghi",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "158714",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

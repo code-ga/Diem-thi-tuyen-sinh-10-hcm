@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148116",
+      "Id": "148116",
+      "TinhId": 14,
+      "NGAY_SINH": "02/25/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.875198",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148116",
+      "HO_TEN": "Mai Vũ Nhật Linh",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "148116",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

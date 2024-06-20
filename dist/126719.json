@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126719",
+      "Id": "126719",
+      "TinhId": 12,
+      "NGAY_SINH": "10/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.345699",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126719",
+      "HO_TEN": "Phạm Lê Duy",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 3.5,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "126719",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

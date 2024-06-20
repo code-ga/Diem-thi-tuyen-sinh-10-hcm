@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124092",
+      "Id": "124092",
+      "TinhId": 12,
+      "NGAY_SINH": "02/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.145765",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124092",
+      "HO_TEN": "Nguyễn Thị Kiều Oanh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "124092",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

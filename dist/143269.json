@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143269",
+      "Id": "143269",
+      "TinhId": 14,
+      "NGAY_SINH": "08/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.524914",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143269",
+      "HO_TEN": "Nguyễn Trần Thanh Sang",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "143269",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

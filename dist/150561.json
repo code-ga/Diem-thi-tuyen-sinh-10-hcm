@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150561",
+      "Id": "150561",
+      "TinhId": 15,
+      "NGAY_SINH": "04/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.167082",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150561",
+      "HO_TEN": "Phạm Trần Nhật Huy",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "150561",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

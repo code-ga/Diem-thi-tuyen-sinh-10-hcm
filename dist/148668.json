@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148668",
+      "Id": "148668",
+      "TinhId": 14,
+      "NGAY_SINH": "05/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.941274",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148668",
+      "HO_TEN": "Phạm Nguyễn Minh Thư",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "148668",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

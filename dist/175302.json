@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175302",
+      "Id": "175302",
+      "TinhId": 17,
+      "NGAY_SINH": "04/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.988092",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175302",
+      "HO_TEN": "HỒ NGỌC PHƯƠNG TRINH",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 3.25,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "175302",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

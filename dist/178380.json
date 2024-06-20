@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178380",
+      "Id": "178380",
+      "TinhId": 17,
+      "NGAY_SINH": "12/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.138493",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178380",
+      "HO_TEN": "Nguyễn Hoàng Phúc",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "178380",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

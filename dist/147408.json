@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147408",
+      "Id": "147408",
+      "TinhId": 14,
+      "NGAY_SINH": "07/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.738865",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147408",
+      "HO_TEN": "Nguyễn Minh Tuyết",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "147408",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

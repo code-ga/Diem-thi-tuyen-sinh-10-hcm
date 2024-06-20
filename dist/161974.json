@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161974",
+      "Id": "161974",
+      "TinhId": 16,
+      "NGAY_SINH": "05/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.958800",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161974",
+      "HO_TEN": "Phạm Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "161974",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

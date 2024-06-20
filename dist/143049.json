@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143049",
+      "Id": "143049",
+      "TinhId": 14,
+      "NGAY_SINH": "04/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.582812",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143049",
+      "HO_TEN": "Phạm Phương Nhiên",
+      "TINH": "HCM",
+      "TOAN": 9.25,
+      "VAN": 8,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 26.25,
+      "SOBAODANH": "143049",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

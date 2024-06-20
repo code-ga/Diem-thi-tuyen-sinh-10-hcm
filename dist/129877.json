@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129877",
+      "Id": "129877",
+      "TinhId": 12,
+      "NGAY_SINH": "03/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.405045",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129877",
+      "HO_TEN": "Lê Thụy Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 8.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 25,
+      "SOBAODANH": "129877",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

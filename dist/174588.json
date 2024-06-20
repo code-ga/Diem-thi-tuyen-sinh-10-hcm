@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174588",
+      "Id": "174588",
+      "TinhId": 17,
+      "NGAY_SINH": "02/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.680350",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174588",
+      "HO_TEN": "PHẠM MINH LỘC",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "174588",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

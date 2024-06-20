@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159962",
+      "Id": "159962",
+      "TinhId": 15,
+      "NGAY_SINH": "07/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.828087",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159962",
+      "HO_TEN": "Trần Lê Ngọc Hân",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "159962",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174258",
+      "Id": "174258",
+      "TinhId": 17,
+      "NGAY_SINH": "06/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.989557",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174258",
+      "HO_TEN": "NGUYỄN NGỌC THÚY HẰNG",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "174258",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

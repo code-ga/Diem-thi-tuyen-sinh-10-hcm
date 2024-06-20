@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133725",
+      "Id": "133725",
+      "TinhId": 13,
+      "NGAY_SINH": "07/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.599070",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133725",
+      "HO_TEN": "Đinh Trần Thái An",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "133725",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161403",
+      "Id": "161403",
+      "TinhId": 16,
+      "NGAY_SINH": "10/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.897677",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161403",
+      "HO_TEN": "Hà Trương Hiếu",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "161403",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

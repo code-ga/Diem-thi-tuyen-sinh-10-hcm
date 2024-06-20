@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148125",
+      "Id": "148125",
+      "TinhId": 14,
+      "NGAY_SINH": "10/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.878212",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148125",
+      "HO_TEN": "Phạm Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "148125",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151361",
+      "Id": "151361",
+      "TinhId": 15,
+      "NGAY_SINH": "01/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.039712",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151361",
+      "HO_TEN": "Ngô Trường Thành",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 4.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "151361",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

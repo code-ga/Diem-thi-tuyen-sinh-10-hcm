@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122672",
+      "Id": "122672",
+      "TinhId": 12,
+      "NGAY_SINH": "11/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.140014",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122672",
+      "HO_TEN": "Phạm Kim Oanh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "122672",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

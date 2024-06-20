@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187739",
+      "Id": "187739",
+      "TinhId": 18,
+      "NGAY_SINH": "01/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.930032",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187739",
+      "HO_TEN": "Nguyễn Ngọc Như Ý",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "187739",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

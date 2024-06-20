@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187574",
+      "Id": "187574",
+      "TinhId": 18,
+      "NGAY_SINH": "07/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.135578",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187574",
+      "HO_TEN": "NGUYỄN THÀNH TUẤN",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "187574",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131616",
+      "Id": "131616",
+      "TinhId": 13,
+      "NGAY_SINH": "03/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.901258",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131616",
+      "HO_TEN": "Lương Minh Khôi",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "131616",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

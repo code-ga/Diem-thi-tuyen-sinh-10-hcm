@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "166400",
+      "Id": "166400",
+      "TinhId": 16,
+      "NGAY_SINH": "02/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.293367",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "166400",
+      "HO_TEN": "Võ Thành Gia Minh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "166400",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123507",
+      "Id": "123507",
+      "TinhId": 12,
+      "NGAY_SINH": "03/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.929607",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123507",
+      "HO_TEN": "Nguyễn Hoài Nhật Quang",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "123507",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

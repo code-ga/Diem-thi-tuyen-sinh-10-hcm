@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125988",
+      "Id": "125988",
+      "TinhId": 12,
+      "NGAY_SINH": "06/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.343214",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125988",
+      "HO_TEN": "Trần Phương Linh",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.75,
+      "SOBAODANH": "125988",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

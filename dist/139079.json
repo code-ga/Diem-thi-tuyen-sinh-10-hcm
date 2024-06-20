@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139079",
+      "Id": "139079",
+      "TinhId": 13,
+      "NGAY_SINH": "09/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.237708",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139079",
+      "HO_TEN": "Trương Gia Lạc",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 1.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.75,
+      "SOBAODANH": "139079",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

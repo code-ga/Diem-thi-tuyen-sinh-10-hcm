@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183729",
+      "Id": "183729",
+      "TinhId": 18,
+      "NGAY_SINH": "03/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.404202",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183729",
+      "HO_TEN": "Phạm Nhật Nam",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "183729",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135567",
+      "Id": "135567",
+      "TinhId": 13,
+      "NGAY_SINH": "04/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.970252",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135567",
+      "HO_TEN": "Nguyễn Thị Trà My",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "135567",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

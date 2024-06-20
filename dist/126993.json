@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126993",
+      "Id": "126993",
+      "TinhId": 12,
+      "NGAY_SINH": "12/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.344657",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126993",
+      "HO_TEN": "Võ Thị Nhựt Linh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "126993",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

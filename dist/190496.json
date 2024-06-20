@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190496",
+      "Id": "190496",
+      "TinhId": 19,
+      "NGAY_SINH": "07/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.998083",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190496",
+      "HO_TEN": "Nguyễn Thị Ngọc Kim",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "190496",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

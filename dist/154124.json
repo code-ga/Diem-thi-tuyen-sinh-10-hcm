@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154124",
+      "Id": "154124",
+      "TinhId": 15,
+      "NGAY_SINH": "09/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.694398",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154124",
+      "HO_TEN": "Cao Ngọc Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "154124",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

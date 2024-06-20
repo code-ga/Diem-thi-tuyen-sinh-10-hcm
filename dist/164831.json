@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164831",
+      "Id": "164831",
+      "TinhId": 16,
+      "NGAY_SINH": "02/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.232466",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164831",
+      "HO_TEN": "Chu Thị Minh Anh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "164831",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157162",
+      "Id": "157162",
+      "TinhId": 15,
+      "NGAY_SINH": "10/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.630190",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157162",
+      "HO_TEN": "Đoàn Bùi Thiện Nhân",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "157162",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

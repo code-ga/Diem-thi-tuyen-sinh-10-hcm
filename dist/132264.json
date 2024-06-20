@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132264",
+      "Id": "132264",
+      "TinhId": 13,
+      "NGAY_SINH": "06/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.841982",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132264",
+      "HO_TEN": "Đồng Thị Ngọc Trâm",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "132264",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

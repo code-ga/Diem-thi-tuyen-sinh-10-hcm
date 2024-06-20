@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137636",
+      "Id": "137636",
+      "TinhId": 13,
+      "NGAY_SINH": "11/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.098084",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137636",
+      "HO_TEN": "An Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.75,
+      "SOBAODANH": "137636",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

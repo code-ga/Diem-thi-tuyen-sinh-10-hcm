@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149471",
+      "Id": "149471",
+      "TinhId": 14,
+      "NGAY_SINH": "05/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.882629",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149471",
+      "HO_TEN": "Trương Đức Mạnh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "149471",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187102",
+      "Id": "187102",
+      "TinhId": 18,
+      "NGAY_SINH": "02/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.925740",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187102",
+      "HO_TEN": "Nguyễn Lê Minh Quang",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "187102",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

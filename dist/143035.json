@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143035",
+      "Id": "143035",
+      "TinhId": 14,
+      "NGAY_SINH": "06/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.591335",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143035",
+      "HO_TEN": "Nguyễn Ngọc Thảo Nhi",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "143035",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177038",
+      "Id": "177038",
+      "TinhId": 17,
+      "NGAY_SINH": "04/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.763366",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177038",
+      "HO_TEN": "Nguyễn Thị Thùy Uyên",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "177038",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127261",
+      "Id": "127261",
+      "TinhId": 12,
+      "NGAY_SINH": "11/30/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.344012",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127261",
+      "HO_TEN": "Trương Huệ Phương",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "127261",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126538",
+      "Id": "126538",
+      "TinhId": 12,
+      "NGAY_SINH": "05/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.271780",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126538",
+      "HO_TEN": "Bùi Kiều Anh",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "126538",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

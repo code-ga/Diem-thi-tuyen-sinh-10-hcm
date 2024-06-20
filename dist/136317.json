@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136317",
+      "Id": "136317",
+      "TinhId": 13,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.030518",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136317",
+      "HO_TEN": "Tạ Thành Đạt",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "136317",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

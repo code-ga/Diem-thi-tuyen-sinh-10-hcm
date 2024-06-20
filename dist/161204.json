@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161204",
+      "Id": "161204",
+      "TinhId": 16,
+      "NGAY_SINH": "12/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.957818",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161204",
+      "HO_TEN": "NGUYỄN THỊ NGỌC TUYỀN",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "161204",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

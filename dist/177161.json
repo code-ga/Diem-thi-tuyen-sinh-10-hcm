@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177161",
+      "Id": "177161",
+      "TinhId": 17,
+      "NGAY_SINH": "08/19/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.907920",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177161",
+      "HO_TEN": "CHUNG BẢO YẾN",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "177161",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

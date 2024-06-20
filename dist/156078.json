@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156078",
+      "Id": "156078",
+      "TinhId": 15,
+      "NGAY_SINH": "08/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.435867",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156078",
+      "HO_TEN": "Nguyễn Gia Khang",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "156078",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

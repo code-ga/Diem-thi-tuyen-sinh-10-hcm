@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184722",
+      "Id": "184722",
+      "TinhId": 18,
+      "NGAY_SINH": "09/08/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.642860",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184722",
+      "HO_TEN": "Nguyễn Bá Thanh",
+      "TINH": "HCM",
+      "TOAN": 1,
+      "VAN": 3,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.75,
+      "SOBAODANH": "184722",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

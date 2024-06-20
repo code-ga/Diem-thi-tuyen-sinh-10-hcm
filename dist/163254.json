@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163254",
+      "Id": "163254",
+      "TinhId": 16,
+      "NGAY_SINH": "05/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.091213",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163254",
+      "HO_TEN": "Hà Thị Duy Hòa",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "163254",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

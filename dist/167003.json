@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167003",
+      "Id": "167003",
+      "TinhId": 16,
+      "NGAY_SINH": "01/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.292790",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167003",
+      "HO_TEN": "Bùi Thị Thảo Trinh",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 8.25,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "167003",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

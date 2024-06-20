@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "171121",
+      "Id": "171121",
+      "TinhId": 17,
+      "NGAY_SINH": "04/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.682838",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "171121",
+      "HO_TEN": "NGUYỄN HOÀNG NGỌC LONG",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "171121",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

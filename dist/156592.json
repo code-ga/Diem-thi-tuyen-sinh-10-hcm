@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156592",
+      "Id": "156592",
+      "TinhId": 15,
+      "NGAY_SINH": "10/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.437635",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156592",
+      "HO_TEN": "Trương Nguyễn Cao Trí",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "156592",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155364",
+      "Id": "155364",
+      "TinhId": 15,
+      "NGAY_SINH": "12/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.508072",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155364",
+      "HO_TEN": "Trần Ngọc Thảo My",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "155364",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

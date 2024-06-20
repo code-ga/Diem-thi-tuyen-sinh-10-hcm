@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129583",
+      "Id": "129583",
+      "TinhId": 12,
+      "NGAY_SINH": "10/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.406199",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129583",
+      "HO_TEN": "Lý Vinh Quang",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "129583",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

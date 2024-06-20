@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168779",
+      "Id": "168779",
+      "TinhId": 16,
+      "NGAY_SINH": "09/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.425023",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168779",
+      "HO_TEN": "Phạm Ngô Quốc Vinh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "168779",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

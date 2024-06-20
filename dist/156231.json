@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156231",
+      "Id": "156231",
+      "TinhId": 15,
+      "NGAY_SINH": "10/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.375922",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156231",
+      "HO_TEN": "Trần Văn Năng",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "156231",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163613",
+      "Id": "163613",
+      "TinhId": 16,
+      "NGAY_SINH": "07/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.839936",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163613",
+      "HO_TEN": "Nguyễn Lê Phước Thiên Thanh",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 6,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "163613",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129814",
+      "Id": "129814",
+      "TinhId": 12,
+      "NGAY_SINH": "10/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.471573",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129814",
+      "HO_TEN": "Lý Gia Tuệ",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 7,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "129814",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

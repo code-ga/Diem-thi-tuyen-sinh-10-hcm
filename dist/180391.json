@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "180391",
+      "Id": "180391",
+      "TinhId": 18,
+      "NGAY_SINH": "09/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.519025",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "180391",
+      "HO_TEN": "Nguyễn Hoàng Thanh Thúy",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "180391",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

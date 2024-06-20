@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141330",
+      "Id": "141330",
+      "TinhId": 14,
+      "NGAY_SINH": "12/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.654097",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141330",
+      "HO_TEN": "Nguyễn Đặng Hoàng Thái",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "141330",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

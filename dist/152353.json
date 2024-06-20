@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152353",
+      "Id": "152353",
+      "TinhId": 15,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.305632",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152353",
+      "HO_TEN": "Trần Thế Phong",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "152353",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

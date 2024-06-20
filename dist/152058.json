@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152058",
+      "Id": "152058",
+      "TinhId": 15,
+      "NGAY_SINH": "05/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.305300",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152058",
+      "HO_TEN": "Nguyễn Lâm Gia Khánh",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "152058",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

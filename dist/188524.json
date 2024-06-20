@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188524",
+      "Id": "188524",
+      "TinhId": 18,
+      "NGAY_SINH": "10/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.052949",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188524",
+      "HO_TEN": "Nguyễn Lê Tấn Sang",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "188524",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

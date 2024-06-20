@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148422",
+      "Id": "148422",
+      "TinhId": 14,
+      "NGAY_SINH": "07/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.227343",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148422",
+      "HO_TEN": "Trần Gia Phát",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "148422",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

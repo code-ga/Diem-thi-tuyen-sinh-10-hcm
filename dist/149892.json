@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149892",
+      "Id": "149892",
+      "TinhId": 14,
+      "NGAY_SINH": "01/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.882945",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149892",
+      "HO_TEN": "Nguyễn Ngọc Kim Trúc",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "149892",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

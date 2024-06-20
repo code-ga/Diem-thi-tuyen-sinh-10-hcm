@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124133",
+      "Id": "124133",
+      "TinhId": 12,
+      "NGAY_SINH": "05/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.996429",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124133",
+      "HO_TEN": "Đinh Thiên Quang",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "124133",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

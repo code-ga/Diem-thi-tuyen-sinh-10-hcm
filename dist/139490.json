@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139490",
+      "Id": "139490",
+      "TinhId": 13,
+      "NGAY_SINH": "02/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.241715",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139490",
+      "HO_TEN": "Trần Hoàng Phúc",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 8.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "139490",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

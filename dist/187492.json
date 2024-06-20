@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187492",
+      "Id": "187492",
+      "TinhId": 18,
+      "NGAY_SINH": "12/02/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.922215",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187492",
+      "HO_TEN": "Trần Thanh Triều",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "187492",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

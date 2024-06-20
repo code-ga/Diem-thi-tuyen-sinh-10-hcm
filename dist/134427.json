@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134427",
+      "Id": "134427",
+      "TinhId": 13,
+      "NGAY_SINH": "08/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.608527",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134427",
+      "HO_TEN": "Hà Trần Phương Nghi",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "134427",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

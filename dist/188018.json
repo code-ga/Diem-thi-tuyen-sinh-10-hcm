@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188018",
+      "Id": "188018",
+      "TinhId": 18,
+      "NGAY_SINH": "06/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.710332",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188018",
+      "HO_TEN": "Nguyễn Hồng Diễm Hằng",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 7,
+      "NGOAI_NGU": 1.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "188018",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

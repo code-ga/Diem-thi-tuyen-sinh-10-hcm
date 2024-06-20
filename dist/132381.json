@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132381",
+      "Id": "132381",
+      "TinhId": 13,
+      "NGAY_SINH": "11/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.904681",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132381",
+      "HO_TEN": "Tạ Gia Uyên",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "132381",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

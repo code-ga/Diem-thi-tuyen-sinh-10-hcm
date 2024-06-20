@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134056",
+      "Id": "134056",
+      "TinhId": 13,
+      "NGAY_SINH": "07/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.971447",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134056",
+      "HO_TEN": "Phạm Nguyễn Thảo Hiền",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "134056",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

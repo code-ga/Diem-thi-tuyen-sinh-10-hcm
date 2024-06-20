@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130813",
+      "Id": "130813",
+      "TinhId": 13,
+      "NGAY_SINH": "07/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.706604",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130813",
+      "HO_TEN": "Trần Phương Ngọc Thảo",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "130813",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

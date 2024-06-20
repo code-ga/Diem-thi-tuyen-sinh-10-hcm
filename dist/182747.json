@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182747",
+      "Id": "182747",
+      "TinhId": 18,
+      "NGAY_SINH": "06/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.321292",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182747",
+      "HO_TEN": "Phạm Thiên Tân",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.25,
+      "SOBAODANH": "182747",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

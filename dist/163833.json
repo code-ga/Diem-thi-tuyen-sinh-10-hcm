@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163833",
+      "Id": "163833",
+      "TinhId": 16,
+      "NGAY_SINH": "10/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.168941",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163833",
+      "HO_TEN": "PHAN VÕ GIA BẢO",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "163833",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

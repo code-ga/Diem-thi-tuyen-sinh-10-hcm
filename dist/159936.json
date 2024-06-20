@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159936",
+      "Id": "159936",
+      "TinhId": 15,
+      "NGAY_SINH": "12/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.827701",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159936",
+      "HO_TEN": "Trần Lê Nhật Duy",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "159936",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

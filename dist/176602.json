@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176602",
+      "Id": "176602",
+      "TinhId": 17,
+      "NGAY_SINH": "05/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.763019",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176602",
+      "HO_TEN": "Nguyễn Lê Trúc Phương",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "176602",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

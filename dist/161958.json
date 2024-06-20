@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161958",
+      "Id": "161958",
+      "TinhId": 16,
+      "NGAY_SINH": "11/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.960140",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161958",
+      "HO_TEN": "Phan Thị Ánh Hồng",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "161958",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

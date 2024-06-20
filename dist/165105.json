@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165105",
+      "Id": "165105",
+      "TinhId": 16,
+      "NGAY_SINH": "03/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.173749",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165105",
+      "HO_TEN": "Phan Duy Khanh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "165105",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

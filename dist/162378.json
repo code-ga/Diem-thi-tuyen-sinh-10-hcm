@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162378",
+      "Id": "162378",
+      "TinhId": 16,
+      "NGAY_SINH": "09/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.025245",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162378",
+      "HO_TEN": "Cát Thị Ánh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "162378",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

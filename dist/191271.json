@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191271",
+      "Id": "191271",
+      "TinhId": 19,
+      "NGAY_SINH": "05/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.051550",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191271",
+      "HO_TEN": "Huỳnh Phúc Tài",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "191271",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

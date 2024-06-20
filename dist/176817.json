@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176817",
+      "Id": "176817",
+      "TinhId": 17,
+      "NGAY_SINH": "02/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.904176",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176817",
+      "HO_TEN": "PHẠM XUÂN THƯ",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "176817",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

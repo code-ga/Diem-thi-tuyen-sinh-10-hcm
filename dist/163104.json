@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163104",
+      "Id": "163104",
+      "TinhId": 16,
+      "NGAY_SINH": "12/05/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.890359",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163104",
+      "HO_TEN": "Nguyễn Trăm Anh",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "163104",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

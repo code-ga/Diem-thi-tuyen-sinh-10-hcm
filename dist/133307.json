@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133307",
+      "Id": "133307",
+      "TinhId": 13,
+      "NGAY_SINH": "05/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.770984",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133307",
+      "HO_TEN": "Phan Ngọc Phúc",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "133307",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

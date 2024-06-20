@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160255",
+      "Id": "160255",
+      "TinhId": 16,
+      "NGAY_SINH": "01/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.829700",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160255",
+      "HO_TEN": "Đỗ Thị Kiều Oanh",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "160255",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

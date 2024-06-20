@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124818",
+      "Id": "124818",
+      "TinhId": 12,
+      "NGAY_SINH": "06/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.987580",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124818",
+      "HO_TEN": "Cao Triều Thịnh",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "124818",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

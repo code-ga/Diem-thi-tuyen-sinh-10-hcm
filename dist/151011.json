@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151011",
+      "Id": "151011",
+      "TinhId": 15,
+      "NGAY_SINH": "01/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.028892",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151011",
+      "HO_TEN": "Nguyễn Tô Kim Ngọc",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "151011",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

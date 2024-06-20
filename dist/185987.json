@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185987",
+      "Id": "185987",
+      "TinhId": 18,
+      "NGAY_SINH": "08/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.129202",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185987",
+      "HO_TEN": "Ngô Lê Huyền Diệu",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "185987",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

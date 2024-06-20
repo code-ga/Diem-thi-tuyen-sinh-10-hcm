@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152425",
+      "Id": "152425",
+      "TinhId": 15,
+      "NGAY_SINH": "06/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.301857",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152425",
+      "HO_TEN": "Vương Sang",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 3.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "152425",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

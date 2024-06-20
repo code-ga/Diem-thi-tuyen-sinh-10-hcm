@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187252",
+      "Id": "187252",
+      "TinhId": 18,
+      "NGAY_SINH": "11/24/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.063955",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187252",
+      "HO_TEN": "Nguyễn Bình Phương Thảo",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.5,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "187252",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

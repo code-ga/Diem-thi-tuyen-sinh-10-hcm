@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165831",
+      "Id": "165831",
+      "TinhId": 16,
+      "NGAY_SINH": "01/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.298324",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165831",
+      "HO_TEN": "Nguyễn Chí Dũng",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "165831",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

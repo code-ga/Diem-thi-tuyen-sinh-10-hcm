@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142385",
+      "Id": "142385",
+      "TinhId": 14,
+      "NGAY_SINH": "12/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.651671",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142385",
+      "HO_TEN": "Bùi Thúy Hồng",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "142385",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176709",
+      "Id": "176709",
+      "TinhId": 17,
+      "NGAY_SINH": "06/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.992525",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176709",
+      "HO_TEN": "PHAN NGUYỄN THẮNG",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "176709",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

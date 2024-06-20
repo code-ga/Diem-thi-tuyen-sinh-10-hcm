@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191459",
+      "Id": "191459",
+      "TinhId": 19,
+      "NGAY_SINH": "07/14/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.647144",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191459",
+      "HO_TEN": "Dương Ngọc Phương Thư",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "191459",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

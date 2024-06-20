@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140017",
+      "Id": "140017",
+      "TinhId": 14,
+      "NGAY_SINH": "10/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.301856",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140017",
+      "HO_TEN": "Võ Huỳnh Xuân An",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "140017",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

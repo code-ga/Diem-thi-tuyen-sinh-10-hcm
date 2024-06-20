@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191105",
+      "Id": "191105",
+      "TinhId": 19,
+      "NGAY_SINH": "06/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.991134",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191105",
+      "HO_TEN": "Lưu Gia Phú",
+      "TINH": "HCM",
+      "TOAN": 0.25,
+      "VAN": 3,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.75,
+      "SOBAODANH": "191105",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

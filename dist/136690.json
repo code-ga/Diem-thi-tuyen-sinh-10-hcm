@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136690",
+      "Id": "136690",
+      "TinhId": 13,
+      "NGAY_SINH": "11/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.976303",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136690",
+      "HO_TEN": "Đoàn Trần Chi Lâm",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "136690",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

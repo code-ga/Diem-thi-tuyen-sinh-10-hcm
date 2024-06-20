@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135525",
+      "Id": "135525",
+      "TinhId": 13,
+      "NGAY_SINH": "09/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.710428",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135525",
+      "HO_TEN": "Diệp Quý Luân",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "135525",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

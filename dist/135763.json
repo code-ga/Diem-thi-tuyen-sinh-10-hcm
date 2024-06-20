@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135763",
+      "Id": "135763",
+      "TinhId": 13,
+      "NGAY_SINH": "08/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.970164",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135763",
+      "HO_TEN": "Trần Kiều Phương",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 6,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "135763",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

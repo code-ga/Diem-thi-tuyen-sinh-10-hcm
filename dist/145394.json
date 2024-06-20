@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145394",
+      "Id": "145394",
+      "TinhId": 14,
+      "NGAY_SINH": "08/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.659758",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145394",
+      "HO_TEN": "Võ Minh Quân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "145394",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

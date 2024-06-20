@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190586",
+      "Id": "190586",
+      "TinhId": 19,
+      "NGAY_SINH": "10/19/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.992506",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190586",
+      "HO_TEN": "Võ Hồng Lộc",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "190586",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

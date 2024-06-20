@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150840",
+      "Id": "150840",
+      "TinhId": 15,
+      "NGAY_SINH": "06/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.032777",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150840",
+      "HO_TEN": "Đỗ Uyên Minh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "150840",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

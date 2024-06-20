@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174814",
+      "Id": "174814",
+      "TinhId": 17,
+      "NGAY_SINH": "04/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.679239",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174814",
+      "HO_TEN": "VÕ THÀNH NHÂN",
+      "TINH": "HCM",
+      "TOAN": 0.5,
+      "VAN": 4,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8,
+      "SOBAODANH": "174814",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

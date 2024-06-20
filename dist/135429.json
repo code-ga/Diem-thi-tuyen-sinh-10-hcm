@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135429",
+      "Id": "135429",
+      "TinhId": 13,
+      "NGAY_SINH": "09/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.970630",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135429",
+      "HO_TEN": "Nguyễn Minh Gia Khánh",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 8.75,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 26,
+      "SOBAODANH": "135429",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

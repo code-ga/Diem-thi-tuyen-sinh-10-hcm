@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188893",
+      "Id": "188893",
+      "TinhId": 18,
+      "NGAY_SINH": "01/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.784218",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188893",
+      "HO_TEN": "Văn Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "188893",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

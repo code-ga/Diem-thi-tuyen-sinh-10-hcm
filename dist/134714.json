@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134714",
+      "Id": "134714",
+      "TinhId": 13,
+      "NGAY_SINH": "07/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.737594",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134714",
+      "HO_TEN": "Phạm Quốc Thái",
+      "TINH": "HCM",
+      "TOAN": 1,
+      "VAN": 4.25,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 7,
+      "SOBAODANH": "134714",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

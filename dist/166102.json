@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "166102",
+      "Id": "166102",
+      "TinhId": 16,
+      "NGAY_SINH": "02/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.497095",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "166102",
+      "HO_TEN": "Phạm Mai Trâm",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "166102",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

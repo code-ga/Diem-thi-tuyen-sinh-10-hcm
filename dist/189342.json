@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189342",
+      "Id": "189342",
+      "TinhId": 18,
+      "NGAY_SINH": "04/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.863277",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189342",
+      "HO_TEN": "NGUYỄN VĂN PHƯƠNG",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "189342",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

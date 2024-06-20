@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183608",
+      "Id": "183608",
+      "TinhId": 18,
+      "NGAY_SINH": "01/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.588278",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183608",
+      "HO_TEN": "Đặng Nhã Lil",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "183608",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

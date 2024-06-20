@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136646",
+      "Id": "136646",
+      "TinhId": 13,
+      "NGAY_SINH": "07/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.035279",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136646",
+      "HO_TEN": "Trần Nguyễn Sỹ Khương",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "136646",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

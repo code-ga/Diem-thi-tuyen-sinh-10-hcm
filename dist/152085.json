@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152085",
+      "Id": "152085",
+      "TinhId": 15,
+      "NGAY_SINH": "01/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.303719",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152085",
+      "HO_TEN": "Huỳnh Anh Khôi",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "152085",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128887",
+      "Id": "128887",
+      "TinhId": 12,
+      "NGAY_SINH": "02/10/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.531517",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128887",
+      "HO_TEN": "Nguyễn Thị Thùy Dung",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 6,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "128887",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

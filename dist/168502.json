@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168502",
+      "Id": "168502",
+      "TinhId": 16,
+      "NGAY_SINH": "06/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.425698",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168502",
+      "HO_TEN": "Lê Võ Thanh Long",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "168502",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

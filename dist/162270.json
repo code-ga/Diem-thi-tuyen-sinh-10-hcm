@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162270",
+      "Id": "162270",
+      "TinhId": 16,
+      "NGAY_SINH": "02/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.962902",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162270",
+      "HO_TEN": "Phạm Cao Trí",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "162270",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

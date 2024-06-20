@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179410",
+      "Id": "179410",
+      "TinhId": 17,
+      "NGAY_SINH": "09/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.517164",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179410",
+      "HO_TEN": "Bùi Châu Khải Anh",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.5,
+      "SOBAODANH": "179410",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

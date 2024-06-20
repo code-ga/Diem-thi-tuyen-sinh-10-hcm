@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154639",
+      "Id": "154639",
+      "TinhId": 15,
+      "NGAY_SINH": "04/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.625285",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154639",
+      "HO_TEN": "Ngô Nguyễn Nguyệt Minh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "154639",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

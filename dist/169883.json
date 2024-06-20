@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169883",
+      "Id": "169883",
+      "TinhId": 16,
+      "NGAY_SINH": "05/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.433531",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169883",
+      "HO_TEN": "Lê Hoàng Gia Thịnh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 3,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "169883",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

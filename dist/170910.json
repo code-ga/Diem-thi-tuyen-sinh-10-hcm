@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170910",
+      "Id": "170910",
+      "TinhId": 17,
+      "NGAY_SINH": "06/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.557581",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170910",
+      "HO_TEN": "NGUYỄN TRẦN GIA HUY",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "170910",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "166029",
+      "Id": "166029",
+      "TinhId": 16,
+      "NGAY_SINH": "02/05/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.299678",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "166029",
+      "HO_TEN": "Lê Xuân Bảo Quốc",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "166029",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

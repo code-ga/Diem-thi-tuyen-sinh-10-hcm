@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134475",
+      "Id": "134475",
+      "TinhId": 13,
+      "NGAY_SINH": "08/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.600812",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134475",
+      "HO_TEN": "Trương Khánh Ngọc",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "134475",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

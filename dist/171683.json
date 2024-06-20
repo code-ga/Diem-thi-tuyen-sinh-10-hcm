@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "171683",
+      "Id": "171683",
+      "TinhId": 17,
+      "NGAY_SINH": "11/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.687520",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "171683",
+      "HO_TEN": "NGUYỄN LÊ THIỆN",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "171683",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

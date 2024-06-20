@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137367",
+      "Id": "137367",
+      "TinhId": 13,
+      "NGAY_SINH": "06/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.031375",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137367",
+      "HO_TEN": "Lê Hải Triều",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "137367",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

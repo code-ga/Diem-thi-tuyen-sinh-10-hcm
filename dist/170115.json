@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170115",
+      "Id": "170115",
+      "TinhId": 17,
+      "NGAY_SINH": "06/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.495394",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170115",
+      "HO_TEN": "Huỳnh Đức Duy",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "170115",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

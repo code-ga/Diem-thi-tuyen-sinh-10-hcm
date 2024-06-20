@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157712",
+      "Id": "157712",
+      "TinhId": 15,
+      "NGAY_SINH": "03/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.698306",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157712",
+      "HO_TEN": "Huỳnh Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "157712",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

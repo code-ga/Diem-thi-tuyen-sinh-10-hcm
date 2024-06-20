@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184546",
+      "Id": "184546",
+      "TinhId": 18,
+      "NGAY_SINH": "06/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.461530",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184546",
+      "HO_TEN": "Vũ Ánh Linh",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "184546",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

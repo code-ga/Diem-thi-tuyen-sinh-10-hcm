@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "181112",
+      "Id": "181112",
+      "TinhId": 18,
+      "NGAY_SINH": "02/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.401746",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "181112",
+      "HO_TEN": "Trương Sơn Thuỳ Lâm",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "181112",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

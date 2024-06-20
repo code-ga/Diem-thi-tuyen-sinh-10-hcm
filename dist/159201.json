@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159201",
+      "Id": "159201",
+      "TinhId": 15,
+      "NGAY_SINH": "10/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.953985",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159201",
+      "HO_TEN": "Nguyễn Xuân Dũng",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "159201",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

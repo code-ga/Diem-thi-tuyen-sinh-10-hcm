@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136616",
+      "Id": "136616",
+      "TinhId": 13,
+      "NGAY_SINH": "12/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.034843",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136616",
+      "HO_TEN": "Thái Trần Đăng Khoa",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 5.5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "136616",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

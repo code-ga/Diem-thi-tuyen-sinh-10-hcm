@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132493",
+      "Id": "132493",
+      "TinhId": 13,
+      "NGAY_SINH": "08/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.768373",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132493",
+      "HO_TEN": "Đặng Mai Tuấn Anh",
+      "TINH": "HCM",
+      "TOAN": 8.25,
+      "VAN": 8,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.75,
+      "SOBAODANH": "132493",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133881",
+      "Id": "133881",
+      "TinhId": 13,
+      "NGAY_SINH": "05/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.604146",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133881",
+      "HO_TEN": "Nguyễn Hoàng Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "133881",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

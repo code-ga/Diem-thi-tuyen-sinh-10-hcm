@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186531",
+      "Id": "186531",
+      "TinhId": 18,
+      "NGAY_SINH": "07/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.129077",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186531",
+      "HO_TEN": "Nguyễn Chí Linh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "186531",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

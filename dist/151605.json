@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151605",
+      "Id": "151605",
+      "TinhId": 15,
+      "NGAY_SINH": "08/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.018422",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151605",
+      "HO_TEN": "Phạm Trần Minh Tuấn",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "151605",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

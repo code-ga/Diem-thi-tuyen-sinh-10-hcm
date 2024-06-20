@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161959",
+      "Id": "161959",
+      "TinhId": 16,
+      "NGAY_SINH": "08/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.961305",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161959",
+      "HO_TEN": "Lại Thị Kim Huệ",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "161959",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

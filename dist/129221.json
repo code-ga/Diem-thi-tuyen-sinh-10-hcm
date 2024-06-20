@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129221",
+      "Id": "129221",
+      "TinhId": 12,
+      "NGAY_SINH": "05/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.414107",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129221",
+      "HO_TEN": "Lý Hoàng Linh",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 3,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 8,
+      "SOBAODANH": "129221",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

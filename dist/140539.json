@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140539",
+      "Id": "140539",
+      "TinhId": 14,
+      "NGAY_SINH": "04/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.519796",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140539",
+      "HO_TEN": "Lê Nhật Huy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "140539",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

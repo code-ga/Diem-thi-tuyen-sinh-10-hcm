@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156875",
+      "Id": "156875",
+      "TinhId": 15,
+      "NGAY_SINH": "03/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.627723",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156875",
+      "HO_TEN": "Đỗ Phạm Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "156875",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

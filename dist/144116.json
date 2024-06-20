@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144116",
+      "Id": "144116",
+      "TinhId": 14,
+      "NGAY_SINH": "10/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.734537",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144116",
+      "HO_TEN": "Võ Trần Ngọc Châu",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "144116",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

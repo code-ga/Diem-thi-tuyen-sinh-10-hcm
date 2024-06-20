@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167291",
+      "Id": "167291",
+      "TinhId": 16,
+      "NGAY_SINH": "04/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.302583",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167291",
+      "HO_TEN": "Khưu Minh Phát",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 1.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 8,
+      "SOBAODANH": "167291",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

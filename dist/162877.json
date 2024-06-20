@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162877",
+      "Id": "162877",
+      "TinhId": 16,
+      "NGAY_SINH": "01/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.022353",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162877",
+      "HO_TEN": "Đỗ Tân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "162877",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

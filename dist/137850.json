@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137850",
+      "Id": "137850",
+      "TinhId": 13,
+      "NGAY_SINH": "02/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.096981",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137850",
+      "HO_TEN": "Từ Cẩm Huy",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 3.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "137850",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

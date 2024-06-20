@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185721",
+      "Id": "185721",
+      "TinhId": 18,
+      "NGAY_SINH": "09/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.128756",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185721",
+      "HO_TEN": "Lê Minh Đức Anh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "185721",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

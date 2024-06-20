@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164352",
+      "Id": "164352",
+      "TinhId": 16,
+      "NGAY_SINH": "10/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.165289",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164352",
+      "HO_TEN": "NGUYỄN THỊ LAN ANH",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "164352",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

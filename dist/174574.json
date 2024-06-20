@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174574",
+      "Id": "174574",
+      "TinhId": 17,
+      "NGAY_SINH": "02/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.620431",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174574",
+      "HO_TEN": "TRƯƠNG HOÀNG GIA LINH",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "174574",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

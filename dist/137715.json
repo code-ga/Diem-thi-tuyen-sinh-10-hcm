@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137715",
+      "Id": "137715",
+      "TinhId": 13,
+      "NGAY_SINH": "08/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.242688",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137715",
+      "HO_TEN": "Nguyễn Minh Thiên Định",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "137715",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

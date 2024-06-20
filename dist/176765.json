@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176765",
+      "Id": "176765",
+      "TinhId": 17,
+      "NGAY_SINH": "08/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.902958",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176765",
+      "HO_TEN": "LÊ XUÂN THIỆN",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "176765",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165306",
+      "Id": "165306",
+      "TinhId": 16,
+      "NGAY_SINH": "07/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.173146",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165306",
+      "HO_TEN": "Phạm Nguyễn Thảo Nguyên",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "165306",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

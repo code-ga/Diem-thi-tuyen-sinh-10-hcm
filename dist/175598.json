@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175598",
+      "Id": "175598",
+      "TinhId": 17,
+      "NGAY_SINH": "11/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.763130",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175598",
+      "HO_TEN": "Trần Thị Quỳnh Anh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "175598",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141544",
+      "Id": "141544",
+      "TinhId": 14,
+      "NGAY_SINH": "12/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.303446",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141544",
+      "HO_TEN": "Lê Hoàng Minh Trang",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "141544",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

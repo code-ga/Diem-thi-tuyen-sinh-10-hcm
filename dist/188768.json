@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188768",
+      "Id": "188768",
+      "TinhId": 18,
+      "NGAY_SINH": "08/15/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.053222",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188768",
+      "HO_TEN": "Thái Ngọc Mỹ Uyên",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "188768",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

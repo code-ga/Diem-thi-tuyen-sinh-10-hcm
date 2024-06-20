@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122911",
+      "Id": "122911",
+      "TinhId": 12,
+      "NGAY_SINH": "12/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.061606",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122911",
+      "HO_TEN": "Bùi Minh Tuấn",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "122911",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

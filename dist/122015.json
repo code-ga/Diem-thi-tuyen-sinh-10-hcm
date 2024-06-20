@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122015",
+      "Id": "122015",
+      "TinhId": 12,
+      "NGAY_SINH": "06/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.991992",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122015",
+      "HO_TEN": "Trần Hoàng Thy",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "122015",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

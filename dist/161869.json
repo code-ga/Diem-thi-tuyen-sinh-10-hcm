@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161869",
+      "Id": "161869",
+      "TinhId": 16,
+      "NGAY_SINH": "07/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.963951",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161869",
+      "HO_TEN": "Trần Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 2.75,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10,
+      "SOBAODANH": "161869",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

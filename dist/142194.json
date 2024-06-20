@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142194",
+      "Id": "142194",
+      "TinhId": 14,
+      "NGAY_SINH": "07/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.651638",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142194",
+      "HO_TEN": "Nguyễn Lê Nhật Dương",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 4,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "142194",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

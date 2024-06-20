@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "171337",
+      "Id": "171337",
+      "TinhId": 17,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.754493",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "171337",
+      "HO_TEN": "HỒ DƯƠNG TUYẾT NHI",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "171337",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

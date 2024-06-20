@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152257",
+      "Id": "152257",
+      "TinhId": 15,
+      "NGAY_SINH": "01/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.301912",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152257",
+      "HO_TEN": "Nguyễn Đào Bội Ngọc",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "152257",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

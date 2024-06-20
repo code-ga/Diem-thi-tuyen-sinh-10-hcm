@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147189",
+      "Id": "147189",
+      "TinhId": 14,
+      "NGAY_SINH": "06/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.873313",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147189",
+      "HO_TEN": "TRẦN PHẠM HƯNG PHÁT",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "147189",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138676",
+      "Id": "138676",
+      "TinhId": 13,
+      "NGAY_SINH": "09/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.237596",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138676",
+      "HO_TEN": "Phạm Lê Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "138676",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

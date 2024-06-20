@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176720",
+      "Id": "176720",
+      "TinhId": 17,
+      "NGAY_SINH": "03/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.823856",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176720",
+      "HO_TEN": "Võ Ngọc Phương Thanh",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "176720",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184285",
+      "Id": "184285",
+      "TinhId": 18,
+      "NGAY_SINH": "01/11/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.641305",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184285",
+      "HO_TEN": "Từ Thị Diễm Xuyên",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "184285",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182144",
+      "Id": "182144",
+      "TinhId": 18,
+      "NGAY_SINH": "06/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.643918",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182144",
+      "HO_TEN": "BÙI VÕ MINH HÙNG",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "182144",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

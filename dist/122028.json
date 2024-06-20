@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122028",
+      "Id": "122028",
+      "TinhId": 12,
+      "NGAY_SINH": "10/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.202039",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122028",
+      "HO_TEN": "Nguyễn Trọng Tiến",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "122028",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

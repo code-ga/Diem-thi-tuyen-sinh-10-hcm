@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131729",
+      "Id": "131729",
+      "TinhId": 13,
+      "NGAY_SINH": "03/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.904725",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131729",
+      "HO_TEN": "Lương Phạm Hùng Mạnh",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "131729",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

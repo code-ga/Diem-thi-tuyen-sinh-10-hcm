@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159796",
+      "Id": "159796",
+      "TinhId": 15,
+      "NGAY_SINH": "02/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.770292",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159796",
+      "HO_TEN": "Tào Ngọc Phương Vy",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "159796",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

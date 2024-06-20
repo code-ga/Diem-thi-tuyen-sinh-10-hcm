@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136157",
+      "Id": "136157",
+      "TinhId": 13,
+      "NGAY_SINH": "05/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.973479",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136157",
+      "HO_TEN": "Nguyễn Phạm Duy Anh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 4,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.75,
+      "SOBAODANH": "136157",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "173751",
+      "Id": "173751",
+      "TinhId": 17,
+      "NGAY_SINH": "02/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.760958",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "173751",
+      "HO_TEN": "Nguyễn Thụy Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "173751",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

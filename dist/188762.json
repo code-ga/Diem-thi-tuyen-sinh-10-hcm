@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188762",
+      "Id": "188762",
+      "TinhId": 18,
+      "NGAY_SINH": "09/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.055666",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188762",
+      "HO_TEN": "Ngô Kiều Phương Uyên",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "188762",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

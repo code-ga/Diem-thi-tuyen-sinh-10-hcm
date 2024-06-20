@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184526",
+      "Id": "184526",
+      "TinhId": 18,
+      "NGAY_SINH": "03/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.514127",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184526",
+      "HO_TEN": "Phan Quỳnh Lam",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "184526",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

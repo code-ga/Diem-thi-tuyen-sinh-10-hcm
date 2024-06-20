@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148983",
+      "Id": "148983",
+      "TinhId": 14,
+      "NGAY_SINH": "04/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.879604",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148983",
+      "HO_TEN": "Phan Bá Phúc",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "148983",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

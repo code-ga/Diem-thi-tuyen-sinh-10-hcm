@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148589",
+      "Id": "148589",
+      "TinhId": 14,
+      "NGAY_SINH": "08/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.173041",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148589",
+      "HO_TEN": "Đỗ Cao Thắng",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 5,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "148589",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

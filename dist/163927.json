@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163927",
+      "Id": "163927",
+      "TinhId": 16,
+      "NGAY_SINH": "10/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.168073",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163927",
+      "HO_TEN": "Nguyễn Huỳnh Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "163927",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

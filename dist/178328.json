@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178328",
+      "Id": "178328",
+      "TinhId": 17,
+      "NGAY_SINH": "06/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.056343",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178328",
+      "HO_TEN": "Võ Thị Ngọc Nhi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "178328",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

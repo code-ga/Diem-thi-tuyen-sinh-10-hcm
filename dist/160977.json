@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160977",
+      "Id": "160977",
+      "TinhId": 16,
+      "NGAY_SINH": "10/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.958338",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160977",
+      "HO_TEN": "NGUYỄN QUỲNH NHƯ",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 8,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "160977",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

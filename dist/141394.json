@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141394",
+      "Id": "141394",
+      "TinhId": 14,
+      "NGAY_SINH": "05/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.657366",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141394",
+      "HO_TEN": "Đặng Quang Thịnh",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "141394",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

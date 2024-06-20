@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123997",
+      "Id": "123997",
+      "TinhId": 12,
+      "NGAY_SINH": "03/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.145339",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123997",
+      "HO_TEN": "Lê Nguyễn Công Minh",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "123997",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

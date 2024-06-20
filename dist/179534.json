@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179534",
+      "Id": "179534",
+      "TinhId": 17,
+      "NGAY_SINH": "06/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.516859",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179534",
+      "HO_TEN": "Nguyễn Hoàng Minh Đăng",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "179534",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

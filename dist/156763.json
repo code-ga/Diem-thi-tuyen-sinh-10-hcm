@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156763",
+      "Id": "156763",
+      "TinhId": 15,
+      "NGAY_SINH": "04/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.627621",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156763",
+      "HO_TEN": "Phạm Hoàng Thiên Anh",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "156763",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

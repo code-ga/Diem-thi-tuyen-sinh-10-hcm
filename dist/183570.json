@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183570",
+      "Id": "183570",
+      "TinhId": 18,
+      "NGAY_SINH": "06/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.588593",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183570",
+      "HO_TEN": "Tôn Thất Trung Kiên",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 26,
+      "SOBAODANH": "183570",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

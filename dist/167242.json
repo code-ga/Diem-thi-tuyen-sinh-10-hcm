@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167242",
+      "Id": "167242",
+      "TinhId": 16,
+      "NGAY_SINH": "04/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.360565",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167242",
+      "HO_TEN": "Nguyễn Võ Mỹ Nga",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "167242",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

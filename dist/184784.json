@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184784",
+      "Id": "184784",
+      "TinhId": 18,
+      "NGAY_SINH": "01/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.515963",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184784",
+      "HO_TEN": "Mã Thiên Trang",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "184784",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

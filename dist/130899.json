@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130899",
+      "Id": "130899",
+      "TinhId": 13,
+      "NGAY_SINH": "09/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.846365",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130899",
+      "HO_TEN": "Nguyễn Nguyên Tín",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "130899",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

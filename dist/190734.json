@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190734",
+      "Id": "190734",
+      "TinhId": 19,
+      "NGAY_SINH": "07/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.858931",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190734",
+      "HO_TEN": "Nguyễn Hoài Bảo Nam",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "190734",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

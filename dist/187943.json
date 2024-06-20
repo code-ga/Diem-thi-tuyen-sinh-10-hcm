@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187943",
+      "Id": "187943",
+      "TinhId": 18,
+      "NGAY_SINH": "12/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.056393",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187943",
+      "HO_TEN": "Phạm Thị Thùy Dung",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "187943",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188389",
+      "Id": "188389",
+      "TinhId": 18,
+      "NGAY_SINH": "06/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.055400",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188389",
+      "HO_TEN": "Phan Hoàng Yến Nhi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "188389",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

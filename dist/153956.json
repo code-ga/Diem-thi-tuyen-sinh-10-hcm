@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153956",
+      "Id": "153956",
+      "TinhId": 15,
+      "NGAY_SINH": "08/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.694160",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153956",
+      "HO_TEN": "Đinh Vũ Hoàng Phụng",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "153956",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

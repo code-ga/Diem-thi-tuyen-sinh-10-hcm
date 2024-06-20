@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187171",
+      "Id": "187171",
+      "TinhId": 18,
+      "NGAY_SINH": "04/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.061335",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187171",
+      "HO_TEN": "La Đức Tài",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "187171",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

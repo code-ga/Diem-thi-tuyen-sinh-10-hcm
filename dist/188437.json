@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188437",
+      "Id": "188437",
+      "TinhId": 18,
+      "NGAY_SINH": "06/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.051777",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188437",
+      "HO_TEN": "Nông Diệp Phi",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "188437",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

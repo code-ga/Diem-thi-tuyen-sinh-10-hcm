@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122593",
+      "Id": "122593",
+      "TinhId": 12,
+      "NGAY_SINH": "06/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.059429",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122593",
+      "HO_TEN": "Nguyễn Triều Nghi",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.75,
+      "SOBAODANH": "122593",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

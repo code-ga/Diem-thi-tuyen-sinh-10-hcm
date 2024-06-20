@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178071",
+      "Id": "178071",
+      "TinhId": 17,
+      "NGAY_SINH": "09/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.057742",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178071",
+      "HO_TEN": "Nguyễn Việt Hương",
+      "TINH": "HCM",
+      "TOAN": 9,
+      "VAN": 8,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 26.5,
+      "SOBAODANH": "178071",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

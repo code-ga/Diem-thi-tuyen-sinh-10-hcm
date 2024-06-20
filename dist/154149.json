@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154149",
+      "Id": "154149",
+      "TinhId": 15,
+      "NGAY_SINH": "09/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.562576",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154149",
+      "HO_TEN": "Nguyễn Minh Triết",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "154149",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

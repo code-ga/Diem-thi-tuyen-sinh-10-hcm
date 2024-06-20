@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156624",
+      "Id": "156624",
+      "TinhId": 15,
+      "NGAY_SINH": "04/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.435143",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156624",
+      "HO_TEN": "Đặng Nhựt Mai Tường",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.5,
+      "SOBAODANH": "156624",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

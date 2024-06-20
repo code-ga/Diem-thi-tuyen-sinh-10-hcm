@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152700",
+      "Id": "152700",
+      "TinhId": 15,
+      "NGAY_SINH": "08/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.621441",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152700",
+      "HO_TEN": "Trương Ngọc Thúy An",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "152700",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

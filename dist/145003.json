@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145003",
+      "Id": "145003",
+      "TinhId": 14,
+      "NGAY_SINH": "11/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.736381",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145003",
+      "HO_TEN": "Nguyễn Đinh Ngọc Kim Ngân",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "145003",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

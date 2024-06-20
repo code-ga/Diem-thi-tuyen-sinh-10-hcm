@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160760",
+      "Id": "160760",
+      "TinhId": 16,
+      "NGAY_SINH": "01/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.089728",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160760",
+      "HO_TEN": "Trần Thị Thanh Hiếu",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "160760",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

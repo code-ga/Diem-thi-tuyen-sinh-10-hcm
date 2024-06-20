@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178853",
+      "Id": "178853",
+      "TinhId": 17,
+      "NGAY_SINH": "11/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.131610",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178853",
+      "HO_TEN": "Lê Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "178853",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

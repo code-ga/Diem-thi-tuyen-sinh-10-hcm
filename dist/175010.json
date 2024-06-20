@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175010",
+      "Id": "175010",
+      "TinhId": 17,
+      "NGAY_SINH": "03/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.678741",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175010",
+      "HO_TEN": "TSẦN GỊP VINH QUÝ",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 3.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "175010",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

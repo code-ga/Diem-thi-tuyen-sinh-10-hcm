@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187449",
+      "Id": "187449",
+      "TinhId": 18,
+      "NGAY_SINH": "02/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.131309",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187449",
+      "HO_TEN": "NGUYỄN NGỌC HUYỀN TRÂN",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "187449",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

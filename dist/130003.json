@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130003",
+      "Id": "130003",
+      "TinhId": 13,
+      "NGAY_SINH": "03/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.848100",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130003",
+      "HO_TEN": "Vũ Huỳnh Quốc Anh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "130003",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

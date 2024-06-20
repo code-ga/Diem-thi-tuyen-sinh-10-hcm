@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176471",
+      "Id": "176471",
+      "TinhId": 17,
+      "NGAY_SINH": "06/02/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.907545",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176471",
+      "HO_TEN": "TRẦN THỊ Ý NHI",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "176471",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

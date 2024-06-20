@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128468",
+      "Id": "128468",
+      "TinhId": 12,
+      "NGAY_SINH": "05/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.528034",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128468",
+      "HO_TEN": "Chềnh Hưng Thành",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "128468",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

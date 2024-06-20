@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160497",
+      "Id": "160497",
+      "TinhId": 16,
+      "NGAY_SINH": "08/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.833297",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160497",
+      "HO_TEN": "Trà Nguyễn Minh Trung",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "160497",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

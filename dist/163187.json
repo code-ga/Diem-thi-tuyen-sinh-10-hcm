@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163187",
+      "Id": "163187",
+      "TinhId": 16,
+      "NGAY_SINH": "07/31/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.891072",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163187",
+      "HO_TEN": "Trần Trọng Dũng",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "163187",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

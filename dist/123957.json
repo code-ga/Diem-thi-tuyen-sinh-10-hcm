@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123957",
+      "Id": "123957",
+      "TinhId": 12,
+      "NGAY_SINH": "10/01/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.999878",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123957",
+      "HO_TEN": "Dương Ngọc Lan",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "123957",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

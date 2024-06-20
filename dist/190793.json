@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190793",
+      "Id": "190793",
+      "TinhId": 19,
+      "NGAY_SINH": "06/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.858942",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190793",
+      "HO_TEN": "Quách Thảo Ngân",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "190793",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

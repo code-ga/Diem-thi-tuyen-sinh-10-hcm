@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182953",
+      "Id": "182953",
+      "TinhId": 18,
+      "NGAY_SINH": "07/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.320562",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182953",
+      "HO_TEN": "Phan Ngọc Phương Uyên",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "182953",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

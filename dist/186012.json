@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186012",
+      "Id": "186012",
+      "TinhId": 18,
+      "NGAY_SINH": "08/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.929241",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186012",
+      "HO_TEN": "Cao Tấn Dũng",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "186012",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

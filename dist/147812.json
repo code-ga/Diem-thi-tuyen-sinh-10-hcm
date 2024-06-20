@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147812",
+      "Id": "147812",
+      "TinhId": 14,
+      "NGAY_SINH": "03/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.169062",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147812",
+      "HO_TEN": "Phạm Nguyễn Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "147812",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

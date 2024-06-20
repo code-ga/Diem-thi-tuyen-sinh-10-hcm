@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "192004",
+      "Id": "192004",
+      "TinhId": 19,
+      "NGAY_SINH": "04/28/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.856994",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "192004",
+      "HO_TEN": "Trần Mỹ Yến",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "192004",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

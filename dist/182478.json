@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182478",
+      "Id": "182478",
+      "TinhId": 18,
+      "NGAY_SINH": "08/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.318162",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182478",
+      "HO_TEN": "Mai Phương Nghi",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 8.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.25,
+      "SOBAODANH": "182478",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

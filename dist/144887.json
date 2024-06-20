@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144887",
+      "Id": "144887",
+      "TinhId": 14,
+      "NGAY_SINH": "04/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.308373",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144887",
+      "HO_TEN": "Huỳnh Trần Anh Minh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "144887",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

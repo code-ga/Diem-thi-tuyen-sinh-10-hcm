@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "173818",
+      "Id": "173818",
+      "TinhId": 17,
+      "NGAY_SINH": "10/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.914088",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "173818",
+      "HO_TEN": "LÂM NGUYỄN TRƯỜNG AN",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 3.75,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.5,
+      "SOBAODANH": "173818",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

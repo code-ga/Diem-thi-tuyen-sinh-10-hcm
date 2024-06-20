@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152003",
+      "Id": "152003",
+      "TinhId": 15,
+      "NGAY_SINH": "11/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.306828",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152003",
+      "HO_TEN": "Bùi Trịnh Quốc Huy",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "152003",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

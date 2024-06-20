@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185138",
+      "Id": "185138",
+      "TinhId": 18,
+      "NGAY_SINH": "11/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.787782",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185138",
+      "HO_TEN": "NGUYỄN HOÀNG TRUNG KIÊN",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "185138",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

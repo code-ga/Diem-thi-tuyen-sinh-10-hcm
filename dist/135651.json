@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135651",
+      "Id": "135651",
+      "TinhId": 13,
+      "NGAY_SINH": "10/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.908217",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135651",
+      "HO_TEN": "Phan Lê Nguyên",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "135651",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

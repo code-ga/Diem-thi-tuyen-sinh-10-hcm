@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143898",
+      "Id": "143898",
+      "TinhId": 14,
+      "NGAY_SINH": "10/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.732197",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143898",
+      "HO_TEN": "Đồng Thị Diệu Anh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "143898",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

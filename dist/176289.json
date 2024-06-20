@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176289",
+      "Id": "176289",
+      "TinhId": 17,
+      "NGAY_SINH": "03/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.820845",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176289",
+      "HO_TEN": "Tiết Nguyễn Kiều My",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 7.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "176289",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

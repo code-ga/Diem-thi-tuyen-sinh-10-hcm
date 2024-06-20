@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125412",
+      "Id": "125412",
+      "TinhId": 12,
+      "NGAY_SINH": "07/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.144792",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125412",
+      "HO_TEN": "Trần Huỳnh Sang",
+      "TINH": "HCM",
+      "TOAN": 1,
+      "VAN": 2,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 5,
+      "SOBAODANH": "125412",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

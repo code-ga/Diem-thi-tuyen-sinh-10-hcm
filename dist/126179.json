@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126179",
+      "Id": "126179",
+      "TinhId": 12,
+      "NGAY_SINH": "11/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.340666",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126179",
+      "HO_TEN": "Nguyễn Thành Phát",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 3.25,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 7,
+      "SOBAODANH": "126179",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

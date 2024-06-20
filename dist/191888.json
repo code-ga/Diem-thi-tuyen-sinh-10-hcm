@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191888",
+      "Id": "191888",
+      "TinhId": 19,
+      "NGAY_SINH": "12/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.989202",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191888",
+      "HO_TEN": "Khưu Trí Vương",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "191888",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

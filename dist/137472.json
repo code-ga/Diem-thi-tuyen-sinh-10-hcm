@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137472",
+      "Id": "137472",
+      "TinhId": 13,
+      "NGAY_SINH": "05/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.233581",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137472",
+      "HO_TEN": "Lê Trần Thành Vinh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "137472",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

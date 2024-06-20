@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187530",
+      "Id": "187530",
+      "TinhId": 18,
+      "NGAY_SINH": "04/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.064023",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187530",
+      "HO_TEN": "Trần Thanh Trúc",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "187530",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

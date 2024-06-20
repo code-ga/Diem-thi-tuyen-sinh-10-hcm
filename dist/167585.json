@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167585",
+      "Id": "167585",
+      "TinhId": 16,
+      "NGAY_SINH": "11/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.368715",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167585",
+      "HO_TEN": "Phạm Tô Hoài",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "167585",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

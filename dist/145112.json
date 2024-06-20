@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145112",
+      "Id": "145112",
+      "TinhId": 14,
+      "NGAY_SINH": "03/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.661480",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145112",
+      "HO_TEN": "Phạm Gia Nguyên",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "145112",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175236",
+      "Id": "175236",
+      "TinhId": 17,
+      "NGAY_SINH": "03/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.989403",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175236",
+      "HO_TEN": "LÊ TRƯƠNG BẢO TRÂM",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "175236",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163666",
+      "Id": "163666",
+      "TinhId": 16,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.838176",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163666",
+      "HO_TEN": "Dương Thị Thủy Tiên",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "163666",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

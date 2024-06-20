@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135472",
+      "Id": "135472",
+      "TinhId": 13,
+      "NGAY_SINH": "07/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.708768",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135472",
+      "HO_TEN": "Huỳnh Phạm Sơn Lâm",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "135472",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

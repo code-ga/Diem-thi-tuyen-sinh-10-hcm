@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161582",
+      "Id": "161582",
+      "TinhId": 16,
+      "NGAY_SINH": "04/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.896751",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161582",
+      "HO_TEN": "Lê Thị Cẩm Nhung",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "161582",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

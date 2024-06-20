@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123470",
+      "Id": "123470",
+      "TinhId": 12,
+      "NGAY_SINH": "04/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.929799",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123470",
+      "HO_TEN": "Phạm Xuân Đại Phong",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "123470",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

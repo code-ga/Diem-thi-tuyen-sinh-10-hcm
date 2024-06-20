@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141506",
+      "Id": "141506",
+      "TinhId": 14,
+      "NGAY_SINH": "10/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.520426",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141506",
+      "HO_TEN": "Nguyễn Nhật Tiến",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.75,
+      "SOBAODANH": "141506",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

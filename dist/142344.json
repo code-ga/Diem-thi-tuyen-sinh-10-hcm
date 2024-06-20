@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142344",
+      "Id": "142344",
+      "TinhId": 14,
+      "NGAY_SINH": "09/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.582574",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142344",
+      "HO_TEN": "Nguyễn Thiện Hiếu",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "142344",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

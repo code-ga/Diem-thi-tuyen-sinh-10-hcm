@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143347",
+      "Id": "143347",
+      "TinhId": 14,
+      "NGAY_SINH": "12/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.588939",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143347",
+      "HO_TEN": "Nguyễn Phương Thảo",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 4,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10,
+      "SOBAODANH": "143347",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

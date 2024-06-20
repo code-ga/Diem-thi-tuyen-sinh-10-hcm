@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133117",
+      "Id": "133117",
+      "TinhId": 13,
+      "NGAY_SINH": "09/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.774305",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133117",
+      "HO_TEN": "Mai Hữu Nam",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "133117",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

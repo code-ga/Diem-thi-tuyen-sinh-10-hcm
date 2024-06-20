@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124732",
+      "Id": "124732",
+      "TinhId": 12,
+      "NGAY_SINH": "06/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.937435",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124732",
+      "HO_TEN": "Đặng Nguyễn Thiên Phúc",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "124732",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

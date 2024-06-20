@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177228",
+      "Id": "177228",
+      "TinhId": 17,
+      "NGAY_SINH": "06/24/2006",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.201680",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177228",
+      "HO_TEN": "Võ Thái Bão",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "177228",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

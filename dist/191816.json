@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191816",
+      "Id": "191816",
+      "TinhId": 19,
+      "NGAY_SINH": "11/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.856437",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191816",
+      "HO_TEN": "Trần Ngọc Thanh Tuyền",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "191816",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

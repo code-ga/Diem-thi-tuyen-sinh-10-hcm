@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135990",
+      "Id": "135990",
+      "TinhId": 13,
+      "NGAY_SINH": "04/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.712937",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135990",
+      "HO_TEN": "Võ Cát Tường",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "135990",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

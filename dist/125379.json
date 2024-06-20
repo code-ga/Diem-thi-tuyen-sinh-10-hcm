@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125379",
+      "Id": "125379",
+      "TinhId": 12,
+      "NGAY_SINH": "06/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.144441",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125379",
+      "HO_TEN": "Mai Thuỳ Phương",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "125379",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

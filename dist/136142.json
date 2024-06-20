@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136142",
+      "Id": "136142",
+      "TinhId": 13,
+      "NGAY_SINH": "11/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.034417",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136142",
+      "HO_TEN": "Nguyễn Cao Kiều Anh",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.5,
+      "SOBAODANH": "136142",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

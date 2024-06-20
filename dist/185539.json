@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185539",
+      "Id": "185539",
+      "TinhId": 18,
+      "NGAY_SINH": "03/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.709544",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185539",
+      "HO_TEN": "Nguyễn Phan Ngọc Trâm",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "185539",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

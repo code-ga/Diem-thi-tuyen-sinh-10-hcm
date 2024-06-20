@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175357",
+      "Id": "175357",
+      "TinhId": 17,
+      "NGAY_SINH": "08/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.552495",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175357",
+      "HO_TEN": "NGUYỄN NGỌC TUẤN",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "175357",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

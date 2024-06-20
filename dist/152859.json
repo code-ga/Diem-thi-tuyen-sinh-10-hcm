@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152859",
+      "Id": "152859",
+      "TinhId": 15,
+      "NGAY_SINH": "03/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.373451",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152859",
+      "HO_TEN": "Tạ Thị Kim Hiền",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "152859",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

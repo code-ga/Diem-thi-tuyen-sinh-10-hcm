@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172852",
+      "Id": "172852",
+      "TinhId": 17,
+      "NGAY_SINH": "08/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.761615",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172852",
+      "HO_TEN": "Lê Đình Duy Nam",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "172852",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

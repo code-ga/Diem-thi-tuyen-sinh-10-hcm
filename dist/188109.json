@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188109",
+      "Id": "188109",
+      "TinhId": 18,
+      "NGAY_SINH": "04/19/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.053345",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188109",
+      "HO_TEN": "Trì Chấn Huy",
+      "TINH": "HCM",
+      "TOAN": 1.25,
+      "VAN": 3,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 8,
+      "SOBAODANH": "188109",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

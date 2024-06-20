@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144109",
+      "Id": "144109",
+      "TinhId": 14,
+      "NGAY_SINH": "03/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.441087",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144109",
+      "HO_TEN": "Nguyễn Ngọc Bảo Châu",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "144109",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

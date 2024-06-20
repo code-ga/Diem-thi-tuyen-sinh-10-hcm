@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133981",
+      "Id": "133981",
+      "TinhId": 13,
+      "NGAY_SINH": "03/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.972109",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133981",
+      "HO_TEN": "Đinh Chí Dũng",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "133981",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

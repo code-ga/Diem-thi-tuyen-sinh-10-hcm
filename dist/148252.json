@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148252",
+      "Id": "148252",
+      "TinhId": 14,
+      "NGAY_SINH": "09/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.173168",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148252",
+      "HO_TEN": "Trần Lê Hiếu Ngân",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "148252",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186557",
+      "Id": "186557",
+      "TinhId": 18,
+      "NGAY_SINH": "04/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.923366",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186557",
+      "HO_TEN": "Trần Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "186557",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

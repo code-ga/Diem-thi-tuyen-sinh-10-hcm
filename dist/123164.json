@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123164",
+      "Id": "123164",
+      "TinhId": 12,
+      "NGAY_SINH": "09/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.068089",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123164",
+      "HO_TEN": "Huỳnh Thị Thúy Hoa",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "123164",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

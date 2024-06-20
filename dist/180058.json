@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "180058",
+      "Id": "180058",
+      "TinhId": 18,
+      "NGAY_SINH": "03/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.460328",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "180058",
+      "HO_TEN": "Võ Nguyễn Thảo Nguyên",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "180058",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

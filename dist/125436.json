@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125436",
+      "Id": "125436",
+      "TinhId": 12,
+      "NGAY_SINH": "12/21/2006",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.067822",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125436",
+      "HO_TEN": "Huỳnh Tấn Thành",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "125436",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

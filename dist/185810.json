@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185810",
+      "Id": "185810",
+      "TinhId": 18,
+      "NGAY_SINH": "11/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.128984",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185810",
+      "HO_TEN": "Dương Công Việt Bách",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "185810",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

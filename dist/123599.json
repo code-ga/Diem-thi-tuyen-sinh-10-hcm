@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123599",
+      "Id": "123599",
+      "TinhId": 12,
+      "NGAY_SINH": "09/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.932490",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123599",
+      "HO_TEN": "Lê Quỳnh Thy",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "123599",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

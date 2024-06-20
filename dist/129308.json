@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129308",
+      "Id": "129308",
+      "TinhId": 12,
+      "NGAY_SINH": "02/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.411629",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129308",
+      "HO_TEN": "Huỳnh Chiêm Đại Mỹ",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "129308",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144990",
+      "Id": "144990",
+      "TinhId": 14,
+      "NGAY_SINH": "09/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.446649",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144990",
+      "HO_TEN": "Huỳnh Lê Kim Nga",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "144990",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

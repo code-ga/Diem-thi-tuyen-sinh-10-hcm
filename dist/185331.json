@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185331",
+      "Id": "185331",
+      "TinhId": 18,
+      "NGAY_SINH": "11/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.789269",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185331",
+      "HO_TEN": "HOÀNG THỊ HỒNG NHUNG",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "185331",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152555",
+      "Id": "152555",
+      "TinhId": 15,
+      "NGAY_SINH": "11/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.301611",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152555",
+      "HO_TEN": "Phạm Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "152555",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

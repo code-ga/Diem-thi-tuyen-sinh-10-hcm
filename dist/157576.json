@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157576",
+      "Id": "157576",
+      "TinhId": 15,
+      "NGAY_SINH": "06/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.697961",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157576",
+      "HO_TEN": "Hồ Viết Tuấn Đạt",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 3,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "157576",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

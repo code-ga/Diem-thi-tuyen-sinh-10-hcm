@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122650",
+      "Id": "122650",
+      "TinhId": 12,
+      "NGAY_SINH": "06/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.061765",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122650",
+      "HO_TEN": "Vũ Huỳnh Khánh Nhi",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 7,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "122650",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

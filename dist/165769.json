@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165769",
+      "Id": "165769",
+      "TinhId": 16,
+      "NGAY_SINH": "08/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.547577",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165769",
+      "HO_TEN": "Trần Hoài An",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "165769",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130260",
+      "Id": "130260",
+      "TinhId": 13,
+      "NGAY_SINH": "12/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.705492",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130260",
+      "HO_TEN": "Lê Gia Minh Hương",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "130260",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

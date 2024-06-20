@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "166858",
+      "Id": "166858",
+      "TinhId": 16,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.236856",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "166858",
+      "HO_TEN": "Lê Đặng Phương Nghi",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "166858",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

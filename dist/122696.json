@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122696",
+      "Id": "122696",
+      "TinhId": 12,
+      "NGAY_SINH": "04/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.058719",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122696",
+      "HO_TEN": "Lê Ngọc Minh Phúc",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "122696",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

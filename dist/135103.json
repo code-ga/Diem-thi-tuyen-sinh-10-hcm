@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135103",
+      "Id": "135103",
+      "TinhId": 13,
+      "NGAY_SINH": "02/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.713960",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135103",
+      "HO_TEN": "Lê Ngọc Duyên Anh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "135103",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

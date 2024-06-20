@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157277",
+      "Id": "157277",
+      "TinhId": 15,
+      "NGAY_SINH": "10/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.628393",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157277",
+      "HO_TEN": "Phan Hoàng Thanh Tâm",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 3.75,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.75,
+      "SOBAODANH": "157277",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132318",
+      "Id": "132318",
+      "TinhId": 13,
+      "NGAY_SINH": "07/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.844034",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132318",
+      "HO_TEN": "Phạm Hoàng Anh Trí",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "132318",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

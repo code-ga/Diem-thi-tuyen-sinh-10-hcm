@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127017",
+      "Id": "127017",
+      "TinhId": 12,
+      "NGAY_SINH": "07/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.274557",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127017",
+      "HO_TEN": "Trần Thái Luân",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "127017",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

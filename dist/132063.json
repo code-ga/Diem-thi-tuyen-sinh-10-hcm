@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132063",
+      "Id": "132063",
+      "TinhId": 13,
+      "NGAY_SINH": "10/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.902908",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132063",
+      "HO_TEN": "Trần Niên Quý",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "132063",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

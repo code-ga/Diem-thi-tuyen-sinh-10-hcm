@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124071",
+      "Id": "124071",
+      "TinhId": 12,
+      "NGAY_SINH": "09/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.198134",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124071",
+      "HO_TEN": "Nguyễn Thái Nhật",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "124071",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172050",
+      "Id": "172050",
+      "TinhId": 17,
+      "NGAY_SINH": "07/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.049225",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172050",
+      "HO_TEN": "NGUYỄN THỊ HẢI YẾN",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "172050",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

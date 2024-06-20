@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187599",
+      "Id": "187599",
+      "TinhId": 18,
+      "NGAY_SINH": "08/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.058395",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187599",
+      "HO_TEN": "Lê Hoàng Uyên",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 4,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "187599",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

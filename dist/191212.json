@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191212",
+      "Id": "191212",
+      "TinhId": 19,
+      "NGAY_SINH": "04/08/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.651047",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191212",
+      "HO_TEN": "Trần Quang Quy",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 2.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "191212",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

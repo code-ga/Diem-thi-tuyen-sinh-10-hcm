@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174287",
+      "Id": "174287",
+      "TinhId": 17,
+      "NGAY_SINH": "04/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.679818",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174287",
+      "HO_TEN": "CAO XUÂN HIẾU",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 5,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.5,
+      "SOBAODANH": "174287",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

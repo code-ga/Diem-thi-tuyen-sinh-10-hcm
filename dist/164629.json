@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164629",
+      "Id": "164629",
+      "TinhId": 16,
+      "NGAY_SINH": "03/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.096478",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164629",
+      "HO_TEN": "NGUYỄN TRỌNG PHÚC",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "164629",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165090",
+      "Id": "165090",
+      "TinhId": 16,
+      "NGAY_SINH": "11/16/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.229991",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165090",
+      "HO_TEN": "Đặng Hoàng Minh Khang",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": 0.5,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0.5,
+      "SOBAODANH": "165090",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126753",
+      "Id": "126753",
+      "TinhId": 12,
+      "NGAY_SINH": "09/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.208394",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126753",
+      "HO_TEN": "Trần Nguyễn Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "126753",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

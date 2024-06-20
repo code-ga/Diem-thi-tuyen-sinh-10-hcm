@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140389",
+      "Id": "140389",
+      "TinhId": 14,
+      "NGAY_SINH": "10/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.302415",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140389",
+      "HO_TEN": "Lê Anh Giáp",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "140389",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

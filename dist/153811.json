@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153811",
+      "Id": "153811",
+      "TinhId": 15,
+      "NGAY_SINH": "02/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.695237",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153811",
+      "HO_TEN": "Phạm Ngọc Trà My",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "153811",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122335",
+      "Id": "122335",
+      "TinhId": 12,
+      "NGAY_SINH": "01/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.141031",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122335",
+      "HO_TEN": "Hoàng Hiệp",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "122335",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

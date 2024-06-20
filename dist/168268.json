@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168268",
+      "Id": "168268",
+      "TinhId": 16,
+      "NGAY_SINH": "04/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.365406",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168268",
+      "HO_TEN": "Nguyễn Huỳnh Tấn Triệu",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "168268",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

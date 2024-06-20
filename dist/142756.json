@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142756",
+      "Id": "142756",
+      "TinhId": 14,
+      "NGAY_SINH": "08/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.650597",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142756",
+      "HO_TEN": "Nguyễn Xuân Mai",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "142756",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

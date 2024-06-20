@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151681",
+      "Id": "151681",
+      "TinhId": 15,
+      "NGAY_SINH": "11/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.020952",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151681",
+      "HO_TEN": "Hoàng Thị Thúy Vy",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "151681",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

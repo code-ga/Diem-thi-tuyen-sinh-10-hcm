@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191077",
+      "Id": "191077",
+      "TinhId": 19,
+      "NGAY_SINH": "11/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.994304",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191077",
+      "HO_TEN": "Võ Nguyễn Duy Phát",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "191077",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

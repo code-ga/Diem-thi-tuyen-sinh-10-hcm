@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186780",
+      "Id": "186780",
+      "TinhId": 18,
+      "NGAY_SINH": "12/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.134697",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186780",
+      "HO_TEN": "ĐỖ NGUYỄN BẢO NGỌC",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "186780",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161976",
+      "Id": "161976",
+      "TinhId": 16,
+      "NGAY_SINH": "07/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.959898",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161976",
+      "HO_TEN": "Phạm Vũ Lê Huy",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "161976",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

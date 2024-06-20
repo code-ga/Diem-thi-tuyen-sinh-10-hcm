@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140755",
+      "Id": "140755",
+      "TinhId": 14,
+      "NGAY_SINH": "10/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.376078",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140755",
+      "HO_TEN": "Hoàng Nguyễn Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "140755",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

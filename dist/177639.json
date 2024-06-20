@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177639",
+      "Id": "177639",
+      "TinhId": 17,
+      "NGAY_SINH": "04/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.202652",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177639",
+      "HO_TEN": "Trần Võ Minh Quân",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "177639",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

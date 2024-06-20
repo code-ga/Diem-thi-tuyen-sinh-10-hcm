@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178291",
+      "Id": "178291",
+      "TinhId": 17,
+      "NGAY_SINH": "11/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.058514",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178291",
+      "HO_TEN": "Bùi Thiện Nhân",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "178291",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

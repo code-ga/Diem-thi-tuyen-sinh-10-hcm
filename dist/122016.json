@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122016",
+      "Id": "122016",
+      "TinhId": 12,
+      "NGAY_SINH": "12/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.992368",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122016",
+      "HO_TEN": "Trần Ngọc Bảo Thy",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "122016",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

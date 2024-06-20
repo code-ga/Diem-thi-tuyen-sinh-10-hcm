@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190279",
+      "Id": "190279",
+      "TinhId": 19,
+      "NGAY_SINH": "07/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.998050",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190279",
+      "HO_TEN": "Lê Kim Hương",
+      "TINH": "HCM",
+      "TOAN": 8.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.5,
+      "SOBAODANH": "190279",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

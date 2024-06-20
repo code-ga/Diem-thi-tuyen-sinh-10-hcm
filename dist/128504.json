@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128504",
+      "Id": "128504",
+      "TinhId": 12,
+      "NGAY_SINH": "08/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.466838",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128504",
+      "HO_TEN": "Thái Hoàng Thy Thơ",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 3.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "128504",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

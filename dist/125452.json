@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125452",
+      "Id": "125452",
+      "TinhId": 12,
+      "NGAY_SINH": "07/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.066174",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125452",
+      "HO_TEN": "Phạm Bửu Thiên",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "125452",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169501",
+      "Id": "169501",
+      "TinhId": 16,
+      "NGAY_SINH": "10/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.550955",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169501",
+      "HO_TEN": "Trần Hồng Hạnh",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "169501",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

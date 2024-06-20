@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "171487",
+      "Id": "171487",
+      "TinhId": 17,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.998055",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "171487",
+      "HO_TEN": "TRẦN HOÀNG GIA PHÚC",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "171487",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

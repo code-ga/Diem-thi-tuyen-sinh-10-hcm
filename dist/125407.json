@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125407",
+      "Id": "125407",
+      "TinhId": 12,
+      "NGAY_SINH": "12/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.142314",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125407",
+      "HO_TEN": "Phùng Lam Yến Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "125407",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

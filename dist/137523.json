@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137523",
+      "Id": "137523",
+      "TinhId": 13,
+      "NGAY_SINH": "02/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.973446",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137523",
+      "HO_TEN": "Phạm Ngọc Phương Vy",
+      "TINH": "HCM",
+      "TOAN": 1.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "137523",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140904",
+      "Id": "140904",
+      "TinhId": 14,
+      "NGAY_SINH": "11/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.302172",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140904",
+      "HO_TEN": "Nguyễn Huỳnh Thiện Mỹ",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "140904",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

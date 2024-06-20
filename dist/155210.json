@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155210",
+      "Id": "155210",
+      "TinhId": 15,
+      "NGAY_SINH": "01/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.560502",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155210",
+      "HO_TEN": "Nguyễn Thị Thanh Hằng",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "155210",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

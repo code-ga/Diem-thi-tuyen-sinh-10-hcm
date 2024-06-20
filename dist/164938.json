@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164938",
+      "Id": "164938",
+      "TinhId": 16,
+      "NGAY_SINH": "06/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.228376",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164938",
+      "HO_TEN": "Võ Nguyễn Thành Đạt",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "164938",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140977",
+      "Id": "140977",
+      "TinhId": 14,
+      "NGAY_SINH": "04/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.371965",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140977",
+      "HO_TEN": "Vũ Minh Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "140977",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

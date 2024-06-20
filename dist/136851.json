@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136851",
+      "Id": "136851",
+      "TinhId": 13,
+      "NGAY_SINH": "02/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.243624",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136851",
+      "HO_TEN": "Nguyễn Song Nghi",
+      "TINH": "HCM",
+      "TOAN": 8.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 26,
+      "SOBAODANH": "136851",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

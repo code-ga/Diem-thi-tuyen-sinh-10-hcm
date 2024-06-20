@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147958",
+      "Id": "147958",
+      "TinhId": 14,
+      "NGAY_SINH": "08/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.171665",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147958",
+      "HO_TEN": "Phạm Nguyễn Bảo Khang",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "147958",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

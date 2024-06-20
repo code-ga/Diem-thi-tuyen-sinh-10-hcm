@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129552",
+      "Id": "129552",
+      "TinhId": 12,
+      "NGAY_SINH": "06/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.472031",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129552",
+      "HO_TEN": "Lê Nguyễn Thu Phương",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "129552",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

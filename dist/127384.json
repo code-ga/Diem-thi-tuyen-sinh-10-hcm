@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127384",
+      "Id": "127384",
+      "TinhId": 12,
+      "NGAY_SINH": "10/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.208845",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127384",
+      "HO_TEN": "Trần Phú Thịnh",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "127384",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

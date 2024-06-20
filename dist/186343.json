@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186343",
+      "Id": "186343",
+      "TinhId": 18,
+      "NGAY_SINH": "03/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.128587",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186343",
+      "HO_TEN": "Đỗ Kỳ Khải",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "186343",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

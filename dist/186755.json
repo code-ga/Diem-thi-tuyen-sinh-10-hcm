@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186755",
+      "Id": "186755",
+      "TinhId": 18,
+      "NGAY_SINH": "06/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.130407",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186755",
+      "HO_TEN": "Ngô Minh Gia Nghi",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "186755",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

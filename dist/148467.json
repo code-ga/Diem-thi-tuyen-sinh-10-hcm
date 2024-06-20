@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148467",
+      "Id": "148467",
+      "TinhId": 14,
+      "NGAY_SINH": "07/31/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.875206",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148467",
+      "HO_TEN": "Phạm Nguyễn Gia Phúc",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 2,
+      "NGOAI_NGU": 1.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 6,
+      "SOBAODANH": "148467",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

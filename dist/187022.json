@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187022",
+      "Id": "187022",
+      "TinhId": 18,
+      "NGAY_SINH": "02/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.137536",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187022",
+      "HO_TEN": "TRƯƠNG THIÊN PHÚ",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 2.25,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 5.75,
+      "SOBAODANH": "187022",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

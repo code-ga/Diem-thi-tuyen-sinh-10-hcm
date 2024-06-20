@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175261",
+      "Id": "175261",
+      "TinhId": 17,
+      "NGAY_SINH": "11/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.616045",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175261",
+      "HO_TEN": "TRẦN MAI BẢO TRÂN",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.75,
+      "SOBAODANH": "175261",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

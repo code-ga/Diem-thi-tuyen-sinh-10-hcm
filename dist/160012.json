@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160012",
+      "Id": "160012",
+      "TinhId": 16,
+      "NGAY_SINH": "08/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.775544",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160012",
+      "HO_TEN": "Huỳnh Quốc Huy",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "160012",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

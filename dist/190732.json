@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190732",
+      "Id": "190732",
+      "TinhId": 19,
+      "NGAY_SINH": "05/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.649395",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190732",
+      "HO_TEN": "Nguyễn Đặng Hoàng Nam",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "190732",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

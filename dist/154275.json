@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154275",
+      "Id": "154275",
+      "TinhId": 15,
+      "NGAY_SINH": "03/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.622148",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154275",
+      "HO_TEN": "Đặng Huỳnh Bảo Ân",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "154275",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

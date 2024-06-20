@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135953",
+      "Id": "135953",
+      "TinhId": 13,
+      "NGAY_SINH": "02/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.970832",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135953",
+      "HO_TEN": "Đoàn Minh Triết",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "135953",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

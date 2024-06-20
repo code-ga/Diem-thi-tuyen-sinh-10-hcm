@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188478",
+      "Id": "188478",
+      "TinhId": 18,
+      "NGAY_SINH": "06/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.779193",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188478",
+      "HO_TEN": "Bùi Nguyễn Thu Phương",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "188478",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

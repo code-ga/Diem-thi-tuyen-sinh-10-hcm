@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123161",
+      "Id": "123161",
+      "TinhId": 12,
+      "NGAY_SINH": "08/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.929137",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123161",
+      "HO_TEN": "Trần Minh Hiếu",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "123161",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

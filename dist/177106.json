@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177106",
+      "Id": "177106",
+      "TinhId": 17,
+      "NGAY_SINH": "10/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.905170",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177106",
+      "HO_TEN": "NGUYỄN NGỌC LAM VY",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "177106",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

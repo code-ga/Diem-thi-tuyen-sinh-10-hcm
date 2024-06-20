@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130049",
+      "Id": "130049",
+      "TinhId": 13,
+      "NGAY_SINH": "07/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.533828",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130049",
+      "HO_TEN": "Chu Hiền Thúy Bình",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "130049",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

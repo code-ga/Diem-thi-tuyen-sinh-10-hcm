@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137990",
+      "Id": "137990",
+      "TinhId": 13,
+      "NGAY_SINH": "09/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.098708",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137990",
+      "HO_TEN": "Trần Hoàng Phi Long",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "137990",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

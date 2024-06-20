@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167395",
+      "Id": "167395",
+      "TinhId": 16,
+      "NGAY_SINH": "01/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.360890",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167395",
+      "HO_TEN": "Võ Ngọc Quỳnh Trâm",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "167395",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

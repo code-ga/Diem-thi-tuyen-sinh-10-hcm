@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170004",
+      "Id": "170004",
+      "TinhId": 17,
+      "NGAY_SINH": "03/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.485206",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170004",
+      "HO_TEN": "Trần Văn Tuấn",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 3,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.5,
+      "SOBAODANH": "170004",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

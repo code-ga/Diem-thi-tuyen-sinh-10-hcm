@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146388",
+      "Id": "146388",
+      "TinhId": 14,
+      "NGAY_SINH": "10/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.804155",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146388",
+      "HO_TEN": "Dương Ngọc Nhi",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "146388",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

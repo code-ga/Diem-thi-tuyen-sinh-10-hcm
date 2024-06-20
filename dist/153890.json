@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153890",
+      "Id": "153890",
+      "TinhId": 15,
+      "NGAY_SINH": "12/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.568745",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153890",
+      "HO_TEN": "Bùi Thị An Nhi",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 1.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "153890",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

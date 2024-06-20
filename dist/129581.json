@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129581",
+      "Id": "129581",
+      "TinhId": 12,
+      "NGAY_SINH": "03/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.407126",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129581",
+      "HO_TEN": "Võ Lê Hoàng Quân",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "129581",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

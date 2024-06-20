@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130684",
+      "Id": "130684",
+      "TinhId": 13,
+      "NGAY_SINH": "03/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.899036",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130684",
+      "HO_TEN": "Phạm Duy Hoàng Phúc",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "130684",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

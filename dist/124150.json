@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124150",
+      "Id": "124150",
+      "TinhId": 12,
+      "NGAY_SINH": "10/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.997498",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124150",
+      "HO_TEN": "Nguyễn Phúc Minh Sang",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "124150",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

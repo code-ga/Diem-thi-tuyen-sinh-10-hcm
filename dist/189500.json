@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189500",
+      "Id": "189500",
+      "TinhId": 18,
+      "NGAY_SINH": "09/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.785893",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189500",
+      "HO_TEN": "Lê Nguyễn Thanh Trúc",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "189500",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

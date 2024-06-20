@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139979",
+      "Id": "139979",
+      "TinhId": 13,
+      "NGAY_SINH": "11/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.172020",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139979",
+      "HO_TEN": "Bùi Phạm Như Ý",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "139979",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

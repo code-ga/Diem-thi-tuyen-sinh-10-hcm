@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135915",
+      "Id": "135915",
+      "TinhId": 13,
+      "NGAY_SINH": "09/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.710473",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135915",
+      "HO_TEN": "Lê Thị Thùy Trâm",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "135915",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

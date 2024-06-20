@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163031",
+      "Id": "163031",
+      "TinhId": 16,
+      "NGAY_SINH": "11/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.028023",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163031",
+      "HO_TEN": "Nguyễn Thị Kim Uyên",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "163031",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

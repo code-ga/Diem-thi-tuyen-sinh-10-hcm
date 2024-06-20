@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164877",
+      "Id": "164877",
+      "TinhId": 16,
+      "NGAY_SINH": "02/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.226464",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164877",
+      "HO_TEN": "Lương Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "164877",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

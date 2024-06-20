@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189127",
+      "Id": "189127",
+      "TinhId": 18,
+      "NGAY_SINH": "12/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.919617",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189127",
+      "HO_TEN": "LA VĨNH KIỀU",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "189127",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

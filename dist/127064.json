@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127064",
+      "Id": "127064",
+      "TinhId": 12,
+      "NGAY_SINH": "04/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.344860",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127064",
+      "HO_TEN": "Nguyễn Thị Trà My",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "127064",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

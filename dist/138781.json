@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138781",
+      "Id": "138781",
+      "TinhId": 13,
+      "NGAY_SINH": "12/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.167473",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138781",
+      "HO_TEN": "Đỗ Hồ Thùy Dương",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "138781",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

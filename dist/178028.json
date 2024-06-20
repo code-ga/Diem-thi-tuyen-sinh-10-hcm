@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178028",
+      "Id": "178028",
+      "TinhId": 17,
+      "NGAY_SINH": "04/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.136460",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178028",
+      "HO_TEN": "Võ Trương Khả Hân",
+      "TINH": "HCM",
+      "TOAN": 1.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "178028",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

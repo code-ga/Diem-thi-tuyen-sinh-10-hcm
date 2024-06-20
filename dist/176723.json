@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176723",
+      "Id": "176723",
+      "TinhId": 17,
+      "NGAY_SINH": "07/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.995511",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176723",
+      "HO_TEN": "LÊ DOÃN THÀNH",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "176723",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

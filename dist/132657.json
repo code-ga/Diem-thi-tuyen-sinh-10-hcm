@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132657",
+      "Id": "132657",
+      "TinhId": 13,
+      "NGAY_SINH": "01/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.778026",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132657",
+      "HO_TEN": "Điền Mạnh Cường",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "132657",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

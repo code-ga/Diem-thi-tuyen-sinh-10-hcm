@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129388",
+      "Id": "129388",
+      "TinhId": 12,
+      "NGAY_SINH": "01/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.407056",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129388",
+      "HO_TEN": "Trần Bích Ngọc",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "129388",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

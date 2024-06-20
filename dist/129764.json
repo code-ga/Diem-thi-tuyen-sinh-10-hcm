@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129764",
+      "Id": "129764",
+      "TinhId": 12,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.408214",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129764",
+      "HO_TEN": "Nguyễn Ý Yến Trang",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "129764",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

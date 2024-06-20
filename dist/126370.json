@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126370",
+      "Id": "126370",
+      "TinhId": 12,
+      "NGAY_SINH": "10/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.507613",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126370",
+      "HO_TEN": "NGUYỄN MẬU MINH TIẾN",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "126370",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139425",
+      "Id": "139425",
+      "TinhId": 13,
+      "NGAY_SINH": "04/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.244476",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139425",
+      "HO_TEN": "Võ Lê Minh Phát",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "139425",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

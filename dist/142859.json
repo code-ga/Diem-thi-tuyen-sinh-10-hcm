@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142859",
+      "Id": "142859",
+      "TinhId": 14,
+      "NGAY_SINH": "12/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.438045",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142859",
+      "HO_TEN": "Lê Hoàng Bảo Ngân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "142859",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

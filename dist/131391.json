@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131391",
+      "Id": "131391",
+      "TinhId": 13,
+      "NGAY_SINH": "06/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.839060",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131391",
+      "HO_TEN": "Nguyễn Thị Mỹ Duyên",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "131391",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168826",
+      "Id": "168826",
+      "TinhId": 16,
+      "NGAY_SINH": "02/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.487106",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168826",
+      "HO_TEN": "Phạm Lê Tuấn Anh",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "168826",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

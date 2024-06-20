@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138383",
+      "Id": "138383",
+      "TinhId": 13,
+      "NGAY_SINH": "11/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.096811",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138383",
+      "HO_TEN": "Trần Hữu Tiến",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "138383",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

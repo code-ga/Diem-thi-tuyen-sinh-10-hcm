@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130519",
+      "Id": "130519",
+      "TinhId": 13,
+      "NGAY_SINH": "06/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.899113",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130519",
+      "HO_TEN": "Trương Ngọc Tuyết Nga",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "130519",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168985",
+      "Id": "168985",
+      "TinhId": 16,
+      "NGAY_SINH": "08/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.487977",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168985",
+      "HO_TEN": "Trần Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "168985",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

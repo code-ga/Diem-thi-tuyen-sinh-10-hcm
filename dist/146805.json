@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146805",
+      "Id": "146805",
+      "TinhId": 14,
+      "NGAY_SINH": "04/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.740255",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146805",
+      "HO_TEN": "Nguyễn Thị Thu Hiền",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "146805",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

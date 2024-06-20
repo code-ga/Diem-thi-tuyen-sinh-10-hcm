@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138128",
+      "Id": "138128",
+      "TinhId": 13,
+      "NGAY_SINH": "11/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.102169",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138128",
+      "HO_TEN": "Phạm Thảo Nguyên",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "138128",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

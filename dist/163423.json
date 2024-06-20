@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163423",
+      "Id": "163423",
+      "TinhId": 16,
+      "NGAY_SINH": "04/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.890537",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163423",
+      "HO_TEN": "Nguyễn Kim Ngân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "163423",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

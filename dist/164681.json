@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164681",
+      "Id": "164681",
+      "TinhId": 16,
+      "NGAY_SINH": "10/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.164137",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164681",
+      "HO_TEN": "PHẠM THỊ NGỌC THẢO",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5,
+      "NGOAI_NGU": 1.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "164681",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127250",
+      "Id": "127250",
+      "TinhId": 12,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.510167",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127250",
+      "HO_TEN": "Bùi Ngọc Mai Phương",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "127250",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

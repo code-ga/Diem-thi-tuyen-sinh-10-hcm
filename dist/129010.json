@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129010",
+      "Id": "129010",
+      "TinhId": 12,
+      "NGAY_SINH": "03/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.411596",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129010",
+      "HO_TEN": "Huỳnh Mỹ Hoa",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "129010",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

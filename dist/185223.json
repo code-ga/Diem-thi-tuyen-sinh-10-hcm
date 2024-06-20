@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185223",
+      "Id": "185223",
+      "TinhId": 18,
+      "NGAY_SINH": "12/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.787723",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185223",
+      "HO_TEN": "TRƯƠNG NGỌC THẢO MY",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "185223",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121747",
+      "Id": "121747",
+      "TinhId": 12,
+      "NGAY_SINH": "02/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.202285",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121747",
+      "HO_TEN": "Nguyễn Nhật Minh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "121747",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

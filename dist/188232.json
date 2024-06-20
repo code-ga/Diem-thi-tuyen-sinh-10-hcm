@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188232",
+      "Id": "188232",
+      "TinhId": 18,
+      "NGAY_SINH": "06/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.779669",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188232",
+      "HO_TEN": "Đoàn Mai Trúc Ly",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "188232",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123817",
+      "Id": "123817",
+      "TinhId": 12,
+      "NGAY_SINH": "12/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.997683",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123817",
+      "HO_TEN": "Nguyễn Phúc Điền",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "123817",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

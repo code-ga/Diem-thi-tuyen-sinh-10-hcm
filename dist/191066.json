@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191066",
+      "Id": "191066",
+      "TinhId": 19,
+      "NGAY_SINH": "08/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.989961",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191066",
+      "HO_TEN": "Nguyễn Tấn Phát",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "191066",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

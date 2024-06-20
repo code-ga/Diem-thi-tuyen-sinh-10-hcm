@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164600",
+      "Id": "164600",
+      "TinhId": 16,
+      "NGAY_SINH": "11/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.166347",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164600",
+      "HO_TEN": "NGUYỄN HUỲNH NHƯ",
+      "TINH": "HCM",
+      "TOAN": 1.25,
+      "VAN": 4.75,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.5,
+      "SOBAODANH": "164600",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

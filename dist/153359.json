@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153359",
+      "Id": "153359",
+      "TinhId": 15,
+      "NGAY_SINH": "01/26/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.372178",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153359",
+      "HO_TEN": "Trần Thanh Yến Vy",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 3.5,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 7,
+      "SOBAODANH": "153359",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

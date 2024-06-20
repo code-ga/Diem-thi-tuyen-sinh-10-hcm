@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183618",
+      "Id": "183618",
+      "TinhId": 18,
+      "NGAY_SINH": "10/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.403836",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183618",
+      "HO_TEN": "Nguyễn Diệp Phương Linh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "183618",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

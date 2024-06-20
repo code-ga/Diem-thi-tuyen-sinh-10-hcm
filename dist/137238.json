@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137238",
+      "Id": "137238",
+      "TinhId": 13,
+      "NGAY_SINH": "11/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.038970",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137238",
+      "HO_TEN": "Nguyễn Huỳnh Anh Thư",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 3.75,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "137238",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

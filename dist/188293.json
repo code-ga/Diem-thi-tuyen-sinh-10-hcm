@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188293",
+      "Id": "188293",
+      "TinhId": 18,
+      "NGAY_SINH": "10/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.781674",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188293",
+      "HO_TEN": "Lý Phương Ngân",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "188293",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

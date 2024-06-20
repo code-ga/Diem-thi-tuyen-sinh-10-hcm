@@ -1,6 +1,8 @@
-import axios from "axios"
+
 import fs from "fs"
-let i = Number(process.env.START || 100000)
+import path from "path"
+import { Worker } from "worker_threads"
+
 
 const resultDir = "./dist"
 
@@ -8,24 +10,34 @@ if (!fs.existsSync(resultDir)) {
     fs.mkdirSync(resultDir)
 }
 
+const NUMBER_OF_THREADS = 6
+
+const unCrawledList = JSON.parse(fs.readFileSync("./unCrawled.json", "utf8")) as number[]
+const studentPerThread = Math.ceil(unCrawledList.length / NUMBER_OF_THREADS)
+
+function runWorker({ unCrawledList, id }: { unCrawledList: number[], id: number }) {
+    return new Promise((resolve, reject) => {
+        const worker = new Worker(path.join(__dirname, "./worker.js"), {
+            workerData: { unCrawled: unCrawledList, resultDir, id }
+        });
+        worker.on('message', console.log);
+        worker.on('error', reject);
+        worker.on('exit', (code) => {
+            if (code !== 0)
+                reject(new Error(`Worker stopped with exit code ${code}`));
+            console.log(`Worker stopped with exit code ${code}`);
+            resolve(code);
+        });
+    })
+}
+
 const main = async () => {
-    while (true) {
-        const result = await axios.get(`https://s6.tuoitre.vn/api/diem-thi-lop-10.htm?keywords=${i}&year=2024&sitename=tuoitre.vn`, {
-            headers: {
-                "Origin": "https://tuoitre.vn"
-            }
-        })
-        fs.writeFileSync(`${resultDir}/${i}.json`, JSON.stringify(result.data, null, 2))
-        const student = result.data.data[0]
-        console.log(`Fetched success student ${i} - ${student.HO_TEN} - Total score: ${student.TONGDIEM} - ${student.NGAY_SINH}`)
-        i += 1
-        if (i > 200000) break
-        // await sleep(2)
+    // slice unCrawledList into chunks
+    for (let i = 0; i < NUMBER_OF_THREADS; i++) {
+        const chunk = unCrawledList.slice(i * studentPerThread, (i + 1) * studentPerThread)
+        runWorker({ unCrawledList: chunk, id: i })
     }
 }
 
 main().then(() => console.log("DONE")).catch(err => console.log(err))
 
-function sleep(seconds: number) {
-    return new Promise(resolve => setTimeout(resolve, seconds * 1000));
-}

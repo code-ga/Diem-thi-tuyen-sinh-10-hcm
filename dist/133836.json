@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133836",
+      "Id": "133836",
+      "TinhId": 13,
+      "NGAY_SINH": "10/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.540126",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133836",
+      "HO_TEN": "Trần Thị Vân Anh",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "133836",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

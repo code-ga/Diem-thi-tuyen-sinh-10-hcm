@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143288",
+      "Id": "143288",
+      "TinhId": 14,
+      "NGAY_SINH": "02/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.376637",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143288",
+      "HO_TEN": "Đồng Thị Minh Tâm",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "143288",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

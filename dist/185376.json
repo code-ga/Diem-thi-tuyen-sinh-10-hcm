@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185376",
+      "Id": "185376",
+      "TinhId": 18,
+      "NGAY_SINH": "08/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.789302",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185376",
+      "HO_TEN": "NGUYỄN HUỲNH HỒNG PHÚC",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "185376",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

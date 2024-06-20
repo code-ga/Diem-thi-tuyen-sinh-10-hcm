@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147081",
+      "Id": "147081",
+      "TinhId": 14,
+      "NGAY_SINH": "06/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.740830",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147081",
+      "HO_TEN": "Dương Yến Ngọc",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "147081",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

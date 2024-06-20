@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182798",
+      "Id": "182798",
+      "TinhId": 18,
+      "NGAY_SINH": "06/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.318829",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182798",
+      "HO_TEN": "Trương Anh Thơ",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "182798",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

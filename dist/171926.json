@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "171926",
+      "Id": "171926",
+      "TinhId": 17,
+      "NGAY_SINH": "09/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.048810",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "171926",
+      "HO_TEN": "DƯƠNG BÍCH TUYỀN",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "171926",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

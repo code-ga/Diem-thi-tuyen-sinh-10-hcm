@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162688",
+      "Id": "162688",
+      "TinhId": 16,
+      "NGAY_SINH": "02/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.020373",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162688",
+      "HO_TEN": "Trần Thị Thảo My",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 8,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "162688",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

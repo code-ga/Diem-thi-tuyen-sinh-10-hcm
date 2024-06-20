@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156170",
+      "Id": "156170",
+      "TinhId": 15,
+      "NGAY_SINH": "01/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.440448",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156170",
+      "HO_TEN": "Lê Hoàng Thiên Lộc",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "156170",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

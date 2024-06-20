@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191261",
+      "Id": "191261",
+      "TinhId": 19,
+      "NGAY_SINH": "05/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.858964",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191261",
+      "HO_TEN": "Phạm Văn Tấn Sanh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "191261",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

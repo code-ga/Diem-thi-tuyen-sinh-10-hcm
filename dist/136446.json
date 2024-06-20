@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136446",
+      "Id": "136446",
+      "TinhId": 13,
+      "NGAY_SINH": "01/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.029684",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136446",
+      "HO_TEN": "Trần Hồ Hữu Hiếu",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "136446",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

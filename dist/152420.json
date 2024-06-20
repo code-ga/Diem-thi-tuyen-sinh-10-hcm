@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152420",
+      "Id": "152420",
+      "TinhId": 15,
+      "NGAY_SINH": "09/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.300412",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152420",
+      "HO_TEN": "Hứa Phùng Cúc Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "152420",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

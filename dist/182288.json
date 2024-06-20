@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182288",
+      "Id": "182288",
+      "TinhId": 18,
+      "NGAY_SINH": "10/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.322151",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182288",
+      "HO_TEN": "Trần Minh Khôi",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "182288",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

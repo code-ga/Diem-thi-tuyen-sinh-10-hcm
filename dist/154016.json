@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154016",
+      "Id": "154016",
+      "TinhId": 15,
+      "NGAY_SINH": "11/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.563787",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154016",
+      "HO_TEN": "Trần Hữu Tài",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "154016",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

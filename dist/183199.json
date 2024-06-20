@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183199",
+      "Id": "183199",
+      "TinhId": 18,
+      "NGAY_SINH": "06/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.455360",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183199",
+      "HO_TEN": "Trần Đình Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 25,
+      "SOBAODANH": "183199",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

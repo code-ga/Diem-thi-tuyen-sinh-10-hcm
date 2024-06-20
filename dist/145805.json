@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145805",
+      "Id": "145805",
+      "TinhId": 14,
+      "NGAY_SINH": "08/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.306472",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145805",
+      "HO_TEN": "Giang Thủy Trúc",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "145805",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

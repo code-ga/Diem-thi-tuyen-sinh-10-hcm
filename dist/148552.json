@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148552",
+      "Id": "148552",
+      "TinhId": 14,
+      "NGAY_SINH": "11/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.940524",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148552",
+      "HO_TEN": "Nguyễn Dũng Diễm Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "148552",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

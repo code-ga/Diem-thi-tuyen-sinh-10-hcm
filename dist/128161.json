@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128161",
+      "Id": "128161",
+      "TinhId": 12,
+      "NGAY_SINH": "11/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.476403",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128161",
+      "HO_TEN": "Phú Bảo My",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "128161",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

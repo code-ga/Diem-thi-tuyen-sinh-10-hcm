@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149177",
+      "Id": "149177",
+      "TinhId": 14,
+      "NGAY_SINH": "10/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.882027",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149177",
+      "HO_TEN": "Phùng Khánh Hà",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "149177",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

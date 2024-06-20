@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163900",
+      "Id": "163900",
+      "TinhId": 16,
+      "NGAY_SINH": "02/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.167719",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163900",
+      "HO_TEN": "Dương Chí Hiền",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 6,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "163900",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

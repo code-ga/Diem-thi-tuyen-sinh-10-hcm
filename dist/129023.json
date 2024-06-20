@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129023",
+      "Id": "129023",
+      "TinhId": 12,
+      "NGAY_SINH": "05/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.472097",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129023",
+      "HO_TEN": "Bùi Tuyết Hồng",
+      "TINH": "HCM",
+      "TOAN": 0.25,
+      "VAN": 3.5,
+      "NGOAI_NGU": 1.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 5.25,
+      "SOBAODANH": "129023",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

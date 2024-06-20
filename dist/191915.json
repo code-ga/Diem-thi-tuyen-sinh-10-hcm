@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191915",
+      "Id": "191915",
+      "TinhId": 19,
+      "NGAY_SINH": "11/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.991936",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191915",
+      "HO_TEN": "Lương Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 0.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "191915",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

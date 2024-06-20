@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162344",
+      "Id": "162344",
+      "TinhId": 16,
+      "NGAY_SINH": "01/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.959274",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162344",
+      "HO_TEN": "Huỳnh Nguyễn Như Ý",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "162344",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

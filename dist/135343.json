@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135343",
+      "Id": "135343",
+      "TinhId": 13,
+      "NGAY_SINH": "06/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.968317",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135343",
+      "HO_TEN": "Phạm Ngọc Hoa",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "135343",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

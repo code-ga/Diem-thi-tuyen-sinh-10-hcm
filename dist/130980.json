@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130980",
+      "Id": "130980",
+      "TinhId": 13,
+      "NGAY_SINH": "06/02/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.536743",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130980",
+      "HO_TEN": "Biện Vũ Hữu Trường",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "130980",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

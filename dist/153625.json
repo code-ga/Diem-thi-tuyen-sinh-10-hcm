@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153625",
+      "Id": "153625",
+      "TinhId": 15,
+      "NGAY_SINH": "09/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.632351",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153625",
+      "HO_TEN": "Đỗ Trần Hoàng",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "153625",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

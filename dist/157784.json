@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157784",
+      "Id": "157784",
+      "TinhId": 15,
+      "NGAY_SINH": "08/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.701382",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157784",
+      "HO_TEN": "Nguyễn Huỳnh Anh Khoa",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 2.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "157784",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "166630",
+      "Id": "166630",
+      "TinhId": 16,
+      "NGAY_SINH": "11/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.292980",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "166630",
+      "HO_TEN": "Hoàng Gia Vy",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "166630",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

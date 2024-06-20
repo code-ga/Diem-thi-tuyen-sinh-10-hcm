@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145098",
+      "Id": "145098",
+      "TinhId": 14,
+      "NGAY_SINH": "08/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.442477",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145098",
+      "HO_TEN": "Lê Nguyễn Thảo Nguyên",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "145098",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

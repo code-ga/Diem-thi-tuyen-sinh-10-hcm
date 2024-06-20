@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150553",
+      "Id": "150553",
+      "TinhId": 15,
+      "NGAY_SINH": "11/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.879883",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150553",
+      "HO_TEN": "Nguyễn Minh Huy",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "150553",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

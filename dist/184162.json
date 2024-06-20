@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184162",
+      "Id": "184162",
+      "TinhId": 18,
+      "NGAY_SINH": "11/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.403244",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184162",
+      "HO_TEN": "Lưu Đức Trọng",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "184162",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

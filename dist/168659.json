@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168659",
+      "Id": "168659",
+      "TinhId": 16,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.424827",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168659",
+      "HO_TEN": "Nguyễn Trung Thành",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "168659",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

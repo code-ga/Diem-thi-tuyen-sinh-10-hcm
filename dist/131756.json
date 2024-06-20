@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131756",
+      "Id": "131756",
+      "TinhId": 13,
+      "NGAY_SINH": "02/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.842615",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131756",
+      "HO_TEN": "Trần Hoàng Minh",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "131756",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

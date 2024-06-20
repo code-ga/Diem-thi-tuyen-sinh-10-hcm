@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138551",
+      "Id": "138551",
+      "TinhId": 13,
+      "NGAY_SINH": "09/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.166804",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138551",
+      "HO_TEN": "Bernard Tuấn Anh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "138551",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124589",
+      "Id": "124589",
+      "TinhId": 12,
+      "NGAY_SINH": "07/12/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.135926",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124589",
+      "HO_TEN": "Phạm Lê Tuấn Kiệt",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "124589",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

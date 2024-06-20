@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177399",
+      "Id": "177399",
+      "TinhId": 17,
+      "NGAY_SINH": "11/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.201745",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177399",
+      "HO_TEN": "Nguyễn Phạm Xuân Khang",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "177399",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161637",
+      "Id": "161637",
+      "TinhId": 16,
+      "NGAY_SINH": "10/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.895263",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161637",
+      "HO_TEN": "Nguyễn Tấn Sang",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "161637",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

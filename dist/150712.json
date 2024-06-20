@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150712",
+      "Id": "150712",
+      "TinhId": 15,
+      "NGAY_SINH": "06/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.019491",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150712",
+      "HO_TEN": "Lê Nguyễn Tuấn Kiệt",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "150712",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

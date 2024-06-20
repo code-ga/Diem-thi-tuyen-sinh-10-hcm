@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191711",
+      "Id": "191711",
+      "TinhId": 19,
+      "NGAY_SINH": "08/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.704854",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191711",
+      "HO_TEN": "Nguyễn Hải Triều",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "191711",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

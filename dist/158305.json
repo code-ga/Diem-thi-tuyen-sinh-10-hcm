@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158305",
+      "Id": "158305",
+      "TinhId": 15,
+      "NGAY_SINH": "03/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.702380",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158305",
+      "HO_TEN": "Huỳnh Thị Mỹ Uyên",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "158305",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

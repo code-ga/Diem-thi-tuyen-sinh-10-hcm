@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190180",
+      "Id": "190180",
+      "TinhId": 19,
+      "NGAY_SINH": "04/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.987022",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190180",
+      "HO_TEN": "Phan Nguyễn Thúy Hiền",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "190180",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

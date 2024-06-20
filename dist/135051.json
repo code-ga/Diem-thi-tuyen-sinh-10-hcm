@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135051",
+      "Id": "135051",
+      "TinhId": 13,
+      "NGAY_SINH": "01/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.603575",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135051",
+      "HO_TEN": "Mai Như Ý",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "135051",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191153",
+      "Id": "191153",
+      "TinhId": 19,
+      "NGAY_SINH": "07/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.859470",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191153",
+      "HO_TEN": "Trương Trần Mỹ Phụng",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "191153",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

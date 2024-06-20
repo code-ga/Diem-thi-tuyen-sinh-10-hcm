@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131295",
+      "Id": "131295",
+      "TinhId": 13,
+      "NGAY_SINH": "11/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.905963",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131295",
+      "HO_TEN": "Nguyễn Khoa Đăng",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "131295",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169072",
+      "Id": "169072",
+      "TinhId": 16,
+      "NGAY_SINH": "12/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.549034",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169072",
+      "HO_TEN": "Cao Lê Trà My",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "169072",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

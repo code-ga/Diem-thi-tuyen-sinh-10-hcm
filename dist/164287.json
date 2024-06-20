@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164287",
+      "Id": "164287",
+      "TinhId": 16,
+      "NGAY_SINH": "07/05/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.163622",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164287",
+      "HO_TEN": "NGUYỄN LÊ THANH TRUNG",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 3.5,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.25,
+      "SOBAODANH": "164287",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

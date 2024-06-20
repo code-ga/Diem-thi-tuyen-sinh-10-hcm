@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141298",
+      "Id": "141298",
+      "TinhId": 14,
+      "NGAY_SINH": "07/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.654086",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141298",
+      "HO_TEN": "Cao Thái Sơn",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "141298",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

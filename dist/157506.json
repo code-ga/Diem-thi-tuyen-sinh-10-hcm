@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157506",
+      "Id": "157506",
+      "TinhId": 15,
+      "NGAY_SINH": "01/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.702258",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157506",
+      "HO_TEN": "Phạm Quỳnh Anh",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "157506",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

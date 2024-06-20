@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148208",
+      "Id": "148208",
+      "TinhId": 14,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.226839",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148208",
+      "HO_TEN": "Thái Uyên Minh",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "148208",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

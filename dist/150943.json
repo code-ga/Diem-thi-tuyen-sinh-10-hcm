@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150943",
+      "Id": "150943",
+      "TinhId": 15,
+      "NGAY_SINH": "07/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.232910",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150943",
+      "HO_TEN": "Hồ Hoài Thanh Ngân",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "150943",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

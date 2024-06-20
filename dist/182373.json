@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182373",
+      "Id": "182373",
+      "TinhId": 18,
+      "NGAY_SINH": "02/07/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.583313",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182373",
+      "HO_TEN": "Nguyễn Thái Hoàng Long",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 4.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "182373",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

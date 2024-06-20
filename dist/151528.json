@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151528",
+      "Id": "151528",
+      "TinhId": 15,
+      "NGAY_SINH": "04/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.231005",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151528",
+      "HO_TEN": "Hoàng Nguyễn Mai Trang",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "151528",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

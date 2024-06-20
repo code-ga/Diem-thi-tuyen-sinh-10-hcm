@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140669",
+      "Id": "140669",
+      "TinhId": 14,
+      "NGAY_SINH": "09/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.736460",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140669",
+      "HO_TEN": "Huỳnh Đăng Khôi",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "140669",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

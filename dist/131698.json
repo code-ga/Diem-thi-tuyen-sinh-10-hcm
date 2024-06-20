@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131698",
+      "Id": "131698",
+      "TinhId": 13,
+      "NGAY_SINH": "07/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.904080",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131698",
+      "HO_TEN": "Lê Phạm Tiến Lộc",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "131698",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

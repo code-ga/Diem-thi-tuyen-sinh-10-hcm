@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164438",
+      "Id": "164438",
+      "TinhId": 16,
+      "NGAY_SINH": "06/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.097953",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164438",
+      "HO_TEN": "LÊ NGỌC GIA HUY",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "164438",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

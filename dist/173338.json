@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "173338",
+      "Id": "173338",
+      "TinhId": 17,
+      "NGAY_SINH": "02/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.759668",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "173338",
+      "HO_TEN": "Ngô Kim Thảo",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 3.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "173338",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

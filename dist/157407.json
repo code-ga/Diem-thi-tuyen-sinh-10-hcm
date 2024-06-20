@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157407",
+      "Id": "157407",
+      "TinhId": 15,
+      "NGAY_SINH": "09/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.628460",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157407",
+      "HO_TEN": "Phạm Xuân Thanh Trúc",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "157407",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

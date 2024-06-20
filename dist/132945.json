@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132945",
+      "Id": "132945",
+      "TinhId": 13,
+      "NGAY_SINH": "06/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.779062",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132945",
+      "HO_TEN": "Bùi Đăng Khoa",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 1.75,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8,
+      "SOBAODANH": "132945",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

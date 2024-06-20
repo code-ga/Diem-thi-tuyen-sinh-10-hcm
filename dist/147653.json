@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147653",
+      "Id": "147653",
+      "TinhId": 14,
+      "NGAY_SINH": "10/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.940180",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147653",
+      "HO_TEN": "Đỗ Nguyễn Mỹ Cầm",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "147653",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

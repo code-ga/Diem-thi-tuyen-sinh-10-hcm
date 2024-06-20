@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161982",
+      "Id": "161982",
+      "TinhId": 16,
+      "NGAY_SINH": "03/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.959953",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161982",
+      "HO_TEN": "Nguyễn Tấn Khang",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "161982",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

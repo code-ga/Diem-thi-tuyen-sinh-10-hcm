@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129585",
+      "Id": "129585",
+      "TinhId": 12,
+      "NGAY_SINH": "04/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.346785",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129585",
+      "HO_TEN": "Trương Triều Quang",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "129585",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

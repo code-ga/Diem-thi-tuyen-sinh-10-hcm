@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126344",
+      "Id": "126344",
+      "TinhId": 12,
+      "NGAY_SINH": "04/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.338640",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126344",
+      "HO_TEN": "Trần Anh Thư",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "126344",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

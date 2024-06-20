@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131136",
+      "Id": "131136",
+      "TinhId": 13,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.907200",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131136",
+      "HO_TEN": "Hoàng Trúc Anh",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "131136",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

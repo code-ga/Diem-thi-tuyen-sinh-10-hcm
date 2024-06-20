@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129634",
+      "Id": "129634",
+      "TinhId": 12,
+      "NGAY_SINH": "08/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.409046",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129634",
+      "HO_TEN": "Phạm Nguyễn Cao Thăng",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "129634",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

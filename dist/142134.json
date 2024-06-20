@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142134",
+      "Id": "142134",
+      "TinhId": 14,
+      "NGAY_SINH": "04/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.581076",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142134",
+      "HO_TEN": "Phan Đình Thành Đạt",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "142134",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

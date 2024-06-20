@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187173",
+      "Id": "187173",
+      "TinhId": 18,
+      "NGAY_SINH": "02/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.134065",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187173",
+      "HO_TEN": "NGUYỄN TẤN TÀI",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "187173",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

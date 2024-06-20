@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123084",
+      "Id": "123084",
+      "TinhId": 12,
+      "NGAY_SINH": "02/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.068009",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123084",
+      "HO_TEN": "Phạm Nguyễn Phương Chi",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "123084",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

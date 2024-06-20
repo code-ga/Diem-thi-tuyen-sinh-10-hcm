@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191010",
+      "Id": "191010",
+      "TinhId": 19,
+      "NGAY_SINH": "03/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.992584",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191010",
+      "HO_TEN": "Diệp Ngọc Quỳnh Như",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 4,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "191010",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

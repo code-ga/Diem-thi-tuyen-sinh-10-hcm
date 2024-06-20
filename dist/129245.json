@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129245",
+      "Id": "129245",
+      "TinhId": 12,
+      "NGAY_SINH": "07/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.410879",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129245",
+      "HO_TEN": "Hà Bảo Long",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 8,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.75,
+      "SOBAODANH": "129245",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

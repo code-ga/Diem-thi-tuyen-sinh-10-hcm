@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178406",
+      "Id": "178406",
+      "TinhId": 17,
+      "NGAY_SINH": "08/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.130403",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178406",
+      "HO_TEN": "Nguyễn Minh Hải Quân",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "178406",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

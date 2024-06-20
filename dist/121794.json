@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121794",
+      "Id": "121794",
+      "TinhId": 12,
+      "NGAY_SINH": "07/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.991559",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121794",
+      "HO_TEN": "Trương Tuấn Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "121794",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

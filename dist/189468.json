@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189468",
+      "Id": "189468",
+      "TinhId": 18,
+      "NGAY_SINH": "11/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.786152",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189468",
+      "HO_TEN": "Trương Đặng Đức Tín",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "189468",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

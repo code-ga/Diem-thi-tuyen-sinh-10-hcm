@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153185",
+      "Id": "153185",
+      "TinhId": 15,
+      "NGAY_SINH": "08/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.370418",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153185",
+      "HO_TEN": "Trần Đăng Sang",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25,
+      "SOBAODANH": "153185",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

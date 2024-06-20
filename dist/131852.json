@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131852",
+      "Id": "131852",
+      "TinhId": 13,
+      "NGAY_SINH": "02/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.902617",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131852",
+      "HO_TEN": "Phan Phước Nghiêm",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 8,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "131852",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

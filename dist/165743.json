@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165743",
+      "Id": "165743",
+      "TinhId": 16,
+      "NGAY_SINH": "10/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.229124",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165743",
+      "HO_TEN": "Trần Tuấn Vỹ",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "165743",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

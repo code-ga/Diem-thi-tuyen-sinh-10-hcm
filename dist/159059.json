@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159059",
+      "Id": "159059",
+      "TinhId": 15,
+      "NGAY_SINH": "10/17/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.955551",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159059",
+      "HO_TEN": "Lê Nguyễn Ngọc Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "159059",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

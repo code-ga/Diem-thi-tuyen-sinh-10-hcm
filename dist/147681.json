@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147681",
+      "Id": "147681",
+      "TinhId": 14,
+      "NGAY_SINH": "02/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.875175",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147681",
+      "HO_TEN": "Võ Hà Trang Đài",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "147681",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

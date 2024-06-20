@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162234",
+      "Id": "162234",
+      "TinhId": 16,
+      "NGAY_SINH": "09/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.959802",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162234",
+      "HO_TEN": "Lê Nguyễn Hoài Thương",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "162234",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168541",
+      "Id": "168541",
+      "TinhId": 16,
+      "NGAY_SINH": "01/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.426073",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168541",
+      "HO_TEN": "Trần Ngô Hiếu Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "168541",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

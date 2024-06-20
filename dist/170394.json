@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170394",
+      "Id": "170394",
+      "TinhId": 17,
+      "NGAY_SINH": "04/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.495315",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170394",
+      "HO_TEN": "Đỗ Bích Tuyền",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "170394",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

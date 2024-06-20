@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155770",
+      "Id": "155770",
+      "TinhId": 15,
+      "NGAY_SINH": "01/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.438644",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155770",
+      "HO_TEN": "Trịnh Hồng Ân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "155770",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

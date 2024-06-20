@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140403",
+      "Id": "140403",
+      "TinhId": 14,
+      "NGAY_SINH": "10/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.302869",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140403",
+      "HO_TEN": "Bùi Trí Hải",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "140403",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

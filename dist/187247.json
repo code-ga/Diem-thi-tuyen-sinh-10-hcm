@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187247",
+      "Id": "187247",
+      "TinhId": 18,
+      "NGAY_SINH": "09/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.128711",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187247",
+      "HO_TEN": "Lê Minh Thảo",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "187247",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187024",
+      "Id": "187024",
+      "TinhId": 18,
+      "NGAY_SINH": "07/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.921531",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187024",
+      "HO_TEN": "Hồ Văn Phúc",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "187024",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189822",
+      "Id": "189822",
+      "TinhId": 18,
+      "NGAY_SINH": "10/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.650360",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189822",
+      "HO_TEN": "Nguyễn Huỳnh Ngọc Bích",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "189822",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

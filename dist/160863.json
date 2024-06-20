@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160863",
+      "Id": "160863",
+      "TinhId": 16,
+      "NGAY_SINH": "04/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.958503",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160863",
+      "HO_TEN": "HUỲNH HOÀNG LONG",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "160863",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

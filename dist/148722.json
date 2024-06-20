@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148722",
+      "Id": "148722",
+      "TinhId": 14,
+      "NGAY_SINH": "01/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.876799",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148722",
+      "HO_TEN": "Nguyễn Cao Bảo Tín",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "148722",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

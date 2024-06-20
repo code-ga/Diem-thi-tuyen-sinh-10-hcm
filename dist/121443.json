@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121443",
+      "Id": "121443",
+      "TinhId": 12,
+      "NGAY_SINH": "04/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.995770",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121443",
+      "HO_TEN": "Trần Hoàng Tuấn Anh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "121443",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129917",
+      "Id": "129917",
+      "TinhId": 12,
+      "NGAY_SINH": "08/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.414996",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129917",
+      "HO_TEN": "Trương Kim Yến",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "129917",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

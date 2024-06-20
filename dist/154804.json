@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154804",
+      "Id": "154804",
+      "TinhId": 15,
+      "NGAY_SINH": "11/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.625774",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154804",
+      "HO_TEN": "Phạm Ngọc Mai Phương",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 4,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "154804",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139240",
+      "Id": "139240",
+      "TinhId": 13,
+      "NGAY_SINH": "04/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.168465",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139240",
+      "HO_TEN": "Cao Nguyễn Tuyết Ngân",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "139240",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

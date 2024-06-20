@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152717",
+      "Id": "152717",
+      "TinhId": 15,
+      "NGAY_SINH": "04/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.370616",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152717",
+      "HO_TEN": "Lê Hoàng Anh",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 2.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 6.75,
+      "SOBAODANH": "152717",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

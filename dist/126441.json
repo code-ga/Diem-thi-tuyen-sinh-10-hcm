@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126441",
+      "Id": "126441",
+      "TinhId": 12,
+      "NGAY_SINH": "02/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.281172",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126441",
+      "HO_TEN": "Đinh Thanh Tùng",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "126441",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

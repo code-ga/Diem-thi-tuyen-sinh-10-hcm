@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129838",
+      "Id": "129838",
+      "TinhId": 12,
+      "NGAY_SINH": "07/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.407278",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129838",
+      "HO_TEN": "Phạm Nguyễn Tường Vân",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "129838",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

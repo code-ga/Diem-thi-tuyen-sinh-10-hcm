@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132004",
+      "Id": "132004",
+      "TinhId": 13,
+      "NGAY_SINH": "02/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.844619",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132004",
+      "HO_TEN": "Bùi Trần Thiện Phúc",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.75,
+      "SOBAODANH": "132004",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172660",
+      "Id": "172660",
+      "TinhId": 17,
+      "NGAY_SINH": "01/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.760636",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172660",
+      "HO_TEN": "Phan Nguyễn Tuấn Kiệt",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "172660",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

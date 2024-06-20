@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185818",
+      "Id": "185818",
+      "TinhId": 18,
+      "NGAY_SINH": "09/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.930729",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185818",
+      "HO_TEN": "Đỗ Duy Bảo",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "185818",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

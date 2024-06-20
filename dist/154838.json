@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154838",
+      "Id": "154838",
+      "TinhId": 15,
+      "NGAY_SINH": "04/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.624491",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154838",
+      "HO_TEN": "Dương Hồng Sơn",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "154838",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

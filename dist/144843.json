@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144843",
+      "Id": "144843",
+      "TinhId": 14,
+      "NGAY_SINH": "09/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.658299",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144843",
+      "HO_TEN": "Nguyễn Ngọc Long",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "144843",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

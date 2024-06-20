@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138133",
+      "Id": "138133",
+      "TinhId": 13,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.104442",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138133",
+      "HO_TEN": "Lê Đình Trí Nguyễn",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "138133",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

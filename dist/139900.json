@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139900",
+      "Id": "139900",
+      "TinhId": 13,
+      "NGAY_SINH": "05/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.239976",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139900",
+      "HO_TEN": "Trần Nguyễn Nhật Uyên",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "139900",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160336",
+      "Id": "160336",
+      "TinhId": 16,
+      "NGAY_SINH": "01/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.773666",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160336",
+      "HO_TEN": "Nguyễn Quốc Sinh",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "160336",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

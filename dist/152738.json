@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152738",
+      "Id": "152738",
+      "TinhId": 15,
+      "NGAY_SINH": "08/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.308097",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152738",
+      "HO_TEN": "Nguyễn Thị Lan Anh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "152738",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

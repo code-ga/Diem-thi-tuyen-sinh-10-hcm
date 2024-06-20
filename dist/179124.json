@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179124",
+      "Id": "179124",
+      "TinhId": 17,
+      "NGAY_SINH": "03/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.132908",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179124",
+      "HO_TEN": "Huỳnh Thiên Quang",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "179124",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

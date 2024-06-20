@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156701",
+      "Id": "156701",
+      "TinhId": 15,
+      "NGAY_SINH": "10/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.378105",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156701",
+      "HO_TEN": "Trương Lâm Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "156701",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

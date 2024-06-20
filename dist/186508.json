@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186508",
+      "Id": "186508",
+      "TinhId": 18,
+      "NGAY_SINH": "11/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.925673",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186508",
+      "HO_TEN": "Diệp Bảo Kiều Lan",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "186508",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

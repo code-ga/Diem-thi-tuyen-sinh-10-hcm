@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123567",
+      "Id": "123567",
+      "TinhId": 12,
+      "NGAY_SINH": "03/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.935073",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123567",
+      "HO_TEN": "Trần Ngọc Thịnh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "123567",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

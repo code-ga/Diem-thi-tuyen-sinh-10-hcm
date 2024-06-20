@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136293",
+      "Id": "136293",
+      "TinhId": 13,
+      "NGAY_SINH": "10/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.032918",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136293",
+      "HO_TEN": "Đỗ Quang Nhật Đăng",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "136293",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

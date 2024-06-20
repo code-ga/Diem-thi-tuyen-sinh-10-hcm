@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148110",
+      "Id": "148110",
+      "TinhId": 14,
+      "NGAY_SINH": "03/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.236333",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148110",
+      "HO_TEN": "LÊ THỊ THÙY LINH",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "148110",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

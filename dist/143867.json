@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143867",
+      "Id": "143867",
+      "TinhId": 14,
+      "NGAY_SINH": "04/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.731980",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143867",
+      "HO_TEN": "Nguyễn Lâm Thiên Ân",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "143867",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

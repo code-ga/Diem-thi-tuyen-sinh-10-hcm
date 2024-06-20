@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174025",
+      "Id": "174025",
+      "TinhId": 17,
+      "NGAY_SINH": "04/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.554840",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174025",
+      "HO_TEN": "NGUYỄN LÂM HIỀN CHÂU",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "174025",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

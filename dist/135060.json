@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135060",
+      "Id": "135060",
+      "TinhId": 13,
+      "NGAY_SINH": "09/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.538689",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135060",
+      "HO_TEN": "Hà Hoàng Yến",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "135060",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

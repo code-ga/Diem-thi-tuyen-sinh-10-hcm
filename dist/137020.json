@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137020",
+      "Id": "137020",
+      "TinhId": 13,
+      "NGAY_SINH": "04/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.034263",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137020",
+      "HO_TEN": "Nguyễn Viết Minh Phúc",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "137020",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

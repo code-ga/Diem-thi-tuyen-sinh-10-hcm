@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132363",
+      "Id": "132363",
+      "TinhId": 13,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.907302",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132363",
+      "HO_TEN": "Trần Hoàng Thái Tuấn",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "132363",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

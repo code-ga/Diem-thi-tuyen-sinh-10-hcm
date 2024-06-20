@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "166764",
+      "Id": "166764",
+      "TinhId": 16,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.235878",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "166764",
+      "HO_TEN": "Lê Quang Huy",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "166764",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

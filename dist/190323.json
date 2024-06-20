@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190323",
+      "Id": "190323",
+      "TinhId": 19,
+      "NGAY_SINH": "04/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.853304",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190323",
+      "HO_TEN": "Phạm Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 3.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.75,
+      "SOBAODANH": "190323",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

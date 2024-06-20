@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164731",
+      "Id": "164731",
+      "TinhId": 16,
+      "NGAY_SINH": "05/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.097006",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164731",
+      "HO_TEN": "NGÔ PHẠM BẢO TRÂN",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "164731",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

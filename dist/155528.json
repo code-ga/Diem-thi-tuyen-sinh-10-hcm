@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155528",
+      "Id": "155528",
+      "TinhId": 15,
+      "NGAY_SINH": "02/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.501114",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155528",
+      "HO_TEN": "CHU ANH QUỐC",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "155528",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

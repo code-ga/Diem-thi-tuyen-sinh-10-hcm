@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134448",
+      "Id": "134448",
+      "TinhId": 13,
+      "NGAY_SINH": "08/30/2005",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.600592",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134448",
+      "HO_TEN": "Hoàng Thị Khánh Ngọc",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "134448",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

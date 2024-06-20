@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146812",
+      "Id": "146812",
+      "TinhId": 14,
+      "NGAY_SINH": "03/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.804457",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146812",
+      "HO_TEN": "PHẠM NGUYỄN MINH HIẾU",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "146812",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

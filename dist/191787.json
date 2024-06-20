@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191787",
+      "Id": "191787",
+      "TinhId": 19,
+      "NGAY_SINH": "08/18/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.853091",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191787",
+      "HO_TEN": "Lê Trần Hoàng Tuấn",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 3.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.75,
+      "SOBAODANH": "191787",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

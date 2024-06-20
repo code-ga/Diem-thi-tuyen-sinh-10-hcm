@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132273",
+      "Id": "132273",
+      "TinhId": 13,
+      "NGAY_SINH": "03/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.903002",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132273",
+      "HO_TEN": "Phan Nguyễn Ngọc Trâm",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "132273",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

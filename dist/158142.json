@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158142",
+      "Id": "158142",
+      "TinhId": 15,
+      "NGAY_SINH": "12/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.699827",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158142",
+      "HO_TEN": "Lê Phan Xuân Thảo",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "158142",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

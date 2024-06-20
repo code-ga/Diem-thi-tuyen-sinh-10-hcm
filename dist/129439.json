@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129439",
+      "Id": "129439",
+      "TinhId": 12,
+      "NGAY_SINH": "04/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.414564",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129439",
+      "HO_TEN": "Quách Tuyết Nhi",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "129439",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

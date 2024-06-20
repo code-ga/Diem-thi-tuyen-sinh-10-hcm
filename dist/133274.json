@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133274",
+      "Id": "133274",
+      "TinhId": 13,
+      "NGAY_SINH": "09/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.769301",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133274",
+      "HO_TEN": "Nguyễn Phúc Hoàng Phát",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "133274",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

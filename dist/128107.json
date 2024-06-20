@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128107",
+      "Id": "128107",
+      "TinhId": 12,
+      "NGAY_SINH": "01/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.464828",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128107",
+      "HO_TEN": "Phan Kỳ Long",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "128107",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

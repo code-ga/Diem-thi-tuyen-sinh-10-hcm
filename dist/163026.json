@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163026",
+      "Id": "163026",
+      "TinhId": 16,
+      "NGAY_SINH": "03/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.026945",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163026",
+      "HO_TEN": "Thái Thị Thanh Tuyền",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "163026",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159403",
+      "Id": "159403",
+      "TinhId": 15,
+      "NGAY_SINH": "07/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.772827",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159403",
+      "HO_TEN": "Nguyễn Trần Tuệ Mẫn",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "159403",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

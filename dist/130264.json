@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130264",
+      "Id": "130264",
+      "TinhId": 13,
+      "NGAY_SINH": "05/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.536473",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130264",
+      "HO_TEN": "Phạm Minh Hữu",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "130264",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

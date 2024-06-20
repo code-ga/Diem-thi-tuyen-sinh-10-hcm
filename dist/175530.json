@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175530",
+      "Id": "175530",
+      "TinhId": 17,
+      "NGAY_SINH": "09/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.994081",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175530",
+      "HO_TEN": "VÕ SONG GIA AN",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "175530",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

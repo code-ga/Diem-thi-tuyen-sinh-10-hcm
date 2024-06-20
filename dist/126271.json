@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126271",
+      "Id": "126271",
+      "TinhId": 12,
+      "NGAY_SINH": "11/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.507796",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126271",
+      "HO_TEN": "NGUYỄN TRÚC NGỌC THANH",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "126271",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

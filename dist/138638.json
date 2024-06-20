@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138638",
+      "Id": "138638",
+      "TinhId": 13,
+      "NGAY_SINH": "08/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.171457",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138638",
+      "HO_TEN": "Trương Vũ Hoàng Anh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "138638",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

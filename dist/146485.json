@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146485",
+      "Id": "146485",
+      "TinhId": 14,
+      "NGAY_SINH": "05/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.802338",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146485",
+      "HO_TEN": "Đỗ Ngọc Anh Thư",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "146485",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

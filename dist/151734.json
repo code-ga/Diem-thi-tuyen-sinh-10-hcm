@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151734",
+      "Id": "151734",
+      "TinhId": 15,
+      "NGAY_SINH": "05/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.299674",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151734",
+      "HO_TEN": "Nguyễn Gia An",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "151734",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

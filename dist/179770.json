@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179770",
+      "Id": "179770",
+      "TinhId": 17,
+      "NGAY_SINH": "12/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.211948",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179770",
+      "HO_TEN": "NGUYỄN VŨ TUẤN KHANH",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "179770",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

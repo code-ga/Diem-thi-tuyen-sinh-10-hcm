@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156143",
+      "Id": "156143",
+      "TinhId": 15,
+      "NGAY_SINH": "03/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.440682",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156143",
+      "HO_TEN": "Chu Phương Linh",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "156143",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

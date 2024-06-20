@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "166444",
+      "Id": "166444",
+      "TinhId": 16,
+      "NGAY_SINH": "05/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.295940",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "166444",
+      "HO_TEN": "Võ Trần Phương Nghi",
+      "TINH": "HCM",
+      "TOAN": 8.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "166444",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

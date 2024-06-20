@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "173219",
+      "Id": "173219",
+      "TinhId": 17,
+      "NGAY_SINH": "08/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.760130",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "173219",
+      "HO_TEN": "Trần Nguyễn Minh Quang",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "173219",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

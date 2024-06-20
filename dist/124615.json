@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124615",
+      "Id": "124615",
+      "TinhId": 12,
+      "NGAY_SINH": "12/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.134912",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124615",
+      "HO_TEN": "Nguyễn Võ Tiến Luân",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "124615",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145158",
+      "Id": "145158",
+      "TinhId": 14,
+      "NGAY_SINH": "08/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.309758",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145158",
+      "HO_TEN": "Huỳnh Hồ Gia Nhi",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "145158",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

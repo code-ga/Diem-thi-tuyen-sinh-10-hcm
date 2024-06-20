@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135858",
+      "Id": "135858",
+      "TinhId": 13,
+      "NGAY_SINH": "07/26/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.966367",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135858",
+      "HO_TEN": "Trần Quang Thông",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 2.25,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 6.75,
+      "SOBAODANH": "135858",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

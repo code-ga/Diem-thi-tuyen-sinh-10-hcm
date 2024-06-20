@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160541",
+      "Id": "160541",
+      "TinhId": 16,
+      "NGAY_SINH": "05/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.829934",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160541",
+      "HO_TEN": "Lê Hoàng Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "160541",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

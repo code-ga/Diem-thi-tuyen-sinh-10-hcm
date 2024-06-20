@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158224",
+      "Id": "158224",
+      "TinhId": 15,
+      "NGAY_SINH": "02/03/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.095836",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158224",
+      "HO_TEN": "Bùi Thanh Trâm",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 3.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "158224",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

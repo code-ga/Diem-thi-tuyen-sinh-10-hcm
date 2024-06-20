@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155709",
+      "Id": "155709",
+      "TinhId": 15,
+      "NGAY_SINH": "05/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.505060",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155709",
+      "HO_TEN": "NGUYỄN PHẠM PHƯƠNG UYÊN",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "155709",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

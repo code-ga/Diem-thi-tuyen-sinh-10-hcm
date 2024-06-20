@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167785",
+      "Id": "167785",
+      "TinhId": 16,
+      "NGAY_SINH": "03/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.423385",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167785",
+      "HO_TEN": "Trần Thị Trúc Phương",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "167785",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

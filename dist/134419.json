@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134419",
+      "Id": "134419",
+      "TinhId": 13,
+      "NGAY_SINH": "08/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.540627",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134419",
+      "HO_TEN": "Nguyễn Thị Kim Ngân",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "134419",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134256",
+      "Id": "134256",
+      "TinhId": 13,
+      "NGAY_SINH": "10/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.600667",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134256",
+      "HO_TEN": "Đặng Ngọc Bảo Lam",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "134256",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

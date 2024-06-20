@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125859",
+      "Id": "125859",
+      "TinhId": 12,
+      "NGAY_SINH": "12/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.338419",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125859",
+      "HO_TEN": "Hoàng Ngọc Giáng Hương",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "125859",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

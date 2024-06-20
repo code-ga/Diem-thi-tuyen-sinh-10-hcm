@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178858",
+      "Id": "178858",
+      "TinhId": 17,
+      "NGAY_SINH": "08/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.133684",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178858",
+      "HO_TEN": "Nguyễn Nhật Huy",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "178858",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

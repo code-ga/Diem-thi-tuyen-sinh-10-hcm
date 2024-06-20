@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187261",
+      "Id": "187261",
+      "TinhId": 18,
+      "NGAY_SINH": "12/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.127894",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187261",
+      "HO_TEN": "Phạm Thị Thanh Thảo",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 6,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "187261",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

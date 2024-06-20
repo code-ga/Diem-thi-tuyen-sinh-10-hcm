@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150804",
+      "Id": "150804",
+      "TinhId": 15,
+      "NGAY_SINH": "10/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.234805",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150804",
+      "HO_TEN": "Huỳnh Phi Long",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 3.25,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.5,
+      "SOBAODANH": "150804",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

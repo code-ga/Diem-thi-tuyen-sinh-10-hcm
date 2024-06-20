@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135045",
+      "Id": "135045",
+      "TinhId": 13,
+      "NGAY_SINH": "06/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.539776",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135045",
+      "HO_TEN": "Trương Trần Triệu Vy",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "135045",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

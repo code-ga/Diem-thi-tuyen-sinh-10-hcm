@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184629",
+      "Id": "184629",
+      "TinhId": 18,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.515906",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184629",
+      "HO_TEN": "Đỗ Nguyễn Yến Nhi",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "184629",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

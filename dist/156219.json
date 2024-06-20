@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156219",
+      "Id": "156219",
+      "TinhId": 15,
+      "NGAY_SINH": "08/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.376160",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156219",
+      "HO_TEN": "Nguyễn Trần Diệu Mỹ",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 3.25,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.5,
+      "SOBAODANH": "156219",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

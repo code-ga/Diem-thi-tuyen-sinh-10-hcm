@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134728",
+      "Id": "134728",
+      "TinhId": 13,
+      "NGAY_SINH": "01/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.538010",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134728",
+      "HO_TEN": "Huỳnh Vũ Tuấn Thành",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "134728",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

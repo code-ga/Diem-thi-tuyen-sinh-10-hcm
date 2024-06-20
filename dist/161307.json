@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161307",
+      "Id": "161307",
+      "TinhId": 16,
+      "NGAY_SINH": "04/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.894572",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161307",
+      "HO_TEN": "Thiều Lê Tuấn Anh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "161307",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191048",
+      "Id": "191048",
+      "TinhId": 19,
+      "NGAY_SINH": "12/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.989610",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191048",
+      "HO_TEN": "Chiêng Gia Phát",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "191048",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

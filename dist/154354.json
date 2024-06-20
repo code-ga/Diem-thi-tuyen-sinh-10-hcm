@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154354",
+      "Id": "154354",
+      "TinhId": 15,
+      "NGAY_SINH": "10/01/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.496478",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154354",
+      "HO_TEN": "Dương Đệ Cảnh",
+      "TINH": "HCM",
+      "TOAN": 1.25,
+      "VAN": 3.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.75,
+      "SOBAODANH": "154354",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

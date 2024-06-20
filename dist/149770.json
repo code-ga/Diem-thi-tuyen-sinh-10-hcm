@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149770",
+      "Id": "149770",
+      "TinhId": 14,
+      "NGAY_SINH": "04/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.228904",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149770",
+      "HO_TEN": "Nguyễn Ái Thanh",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "149770",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

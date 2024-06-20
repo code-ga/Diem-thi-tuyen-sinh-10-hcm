@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146066",
+      "Id": "146066",
+      "TinhId": 14,
+      "NGAY_SINH": "10/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.794181",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146066",
+      "HO_TEN": "Phạm Ngọc Lam Anh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "146066",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

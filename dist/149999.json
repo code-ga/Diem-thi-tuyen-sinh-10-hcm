@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149999",
+      "Id": "149999",
+      "TinhId": 14,
+      "NGAY_SINH": "11/01/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.883176",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149999",
+      "HO_TEN": "Nguyễn Thị Yến Vy",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "149999",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

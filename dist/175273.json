@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175273",
+      "Id": "175273",
+      "TinhId": 17,
+      "NGAY_SINH": "11/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.910581",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175273",
+      "HO_TEN": "NGUYỄN THỊ KIM TRANG",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.75,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "175273",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

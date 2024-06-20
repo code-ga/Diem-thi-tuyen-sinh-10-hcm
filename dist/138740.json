@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138740",
+      "Id": "138740",
+      "TinhId": 13,
+      "NGAY_SINH": "02/08/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.173424",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138740",
+      "HO_TEN": "Huỳnh Thị Ngọc Đào",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "138740",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

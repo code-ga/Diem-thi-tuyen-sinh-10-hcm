@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153532",
+      "Id": "153532",
+      "TinhId": 15,
+      "NGAY_SINH": "07/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.694413",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153532",
+      "HO_TEN": "Vương Gia Dủ",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "153532",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

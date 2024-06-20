@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179735",
+      "Id": "179735",
+      "TinhId": 17,
+      "NGAY_SINH": "01/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.208251",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179735",
+      "HO_TEN": "Trương Minh Huy",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "179735",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

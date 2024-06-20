@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123989",
+      "Id": "123989",
+      "TinhId": 12,
+      "NGAY_SINH": "03/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.196440",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123989",
+      "HO_TEN": "Vũ Thị Ngọc Mai",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "123989",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

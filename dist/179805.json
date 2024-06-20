@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179805",
+      "Id": "179805",
+      "TinhId": 17,
+      "NGAY_SINH": "02/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.516658",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179805",
+      "HO_TEN": "Nguyễn Lê Anh Khôi",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "179805",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

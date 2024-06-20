@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145339",
+      "Id": "145339",
+      "TinhId": 14,
+      "NGAY_SINH": "02/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.516082",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145339",
+      "HO_TEN": "Nguyễn Hà Phương",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "145339",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

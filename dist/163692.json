@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163692",
+      "Id": "163692",
+      "TinhId": 16,
+      "NGAY_SINH": "09/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.837933",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163692",
+      "HO_TEN": "Nguyễn Thị Kiều Trân",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "163692",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

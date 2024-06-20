@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138176",
+      "Id": "138176",
+      "TinhId": 13,
+      "NGAY_SINH": "11/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.106883",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138176",
+      "HO_TEN": "Hồ Nguyễn Hương Nhiên",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "138176",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150451",
+      "Id": "150451",
+      "TinhId": 15,
+      "NGAY_SINH": "03/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.234962",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150451",
+      "HO_TEN": "Tào Minh Hiếu",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "150451",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

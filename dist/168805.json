@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168805",
+      "Id": "168805",
+      "TinhId": 16,
+      "NGAY_SINH": "08/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.491305",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168805",
+      "HO_TEN": "Trương Tuyết An",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "168805",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150641",
+      "Id": "150641",
+      "TinhId": 15,
+      "NGAY_SINH": "01/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.235330",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150641",
+      "HO_TEN": "Lê Nguyễn Gia Khiêm",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 1.25,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "150641",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

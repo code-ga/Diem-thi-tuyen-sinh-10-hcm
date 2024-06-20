@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125119",
+      "Id": "125119",
+      "TinhId": 12,
+      "NGAY_SINH": "07/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.142006",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125119",
+      "HO_TEN": "Ngô Hồ Đức Hiệp",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "125119",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

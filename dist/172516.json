@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172516",
+      "Id": "172516",
+      "TinhId": 17,
+      "NGAY_SINH": "03/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.689060",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172516",
+      "HO_TEN": "DƯƠNG KHÁNH HUY",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 3.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.5,
+      "SOBAODANH": "172516",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

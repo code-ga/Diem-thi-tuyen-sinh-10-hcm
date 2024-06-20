@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131243",
+      "Id": "131243",
+      "TinhId": 13,
+      "NGAY_SINH": "03/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.904515",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131243",
+      "HO_TEN": "Phạm Hồ Ngọc Bảo",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "131243",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

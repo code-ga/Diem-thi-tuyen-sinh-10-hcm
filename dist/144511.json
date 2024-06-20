@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144511",
+      "Id": "144511",
+      "TinhId": 14,
+      "NGAY_SINH": "11/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.443629",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144511",
+      "HO_TEN": "Phạm Đức Huy",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "144511",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

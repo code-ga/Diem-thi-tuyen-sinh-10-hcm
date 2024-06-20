@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129616",
+      "Id": "129616",
+      "TinhId": 12,
+      "NGAY_SINH": "06/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.531382",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129616",
+      "HO_TEN": "May Huỳnh Tài",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "129616",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

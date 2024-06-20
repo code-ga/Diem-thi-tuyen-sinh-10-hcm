@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121874",
+      "Id": "121874",
+      "TinhId": 12,
+      "NGAY_SINH": "10/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.992544",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121874",
+      "HO_TEN": "Lâm Hồng Nhung",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "121874",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

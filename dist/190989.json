@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190989",
+      "Id": "190989",
+      "TinhId": 19,
+      "NGAY_SINH": "05/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.997963",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190989",
+      "HO_TEN": "Phạm Thị Yến Nhi",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "190989",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

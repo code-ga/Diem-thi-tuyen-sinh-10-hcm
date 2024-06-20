@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127974",
+      "Id": "127974",
+      "TinhId": 12,
+      "NGAY_SINH": "02/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.475183",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127974",
+      "HO_TEN": "Lê Đình Hoàng Khang",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "127974",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

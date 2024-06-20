@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155009",
+      "Id": "155009",
+      "TinhId": 15,
+      "NGAY_SINH": "06/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.498887",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155009",
+      "HO_TEN": "Lương Nguyễn Thanh Vy",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "155009",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

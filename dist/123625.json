@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123625",
+      "Id": "123625",
+      "TinhId": 12,
+      "NGAY_SINH": "01/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.933395",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123625",
+      "HO_TEN": "Cao Thị Thiên Trang",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "123625",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145245",
+      "Id": "145245",
+      "TinhId": 14,
+      "NGAY_SINH": "07/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.441924",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145245",
+      "HO_TEN": "Đinh Thiên Phát",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "145245",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

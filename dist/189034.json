@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189034",
+      "Id": "189034",
+      "TinhId": 18,
+      "NGAY_SINH": "06/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.861287",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189034",
+      "HO_TEN": "Trang Thanh Hồng",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "189034",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

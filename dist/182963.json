@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182963",
+      "Id": "182963",
+      "TinhId": 18,
+      "NGAY_SINH": "09/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.584659",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182963",
+      "HO_TEN": "PHAN THỊ MAI VÂN",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "182963",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

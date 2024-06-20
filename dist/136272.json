@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136272",
+      "Id": "136272",
+      "TinhId": 13,
+      "NGAY_SINH": "09/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.032646",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136272",
+      "HO_TEN": "Phạm Khúc Minh Châu",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "136272",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

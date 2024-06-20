@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134140",
+      "Id": "134140",
+      "TinhId": 13,
+      "NGAY_SINH": "09/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.539070",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134140",
+      "HO_TEN": "Nguyễn Minh Huy",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "134140",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

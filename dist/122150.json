@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122150",
+      "Id": "122150",
+      "TinhId": 12,
+      "NGAY_SINH": "02/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.140266",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122150",
+      "HO_TEN": "Trần Trang Trường An",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "122150",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133446",
+      "Id": "133446",
+      "TinhId": 13,
+      "NGAY_SINH": "08/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.772814",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133446",
+      "HO_TEN": "Nguyễn Quang Thành",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "133446",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

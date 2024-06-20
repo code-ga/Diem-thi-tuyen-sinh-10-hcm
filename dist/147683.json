@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147683",
+      "Id": "147683",
+      "TinhId": 14,
+      "NGAY_SINH": "04/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.295466",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147683",
+      "HO_TEN": "TRƯƠNG HỒNG ĐAN",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "147683",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

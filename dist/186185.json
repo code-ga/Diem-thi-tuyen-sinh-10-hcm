@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186185",
+      "Id": "186185",
+      "TinhId": 18,
+      "NGAY_SINH": "01/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.137358",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186185",
+      "HO_TEN": "HUỲNH THỊ KIM HIẾU",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "186185",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191958",
+      "Id": "191958",
+      "TinhId": 19,
+      "NGAY_SINH": "09/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.989302",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191958",
+      "HO_TEN": "Trịnh Nguyễn Công Vỹ",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "191958",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

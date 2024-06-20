@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137866",
+      "Id": "137866",
+      "TinhId": 13,
+      "NGAY_SINH": "06/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.102631",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137866",
+      "HO_TEN": "Mai Gia Khang",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "137866",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

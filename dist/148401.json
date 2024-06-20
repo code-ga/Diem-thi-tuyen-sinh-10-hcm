@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148401",
+      "Id": "148401",
+      "TinhId": 14,
+      "NGAY_SINH": "03/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.172689",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148401",
+      "HO_TEN": "Nguyễn Trần Ngọc Như",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "148401",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

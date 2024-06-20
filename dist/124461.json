@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124461",
+      "Id": "124461",
+      "TinhId": 12,
+      "NGAY_SINH": "03/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.988389",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124461",
+      "HO_TEN": "Nguyễn Chí Duy",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "124461",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

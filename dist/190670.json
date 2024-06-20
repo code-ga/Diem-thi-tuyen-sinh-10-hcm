@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190670",
+      "Id": "190670",
+      "TinhId": 19,
+      "NGAY_SINH": "12/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.851829",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190670",
+      "HO_TEN": "Phạm Nhật Minh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "190670",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

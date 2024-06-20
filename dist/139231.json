@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139231",
+      "Id": "139231",
+      "TinhId": 13,
+      "NGAY_SINH": "10/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.172577",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139231",
+      "HO_TEN": "Phan Quốc Đại Nam",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "139231",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143031",
+      "Id": "143031",
+      "TinhId": 14,
+      "NGAY_SINH": "05/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.587918",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143031",
+      "HO_TEN": "Nguyễn Hoàng Kim Nhi",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "143031",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

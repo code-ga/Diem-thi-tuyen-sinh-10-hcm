@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154758",
+      "Id": "154758",
+      "TinhId": 15,
+      "NGAY_SINH": "10/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.496293",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154758",
+      "HO_TEN": "Trần Nguyên Quỳnh Như",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "154758",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

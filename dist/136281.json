@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136281",
+      "Id": "136281",
+      "TinhId": 13,
+      "NGAY_SINH": "08/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.235467",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136281",
+      "HO_TEN": "Phan Quốc Chung",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "136281",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

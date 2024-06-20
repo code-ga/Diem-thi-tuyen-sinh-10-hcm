@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176166",
+      "Id": "176166",
+      "TinhId": 17,
+      "NGAY_SINH": "02/16/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.905103",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176166",
+      "HO_TEN": "DƯƠNG TUYẾT LAN",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "176166",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149162",
+      "Id": "149162",
+      "TinhId": 14,
+      "NGAY_SINH": "04/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.948489",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149162",
+      "HO_TEN": "Phan Thị Mỹ Duyên",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "149162",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

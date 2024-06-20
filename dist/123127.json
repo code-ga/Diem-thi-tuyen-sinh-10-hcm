@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123127",
+      "Id": "123127",
+      "TinhId": 12,
+      "NGAY_SINH": "05/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.928153",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123127",
+      "HO_TEN": "Hà Huy Giáp",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 8,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "123127",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

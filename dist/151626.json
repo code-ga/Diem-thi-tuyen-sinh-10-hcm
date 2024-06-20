@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151626",
+      "Id": "151626",
+      "TinhId": 15,
+      "NGAY_SINH": "05/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.009967",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151626",
+      "HO_TEN": "Lê Đoàn Phương Uyên",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "151626",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

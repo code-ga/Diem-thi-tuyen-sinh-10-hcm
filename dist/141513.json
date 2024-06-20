@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141513",
+      "Id": "141513",
+      "TinhId": 14,
+      "NGAY_SINH": "04/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.655839",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141513",
+      "HO_TEN": "Huỳnh Nguyễn Tuấn Toàn",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "141513",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188434",
+      "Id": "188434",
+      "TinhId": 18,
+      "NGAY_SINH": "09/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.717164",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188434",
+      "HO_TEN": "Trần Kim Phát",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "188434",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136663",
+      "Id": "136663",
+      "TinhId": 13,
+      "NGAY_SINH": "04/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.974894",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136663",
+      "HO_TEN": "Đỗ Phúc Thiên Kim",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "136663",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

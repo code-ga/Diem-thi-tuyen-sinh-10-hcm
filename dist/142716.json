@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142716",
+      "Id": "142716",
+      "TinhId": 14,
+      "NGAY_SINH": "03/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.437803",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142716",
+      "HO_TEN": "Bùi Hải Long",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "142716",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

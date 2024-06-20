@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133993",
+      "Id": "133993",
+      "TinhId": 13,
+      "NGAY_SINH": "09/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.601419",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133993",
+      "HO_TEN": "Nguyễn Thị Thùy Dương",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "133993",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

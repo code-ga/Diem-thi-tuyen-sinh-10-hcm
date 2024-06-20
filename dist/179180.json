@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179180",
+      "Id": "179180",
+      "TinhId": 17,
+      "NGAY_SINH": "11/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.205436",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179180",
+      "HO_TEN": "Lê Nguyễn Phương Thanh",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.5,
+      "SOBAODANH": "179180",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

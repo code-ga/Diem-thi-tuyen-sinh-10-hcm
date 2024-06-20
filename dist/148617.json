@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148617",
+      "Id": "148617",
+      "TinhId": 14,
+      "NGAY_SINH": "07/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.171846",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148617",
+      "HO_TEN": "Đỗ Hồng Thi",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 7,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "148617",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

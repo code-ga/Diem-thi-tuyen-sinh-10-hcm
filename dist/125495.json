@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125495",
+      "Id": "125495",
+      "TinhId": 12,
+      "NGAY_SINH": "11/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.066193",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125495",
+      "HO_TEN": "Nguyễn Thanh Trâm",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "125495",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

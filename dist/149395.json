@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149395",
+      "Id": "149395",
+      "TinhId": 14,
+      "NGAY_SINH": "07/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.948539",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149395",
+      "HO_TEN": "Trần Mai Thiên Kim",
+      "TINH": "HCM",
+      "TOAN": 1,
+      "VAN": 4.75,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.25,
+      "SOBAODANH": "149395",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

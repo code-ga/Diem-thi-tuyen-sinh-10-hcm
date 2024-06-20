@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127900",
+      "Id": "127900",
+      "TinhId": 12,
+      "NGAY_SINH": "12/27/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.530164",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127900",
+      "HO_TEN": "Vũ Thanh Hiền",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 5.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "127900",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

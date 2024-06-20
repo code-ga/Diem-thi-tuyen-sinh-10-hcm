@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "181393",
+      "Id": "181393",
+      "TinhId": 18,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.464139",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "181393",
+      "HO_TEN": "Đỗ Tấn Phong",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "181393",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

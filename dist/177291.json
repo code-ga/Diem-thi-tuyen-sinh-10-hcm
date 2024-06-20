@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177291",
+      "Id": "177291",
+      "TinhId": 17,
+      "NGAY_SINH": "09/27/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.201599",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177291",
+      "HO_TEN": "Lưu Quốc Duy",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "177291",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

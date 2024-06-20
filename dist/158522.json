@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158522",
+      "Id": "158522",
+      "TinhId": 15,
+      "NGAY_SINH": "04/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.957082",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158522",
+      "HO_TEN": "Lý Phúc Hậu",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "158522",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144119",
+      "Id": "144119",
+      "TinhId": 14,
+      "NGAY_SINH": "02/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.734712",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144119",
+      "HO_TEN": "Hà Ngọc Khánh Chi",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 25,
+      "SOBAODANH": "144119",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

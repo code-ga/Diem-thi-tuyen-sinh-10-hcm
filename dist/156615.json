@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156615",
+      "Id": "156615",
+      "TinhId": 15,
+      "NGAY_SINH": "03/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.437679",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156615",
+      "HO_TEN": "Phạm Thành Minh Tú",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 3.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "156615",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

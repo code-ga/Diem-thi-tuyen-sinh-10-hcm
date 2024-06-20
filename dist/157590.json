@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157590",
+      "Id": "157590",
+      "TinhId": 15,
+      "NGAY_SINH": "05/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.095524",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157590",
+      "HO_TEN": "Đỗ Bội Di",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "157590",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

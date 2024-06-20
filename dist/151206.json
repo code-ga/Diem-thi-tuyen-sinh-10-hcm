@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151206",
+      "Id": "151206",
+      "TinhId": 15,
+      "NGAY_SINH": "01/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.880091",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151206",
+      "HO_TEN": "Mai Uyên Phương",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "151206",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

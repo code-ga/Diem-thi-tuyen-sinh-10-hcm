@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174247",
+      "Id": "174247",
+      "TinhId": 17,
+      "NGAY_SINH": "12/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.617561",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174247",
+      "HO_TEN": "TRẦN HOÀNG GIA HÂN",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "174247",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

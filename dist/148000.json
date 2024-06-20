@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148000",
+      "Id": "148000",
+      "TinhId": 14,
+      "NGAY_SINH": "04/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.171370",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148000",
+      "HO_TEN": "Lê Gia Khiêm",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "148000",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

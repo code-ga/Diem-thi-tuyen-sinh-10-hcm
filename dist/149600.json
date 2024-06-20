@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149600",
+      "Id": "149600",
+      "TinhId": 14,
+      "NGAY_SINH": "10/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.946245",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149600",
+      "HO_TEN": "Trần Hà Phương Nhi",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "149600",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

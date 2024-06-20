@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142505",
+      "Id": "142505",
+      "TinhId": 14,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.583740",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142505",
+      "HO_TEN": "Nguyễn Trọng Khang",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "142505",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

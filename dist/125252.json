@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125252",
+      "Id": "125252",
+      "TinhId": 12,
+      "NGAY_SINH": "02/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.064014",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125252",
+      "HO_TEN": "Trương Quang Long",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 8.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "125252",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

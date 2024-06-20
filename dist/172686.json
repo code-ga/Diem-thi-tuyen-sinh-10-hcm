@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172686",
+      "Id": "172686",
+      "TinhId": 17,
+      "NGAY_SINH": "01/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.753894",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172686",
+      "HO_TEN": "LÊ HOÀNG NGỌC LAM",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "172686",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

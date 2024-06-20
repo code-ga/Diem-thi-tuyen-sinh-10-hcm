@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138860",
+      "Id": "138860",
+      "TinhId": 13,
+      "NGAY_SINH": "03/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.237167",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138860",
+      "HO_TEN": "Bùi Gia Hào",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "138860",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

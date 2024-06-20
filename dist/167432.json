@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167432",
+      "Id": "167432",
+      "TinhId": 16,
+      "NGAY_SINH": "12/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.360476",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167432",
+      "HO_TEN": "Nguyễn Huỳnh Khánh Vy",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "167432",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

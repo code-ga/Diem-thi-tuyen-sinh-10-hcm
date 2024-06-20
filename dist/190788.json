@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190788",
+      "Id": "190788",
+      "TinhId": 19,
+      "NGAY_SINH": "01/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.992184",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190788",
+      "HO_TEN": "Phạm Huỳnh Kim Ngân",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "190788",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136104",
+      "Id": "136104",
+      "TinhId": 13,
+      "NGAY_SINH": "09/24/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.234486",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136104",
+      "HO_TEN": "Trương Hải An",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.5,
+      "SOBAODANH": "136104",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190465",
+      "Id": "190465",
+      "TinhId": 19,
+      "NGAY_SINH": "09/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.857187",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190465",
+      "HO_TEN": "Tạ Vũ Khương",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "190465",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

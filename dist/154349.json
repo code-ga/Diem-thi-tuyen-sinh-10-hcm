@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154349",
+      "Id": "154349",
+      "TinhId": 15,
+      "NGAY_SINH": "12/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.499744",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154349",
+      "HO_TEN": "Nguyễn Lê Đình Bình",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "154349",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

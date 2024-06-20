@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142249",
+      "Id": "142249",
+      "TinhId": 14,
+      "NGAY_SINH": "02/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.377851",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142249",
+      "HO_TEN": "Vũ Hồng Hà",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "142249",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

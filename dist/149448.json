@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149448",
+      "Id": "149448",
+      "TinhId": 14,
+      "NGAY_SINH": "05/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.882731",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149448",
+      "HO_TEN": "Nguyễn Đức Duy Long",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "149448",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

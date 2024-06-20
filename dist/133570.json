@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133570",
+      "Id": "133570",
+      "TinhId": 13,
+      "NGAY_SINH": "08/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.716684",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133570",
+      "HO_TEN": "Lê Ngọc Yến Trang",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "133570",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

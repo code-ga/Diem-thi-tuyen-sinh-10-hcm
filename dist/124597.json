@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124597",
+      "Id": "124597",
+      "TinhId": 12,
+      "NGAY_SINH": "12/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.987501",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124597",
+      "HO_TEN": "Chu Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 2.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 8,
+      "SOBAODANH": "124597",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

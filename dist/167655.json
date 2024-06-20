@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167655",
+      "Id": "167655",
+      "TinhId": 16,
+      "NGAY_SINH": "11/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.369489",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167655",
+      "HO_TEN": "Ngô Gia Linh",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "167655",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

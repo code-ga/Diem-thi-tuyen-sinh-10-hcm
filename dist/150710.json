@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150710",
+      "Id": "150710",
+      "TinhId": 15,
+      "NGAY_SINH": "06/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.231919",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150710",
+      "HO_TEN": "La Quang Anh Kiệt",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "150710",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147383",
+      "Id": "147383",
+      "TinhId": 14,
+      "NGAY_SINH": "02/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.804634",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147383",
+      "HO_TEN": "LÊ QUỐC TRIỆU",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "147383",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

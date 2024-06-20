@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128601",
+      "Id": "128601",
+      "TinhId": 12,
+      "NGAY_SINH": "08/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.469201",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128601",
+      "HO_TEN": "Nguyễn Phương Trinh",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 1.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 8,
+      "SOBAODANH": "128601",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

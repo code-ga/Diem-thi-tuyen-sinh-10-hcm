@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172881",
+      "Id": "172881",
+      "TinhId": 17,
+      "NGAY_SINH": "05/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.614848",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172881",
+      "HO_TEN": "NGUYỄN THÁI THỊ KIM NGÂN",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 5.5,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "172881",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

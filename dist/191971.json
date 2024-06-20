@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191971",
+      "Id": "191971",
+      "TinhId": 19,
+      "NGAY_SINH": "04/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.989059",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191971",
+      "HO_TEN": "Nguyễn Thị Như Ý",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "191971",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

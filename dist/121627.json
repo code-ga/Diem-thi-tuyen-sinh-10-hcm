@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121627",
+      "Id": "121627",
+      "TinhId": 12,
+      "NGAY_SINH": "04/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.202802",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121627",
+      "HO_TEN": "Phạm Nam Khang",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "121627",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

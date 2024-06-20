@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139995",
+      "Id": "139995",
+      "TinhId": 13,
+      "NGAY_SINH": "01/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.303023",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139995",
+      "HO_TEN": "Cao Thùy An",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "139995",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

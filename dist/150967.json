@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150967",
+      "Id": "150967",
+      "TinhId": 15,
+      "NGAY_SINH": "05/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.880202",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150967",
+      "HO_TEN": "Lư Mỹ Nghi",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "150967",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

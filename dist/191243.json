@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191243",
+      "Id": "191243",
+      "TinhId": 19,
+      "NGAY_SINH": "08/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.987225",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191243",
+      "HO_TEN": "Trần Lê Phương Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "191243",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

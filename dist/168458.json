@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168458",
+      "Id": "168458",
+      "TinhId": 16,
+      "NGAY_SINH": "10/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.427576",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168458",
+      "HO_TEN": "Nguyễn Lý Minh Khang",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "168458",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

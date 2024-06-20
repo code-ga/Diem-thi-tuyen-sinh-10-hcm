@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160892",
+      "Id": "160892",
+      "TinhId": 16,
+      "NGAY_SINH": "08/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.088683",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160892",
+      "HO_TEN": "Lê Nguyễn Thị Diễm My",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "160892",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

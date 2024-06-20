@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153468",
+      "Id": "153468",
+      "TinhId": 15,
+      "NGAY_SINH": "05/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.566400",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153468",
+      "HO_TEN": "Trịnh Hoàng Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "153468",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

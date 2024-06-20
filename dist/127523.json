@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127523",
+      "Id": "127523",
+      "TinhId": 12,
+      "NGAY_SINH": "11/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.343761",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127523",
+      "HO_TEN": "Lương Thanh Tuyền",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "127523",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

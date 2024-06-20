@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121496",
+      "Id": "121496",
+      "TinhId": 12,
+      "NGAY_SINH": "09/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.200688",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121496",
+      "HO_TEN": "Nguyễn Tiến Đạt",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "121496",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

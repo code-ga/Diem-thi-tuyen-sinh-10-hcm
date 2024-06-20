@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133576",
+      "Id": "133576",
+      "TinhId": 13,
+      "NGAY_SINH": "10/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.778635",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133576",
+      "HO_TEN": "Nguyễn Diệu Minh Trang",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "133576",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

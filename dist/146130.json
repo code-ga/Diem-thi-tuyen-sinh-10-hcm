@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146130",
+      "Id": "146130",
+      "TinhId": 14,
+      "NGAY_SINH": "11/02/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.795294",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146130",
+      "HO_TEN": "Phan Khánh Duy",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "146130",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

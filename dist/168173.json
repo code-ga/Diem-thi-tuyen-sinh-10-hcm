@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168173",
+      "Id": "168173",
+      "TinhId": 16,
+      "NGAY_SINH": "06/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.365023",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168173",
+      "HO_TEN": "Lâm Võ Tấn Phúc",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "168173",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150908",
+      "Id": "150908",
+      "TinhId": 15,
+      "NGAY_SINH": "03/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.003553",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150908",
+      "HO_TEN": "Hoàng Ngọc Mỹ",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "150908",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

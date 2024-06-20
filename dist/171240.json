@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "171240",
+      "Id": "171240",
+      "TinhId": 17,
+      "NGAY_SINH": "07/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.049066",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "171240",
+      "HO_TEN": "PHẠM THỊ KIM NGÂN",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "171240",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

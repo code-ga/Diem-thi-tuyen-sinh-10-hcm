@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189978",
+      "Id": "189978",
+      "TinhId": 18,
+      "NGAY_SINH": "02/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.646593",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189978",
+      "HO_TEN": "Hồ Hoàng Kim Dư",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "189978",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

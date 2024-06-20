@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "181007",
+      "Id": "181007",
+      "TinhId": 18,
+      "NGAY_SINH": "02/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.395785",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "181007",
+      "HO_TEN": "LÊ GIA BẢO KHANG",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "181007",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

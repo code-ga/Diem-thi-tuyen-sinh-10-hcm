@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128707",
+      "Id": "128707",
+      "TinhId": 12,
+      "NGAY_SINH": "04/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.294878",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128707",
+      "HO_TEN": "Lê Hoàng Thanh An",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "128707",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130398",
+      "Id": "130398",
+      "TinhId": 13,
+      "NGAY_SINH": "07/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.533950",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130398",
+      "HO_TEN": "Dương Hạnh Linh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "130398",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

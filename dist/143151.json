@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143151",
+      "Id": "143151",
+      "TinhId": 14,
+      "NGAY_SINH": "07/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.581928",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143151",
+      "HO_TEN": "Nguyễn Duy Trường Phúc",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "143151",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

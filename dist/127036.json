@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127036",
+      "Id": "127036",
+      "TinhId": 12,
+      "NGAY_SINH": "02/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.276104",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127036",
+      "HO_TEN": "Bùi Hoàng Minh",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "127036",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

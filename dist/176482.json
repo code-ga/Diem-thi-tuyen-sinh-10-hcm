@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176482",
+      "Id": "176482",
+      "TinhId": 17,
+      "NGAY_SINH": "07/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.908151",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176482",
+      "HO_TEN": "LÊ NGUYỄN QUỲNH NHƯ",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "176482",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

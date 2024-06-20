@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183320",
+      "Id": "183320",
+      "TinhId": 18,
+      "NGAY_SINH": "08/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.403613",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183320",
+      "HO_TEN": "Nguyễn Phạm Anh Duy",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "183320",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

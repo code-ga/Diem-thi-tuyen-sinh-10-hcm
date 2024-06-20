@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142602",
+      "Id": "142602",
+      "TinhId": 14,
+      "NGAY_SINH": "05/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.581859",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142602",
+      "HO_TEN": "Cao Gia Kiệt",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "142602",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

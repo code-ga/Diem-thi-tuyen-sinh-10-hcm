@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151874",
+      "Id": "151874",
+      "TinhId": 15,
+      "NGAY_SINH": "02/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.297774",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151874",
+      "HO_TEN": "Mai Hoàng Di",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "151874",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

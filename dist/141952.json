@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141952",
+      "Id": "141952",
+      "TinhId": 14,
+      "NGAY_SINH": "01/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.378943",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141952",
+      "HO_TEN": "Võ Hoàng Duy Anh",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.25,
+      "SOBAODANH": "141952",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

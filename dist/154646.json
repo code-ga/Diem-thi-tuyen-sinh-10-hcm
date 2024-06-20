@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154646",
+      "Id": "154646",
+      "TinhId": 15,
+      "NGAY_SINH": "08/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.497852",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154646",
+      "HO_TEN": "Nguyễn Cao Trà My",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "154646",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

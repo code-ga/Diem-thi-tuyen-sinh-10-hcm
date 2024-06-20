@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153064",
+      "Id": "153064",
+      "TinhId": 15,
+      "NGAY_SINH": "01/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.372599",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153064",
+      "HO_TEN": "Phan Trung Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "153064",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

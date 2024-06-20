@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151975",
+      "Id": "151975",
+      "TinhId": 15,
+      "NGAY_SINH": "05/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.303983",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151975",
+      "HO_TEN": "Trần Khải Hoàng",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "151975",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

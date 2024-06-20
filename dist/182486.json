@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182486",
+      "Id": "182486",
+      "TinhId": 18,
+      "NGAY_SINH": "10/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.320931",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182486",
+      "HO_TEN": "Đào Trọng Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "182486",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

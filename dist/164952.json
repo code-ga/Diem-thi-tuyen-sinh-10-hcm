@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164952",
+      "Id": "164952",
+      "TinhId": 16,
+      "NGAY_SINH": "07/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.174556",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164952",
+      "HO_TEN": "Trần Minh Đức",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "164952",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

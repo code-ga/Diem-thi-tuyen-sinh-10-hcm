@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179913",
+      "Id": "179913",
+      "TinhId": 17,
+      "NGAY_SINH": "09/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.520197",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179913",
+      "HO_TEN": "Trương Vũ Mẫn",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "179913",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

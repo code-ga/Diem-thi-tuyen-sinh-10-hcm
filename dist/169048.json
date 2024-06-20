@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169048",
+      "Id": "169048",
+      "TinhId": 16,
+      "NGAY_SINH": "02/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.487829",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169048",
+      "HO_TEN": "Nguyễn Thị Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 1,
+      "VAN": 2.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.25,
+      "SOBAODANH": "169048",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

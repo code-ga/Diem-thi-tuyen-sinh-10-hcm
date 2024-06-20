@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133552",
+      "Id": "133552",
+      "TinhId": 13,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.768826",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133552",
+      "HO_TEN": "Nguyễn Hồng Trâm",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "133552",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

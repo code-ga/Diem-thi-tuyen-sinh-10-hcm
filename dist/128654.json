@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128654",
+      "Id": "128654",
+      "TinhId": 12,
+      "NGAY_SINH": "05/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.531764",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128654",
+      "HO_TEN": "LÂM TUẤN VINH",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "128654",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131066",
+      "Id": "131066",
+      "TinhId": 13,
+      "NGAY_SINH": "06/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.707071",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131066",
+      "HO_TEN": "Trần Hiền Tuyết Vy",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "131066",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

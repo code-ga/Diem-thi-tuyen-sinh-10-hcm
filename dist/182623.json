@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182623",
+      "Id": "182623",
+      "TinhId": 18,
+      "NGAY_SINH": "03/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.644083",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182623",
+      "HO_TEN": "VÕ PHẠM THÀNH PHONG",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "182623",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

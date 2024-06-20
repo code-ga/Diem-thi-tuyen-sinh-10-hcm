@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191419",
+      "Id": "191419",
+      "TinhId": 19,
+      "NGAY_SINH": "11/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.649913",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191419",
+      "HO_TEN": "Nguyễn Thành Thiện",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "191419",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

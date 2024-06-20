@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159975",
+      "Id": "159975",
+      "TinhId": 15,
+      "NGAY_SINH": "11/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.830419",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159975",
+      "HO_TEN": "La Trần Thiên Hạo",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "159975",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

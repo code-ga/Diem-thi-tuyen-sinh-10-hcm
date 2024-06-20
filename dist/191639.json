@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191639",
+      "Id": "191639",
+      "TinhId": 19,
+      "NGAY_SINH": "02/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.859018",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191639",
+      "HO_TEN": "Lê Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "191639",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

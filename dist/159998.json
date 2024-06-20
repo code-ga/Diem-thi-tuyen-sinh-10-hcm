@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159998",
+      "Id": "159998",
+      "TinhId": 15,
+      "NGAY_SINH": "02/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.774598",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159998",
+      "HO_TEN": "Kiều Nguyễn Đức Hùng",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.75,
+      "SOBAODANH": "159998",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

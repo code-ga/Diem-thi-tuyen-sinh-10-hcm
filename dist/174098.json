@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174098",
+      "Id": "174098",
+      "TinhId": 17,
+      "NGAY_SINH": "05/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.618959",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174098",
+      "HO_TEN": "PHAN NGỌC DIỄM",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 3.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.5,
+      "SOBAODANH": "174098",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

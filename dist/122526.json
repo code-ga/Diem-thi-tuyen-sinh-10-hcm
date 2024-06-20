@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122526",
+      "Id": "122526",
+      "TinhId": 12,
+      "NGAY_SINH": "09/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.141379",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122526",
+      "HO_TEN": "Nguyễn Thị Mỹ Lương",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 8,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "122526",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

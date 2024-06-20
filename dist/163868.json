@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163868",
+      "Id": "163868",
+      "TinhId": 16,
+      "NGAY_SINH": "06/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.168600",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163868",
+      "HO_TEN": "NGUYỄN HÙNG SƠN DUY",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "163868",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176663",
+      "Id": "176663",
+      "TinhId": 17,
+      "NGAY_SINH": "12/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.907731",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176663",
+      "HO_TEN": "PHAN NGUYỄN MAI QUỲNH",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "176663",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

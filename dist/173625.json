@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "173625",
+      "Id": "173625",
+      "TinhId": 17,
+      "NGAY_SINH": "06/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.760935",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "173625",
+      "HO_TEN": "Phan Ngọc Tú",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "173625",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

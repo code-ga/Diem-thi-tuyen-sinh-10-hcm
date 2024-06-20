@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139625",
+      "Id": "139625",
+      "TinhId": 13,
+      "NGAY_SINH": "10/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.239182",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139625",
+      "HO_TEN": "Lê Nguyễn Đức Thành",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "139625",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

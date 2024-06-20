@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160432",
+      "Id": "160432",
+      "TinhId": 16,
+      "NGAY_SINH": "06/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.830674",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160432",
+      "HO_TEN": "Phạm Ngọc Minh Thùy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "160432",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

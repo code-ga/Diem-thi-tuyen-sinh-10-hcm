@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190475",
+      "Id": "190475",
+      "TinhId": 19,
+      "NGAY_SINH": "10/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.987437",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190475",
+      "HO_TEN": "Lý Thế Kiệt",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 3.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "190475",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

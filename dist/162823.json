@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162823",
+      "Id": "162823",
+      "TinhId": 16,
+      "NGAY_SINH": "11/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.022769",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162823",
+      "HO_TEN": "Phạm Văn Phúc",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "162823",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

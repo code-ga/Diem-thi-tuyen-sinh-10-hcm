@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131034",
+      "Id": "131034",
+      "TinhId": 13,
+      "NGAY_SINH": "11/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.846131",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131034",
+      "HO_TEN": "Phan Như Tường Viên",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "131034",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160098",
+      "Id": "160098",
+      "TinhId": 16,
+      "NGAY_SINH": "06/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.831702",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160098",
+      "HO_TEN": "Nguyễn Tuyết Xuân Linh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "160098",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

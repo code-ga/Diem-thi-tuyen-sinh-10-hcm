@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153670",
+      "Id": "153670",
+      "TinhId": 15,
+      "NGAY_SINH": "11/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.562447",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153670",
+      "HO_TEN": "Nguyễn Thị Thu Huyền",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "153670",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

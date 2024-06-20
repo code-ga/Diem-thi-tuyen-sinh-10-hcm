@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187478",
+      "Id": "187478",
+      "TinhId": 18,
+      "NGAY_SINH": "10/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.927398",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187478",
+      "HO_TEN": "Văn Thị Thùy Trang",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "187478",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

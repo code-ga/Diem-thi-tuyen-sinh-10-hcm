@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136729",
+      "Id": "136729",
+      "TinhId": 13,
+      "NGAY_SINH": "01/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.974563",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136729",
+      "HO_TEN": "Huỳnh Tấn Lộc",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "136729",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

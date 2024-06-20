@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156525",
+      "Id": "156525",
+      "TinhId": 15,
+      "NGAY_SINH": "06/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.439819",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156525",
+      "HO_TEN": "Huỳnh Thị Bảo Thy",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "156525",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

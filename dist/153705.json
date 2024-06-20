@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153705",
+      "Id": "153705",
+      "TinhId": 15,
+      "NGAY_SINH": "05/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.562277",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153705",
+      "HO_TEN": "Trần Anh Khoa",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "153705",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

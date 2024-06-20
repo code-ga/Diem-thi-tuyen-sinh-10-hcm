@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128670",
+      "Id": "128670",
+      "TinhId": 12,
+      "NGAY_SINH": "12/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.466116",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128670",
+      "HO_TEN": "Hồng Phương Vy",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "128670",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

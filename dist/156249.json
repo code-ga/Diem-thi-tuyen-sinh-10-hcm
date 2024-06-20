@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156249",
+      "Id": "156249",
+      "TinhId": 15,
+      "NGAY_SINH": "06/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.375967",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156249",
+      "HO_TEN": "Chu Bảo Ngọc",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "156249",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

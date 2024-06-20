@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151251",
+      "Id": "151251",
+      "TinhId": 15,
+      "NGAY_SINH": "03/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.230799",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151251",
+      "HO_TEN": "Phạm Duy Quang",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "151251",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

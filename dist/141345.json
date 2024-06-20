@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141345",
+      "Id": "141345",
+      "TinhId": 14,
+      "NGAY_SINH": "01/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.375327",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141345",
+      "HO_TEN": "Nguyễn Thị Kim Thanh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "141345",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

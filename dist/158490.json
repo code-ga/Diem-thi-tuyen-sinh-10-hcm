@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158490",
+      "Id": "158490",
+      "TinhId": 15,
+      "NGAY_SINH": "07/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.956541",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158490",
+      "HO_TEN": "Lê Nguyễn Ngọc Hân",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "158490",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

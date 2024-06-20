@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126052",
+      "Id": "126052",
+      "TinhId": 12,
+      "NGAY_SINH": "04/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.338476",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126052",
+      "HO_TEN": "Nguyễn Châu Hải My",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "126052",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

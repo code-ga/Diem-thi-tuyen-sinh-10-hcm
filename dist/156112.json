@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156112",
+      "Id": "156112",
+      "TinhId": 15,
+      "NGAY_SINH": "11/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.440403",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156112",
+      "HO_TEN": "Đặng Vinh Tuấn Kiệt",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 3.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "156112",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

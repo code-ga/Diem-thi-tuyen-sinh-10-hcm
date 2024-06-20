@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "173695",
+      "Id": "173695",
+      "TinhId": 17,
+      "NGAY_SINH": "05/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.760536",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "173695",
+      "HO_TEN": "Nguyễn Lữ Quang Vinh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "173695",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

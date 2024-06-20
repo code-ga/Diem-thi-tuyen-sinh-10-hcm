@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176930",
+      "Id": "176930",
+      "TinhId": 17,
+      "NGAY_SINH": "12/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.823878",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176930",
+      "HO_TEN": "Võ Thị Huyền Trang",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "176930",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

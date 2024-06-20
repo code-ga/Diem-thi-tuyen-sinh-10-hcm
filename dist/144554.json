@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144554",
+      "Id": "144554",
+      "TinhId": 14,
+      "NGAY_SINH": "02/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.732886",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144554",
+      "HO_TEN": "Huỳnh Gia Phúc Khang",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "144554",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

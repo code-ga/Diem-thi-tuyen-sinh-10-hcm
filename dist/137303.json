@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137303",
+      "Id": "137303",
+      "TinhId": 13,
+      "NGAY_SINH": "11/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.975011",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137303",
+      "HO_TEN": "Trần Quốc Tín",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "137303",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

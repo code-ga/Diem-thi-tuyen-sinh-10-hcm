@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179076",
+      "Id": "179076",
+      "TinhId": 17,
+      "NGAY_SINH": "10/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.204541",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179076",
+      "HO_TEN": "Phạm Nguyễn Quỳnh Như",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "179076",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

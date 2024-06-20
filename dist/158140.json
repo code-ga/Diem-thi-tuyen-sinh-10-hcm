@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158140",
+      "Id": "158140",
+      "TinhId": 15,
+      "NGAY_SINH": "09/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.698150",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158140",
+      "HO_TEN": "Huỳnh Phạm Thanh Thảo",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 3.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "158140",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

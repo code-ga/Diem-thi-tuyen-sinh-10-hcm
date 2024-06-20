@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136904",
+      "Id": "136904",
+      "TinhId": 13,
+      "NGAY_SINH": "08/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.035854",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136904",
+      "HO_TEN": "Phạm Khôi Nguyên",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "136904",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

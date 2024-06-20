@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154742",
+      "Id": "154742",
+      "TinhId": 15,
+      "NGAY_SINH": "11/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.624887",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154742",
+      "HO_TEN": "Nguyễn Thị Hoài Nhi",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "154742",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

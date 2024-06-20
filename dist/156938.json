@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156938",
+      "Id": "156938",
+      "TinhId": 15,
+      "NGAY_SINH": "03/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.443656",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156938",
+      "HO_TEN": "Vũ Ngọc Hương",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "156938",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

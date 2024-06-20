@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183231",
+      "Id": "183231",
+      "TinhId": 18,
+      "NGAY_SINH": "02/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.641202",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183231",
+      "HO_TEN": "Hoàng Bùi Minh Chi",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "183231",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

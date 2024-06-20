@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133626",
+      "Id": "133626",
+      "TinhId": 13,
+      "NGAY_SINH": "10/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.714958",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133626",
+      "HO_TEN": "Cáp Trọng Tuân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "133626",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

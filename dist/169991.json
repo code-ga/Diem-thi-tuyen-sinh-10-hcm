@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169991",
+      "Id": "169991",
+      "TinhId": 16,
+      "NGAY_SINH": "10/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.550911",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169991",
+      "HO_TEN": "Đặng Hoàng Cẩm Tú",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "169991",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

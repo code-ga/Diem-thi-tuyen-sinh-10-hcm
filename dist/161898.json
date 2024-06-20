@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161898",
+      "Id": "161898",
+      "TinhId": 16,
+      "NGAY_SINH": "06/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.963366",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161898",
+      "HO_TEN": "Nguyễn Thị Ngọc Diễm",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "161898",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

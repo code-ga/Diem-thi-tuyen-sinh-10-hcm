@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172714",
+      "Id": "172714",
+      "TinhId": 17,
+      "NGAY_SINH": "01/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.762465",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172714",
+      "HO_TEN": "Đặng Hoàng Phương Linh",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "172714",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

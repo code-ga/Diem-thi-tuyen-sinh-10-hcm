@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123955",
+      "Id": "123955",
+      "TinhId": 12,
+      "NGAY_SINH": "08/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.198538",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123955",
+      "HO_TEN": "Trịnh Bảo Lâm",
+      "TINH": "HCM",
+      "TOAN": 0.75,
+      "VAN": 1.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 6,
+      "SOBAODANH": "123955",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

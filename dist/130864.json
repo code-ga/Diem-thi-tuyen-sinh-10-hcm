@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130864",
+      "Id": "130864",
+      "TinhId": 13,
+      "NGAY_SINH": "09/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.847261",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130864",
+      "HO_TEN": "Phạm Hoàng Anh Thư",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "130864",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

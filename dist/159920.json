@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159920",
+      "Id": "159920",
+      "TinhId": 15,
+      "NGAY_SINH": "03/03/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.834049",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159920",
+      "HO_TEN": "Lê Nghiệp Dư",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 8,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "159920",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

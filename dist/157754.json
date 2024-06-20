@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157754",
+      "Id": "157754",
+      "TinhId": 15,
+      "NGAY_SINH": "09/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.836821",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157754",
+      "HO_TEN": "Nguyễn Hữu Khang",
+      "TINH": "HCM",
+      "TOAN": 0.25,
+      "VAN": 3,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.25,
+      "SOBAODANH": "157754",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

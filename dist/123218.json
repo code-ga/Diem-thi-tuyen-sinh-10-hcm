@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123218",
+      "Id": "123218",
+      "TinhId": 12,
+      "NGAY_SINH": "11/05/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.932015",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123218",
+      "HO_TEN": "Nguyễn Trọng Khang",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "123218",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

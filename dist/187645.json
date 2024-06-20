@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187645",
+      "Id": "187645",
+      "TinhId": 18,
+      "NGAY_SINH": "06/28/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.929681",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187645",
+      "HO_TEN": "Lê Nguyễn Quốc Việt",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 2.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.5,
+      "SOBAODANH": "187645",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

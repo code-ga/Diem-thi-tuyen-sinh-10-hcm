@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130017",
+      "Id": "130017",
+      "TinhId": 13,
+      "NGAY_SINH": "02/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.899512",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130017",
+      "HO_TEN": "Châu Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "130017",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162598",
+      "Id": "162598",
+      "TinhId": 16,
+      "NGAY_SINH": "01/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.026922",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162598",
+      "HO_TEN": "Trần Đăng Khôi",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "162598",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

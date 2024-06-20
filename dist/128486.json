@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128486",
+      "Id": "128486",
+      "TinhId": 12,
+      "NGAY_SINH": "02/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.476785",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128486",
+      "HO_TEN": "Trần Nguyên Thảo",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "128486",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

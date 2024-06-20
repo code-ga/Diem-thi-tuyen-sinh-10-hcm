@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182389",
+      "Id": "182389",
+      "TinhId": 18,
+      "NGAY_SINH": "12/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.318596",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182389",
+      "HO_TEN": "Lê Tuyết Mai",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "182389",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

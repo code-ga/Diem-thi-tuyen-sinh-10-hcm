@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186484",
+      "Id": "186484",
+      "TinhId": 18,
+      "NGAY_SINH": "05/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.132763",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186484",
+      "HO_TEN": "LÂM PHÁT GIA KỲ",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "186484",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

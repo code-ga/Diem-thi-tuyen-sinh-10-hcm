@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152437",
+      "Id": "152437",
+      "TinhId": 15,
+      "NGAY_SINH": "05/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.298054",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152437",
+      "HO_TEN": "Phan Lê Minh Tâm",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "152437",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

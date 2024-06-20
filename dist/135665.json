@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135665",
+      "Id": "135665",
+      "TinhId": 13,
+      "NGAY_SINH": "09/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.967600",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135665",
+      "HO_TEN": "Lê Nguyễn Hoàng Nhi",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "135665",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

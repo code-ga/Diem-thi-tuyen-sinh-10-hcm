@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184801",
+      "Id": "184801",
+      "TinhId": 18,
+      "NGAY_SINH": "03/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.516349",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184801",
+      "HO_TEN": "Phan Nguyễn Thủy Trúc",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "184801",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

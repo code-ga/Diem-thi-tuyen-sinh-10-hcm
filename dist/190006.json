@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190006",
+      "Id": "190006",
+      "TinhId": 19,
+      "NGAY_SINH": "10/08/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.650113",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190006",
+      "HO_TEN": "Đỗ Thạch Trùng Dương",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "190006",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

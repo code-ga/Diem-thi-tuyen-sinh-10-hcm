@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161217",
+      "Id": "161217",
+      "TinhId": 16,
+      "NGAY_SINH": "03/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.957563",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161217",
+      "HO_TEN": "NGUYỄN VÕ TƯỜNG VÂN",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "161217",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

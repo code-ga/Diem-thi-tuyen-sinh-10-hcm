@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151082",
+      "Id": "151082",
+      "TinhId": 15,
+      "NGAY_SINH": "01/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.880068",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151082",
+      "HO_TEN": "Nguyễn Lê Uyên Nhi",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "151082",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

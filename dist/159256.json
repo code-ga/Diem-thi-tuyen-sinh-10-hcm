@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159256",
+      "Id": "159256",
+      "TinhId": 15,
+      "NGAY_SINH": "12/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.772793",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159256",
+      "HO_TEN": "Nguyễn Huỳnh Trung Hậu",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "159256",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

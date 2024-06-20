@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136065",
+      "Id": "136065",
+      "TinhId": 13,
+      "NGAY_SINH": "03/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.968095",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136065",
+      "HO_TEN": "Hồ Thị Như Ý",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "136065",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

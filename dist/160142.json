@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160142",
+      "Id": "160142",
+      "TinhId": 16,
+      "NGAY_SINH": "04/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.827554",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160142",
+      "HO_TEN": "Nguyễn Thị Ngọc My",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "160142",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

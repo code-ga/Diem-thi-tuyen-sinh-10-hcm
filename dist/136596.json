@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136596",
+      "Id": "136596",
+      "TinhId": 13,
+      "NGAY_SINH": "09/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.235433",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136596",
+      "HO_TEN": "Trịnh Hoàng Như Khánh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "136596",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

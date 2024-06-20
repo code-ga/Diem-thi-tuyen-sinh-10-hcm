@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134747",
+      "Id": "134747",
+      "TinhId": 13,
+      "NGAY_SINH": "11/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.539605",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134747",
+      "HO_TEN": "Nguyễn Võ Ngọc Thảo",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "134747",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

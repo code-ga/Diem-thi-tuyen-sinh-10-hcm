@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170368",
+      "Id": "170368",
+      "TinhId": 17,
+      "NGAY_SINH": "05/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.495261",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170368",
+      "HO_TEN": "Phan Ngọc Bảo Trâm",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "170368",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

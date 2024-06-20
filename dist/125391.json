@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125391",
+      "Id": "125391",
+      "TinhId": 12,
+      "NGAY_SINH": "05/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.144612",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125391",
+      "HO_TEN": "Tôn Võ Hoàng Quân",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "125391",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

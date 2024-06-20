@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190626",
+      "Id": "190626",
+      "TinhId": 19,
+      "NGAY_SINH": "08/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.651408",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190626",
+      "HO_TEN": "Nguyễn Thị Lý",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "190626",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

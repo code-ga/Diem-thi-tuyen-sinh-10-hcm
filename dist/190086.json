@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190086",
+      "Id": "190086",
+      "TinhId": 19,
+      "NGAY_SINH": "01/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.852786",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190086",
+      "HO_TEN": "Lai Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "190086",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

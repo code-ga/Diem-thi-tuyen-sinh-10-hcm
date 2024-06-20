@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147092",
+      "Id": "147092",
+      "TinhId": 14,
+      "NGAY_SINH": "10/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.874140",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147092",
+      "HO_TEN": "NGUYỄN LÊ KHÁNH NGỌC",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "147092",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

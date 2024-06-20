@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167915",
+      "Id": "167915",
+      "TinhId": 16,
+      "NGAY_SINH": "02/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.423810",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167915",
+      "HO_TEN": "Nguyễn Trần Kim Tuyền",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "167915",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

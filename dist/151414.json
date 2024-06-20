@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151414",
+      "Id": "151414",
+      "TinhId": 15,
+      "NGAY_SINH": "07/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.234307",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151414",
+      "HO_TEN": "Đoàn Ngọc Anh Thư",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "151414",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

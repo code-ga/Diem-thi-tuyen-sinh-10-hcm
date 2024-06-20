@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134739",
+      "Id": "134739",
+      "TinhId": 13,
+      "NGAY_SINH": "08/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.604877",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134739",
+      "HO_TEN": "Lê Trần Thanh Thảo",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "134739",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

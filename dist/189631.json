@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189631",
+      "Id": "189631",
+      "TinhId": 18,
+      "NGAY_SINH": "07/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.646537",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189631",
+      "HO_TEN": "Nguyễn Thùy Thúy An",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "189631",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

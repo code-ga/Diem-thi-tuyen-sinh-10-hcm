@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186502",
+      "Id": "186502",
+      "TinhId": 18,
+      "NGAY_SINH": "07/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.128621",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186502",
+      "HO_TEN": "Nguyễn Thị Trúc Lâm",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "186502",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

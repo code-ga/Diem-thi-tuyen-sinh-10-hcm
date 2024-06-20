@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164804",
+      "Id": "164804",
+      "TinhId": 16,
+      "NGAY_SINH": "05/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.166568",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164804",
+      "HO_TEN": "NGUYỄN NGỌC NHƯ Ý",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "164804",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

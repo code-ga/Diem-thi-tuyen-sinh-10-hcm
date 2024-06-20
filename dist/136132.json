@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136132",
+      "Id": "136132",
+      "TinhId": 13,
+      "NGAY_SINH": "03/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.033071",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136132",
+      "HO_TEN": "Lê Ngọc Mai Anh",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "136132",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

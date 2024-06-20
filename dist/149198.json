@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149198",
+      "Id": "149198",
+      "TinhId": 14,
+      "NGAY_SINH": "08/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.939046",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149198",
+      "HO_TEN": "Lê Vĩnh Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "149198",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

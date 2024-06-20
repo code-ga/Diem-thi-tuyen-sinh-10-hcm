@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144375",
+      "Id": "144375",
+      "TinhId": 14,
+      "NGAY_SINH": "10/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.660187",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144375",
+      "HO_TEN": "Trần Thị Thu Hằng",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "144375",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

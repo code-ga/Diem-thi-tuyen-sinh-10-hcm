@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "181934",
+      "Id": "181934",
+      "TinhId": 18,
+      "NGAY_SINH": "03/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.582241",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "181934",
+      "HO_TEN": "TRƯƠNG THỊ NGỌC ÁNH",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "181934",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163235",
+      "Id": "163235",
+      "TinhId": 16,
+      "NGAY_SINH": "06/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.095041",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163235",
+      "HO_TEN": "Thạch Thị Ngọc Hạnh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "163235",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

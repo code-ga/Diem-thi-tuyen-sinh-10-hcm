@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146497",
+      "Id": "146497",
+      "TinhId": 14,
+      "NGAY_SINH": "08/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.799404",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146497",
+      "HO_TEN": "Lý Phi Thường",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "146497",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

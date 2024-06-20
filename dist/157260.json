@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157260",
+      "Id": "157260",
+      "TinhId": 15,
+      "NGAY_SINH": "06/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.630949",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157260",
+      "HO_TEN": "Nguyễn Ngọc Quốc",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "157260",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

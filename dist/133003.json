@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133003",
+      "Id": "133003",
+      "TinhId": 13,
+      "NGAY_SINH": "04/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.775245",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133003",
+      "HO_TEN": "Lê Hữu Hoàng Lan",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 8,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "133003",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

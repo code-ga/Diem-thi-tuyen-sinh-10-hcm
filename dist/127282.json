@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127282",
+      "Id": "127282",
+      "TinhId": 12,
+      "NGAY_SINH": "11/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.274008",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127282",
+      "HO_TEN": "Lý Duy Quý",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "127282",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

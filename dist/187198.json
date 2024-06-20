@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187198",
+      "Id": "187198",
+      "TinhId": 18,
+      "NGAY_SINH": "01/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.130328",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187198",
+      "HO_TEN": "Phạm Quốc Thái",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "187198",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

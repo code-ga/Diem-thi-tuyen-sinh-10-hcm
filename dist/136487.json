@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136487",
+      "Id": "136487",
+      "TinhId": 13,
+      "NGAY_SINH": "08/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.029695",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136487",
+      "HO_TEN": "Đỗ Minh Huy",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "136487",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

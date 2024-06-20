@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142748",
+      "Id": "142748",
+      "TinhId": 14,
+      "NGAY_SINH": "09/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.587828",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142748",
+      "HO_TEN": "Lê Thanh Mai",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "142748",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

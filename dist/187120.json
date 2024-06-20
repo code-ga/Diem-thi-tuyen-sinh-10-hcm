@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187120",
+      "Id": "187120",
+      "TinhId": 18,
+      "NGAY_SINH": "06/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.924773",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187120",
+      "HO_TEN": "Lê Huỳnh Thu Quyên",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "187120",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

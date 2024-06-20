@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191511",
+      "Id": "191511",
+      "TinhId": 19,
+      "NGAY_SINH": "08/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.858459",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191511",
+      "HO_TEN": "Nguyễn Hoàng Mỹ Thuận",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "191511",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

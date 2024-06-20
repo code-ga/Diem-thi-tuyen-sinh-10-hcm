@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167214",
+      "Id": "167214",
+      "TinhId": 16,
+      "NGAY_SINH": "08/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.359283",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167214",
+      "HO_TEN": "Trần Phú Lộc",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 4.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 10,
+      "SOBAODANH": "167214",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

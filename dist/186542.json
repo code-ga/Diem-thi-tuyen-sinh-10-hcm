@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186542",
+      "Id": "186542",
+      "TinhId": 18,
+      "NGAY_SINH": "02/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.128360",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186542",
+      "HO_TEN": "Nguyễn Thị Thùy Linh",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "186542",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

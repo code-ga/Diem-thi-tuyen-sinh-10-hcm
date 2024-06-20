@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162319",
+      "Id": "162319",
+      "TinhId": 16,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.961154",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162319",
+      "HO_TEN": "Trần Nguyễn Kim Vàng",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "162319",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

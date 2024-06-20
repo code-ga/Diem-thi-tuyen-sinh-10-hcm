@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189114",
+      "Id": "189114",
+      "TinhId": 18,
+      "NGAY_SINH": "07/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.784708",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189114",
+      "HO_TEN": "Cái Minh Khôi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "189114",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

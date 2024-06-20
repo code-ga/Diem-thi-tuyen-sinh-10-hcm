@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131181",
+      "Id": "131181",
+      "TinhId": 13,
+      "NGAY_SINH": "09/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.843318",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131181",
+      "HO_TEN": "Nguyễn Thị Lan Anh",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10,
+      "SOBAODANH": "131181",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

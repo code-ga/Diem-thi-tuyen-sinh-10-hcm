@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137272",
+      "Id": "137272",
+      "TinhId": 13,
+      "NGAY_SINH": "01/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.234881",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137272",
+      "HO_TEN": "Lê Ngọc Anh Thy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "137272",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

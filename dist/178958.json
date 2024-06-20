@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178958",
+      "Id": "178958",
+      "TinhId": 17,
+      "NGAY_SINH": "02/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.206509",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178958",
+      "HO_TEN": "Nguyễn Trần Hoàng Mai",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "178958",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

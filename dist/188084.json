@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188084",
+      "Id": "188084",
+      "TinhId": 18,
+      "NGAY_SINH": "02/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.057155",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188084",
+      "HO_TEN": "Võ Song Hương",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "188084",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

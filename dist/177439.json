@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177439",
+      "Id": "177439",
+      "TinhId": 17,
+      "NGAY_SINH": "04/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.055037",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177439",
+      "HO_TEN": "Nguyễn Đăng Khôi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "177439",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

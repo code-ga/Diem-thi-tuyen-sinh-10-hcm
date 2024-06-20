@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176340",
+      "Id": "176340",
+      "TinhId": 17,
+      "NGAY_SINH": "10/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.823957",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176340",
+      "HO_TEN": "Đỗ Trung Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "176340",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

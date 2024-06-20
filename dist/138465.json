@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138465",
+      "Id": "138465",
+      "TinhId": 13,
+      "NGAY_SINH": "02/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.104477",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138465",
+      "HO_TEN": "Trương Phương Tú Uyên",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "138465",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

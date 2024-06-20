@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134780",
+      "Id": "134780",
+      "TinhId": 13,
+      "NGAY_SINH": "10/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.602707",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134780",
+      "HO_TEN": "Đào Thị Minh Thư",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "134780",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

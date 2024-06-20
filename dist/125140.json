@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125140",
+      "Id": "125140",
+      "TinhId": 12,
+      "NGAY_SINH": "03/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.066326",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125140",
+      "HO_TEN": "Nguyễn Võ Thiên Hương",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "125140",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

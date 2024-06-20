@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131378",
+      "Id": "131378",
+      "TinhId": 13,
+      "NGAY_SINH": "09/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.900343",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131378",
+      "HO_TEN": "Đinh Nguyễn Thùy Dương",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "131378",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

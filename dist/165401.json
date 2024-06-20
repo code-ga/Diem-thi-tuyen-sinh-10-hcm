@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165401",
+      "Id": "165401",
+      "TinhId": 16,
+      "NGAY_SINH": "02/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.226678",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165401",
+      "HO_TEN": "Nguyễn Phúc Phước",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "165401",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

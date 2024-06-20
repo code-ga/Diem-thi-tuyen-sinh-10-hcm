@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138913",
+      "Id": "138913",
+      "TinhId": 13,
+      "NGAY_SINH": "11/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.165434",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138913",
+      "HO_TEN": "Vũ Tấn Hưng",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 3.5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "138913",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

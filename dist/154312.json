@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154312",
+      "Id": "154312",
+      "TinhId": 15,
+      "NGAY_SINH": "09/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.624665",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154312",
+      "HO_TEN": "Phạm Nguyễn Thiên Anh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 3.75,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "154312",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

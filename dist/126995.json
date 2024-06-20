@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126995",
+      "Id": "126995",
+      "TinhId": 12,
+      "NGAY_SINH": "02/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.345632",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126995",
+      "HO_TEN": "Lê Phước Lộc",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 4.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10,
+      "SOBAODANH": "126995",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

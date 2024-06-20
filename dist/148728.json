@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148728",
+      "Id": "148728",
+      "TinhId": 14,
+      "NGAY_SINH": "01/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.168085",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148728",
+      "HO_TEN": "Đỗ Dương Bảo Trâm",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "148728",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

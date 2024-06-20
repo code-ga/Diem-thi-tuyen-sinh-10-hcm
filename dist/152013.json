@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152013",
+      "Id": "152013",
+      "TinhId": 15,
+      "NGAY_SINH": "03/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.299322",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152013",
+      "HO_TEN": "Nguyễn Nhật Huy",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "152013",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

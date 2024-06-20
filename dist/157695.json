@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157695",
+      "Id": "157695",
+      "TinhId": 15,
+      "NGAY_SINH": "05/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.705502",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157695",
+      "HO_TEN": "Phạm Ánh Hồng",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "157695",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155365",
+      "Id": "155365",
+      "TinhId": 15,
+      "NGAY_SINH": "11/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.504833",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155365",
+      "HO_TEN": "HỒ QUỐC NAM",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 3,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.75,
+      "SOBAODANH": "155365",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129931",
+      "Id": "129931",
+      "TinhId": 12,
+      "NGAY_SINH": "07/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.534718",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129931",
+      "HO_TEN": "Trần Hoài An",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "129931",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

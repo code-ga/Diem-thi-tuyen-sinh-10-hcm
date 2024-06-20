@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188405",
+      "Id": "188405",
+      "TinhId": 18,
+      "NGAY_SINH": "07/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.056661",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188405",
+      "HO_TEN": "Lý Nguyễn Yến Như",
+      "TINH": "HCM",
+      "TOAN": 1.25,
+      "VAN": 4,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "188405",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

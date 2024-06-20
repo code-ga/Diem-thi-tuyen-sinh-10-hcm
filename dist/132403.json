@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132403",
+      "Id": "132403",
+      "TinhId": 13,
+      "NGAY_SINH": "08/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.844135",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132403",
+      "HO_TEN": "La Đức Vinh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "132403",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

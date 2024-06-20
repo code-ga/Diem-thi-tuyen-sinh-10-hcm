@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189942",
+      "Id": "189942",
+      "TinhId": 18,
+      "NGAY_SINH": "05/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.703612",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189942",
+      "HO_TEN": "Trương Tấn Đạt",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "189942",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

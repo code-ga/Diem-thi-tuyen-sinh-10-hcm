@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138911",
+      "Id": "138911",
+      "TinhId": 13,
+      "NGAY_SINH": "12/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.108116",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138911",
+      "HO_TEN": "Phạm Tuấn Hưng",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "138911",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

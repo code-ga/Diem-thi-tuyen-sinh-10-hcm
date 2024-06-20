@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131710",
+      "Id": "131710",
+      "TinhId": 13,
+      "NGAY_SINH": "06/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.844750",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131710",
+      "HO_TEN": "Nguyễn Thành Long",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "131710",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

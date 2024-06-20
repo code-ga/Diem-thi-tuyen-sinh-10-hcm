@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136992",
+      "Id": "136992",
+      "TinhId": 13,
+      "NGAY_SINH": "09/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.234350",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136992",
+      "HO_TEN": "Lê Trần Đức Phú",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 2,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "136992",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

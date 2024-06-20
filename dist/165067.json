@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165067",
+      "Id": "165067",
+      "TinhId": 16,
+      "NGAY_SINH": "04/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.174614",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165067",
+      "HO_TEN": "Huỳnh Ngọc Quốc Huy",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "165067",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

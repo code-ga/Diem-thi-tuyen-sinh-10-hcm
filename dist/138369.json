@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138369",
+      "Id": "138369",
+      "TinhId": 13,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.101418",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138369",
+      "HO_TEN": "Huỳnh Thy",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "138369",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

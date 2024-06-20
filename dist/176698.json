@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176698",
+      "Id": "176698",
+      "TinhId": 17,
+      "NGAY_SINH": "07/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.822169",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176698",
+      "HO_TEN": "Lê Ngọc Thái",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "176698",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

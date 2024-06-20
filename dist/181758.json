@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "181758",
+      "Id": "181758",
+      "TinhId": 18,
+      "NGAY_SINH": "05/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.512697",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "181758",
+      "HO_TEN": "Nguyễn Mai Thiện Vương",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "181758",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

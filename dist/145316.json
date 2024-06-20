@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145316",
+      "Id": "145316",
+      "TinhId": 14,
+      "NGAY_SINH": "09/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.733166",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145316",
+      "HO_TEN": "Phạm Hữu Phúc",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "145316",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

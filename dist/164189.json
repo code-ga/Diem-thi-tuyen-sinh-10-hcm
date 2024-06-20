@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164189",
+      "Id": "164189",
+      "TinhId": 16,
+      "NGAY_SINH": "02/13/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.169729",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164189",
+      "HO_TEN": "ĐINH NGUYỄN HOÀI THANH",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4,
+      "NGOAI_NGU": 1.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "164189",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

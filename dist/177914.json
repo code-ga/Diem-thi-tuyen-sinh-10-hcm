@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177914",
+      "Id": "177914",
+      "TinhId": 17,
+      "NGAY_SINH": "02/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.134019",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177914",
+      "HO_TEN": "Đồng Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "177914",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

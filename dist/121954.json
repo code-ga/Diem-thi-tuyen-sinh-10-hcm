@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121954",
+      "Id": "121954",
+      "TinhId": 12,
+      "NGAY_SINH": "06/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.992745",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121954",
+      "HO_TEN": "Đàm Việt Thành",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "121954",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

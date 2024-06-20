@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129420",
+      "Id": "129420",
+      "TinhId": 12,
+      "NGAY_SINH": "11/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.294677",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129420",
+      "HO_TEN": "Đỗ Bảo Yến Nhi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 3.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "129420",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

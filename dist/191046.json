@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191046",
+      "Id": "191046",
+      "TinhId": 19,
+      "NGAY_SINH": "03/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.857424",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191046",
+      "HO_TEN": "Trần Kim Oanh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "191046",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

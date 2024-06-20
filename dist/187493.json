@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187493",
+      "Id": "187493",
+      "TinhId": 18,
+      "NGAY_SINH": "08/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.063298",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187493",
+      "HO_TEN": "Đoàn Ngọc Duyên Trinh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "187493",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

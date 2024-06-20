@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154785",
+      "Id": "154785",
+      "TinhId": 15,
+      "NGAY_SINH": "02/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.497396",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154785",
+      "HO_TEN": "Đoàn Trọng Phúc",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "154785",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

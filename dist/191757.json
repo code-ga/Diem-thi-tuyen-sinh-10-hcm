@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191757",
+      "Id": "191757",
+      "TinhId": 19,
+      "NGAY_SINH": "01/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.646981",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191757",
+      "HO_TEN": "Phạm Mạnh Trường",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "191757",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

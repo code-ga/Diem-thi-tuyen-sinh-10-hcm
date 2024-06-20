@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133213",
+      "Id": "133213",
+      "TinhId": 13,
+      "NGAY_SINH": "04/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.772063",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133213",
+      "HO_TEN": "Đoàn Trần Yến Nhi",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "133213",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134299",
+      "Id": "134299",
+      "TinhId": 13,
+      "NGAY_SINH": "10/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.604123",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134299",
+      "HO_TEN": "Phạm Bùi Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "134299",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

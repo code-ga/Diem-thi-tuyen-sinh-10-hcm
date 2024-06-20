@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137363",
+      "Id": "137363",
+      "TinhId": 13,
+      "NGAY_SINH": "03/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.038574",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137363",
+      "HO_TEN": "Lê Minh Triết",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 4,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "137363",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

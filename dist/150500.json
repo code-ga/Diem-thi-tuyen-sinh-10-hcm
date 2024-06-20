@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150500",
+      "Id": "150500",
+      "TinhId": 15,
+      "NGAY_SINH": "06/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.003398",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150500",
+      "HO_TEN": "Văn Công Thái Hùng",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "150500",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

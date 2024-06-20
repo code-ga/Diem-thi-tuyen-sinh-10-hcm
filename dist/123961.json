@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123961",
+      "Id": "123961",
+      "TinhId": 12,
+      "NGAY_SINH": "10/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.998479",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123961",
+      "HO_TEN": "Đào Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "123961",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146556",
+      "Id": "146556",
+      "TinhId": 14,
+      "NGAY_SINH": "03/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.804177",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146556",
+      "HO_TEN": "Nguyễn Đức Giao Ước",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "146556",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

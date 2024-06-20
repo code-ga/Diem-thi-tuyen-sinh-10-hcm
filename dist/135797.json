@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135797",
+      "Id": "135797",
+      "TinhId": 13,
+      "NGAY_SINH": "11/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.968811",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135797",
+      "HO_TEN": "Trịnh Thục San",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "135797",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

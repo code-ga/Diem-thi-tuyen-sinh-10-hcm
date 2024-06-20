@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156648",
+      "Id": "156648",
+      "TinhId": 15,
+      "NGAY_SINH": "11/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.434588",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156648",
+      "HO_TEN": "Văn Thanh Việt",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 3.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "156648",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

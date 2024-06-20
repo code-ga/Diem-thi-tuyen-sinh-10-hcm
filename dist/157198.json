@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157198",
+      "Id": "157198",
+      "TinhId": 15,
+      "NGAY_SINH": "01/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.442077",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157198",
+      "HO_TEN": "Nguyễn Ngọc Yến Oanh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "157198",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

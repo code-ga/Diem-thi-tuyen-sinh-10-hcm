@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142220",
+      "Id": "142220",
+      "TinhId": 14,
+      "NGAY_SINH": "01/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.524489",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142220",
+      "HO_TEN": "Phạm Mạnh Duy",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 6,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "142220",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

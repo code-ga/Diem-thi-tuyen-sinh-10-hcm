@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165735",
+      "Id": "165735",
+      "TinhId": 16,
+      "NGAY_SINH": "10/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.231297",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165735",
+      "HO_TEN": "Phan Vũ Linh Vy",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "165735",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172759",
+      "Id": "172759",
+      "TinhId": 17,
+      "NGAY_SINH": "12/21/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.828953",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172759",
+      "HO_TEN": "PHAN NGUYỄN THÀNH LONG",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "172759",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

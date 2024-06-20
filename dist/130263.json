@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130263",
+      "Id": "130263",
+      "TinhId": 13,
+      "NGAY_SINH": "10/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.898074",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130263",
+      "HO_TEN": "Tạ Xuân Hương",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "130263",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

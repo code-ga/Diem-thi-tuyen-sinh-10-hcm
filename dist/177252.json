@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177252",
+      "Id": "177252",
+      "TinhId": 17,
+      "NGAY_SINH": "01/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.054872",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177252",
+      "HO_TEN": "Khuất Ngọc Quỳnh Chi",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "177252",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

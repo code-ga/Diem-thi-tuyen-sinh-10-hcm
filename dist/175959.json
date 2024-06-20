@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175959",
+      "Id": "175959",
+      "TinhId": 17,
+      "NGAY_SINH": "12/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.764253",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175959",
+      "HO_TEN": "Nguyễn Quốc Hùng",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 3.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "175959",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

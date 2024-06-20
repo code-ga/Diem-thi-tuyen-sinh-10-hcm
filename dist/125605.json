@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125605",
+      "Id": "125605",
+      "TinhId": 12,
+      "NGAY_SINH": "09/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:26.508316",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125605",
+      "HO_TEN": "HOÀNG GIA BẢO AN",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "125605",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

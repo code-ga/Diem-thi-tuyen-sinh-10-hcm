@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140607",
+      "Id": "140607",
+      "TinhId": 14,
+      "NGAY_SINH": "04/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.653955",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140607",
+      "HO_TEN": "Phạm Đức Khang",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "140607",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137930",
+      "Id": "137930",
+      "TinhId": 13,
+      "NGAY_SINH": "05/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.101242",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137930",
+      "HO_TEN": "Nguyễn Hà Minh Khuê",
+      "TINH": "HCM",
+      "TOAN": 8.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 26,
+      "SOBAODANH": "137930",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

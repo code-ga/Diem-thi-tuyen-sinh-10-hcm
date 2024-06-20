@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125346",
+      "Id": "125346",
+      "TinhId": 12,
+      "NGAY_SINH": "01/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.144225",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125346",
+      "HO_TEN": "Đỗ Lê Kiều Oanh",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "125346",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "166747",
+      "Id": "166747",
+      "TinhId": 16,
+      "NGAY_SINH": "02/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.292202",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "166747",
+      "HO_TEN": "Phạm Huỳnh Ngọc Hiếu",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 8,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "166747",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

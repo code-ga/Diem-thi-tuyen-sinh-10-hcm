@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124853",
+      "Id": "124853",
+      "TinhId": 12,
+      "NGAY_SINH": "06/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.988094",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124853",
+      "HO_TEN": "Nguyễn Ngọc Diễm Thy",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "124853",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

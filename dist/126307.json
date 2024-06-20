@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126307",
+      "Id": "126307",
+      "TinhId": 12,
+      "NGAY_SINH": "02/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.339812",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126307",
+      "HO_TEN": "Trương Hoàng Thiên",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "126307",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146235",
+      "Id": "146235",
+      "TinhId": 14,
+      "NGAY_SINH": "04/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.798268",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146235",
+      "HO_TEN": "Trần Ngọc Vân Khánh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 8,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "146235",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

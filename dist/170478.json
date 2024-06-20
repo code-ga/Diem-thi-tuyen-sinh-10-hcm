@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170478",
+      "Id": "170478",
+      "TinhId": 17,
+      "NGAY_SINH": "08/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.684550",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170478",
+      "HO_TEN": "MAI HOÀI ANH",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 6.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "170478",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

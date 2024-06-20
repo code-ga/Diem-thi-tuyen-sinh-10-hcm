@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140354",
+      "Id": "140354",
+      "TinhId": 14,
+      "NGAY_SINH": "09/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.374115",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140354",
+      "HO_TEN": "Đỗ Khương Duy",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 7.5,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.5,
+      "SOBAODANH": "140354",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

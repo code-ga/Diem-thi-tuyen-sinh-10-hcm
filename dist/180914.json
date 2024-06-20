@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "180914",
+      "Id": "180914",
+      "TinhId": 18,
+      "NGAY_SINH": "11/23/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.401869",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "180914",
+      "HO_TEN": "Đỗ Lưu Phúc Hậu",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "180914",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

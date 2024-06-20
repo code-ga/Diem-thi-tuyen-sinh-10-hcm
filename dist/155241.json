@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155241",
+      "Id": "155241",
+      "TinhId": 15,
+      "NGAY_SINH": "04/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.502670",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155241",
+      "HO_TEN": "PHÙ NGUYỄN QUỲNH HƯƠNG",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "155241",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

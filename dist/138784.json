@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138784",
+      "Id": "138784",
+      "TinhId": 13,
+      "NGAY_SINH": "11/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.174435",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138784",
+      "HO_TEN": "Lê Văn Dương",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "138784",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

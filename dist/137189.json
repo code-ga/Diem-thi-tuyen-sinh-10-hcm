@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137189",
+      "Id": "137189",
+      "TinhId": 13,
+      "NGAY_SINH": "11/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.035681",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137189",
+      "HO_TEN": "Hoàng Cao Minh Thiên",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "137189",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190440",
+      "Id": "190440",
+      "TinhId": 19,
+      "NGAY_SINH": "09/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.702983",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190440",
+      "HO_TEN": "Trần Anh Khoa",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "190440",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

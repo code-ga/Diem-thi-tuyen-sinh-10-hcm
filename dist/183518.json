@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183518",
+      "Id": "183518",
+      "TinhId": 18,
+      "NGAY_SINH": "11/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.521079",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183518",
+      "HO_TEN": "NGUYỄN NGỌC VY KHÁNH",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "183518",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "173466",
+      "Id": "173466",
+      "TinhId": 17,
+      "NGAY_SINH": "07/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.759837",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "173466",
+      "HO_TEN": "Nguyễn Phạm Mai Thy",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "173466",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

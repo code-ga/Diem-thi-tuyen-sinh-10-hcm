@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187395",
+      "Id": "187395",
+      "TinhId": 18,
+      "NGAY_SINH": "01/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.132156",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187395",
+      "HO_TEN": "NGUYỄN THỊ THỦY TIÊN",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "187395",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123122",
+      "Id": "123122",
+      "TinhId": 12,
+      "NGAY_SINH": "03/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.934052",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123122",
+      "HO_TEN": "Phan Khánh Duy",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "123122",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

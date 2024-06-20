@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133460",
+      "Id": "133460",
+      "TinhId": 13,
+      "NGAY_SINH": "08/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.777604",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133460",
+      "HO_TEN": "Nguyễn Huỳnh Phương Thảo",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "133460",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

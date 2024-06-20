@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128978",
+      "Id": "128978",
+      "TinhId": 12,
+      "NGAY_SINH": "08/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.295208",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128978",
+      "HO_TEN": "Huỳnh Gia Hào",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "128978",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

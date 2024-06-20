@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174117",
+      "Id": "174117",
+      "TinhId": 17,
+      "NGAY_SINH": "05/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.679419",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174117",
+      "HO_TEN": "HOÀNG CÔNG ĐỨC",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "174117",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

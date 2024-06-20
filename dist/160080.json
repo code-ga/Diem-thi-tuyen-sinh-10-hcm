@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160080",
+      "Id": "160080",
+      "TinhId": 16,
+      "NGAY_SINH": "06/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.828234",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160080",
+      "HO_TEN": "Võ Ngọc Diễm Kiều",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "160080",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

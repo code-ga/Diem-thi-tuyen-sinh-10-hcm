@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143632",
+      "Id": "143632",
+      "TinhId": 14,
+      "NGAY_SINH": "02/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.649496",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143632",
+      "HO_TEN": "Lê Anh Tú",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 5,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10,
+      "SOBAODANH": "143632",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

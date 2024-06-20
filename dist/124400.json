@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124400",
+      "Id": "124400",
+      "TinhId": 12,
+      "NGAY_SINH": "01/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.986934",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124400",
+      "HO_TEN": "Nguyễn Hoàng Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "124400",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

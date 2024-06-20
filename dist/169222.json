@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169222",
+      "Id": "169222",
+      "TinhId": 16,
+      "NGAY_SINH": "03/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.492366",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169222",
+      "HO_TEN": "Trần Phan Khánh Tâm",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "169222",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

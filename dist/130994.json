@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130994",
+      "Id": "130994",
+      "TinhId": 13,
+      "NGAY_SINH": "03/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.705690",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130994",
+      "HO_TEN": "Trần Nguyễn Cẩm Tú",
+      "TINH": "HCM",
+      "TOAN": 9.25,
+      "VAN": 8.75,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 28,
+      "SOBAODANH": "130994",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

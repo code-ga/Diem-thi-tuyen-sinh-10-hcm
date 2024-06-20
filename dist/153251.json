@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153251",
+      "Id": "153251",
+      "TinhId": 15,
+      "NGAY_SINH": "12/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.366399",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153251",
+      "HO_TEN": "Đào Thị Bích Thủy",
+      "TINH": "HCM",
+      "TOAN": 8.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "153251",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "173436",
+      "Id": "173436",
+      "TinhId": 17,
+      "NGAY_SINH": "11/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.612726",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "173436",
+      "HO_TEN": "VŨ HOÀNG UYÊN THƯ",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "173436",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

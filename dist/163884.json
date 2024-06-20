@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163884",
+      "Id": "163884",
+      "TinhId": 16,
+      "NGAY_SINH": "12/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.099323",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163884",
+      "HO_TEN": "NGUYỄN NGỌC GIA HÂN",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "163884",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

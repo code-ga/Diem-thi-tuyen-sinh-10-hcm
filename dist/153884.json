@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153884",
+      "Id": "153884",
+      "TinhId": 15,
+      "NGAY_SINH": "02/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.694593",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153884",
+      "HO_TEN": "Phùng Chí Nhân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "153884",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

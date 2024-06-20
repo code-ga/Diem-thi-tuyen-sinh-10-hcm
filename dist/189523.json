@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189523",
+      "Id": "189523",
+      "TinhId": 18,
+      "NGAY_SINH": "03/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.785278",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189523",
+      "HO_TEN": "Dương Văn Tuấn",
+      "TINH": "HCM",
+      "TOAN": 0.25,
+      "VAN": 3.75,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 6.25,
+      "SOBAODANH": "189523",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

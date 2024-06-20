@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162653",
+      "Id": "162653",
+      "TinhId": 16,
+      "NGAY_SINH": "08/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.029697",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162653",
+      "HO_TEN": "Nguyễn Thị Cẩm Ly",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "162653",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

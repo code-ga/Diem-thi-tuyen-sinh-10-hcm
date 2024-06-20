@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136331",
+      "Id": "136331",
+      "TinhId": 13,
+      "NGAY_SINH": "06/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.037205",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136331",
+      "HO_TEN": "Phạm Ngọc Nhân Đức",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "136331",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191178",
+      "Id": "191178",
+      "TinhId": 19,
+      "NGAY_SINH": "01/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.995212",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191178",
+      "HO_TEN": "Trần Thị Hoài Phương",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "191178",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156996",
+      "Id": "156996",
+      "TinhId": 15,
+      "NGAY_SINH": "09/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.631663",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156996",
+      "HO_TEN": "Đặng Anh Khôi",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "156996",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

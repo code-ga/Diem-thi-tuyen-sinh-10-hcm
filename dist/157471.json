@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157471",
+      "Id": "157471",
+      "TinhId": 15,
+      "NGAY_SINH": "11/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.444598",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157471",
+      "HO_TEN": "Nguyễn Hoàng Phi Yến",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "157471",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

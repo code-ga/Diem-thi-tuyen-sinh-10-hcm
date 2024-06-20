@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178883",
+      "Id": "178883",
+      "TinhId": 17,
+      "NGAY_SINH": "05/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.131117",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178883",
+      "HO_TEN": "Phan Tấn Khang",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "178883",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

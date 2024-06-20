@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190235",
+      "Id": "190235",
+      "TinhId": 19,
+      "NGAY_SINH": "10/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.650371",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190235",
+      "HO_TEN": "Chu Thị Hồng",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "190235",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

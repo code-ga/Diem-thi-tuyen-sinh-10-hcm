@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176284",
+      "Id": "176284",
+      "TinhId": 17,
+      "NGAY_SINH": "09/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.820465",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176284",
+      "HO_TEN": "Nguyễn Thị Thảo My",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 1.75,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 5.75,
+      "SOBAODANH": "176284",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

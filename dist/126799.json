@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126799",
+      "Id": "126799",
+      "TinhId": 12,
+      "NGAY_SINH": "11/03/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.273506",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126799",
+      "HO_TEN": "Lê Tâm Trần Hoàng",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "126799",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

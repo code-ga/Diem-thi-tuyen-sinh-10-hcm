@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182528",
+      "Id": "182528",
+      "TinhId": 18,
+      "NGAY_SINH": "02/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.317864",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182528",
+      "HO_TEN": "Lê Hoàng Nguyệt",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "182528",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

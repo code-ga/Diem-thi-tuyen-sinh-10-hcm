@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131275",
+      "Id": "131275",
+      "TinhId": 13,
+      "NGAY_SINH": "02/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.907233",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131275",
+      "HO_TEN": "Phạm Linh Chi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "131275",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

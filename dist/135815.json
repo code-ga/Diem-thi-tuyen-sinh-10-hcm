@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135815",
+      "Id": "135815",
+      "TinhId": 13,
+      "NGAY_SINH": "03/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.967545",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135815",
+      "HO_TEN": "Lương Hoàng Tấn",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "135815",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

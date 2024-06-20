@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130086",
+      "Id": "130086",
+      "TinhId": 13,
+      "NGAY_SINH": "08/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.532200",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130086",
+      "HO_TEN": "Phan Đình Đại",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "130086",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

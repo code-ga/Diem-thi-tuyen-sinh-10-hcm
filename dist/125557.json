@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125557",
+      "Id": "125557",
+      "TinhId": 12,
+      "NGAY_SINH": "01/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.064705",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125557",
+      "HO_TEN": "Cao Thị Khánh Tuyết",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "125557",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

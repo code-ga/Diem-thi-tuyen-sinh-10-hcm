@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182921",
+      "Id": "182921",
+      "TinhId": 18,
+      "NGAY_SINH": "05/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.316358",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182921",
+      "HO_TEN": "Huỳnh Khánh Trung",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "182921",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188270",
+      "Id": "188270",
+      "TinhId": 18,
+      "NGAY_SINH": "03/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.780389",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188270",
+      "HO_TEN": "Nguyễn Ngọc Trà My",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "188270",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

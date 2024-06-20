@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187487",
+      "Id": "187487",
+      "TinhId": 18,
+      "NGAY_SINH": "04/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.928826",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187487",
+      "HO_TEN": "Huỳnh Minh Triết",
+      "TINH": "HCM",
+      "TOAN": 8.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.75,
+      "SOBAODANH": "187487",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

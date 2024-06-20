@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156399",
+      "Id": "156399",
+      "TinhId": 15,
+      "NGAY_SINH": "02/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.440170",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156399",
+      "HO_TEN": "Nguyễn Thị Thúy Phương",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "156399",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

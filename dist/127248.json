@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127248",
+      "Id": "127248",
+      "TinhId": 12,
+      "NGAY_SINH": "04/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.271679",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127248",
+      "HO_TEN": "Phạm Kim Phước",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "127248",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

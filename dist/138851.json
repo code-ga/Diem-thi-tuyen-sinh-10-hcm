@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138851",
+      "Id": "138851",
+      "TinhId": 13,
+      "NGAY_SINH": "10/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.172381",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138851",
+      "HO_TEN": "Đỗ Thị Minh Hằng",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "138851",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

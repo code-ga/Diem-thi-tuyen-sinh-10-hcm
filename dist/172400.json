@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172400",
+      "Id": "172400",
+      "TinhId": 17,
+      "NGAY_SINH": "04/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.761023",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172400",
+      "HO_TEN": "Nguyễn Ngọc Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "172400",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129222",
+      "Id": "129222",
+      "TinhId": 12,
+      "NGAY_SINH": "03/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.404767",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129222",
+      "HO_TEN": "Ngô Khánh Linh",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "129222",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

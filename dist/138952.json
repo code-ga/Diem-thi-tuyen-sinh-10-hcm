@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138952",
+      "Id": "138952",
+      "TinhId": 13,
+      "NGAY_SINH": "01/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.165453",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138952",
+      "HO_TEN": "Vương Chí Khải",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 4.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "138952",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

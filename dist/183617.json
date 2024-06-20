@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183617",
+      "Id": "183617",
+      "TinhId": 18,
+      "NGAY_SINH": "06/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.579966",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183617",
+      "HO_TEN": "LƯU GIA LINH",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 7,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "183617",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

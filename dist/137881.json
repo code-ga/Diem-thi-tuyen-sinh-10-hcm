@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137881",
+      "Id": "137881",
+      "TinhId": 13,
+      "NGAY_SINH": "04/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.100275",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137881",
+      "HO_TEN": "Phan Huy Khang",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "137881",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

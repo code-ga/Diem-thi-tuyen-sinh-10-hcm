@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179248",
+      "Id": "179248",
+      "TinhId": 17,
+      "NGAY_SINH": "11/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.140322",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179248",
+      "HO_TEN": "Nguyễn Tấn Tiến",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "179248",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148032",
+      "Id": "148032",
+      "TinhId": 14,
+      "NGAY_SINH": "04/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.878776",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148032",
+      "HO_TEN": "Đào Quang Khôi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "148032",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

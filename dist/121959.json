@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121959",
+      "Id": "121959",
+      "TinhId": 12,
+      "NGAY_SINH": "11/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.202399",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121959",
+      "HO_TEN": "Đào Nguyễn Phương Thảo",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.5,
+      "SOBAODANH": "121959",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

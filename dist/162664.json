@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162664",
+      "Id": "162664",
+      "TinhId": 16,
+      "NGAY_SINH": "07/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.025008",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162664",
+      "HO_TEN": "Phạm Mét Si",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "162664",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

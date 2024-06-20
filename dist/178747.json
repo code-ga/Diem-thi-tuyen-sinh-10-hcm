@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178747",
+      "Id": "178747",
+      "TinhId": 17,
+      "NGAY_SINH": "12/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.131274",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178747",
+      "HO_TEN": "Lâm Thị Tiểu Đoan",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "178747",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

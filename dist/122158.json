@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122158",
+      "Id": "122158",
+      "TinhId": 12,
+      "NGAY_SINH": "06/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.062296",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122158",
+      "HO_TEN": "Hồ Trần Mai Anh",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "122158",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

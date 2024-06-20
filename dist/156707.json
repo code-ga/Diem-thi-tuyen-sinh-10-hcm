@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156707",
+      "Id": "156707",
+      "TinhId": 15,
+      "NGAY_SINH": "07/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.440292",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156707",
+      "HO_TEN": "Nguyễn Ngọc Như Ý",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "156707",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

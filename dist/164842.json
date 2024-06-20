@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164842",
+      "Id": "164842",
+      "TinhId": 16,
+      "NGAY_SINH": "11/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.231057",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164842",
+      "HO_TEN": "Lê Vũ Trâm Anh",
+      "TINH": "HCM",
+      "TOAN": 1.25,
+      "VAN": 4.75,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.25,
+      "SOBAODANH": "164842",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131953",
+      "Id": "131953",
+      "TinhId": 13,
+      "NGAY_SINH": "07/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.839452",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131953",
+      "HO_TEN": "Huỳnh Gia Như",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "131953",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

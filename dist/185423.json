@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185423",
+      "Id": "185423",
+      "TinhId": 18,
+      "NGAY_SINH": "01/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.788866",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185423",
+      "HO_TEN": "BÙI TUẤN SƠN",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "185423",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

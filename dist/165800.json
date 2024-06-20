@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165800",
+      "Id": "165800",
+      "TinhId": 16,
+      "NGAY_SINH": "10/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.497398",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165800",
+      "HO_TEN": "Nguyễn Huỳnh Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "165800",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167677",
+      "Id": "167677",
+      "TinhId": 16,
+      "NGAY_SINH": "01/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.366150",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167677",
+      "HO_TEN": "Phan Thị Xuân Mai",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 6,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "167677",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

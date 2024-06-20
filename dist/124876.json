@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124876",
+      "Id": "124876",
+      "TinhId": 12,
+      "NGAY_SINH": "10/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.937079",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124876",
+      "HO_TEN": "Nguyễn Ngọc Đoan Trang",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 3.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "124876",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

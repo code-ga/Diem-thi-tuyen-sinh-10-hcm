@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156313",
+      "Id": "156313",
+      "TinhId": 15,
+      "NGAY_SINH": "11/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.435154",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156313",
+      "HO_TEN": "La Uyển Nhi",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "156313",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

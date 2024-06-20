@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129146",
+      "Id": "129146",
+      "TinhId": 12,
+      "NGAY_SINH": "11/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.406595",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129146",
+      "HO_TEN": "Nguyễn Phan Minh Khoa",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "129146",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

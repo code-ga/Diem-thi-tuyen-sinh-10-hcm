@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187887",
+      "Id": "187887",
+      "TinhId": 18,
+      "NGAY_SINH": "05/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.711059",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187887",
+      "HO_TEN": "Lưu Ngọc Kim Cương",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "187887",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169640",
+      "Id": "169640",
+      "TinhId": 16,
+      "NGAY_SINH": "01/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.432889",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169640",
+      "HO_TEN": "Ngô Minh Mẫn",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "169640",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

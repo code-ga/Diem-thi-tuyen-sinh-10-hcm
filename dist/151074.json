@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151074",
+      "Id": "151074",
+      "TinhId": 15,
+      "NGAY_SINH": "09/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.034460",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151074",
+      "HO_TEN": "Lâm Hồng Nhi",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "151074",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

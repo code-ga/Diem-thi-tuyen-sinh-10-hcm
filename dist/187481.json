@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187481",
+      "Id": "187481",
+      "TinhId": 18,
+      "NGAY_SINH": "07/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.922775",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187481",
+      "HO_TEN": "Mai Minh Trí",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "187481",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

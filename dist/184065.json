@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184065",
+      "Id": "184065",
+      "TinhId": 18,
+      "NGAY_SINH": "06/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.402968",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184065",
+      "HO_TEN": "Nguyễn Minh Thư",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "184065",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

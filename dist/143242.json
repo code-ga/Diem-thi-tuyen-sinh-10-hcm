@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143242",
+      "Id": "143242",
+      "TinhId": 14,
+      "NGAY_SINH": "06/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.588794",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143242",
+      "HO_TEN": "Nguyễn Ngọc Tú Quyên",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "143242",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

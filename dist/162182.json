@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162182",
+      "Id": "162182",
+      "TinhId": 16,
+      "NGAY_SINH": "06/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.964528",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162182",
+      "HO_TEN": "Trần Hiếu Minh Sang",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "162182",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

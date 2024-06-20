@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145132",
+      "Id": "145132",
+      "TinhId": 14,
+      "NGAY_SINH": "09/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.442187",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145132",
+      "HO_TEN": "Nguyễn Hữu Danh Nhân",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 2.5,
+      "NGOAI_NGU": 1.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 5.75,
+      "SOBAODANH": "145132",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157065",
+      "Id": "157065",
+      "TinhId": 15,
+      "NGAY_SINH": "12/23/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.441670",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157065",
+      "HO_TEN": "Đinh Thành Luân",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "157065",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

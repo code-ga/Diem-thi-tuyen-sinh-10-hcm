@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144008",
+      "Id": "144008",
+      "TinhId": 14,
+      "NGAY_SINH": "11/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.443874",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144008",
+      "HO_TEN": "Trịnh Khôi Anh",
+      "TINH": "HCM",
+      "TOAN": 9.5,
+      "VAN": 8,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 27.5,
+      "SOBAODANH": "144008",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

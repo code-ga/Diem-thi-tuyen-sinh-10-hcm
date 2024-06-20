@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159108",
+      "Id": "159108",
+      "TinhId": 15,
+      "NGAY_SINH": "10/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.771421",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159108",
+      "HO_TEN": "Nguyễn Gia An",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "159108",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

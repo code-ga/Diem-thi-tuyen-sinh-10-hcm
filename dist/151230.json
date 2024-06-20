@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151230",
+      "Id": "151230",
+      "TinhId": 15,
+      "NGAY_SINH": "09/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.165157",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151230",
+      "HO_TEN": "Lương Trần Minh Quân",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "151230",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

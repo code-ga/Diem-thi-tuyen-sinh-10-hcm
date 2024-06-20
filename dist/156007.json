@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156007",
+      "Id": "156007",
+      "TinhId": 15,
+      "NGAY_SINH": "06/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.438487",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156007",
+      "HO_TEN": "Huỳnh Minh Hiếu",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "156007",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

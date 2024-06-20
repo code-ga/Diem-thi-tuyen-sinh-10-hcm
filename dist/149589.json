@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149589",
+      "Id": "149589",
+      "TinhId": 14,
+      "NGAY_SINH": "01/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.002135",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149589",
+      "HO_TEN": "Nguyễn Lê Linh Nhi",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "149589",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

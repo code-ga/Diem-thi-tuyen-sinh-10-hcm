@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134391",
+      "Id": "134391",
+      "TinhId": 13,
+      "NGAY_SINH": "08/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.600894",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134391",
+      "HO_TEN": "Văn Nguyễn Hà My",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "134391",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

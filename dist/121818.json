@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121818",
+      "Id": "121818",
+      "TinhId": 12,
+      "NGAY_SINH": "10/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.992288",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121818",
+      "HO_TEN": "Đoàn Thảo Nguyên",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "121818",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

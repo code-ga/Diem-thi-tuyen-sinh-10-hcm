@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184009",
+      "Id": "184009",
+      "TinhId": 18,
+      "NGAY_SINH": "05/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.640613",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184009",
+      "HO_TEN": "Phạm Đức Thắng",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "184009",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

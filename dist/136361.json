@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136361",
+      "Id": "136361",
+      "TinhId": 13,
+      "NGAY_SINH": "08/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.233852",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136361",
+      "HO_TEN": "Trần Hoài Khắc Duy",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "136361",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

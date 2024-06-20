@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179939",
+      "Id": "179939",
+      "TinhId": 17,
+      "NGAY_SINH": "03/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.207844",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179939",
+      "HO_TEN": "Mai Thị Huyền My",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "179939",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

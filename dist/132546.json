@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132546",
+      "Id": "132546",
+      "TinhId": 13,
+      "NGAY_SINH": "10/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.777394",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132546",
+      "HO_TEN": "Nguyễn Thị Lan Anh",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.25,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "132546",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

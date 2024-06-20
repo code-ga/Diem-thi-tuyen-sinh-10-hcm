@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148414",
+      "Id": "148414",
+      "TinhId": 14,
+      "NGAY_SINH": "09/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.227354",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148414",
+      "HO_TEN": "Huỳnh Lâm Ngọc Phát",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "148414",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

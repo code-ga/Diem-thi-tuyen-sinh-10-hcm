@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149364",
+      "Id": "149364",
+      "TinhId": 14,
+      "NGAY_SINH": "07/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.945006",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149364",
+      "HO_TEN": "Huỳnh Ngọc Anh Khôi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "149364",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

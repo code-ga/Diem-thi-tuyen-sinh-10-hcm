@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132605",
+      "Id": "132605",
+      "TinhId": 13,
+      "NGAY_SINH": "10/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.779198",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132605",
+      "HO_TEN": "Đào Chí Bảo",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "132605",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

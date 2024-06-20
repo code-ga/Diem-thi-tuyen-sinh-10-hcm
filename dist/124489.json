@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124489",
+      "Id": "124489",
+      "TinhId": 12,
+      "NGAY_SINH": "06/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.987738",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124489",
+      "HO_TEN": "Phạm Hồng Hạnh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "124489",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

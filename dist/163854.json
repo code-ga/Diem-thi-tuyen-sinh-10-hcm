@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163854",
+      "Id": "163854",
+      "TinhId": 16,
+      "NGAY_SINH": "03/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.169763",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163854",
+      "HO_TEN": "PHAN THÀNH ĐẠT",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "163854",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

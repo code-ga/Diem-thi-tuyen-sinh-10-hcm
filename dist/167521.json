@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167521",
+      "Id": "167521",
+      "TinhId": 16,
+      "NGAY_SINH": "10/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.367769",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167521",
+      "HO_TEN": "Nguyễn Ngọc Kim Chi",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "167521",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

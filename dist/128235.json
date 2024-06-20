@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128235",
+      "Id": "128235",
+      "TinhId": 12,
+      "NGAY_SINH": "08/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.529348",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128235",
+      "HO_TEN": "Chung Hoàng Bảo Nguyên",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "128235",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123071",
+      "Id": "123071",
+      "TinhId": 12,
+      "NGAY_SINH": "09/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.933062",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123071",
+      "HO_TEN": "Lê Tấn Bình",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "123071",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

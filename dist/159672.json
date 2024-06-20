@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159672",
+      "Id": "159672",
+      "TinhId": 15,
+      "NGAY_SINH": "05/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.771708",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159672",
+      "HO_TEN": "Nguyễn Huỳnh Ngọc Hoài Thương",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "159672",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

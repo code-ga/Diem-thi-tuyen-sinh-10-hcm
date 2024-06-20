@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191063",
+      "Id": "191063",
+      "TinhId": 19,
+      "NGAY_SINH": "09/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.650474",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191063",
+      "HO_TEN": "Nguyễn Minh Phát",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "191063",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

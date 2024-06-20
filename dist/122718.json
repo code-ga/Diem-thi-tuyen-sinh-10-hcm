@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122718",
+      "Id": "122718",
+      "TinhId": 12,
+      "NGAY_SINH": "02/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.140448",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122718",
+      "HO_TEN": "Nguyễn Ngọc Khánh Phương",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "122718",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

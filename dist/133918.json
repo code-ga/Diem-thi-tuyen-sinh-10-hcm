@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133918",
+      "Id": "133918",
+      "TinhId": 13,
+      "NGAY_SINH": "08/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.537289",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133918",
+      "HO_TEN": "Phạm Hoàng Lan Chi",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "133918",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

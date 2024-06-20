@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127832",
+      "Id": "127832",
+      "TinhId": 12,
+      "NGAY_SINH": "01/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.470829",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127832",
+      "HO_TEN": "Đỗ Thị Quỳnh Giang",
+      "TINH": "HCM",
+      "TOAN": 8.75,
+      "VAN": 8.5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.75,
+      "SOBAODANH": "127832",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

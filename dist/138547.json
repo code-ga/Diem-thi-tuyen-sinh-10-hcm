@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138547",
+      "Id": "138547",
+      "TinhId": 13,
+      "NGAY_SINH": "06/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.165355",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138547",
+      "HO_TEN": "Nguyễn Trần Gia Ân",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "138547",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

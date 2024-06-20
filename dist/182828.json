@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182828",
+      "Id": "182828",
+      "TinhId": 18,
+      "NGAY_SINH": "12/31/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.582700",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182828",
+      "HO_TEN": "ĐOÀN NGUYỄN PHƯƠNG THUỲ",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "182828",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

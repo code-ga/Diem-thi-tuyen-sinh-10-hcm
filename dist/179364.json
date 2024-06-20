@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179364",
+      "Id": "179364",
+      "TinhId": 17,
+      "NGAY_SINH": "02/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.207409",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179364",
+      "HO_TEN": "Phạm Thị Yến Vy",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 7,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "179364",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

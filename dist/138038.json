@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138038",
+      "Id": "138038",
+      "TinhId": 13,
+      "NGAY_SINH": "10/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.104987",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138038",
+      "HO_TEN": "Phan Thanh Gia My",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.75,
+      "SOBAODANH": "138038",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

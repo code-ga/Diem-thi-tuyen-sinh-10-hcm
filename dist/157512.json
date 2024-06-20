@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157512",
+      "Id": "157512",
+      "TinhId": 15,
+      "NGAY_SINH": "02/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.702012",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157512",
+      "HO_TEN": "Trịnh Phương Lan Anh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "157512",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

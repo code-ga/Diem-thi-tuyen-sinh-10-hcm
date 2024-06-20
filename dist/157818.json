@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157818",
+      "Id": "157818",
+      "TinhId": 15,
+      "NGAY_SINH": "03/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.705619",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157818",
+      "HO_TEN": "Nguyễn Thị Thùy Lâm",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 2.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "157818",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152045",
+      "Id": "152045",
+      "TinhId": 15,
+      "NGAY_SINH": "03/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.298337",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152045",
+      "HO_TEN": "Tăng Nhật Trường Khang",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 2.75,
+      "NGOAI_NGU": 1.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.5,
+      "SOBAODANH": "152045",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

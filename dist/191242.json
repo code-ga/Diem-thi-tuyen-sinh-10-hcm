@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191242",
+      "Id": "191242",
+      "TinhId": 19,
+      "NGAY_SINH": "02/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.990847",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191242",
+      "HO_TEN": "Tô Ngọc Như Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "191242",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

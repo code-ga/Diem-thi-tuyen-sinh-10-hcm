@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168421",
+      "Id": "168421",
+      "TinhId": 16,
+      "NGAY_SINH": "12/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.427610",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168421",
+      "HO_TEN": "Ngô Minh Hiếu",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "168421",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

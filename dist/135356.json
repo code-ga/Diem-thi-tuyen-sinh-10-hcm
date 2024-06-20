@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135356",
+      "Id": "135356",
+      "TinhId": 13,
+      "NGAY_SINH": "11/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.709129",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135356",
+      "HO_TEN": "Phan Minh Hoàng",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "135356",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

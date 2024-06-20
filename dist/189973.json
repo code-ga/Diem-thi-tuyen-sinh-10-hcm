@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189973",
+      "Id": "189973",
+      "TinhId": 18,
+      "NGAY_SINH": "01/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.997830",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189973",
+      "HO_TEN": "Hà Đông",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "189973",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

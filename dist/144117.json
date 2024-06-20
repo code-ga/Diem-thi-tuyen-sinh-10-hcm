@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144117",
+      "Id": "144117",
+      "TinhId": 14,
+      "NGAY_SINH": "01/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.448566",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144117",
+      "HO_TEN": "Đỗ Thị Thảo Chi",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "144117",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190015",
+      "Id": "190015",
+      "TinhId": 19,
+      "NGAY_SINH": "12/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.988379",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190015",
+      "HO_TEN": "Đặng Quốc Duy",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "190015",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

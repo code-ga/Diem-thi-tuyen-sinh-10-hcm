@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139876",
+      "Id": "139876",
+      "TinhId": 13,
+      "NGAY_SINH": "07/31/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.167361",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139876",
+      "HO_TEN": "Lê Quang Tuấn",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7.25,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "139876",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

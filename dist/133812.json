@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133812",
+      "Id": "133812",
+      "TinhId": 13,
+      "NGAY_SINH": "07/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.602530",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133812",
+      "HO_TEN": "Phạm Duy Anh",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "133812",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

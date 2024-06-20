@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147358",
+      "Id": "147358",
+      "TinhId": 14,
+      "NGAY_SINH": "10/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.738098",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147358",
+      "HO_TEN": "Nguyễn Đỗ Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "147358",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

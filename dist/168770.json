@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168770",
+      "Id": "168770",
+      "TinhId": 16,
+      "NGAY_SINH": "11/25/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.429046",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168770",
+      "HO_TEN": "Phan Ngọc Tuyền",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "168770",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172785",
+      "Id": "172785",
+      "TinhId": 17,
+      "NGAY_SINH": "01/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.827795",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172785",
+      "HO_TEN": "NGUYỄN THỊ THANH MAI",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "172785",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

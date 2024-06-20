@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153158",
+      "Id": "153158",
+      "TinhId": 15,
+      "NGAY_SINH": "12/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.367051",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153158",
+      "HO_TEN": "Trần Nguyễn Nam Phương",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "153158",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

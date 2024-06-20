@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138464",
+      "Id": "138464",
+      "TinhId": 13,
+      "NGAY_SINH": "01/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.105596",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138464",
+      "HO_TEN": "Tô Ngọc Phương Uyên",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "138464",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

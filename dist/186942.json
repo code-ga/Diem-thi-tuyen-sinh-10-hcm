@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186942",
+      "Id": "186942",
+      "TinhId": 18,
+      "NGAY_SINH": "03/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.135862",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186942",
+      "HO_TEN": "NGUYỄN THÁI YẾN NHƯ",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 4.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "186942",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

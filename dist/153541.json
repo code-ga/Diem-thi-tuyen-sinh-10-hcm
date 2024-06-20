@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153541",
+      "Id": "153541",
+      "TinhId": 15,
+      "NGAY_SINH": "10/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.568856",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153541",
+      "HO_TEN": "Phùng Quý Đức",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "153541",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163763",
+      "Id": "163763",
+      "TinhId": 16,
+      "NGAY_SINH": "12/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.092717",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163763",
+      "HO_TEN": "Lâm Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "163763",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

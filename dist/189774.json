@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189774",
+      "Id": "189774",
+      "TinhId": 18,
+      "NGAY_SINH": "09/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.859041",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189774",
+      "HO_TEN": "Bùi Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 4.5,
+      "NGOAI_NGU": 1.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "189774",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

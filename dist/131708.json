@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131708",
+      "Id": "131708",
+      "TinhId": 13,
+      "NGAY_SINH": "12/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.842824",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131708",
+      "HO_TEN": "Nguyễn Phi Long",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "131708",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

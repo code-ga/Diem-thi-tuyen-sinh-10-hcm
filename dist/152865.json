@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152865",
+      "Id": "152865",
+      "TinhId": 15,
+      "NGAY_SINH": "10/17/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.373608",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152865",
+      "HO_TEN": "Phan Nguyễn Trung Hiếu",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "152865",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

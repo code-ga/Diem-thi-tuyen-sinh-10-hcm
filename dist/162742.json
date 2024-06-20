@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162742",
+      "Id": "162742",
+      "TinhId": 16,
+      "NGAY_SINH": "11/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.024296",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162742",
+      "HO_TEN": "Vương Bích Ngọc",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "162742",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

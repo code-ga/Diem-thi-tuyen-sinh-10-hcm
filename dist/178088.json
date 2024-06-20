@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178088",
+      "Id": "178088",
+      "TinhId": 17,
+      "NGAY_SINH": "01/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.138668",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178088",
+      "HO_TEN": "Trương Nhật Huy",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "178088",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

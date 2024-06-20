@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158429",
+      "Id": "158429",
+      "TinhId": 15,
+      "NGAY_SINH": "05/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.956294",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158429",
+      "HO_TEN": "Trương Huỳnh Bảo Châu",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.75,
+      "SOBAODANH": "158429",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

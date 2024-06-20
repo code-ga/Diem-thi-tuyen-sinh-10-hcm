@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188311",
+      "Id": "188311",
+      "TinhId": 18,
+      "NGAY_SINH": "09/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.051886",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188311",
+      "HO_TEN": "Vũ Lê Triệu Ngân",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 7.5,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "188311",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

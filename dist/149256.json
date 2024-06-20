@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149256",
+      "Id": "149256",
+      "TinhId": 14,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.939059",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149256",
+      "HO_TEN": "Trần Nguyễn Hà Gia Huân",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 2.75,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "149256",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

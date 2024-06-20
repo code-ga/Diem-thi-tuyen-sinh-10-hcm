@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186652",
+      "Id": "186652",
+      "TinhId": 18,
+      "NGAY_SINH": "10/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.137447",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186652",
+      "HO_TEN": "HỮU ĐÔNG MIRPURI",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 1.5,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 6.25,
+      "SOBAODANH": "186652",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

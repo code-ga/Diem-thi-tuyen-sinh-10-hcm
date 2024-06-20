@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134690",
+      "Id": "134690",
+      "TinhId": 13,
+      "NGAY_SINH": "08/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.607382",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134690",
+      "HO_TEN": "Bùi Tấn Tài",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "134690",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

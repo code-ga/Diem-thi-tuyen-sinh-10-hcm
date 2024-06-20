@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156329",
+      "Id": "156329",
+      "TinhId": 15,
+      "NGAY_SINH": "10/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.376215",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156329",
+      "HO_TEN": "Lê Thụy An Như",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "156329",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

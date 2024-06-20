@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175301",
+      "Id": "175301",
+      "TinhId": 17,
+      "NGAY_SINH": "03/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.552853",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175301",
+      "HO_TEN": "LÊ QUỐC TRIỀU",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "175301",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

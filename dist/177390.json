@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177390",
+      "Id": "177390",
+      "TinhId": 17,
+      "NGAY_SINH": "02/06/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.140769",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177390",
+      "HO_TEN": "Lê Nguyên Khang",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "177390",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

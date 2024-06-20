@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123650",
+      "Id": "123650",
+      "TinhId": 12,
+      "NGAY_SINH": "03/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.929844",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123650",
+      "HO_TEN": "Ma tu Thanh Tú",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "123650",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151697",
+      "Id": "151697",
+      "TinhId": 15,
+      "NGAY_SINH": "03/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.235855",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151697",
+      "HO_TEN": "Nguyễn Thị Thanh Vy",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "151697",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

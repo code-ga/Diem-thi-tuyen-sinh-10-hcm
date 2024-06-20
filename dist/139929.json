@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139929",
+      "Id": "139929",
+      "TinhId": 13,
+      "NGAY_SINH": "03/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.240531",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139929",
+      "HO_TEN": "Đỗ Hoàng Khánh Vy",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "139929",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

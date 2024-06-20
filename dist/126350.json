@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126350",
+      "Id": "126350",
+      "TinhId": 12,
+      "NGAY_SINH": "08/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.340365",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126350",
+      "HO_TEN": "Phạm Ngọc Thủy Thương",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 7.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "126350",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

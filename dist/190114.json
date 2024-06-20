@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190114",
+      "Id": "190114",
+      "TinhId": 19,
+      "NGAY_SINH": "04/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.704408",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190114",
+      "HO_TEN": "Trần Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "190114",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

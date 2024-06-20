@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135841",
+      "Id": "135841",
+      "TinhId": 13,
+      "NGAY_SINH": "12/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.709835",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135841",
+      "HO_TEN": "Võ Thị Thanh Thi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "135841",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

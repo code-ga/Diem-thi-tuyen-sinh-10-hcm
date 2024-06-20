@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "158124",
+      "Id": "158124",
+      "TinhId": 15,
+      "NGAY_SINH": "04/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.837688",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "158124",
+      "HO_TEN": "Trần Võ Minh Tân",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 6,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "158124",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

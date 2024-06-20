@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146361",
+      "Id": "146361",
+      "TinhId": 14,
+      "NGAY_SINH": "04/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.794877",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146361",
+      "HO_TEN": "Nguyễn Hoàng Khánh Ngọc",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "146361",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

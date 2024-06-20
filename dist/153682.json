@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153682",
+      "Id": "153682",
+      "TinhId": 15,
+      "NGAY_SINH": "06/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.563240",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153682",
+      "HO_TEN": "Nguyễn Thái Khang",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "153682",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165781",
+      "Id": "165781",
+      "TinhId": 16,
+      "NGAY_SINH": "11/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.547870",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165781",
+      "HO_TEN": "Nguyễn Lan Anh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "165781",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

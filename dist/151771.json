@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151771",
+      "Id": "151771",
+      "TinhId": 15,
+      "NGAY_SINH": "11/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.296882",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151771",
+      "HO_TEN": "Nguyễn Duy Anh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "151771",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

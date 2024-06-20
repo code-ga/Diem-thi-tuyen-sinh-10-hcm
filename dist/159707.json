@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159707",
+      "Id": "159707",
+      "TinhId": 15,
+      "NGAY_SINH": "10/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.771118",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159707",
+      "HO_TEN": "Lại Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "159707",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

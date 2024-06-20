@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165274",
+      "Id": "165274",
+      "TinhId": 16,
+      "NGAY_SINH": "07/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.231977",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165274",
+      "HO_TEN": "Nguyễn Văn Hiếu Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "165274",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145412",
+      "Id": "145412",
+      "TinhId": 14,
+      "NGAY_SINH": "10/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.307887",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145412",
+      "HO_TEN": "Phạm Trịnh Phú Quý",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "145412",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

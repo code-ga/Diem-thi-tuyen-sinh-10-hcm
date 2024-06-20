@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "181493",
+      "Id": "181493",
+      "TinhId": 18,
+      "NGAY_SINH": "12/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.464217",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "181493",
+      "HO_TEN": "Phạm Chí Tâm",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "181493",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

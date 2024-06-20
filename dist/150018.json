@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "150018",
+      "Id": "150018",
+      "TinhId": 15,
+      "NGAY_SINH": "04/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.883686",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "150018",
+      "HO_TEN": "Văn Như Ý",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 7,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "150018",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

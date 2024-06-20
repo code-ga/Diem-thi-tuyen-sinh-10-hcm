@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122048",
+      "Id": "122048",
+      "TinhId": 12,
+      "NGAY_SINH": "07/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.202495",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122048",
+      "HO_TEN": "Huỳnh Đào Lê Trang",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "122048",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

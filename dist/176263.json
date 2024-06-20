@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176263",
+      "Id": "176263",
+      "TinhId": 17,
+      "NGAY_SINH": "01/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.824920",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176263",
+      "HO_TEN": "Nguyễn Tài Hoàng Minh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "176263",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

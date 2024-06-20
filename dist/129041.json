@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129041",
+      "Id": "129041",
+      "TinhId": 12,
+      "NGAY_SINH": "01/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.411234",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129041",
+      "HO_TEN": "Nhan Tường Hưng",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "129041",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

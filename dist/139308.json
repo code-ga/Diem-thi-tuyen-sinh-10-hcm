@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139308",
+      "Id": "139308",
+      "TinhId": 13,
+      "NGAY_SINH": "11/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.170342",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139308",
+      "HO_TEN": "Võ Bảo Ngọc",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "139308",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

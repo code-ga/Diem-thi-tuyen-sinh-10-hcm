@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149421",
+      "Id": "149421",
+      "TinhId": 14,
+      "NGAY_SINH": "04/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.228778",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149421",
+      "HO_TEN": "Lương Mỹ Linh",
+      "TINH": "HCM",
+      "TOAN": 0.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "149421",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

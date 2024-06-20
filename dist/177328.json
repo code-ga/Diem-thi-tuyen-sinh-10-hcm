@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177328",
+      "Id": "177328",
+      "TinhId": 17,
+      "NGAY_SINH": "12/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.203118",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177328",
+      "HO_TEN": "Lê Thị Mỹ Hạnh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "177328",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

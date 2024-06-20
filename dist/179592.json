@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179592",
+      "Id": "179592",
+      "TinhId": 17,
+      "NGAY_SINH": "07/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.208240",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179592",
+      "HO_TEN": "Phạm Khắc Duy",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.5,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "179592",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

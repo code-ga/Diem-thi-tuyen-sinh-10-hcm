@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148061",
+      "Id": "148061",
+      "TinhId": 14,
+      "NGAY_SINH": "02/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.877914",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148061",
+      "HO_TEN": "Mai Anh Kiệt",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 3.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "148061",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

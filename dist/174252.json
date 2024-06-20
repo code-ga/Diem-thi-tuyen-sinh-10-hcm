@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174252",
+      "Id": "174252",
+      "TinhId": 17,
+      "NGAY_SINH": "04/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.681397",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174252",
+      "HO_TEN": "TRƯƠNG VÕ GIA HÂN",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "174252",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

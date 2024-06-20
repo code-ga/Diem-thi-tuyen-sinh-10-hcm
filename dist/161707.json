@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161707",
+      "Id": "161707",
+      "TinhId": 16,
+      "NGAY_SINH": "01/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.895307",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161707",
+      "HO_TEN": "Lại Thị Phương Thúy",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "161707",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

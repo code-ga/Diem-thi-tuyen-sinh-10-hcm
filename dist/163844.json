@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163844",
+      "Id": "163844",
+      "TinhId": 16,
+      "NGAY_SINH": "04/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.169937",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163844",
+      "HO_TEN": "Nguyễn Thị Hồng Cúc",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "163844",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

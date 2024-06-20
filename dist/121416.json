@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121416",
+      "Id": "121416",
+      "TinhId": 12,
+      "NGAY_SINH": "02/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.994073",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121416",
+      "HO_TEN": "Lê Ngọc Quỳnh Anh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 8.75,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "121416",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

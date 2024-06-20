@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153985",
+      "Id": "153985",
+      "TinhId": 15,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.691803",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153985",
+      "HO_TEN": "Nguyễn Vũ Minh Quân",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "153985",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

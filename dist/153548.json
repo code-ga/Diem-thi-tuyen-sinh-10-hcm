@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153548",
+      "Id": "153548",
+      "TinhId": 15,
+      "NGAY_SINH": "03/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.567835",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153548",
+      "HO_TEN": "Nguyễn Lê Tấn Dũng",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "153548",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

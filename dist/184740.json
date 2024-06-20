@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184740",
+      "Id": "184740",
+      "TinhId": 18,
+      "NGAY_SINH": "10/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.515149",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184740",
+      "HO_TEN": "Lê Phước Trường Thịnh",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "184740",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169620",
+      "Id": "169620",
+      "TinhId": 16,
+      "NGAY_SINH": "11/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.431885",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169620",
+      "HO_TEN": "Nguyễn Thị Trúc Linh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "169620",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

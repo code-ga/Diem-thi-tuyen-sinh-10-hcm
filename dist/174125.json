@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "174125",
+      "Id": "174125",
+      "TinhId": 17,
+      "NGAY_SINH": "12/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.620320",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "174125",
+      "HO_TEN": "VŨ TIẾN ĐỨC",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "174125",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

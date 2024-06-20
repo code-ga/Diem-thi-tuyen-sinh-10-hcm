@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "164706",
+      "Id": "164706",
+      "TinhId": 16,
+      "NGAY_SINH": "11/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.098312",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "164706",
+      "HO_TEN": "TRẦN MINH THUẬN",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "164706",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

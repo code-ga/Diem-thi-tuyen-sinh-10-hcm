@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191914",
+      "Id": "191914",
+      "TinhId": 19,
+      "NGAY_SINH": "03/12/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.646570",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191914",
+      "HO_TEN": "Lê Thị Thảo Vy",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 6,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "191914",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

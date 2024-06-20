@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186178",
+      "Id": "186178",
+      "TinhId": 18,
+      "NGAY_SINH": "11/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.929121",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186178",
+      "HO_TEN": "Bùi Trọng Hiếu",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "186178",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

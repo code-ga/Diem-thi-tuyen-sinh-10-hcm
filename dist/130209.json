@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130209",
+      "Id": "130209",
+      "TinhId": 13,
+      "NGAY_SINH": "07/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.847138",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130209",
+      "HO_TEN": "Nguyễn Đức Anh Hào",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "130209",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

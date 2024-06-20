@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190485",
+      "Id": "190485",
+      "TinhId": 19,
+      "NGAY_SINH": "11/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.702994",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190485",
+      "HO_TEN": "Phan Anh Kiệt",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "190485",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

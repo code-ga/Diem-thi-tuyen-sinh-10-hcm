@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137719",
+      "Id": "137719",
+      "TinhId": 13,
+      "NGAY_SINH": "05/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.099401",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137719",
+      "HO_TEN": "Trương Quỳnh Đông",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "137719",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168494",
+      "Id": "168494",
+      "TinhId": 16,
+      "NGAY_SINH": "05/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.429818",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168494",
+      "HO_TEN": "Phạm Nguyễn Phương Linh",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "168494",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

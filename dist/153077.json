@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153077",
+      "Id": "153077",
+      "TinhId": 15,
+      "NGAY_SINH": "07/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.370351",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153077",
+      "HO_TEN": "Cáp Nguyễn Trung Nguyên",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "153077",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

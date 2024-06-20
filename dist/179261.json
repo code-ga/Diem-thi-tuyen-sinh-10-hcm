@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179261",
+      "Id": "179261",
+      "TinhId": 17,
+      "NGAY_SINH": "08/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.206320",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179261",
+      "HO_TEN": "Châu Thị Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "179261",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

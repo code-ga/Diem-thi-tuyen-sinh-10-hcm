@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163383",
+      "Id": "163383",
+      "TinhId": 16,
+      "NGAY_SINH": "08/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.093270",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163383",
+      "HO_TEN": "Nguyễn Đoàn Trúc Ly",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "163383",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

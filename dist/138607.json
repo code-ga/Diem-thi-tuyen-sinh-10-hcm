@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138607",
+      "Id": "138607",
+      "TinhId": 13,
+      "NGAY_SINH": "04/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.107649",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138607",
+      "HO_TEN": "Nguyễn Quỳnh Anh",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "138607",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130187",
+      "Id": "130187",
+      "TinhId": 13,
+      "NGAY_SINH": "12/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.898917",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130187",
+      "HO_TEN": "Trần Mai Ngọc Hà",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "130187",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

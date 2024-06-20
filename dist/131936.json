@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131936",
+      "Id": "131936",
+      "TinhId": 13,
+      "NGAY_SINH": "06/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.841467",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131936",
+      "HO_TEN": "Nguyễn Tuyết Nhi",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 25,
+      "SOBAODANH": "131936",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

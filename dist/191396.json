@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191396",
+      "Id": "191396",
+      "TinhId": 19,
+      "NGAY_SINH": "09/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.855390",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191396",
+      "HO_TEN": "Phạm Thị Phương Thảo",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "191396",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

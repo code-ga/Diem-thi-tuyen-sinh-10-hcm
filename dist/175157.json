@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "175157",
+      "Id": "175157",
+      "TinhId": 17,
+      "NGAY_SINH": "09/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.989080",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "175157",
+      "HO_TEN": "PHAN NGUYỄN MINH THƯ",
+      "TINH": "HCM",
+      "TOAN": 9.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 26.75,
+      "SOBAODANH": "175157",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

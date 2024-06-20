@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163268",
+      "Id": "163268",
+      "TinhId": 16,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.092287",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163268",
+      "HO_TEN": "Quách Gia Hùng",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "163268",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139090",
+      "Id": "139090",
+      "TinhId": 13,
+      "NGAY_SINH": "04/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.166296",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139090",
+      "HO_TEN": "Trương Thành Lâm",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "139090",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

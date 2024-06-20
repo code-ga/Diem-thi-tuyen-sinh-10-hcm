@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153448",
+      "Id": "153448",
+      "TinhId": 15,
+      "NGAY_SINH": "12/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.690861",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153448",
+      "HO_TEN": "Đoàn Hữu Bách",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "153448",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

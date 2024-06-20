@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "180097",
+      "Id": "180097",
+      "TinhId": 18,
+      "NGAY_SINH": "11/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.209486",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "180097",
+      "HO_TEN": "Phạm Thị Uyên Nhi",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "180097",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

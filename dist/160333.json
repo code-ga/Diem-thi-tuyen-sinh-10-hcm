@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160333",
+      "Id": "160333",
+      "TinhId": 16,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.830618",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160333",
+      "HO_TEN": "Nguyễn Kim Sang Sang",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "160333",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

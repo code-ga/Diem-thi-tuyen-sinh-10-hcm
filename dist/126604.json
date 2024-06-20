@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126604",
+      "Id": "126604",
+      "TinhId": 12,
+      "NGAY_SINH": "11/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.342146",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126604",
+      "HO_TEN": "Huỳnh Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 3.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "126604",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

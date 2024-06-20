@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141287",
+      "Id": "141287",
+      "TinhId": 14,
+      "NGAY_SINH": "10/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.376298",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141287",
+      "HO_TEN": "Ninh Trần Kim Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "141287",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130927",
+      "Id": "130927",
+      "TinhId": 13,
+      "NGAY_SINH": "06/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.897648",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130927",
+      "HO_TEN": "Cù Thị Kiều Trang",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "130927",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

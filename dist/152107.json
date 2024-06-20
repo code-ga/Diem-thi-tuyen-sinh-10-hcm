@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152107",
+      "Id": "152107",
+      "TinhId": 15,
+      "NGAY_SINH": "03/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.296475",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152107",
+      "HO_TEN": "Nguyễn Tuấn Kiệt",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 6,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.75,
+      "SOBAODANH": "152107",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

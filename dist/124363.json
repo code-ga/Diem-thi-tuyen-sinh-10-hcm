@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124363",
+      "Id": "124363",
+      "TinhId": 12,
+      "NGAY_SINH": "06/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.987400",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124363",
+      "HO_TEN": "Huỳnh Ngọc Trâm Anh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "124363",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

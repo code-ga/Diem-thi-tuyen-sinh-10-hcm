@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157347",
+      "Id": "157347",
+      "TinhId": 15,
+      "NGAY_SINH": "02/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.445341",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157347",
+      "HO_TEN": "Lâm Ngọc Phương Thủy",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "157347",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141358",
+      "Id": "141358",
+      "TinhId": 14,
+      "NGAY_SINH": "08/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.303468",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141358",
+      "HO_TEN": "Vũ Tấn Thành",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.25,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "141358",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

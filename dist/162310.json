@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "162310",
+      "Id": "162310",
+      "TinhId": 16,
+      "NGAY_SINH": "02/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.962802",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "162310",
+      "HO_TEN": "Võ Thị Mộng Tuyền",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.5,
+      "NGOAI_NGU": 0.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.25,
+      "SOBAODANH": "162310",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 0.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137542",
+      "Id": "137542",
+      "TinhId": 13,
+      "NGAY_SINH": "05/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.028982",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137542",
+      "HO_TEN": "Nguyễn Trần Thiên Ý",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "137542",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

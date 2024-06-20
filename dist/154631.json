@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154631",
+      "Id": "154631",
+      "TinhId": 15,
+      "NGAY_SINH": "10/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.623140",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154631",
+      "HO_TEN": "Nguyễn Phương Mai",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "154631",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

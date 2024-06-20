@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191850",
+      "Id": "191850",
+      "TinhId": 19,
+      "NGAY_SINH": "08/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.856202",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191850",
+      "HO_TEN": "Trầm Vegas",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 5,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "191850",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

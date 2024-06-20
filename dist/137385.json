@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137385",
+      "Id": "137385",
+      "TinhId": 13,
+      "NGAY_SINH": "03/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.031753",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137385",
+      "HO_TEN": "Trần Phạm Thanh Trúc",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "137385",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

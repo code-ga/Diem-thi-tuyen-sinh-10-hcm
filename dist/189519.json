@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189519",
+      "Id": "189519",
+      "TinhId": 18,
+      "NGAY_SINH": "04/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.785995",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189519",
+      "HO_TEN": "Trần Minh Tú",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "189519",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135331",
+      "Id": "135331",
+      "TinhId": 13,
+      "NGAY_SINH": "05/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.708860",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135331",
+      "HO_TEN": "Nguyễn Phi Hiệp",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "135331",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

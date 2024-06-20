@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131316",
+      "Id": "131316",
+      "TinhId": 13,
+      "NGAY_SINH": "12/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.904945",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131316",
+      "HO_TEN": "Nguyễn Tấn Đạt",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 3.5,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "131316",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

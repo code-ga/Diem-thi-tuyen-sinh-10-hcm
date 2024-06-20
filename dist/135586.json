@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135586",
+      "Id": "135586",
+      "TinhId": 13,
+      "NGAY_SINH": "09/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.708583",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135586",
+      "HO_TEN": "Đoàn Thiên Ngân",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "135586",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

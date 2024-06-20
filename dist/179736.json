@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179736",
+      "Id": "179736",
+      "TinhId": 17,
+      "NGAY_SINH": "02/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.519204",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179736",
+      "HO_TEN": "Nguyễn Minh Huyền",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.5,
+      "SOBAODANH": "179736",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187479",
+      "Id": "187479",
+      "TinhId": 18,
+      "NGAY_SINH": "11/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.920879",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187479",
+      "HO_TEN": "Huỳnh Ngọc Minh Trí",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 7,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "187479",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

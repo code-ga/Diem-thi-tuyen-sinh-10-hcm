@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "142933",
+      "Id": "142933",
+      "TinhId": 14,
+      "NGAY_SINH": "08/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.380575",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "142933",
+      "HO_TEN": "Phạm Hoàng Khánh Ngọc",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "142933",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

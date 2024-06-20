@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145852",
+      "Id": "145852",
+      "TinhId": 14,
+      "NGAY_SINH": "07/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.515105",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145852",
+      "HO_TEN": "Đoàn Hoàng Tuấn",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "145852",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

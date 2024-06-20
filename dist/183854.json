@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183854",
+      "Id": "183854",
+      "TinhId": 18,
+      "NGAY_SINH": "12/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.453242",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183854",
+      "HO_TEN": "Trần Ngọc Yến Nhi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "183854",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

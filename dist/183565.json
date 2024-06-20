@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183565",
+      "Id": "183565",
+      "TinhId": 18,
+      "NGAY_SINH": "10/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.588990",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183565",
+      "HO_TEN": "Bùi Gia Khương",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 7,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "183565",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177506",
+      "Id": "177506",
+      "TinhId": 17,
+      "NGAY_SINH": "01/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.050680",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177506",
+      "HO_TEN": "Trương Hoàng Minh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "177506",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

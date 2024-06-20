@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188417",
+      "Id": "188417",
+      "TinhId": 18,
+      "NGAY_SINH": "04/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.056619",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188417",
+      "HO_TEN": "Võ Thị Huỳnh Như",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "188417",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

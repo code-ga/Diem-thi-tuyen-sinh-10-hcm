@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134678",
+      "Id": "134678",
+      "TinhId": 13,
+      "NGAY_SINH": "07/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.602663",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134678",
+      "HO_TEN": "Trần Thị Trúc Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4.75,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9,
+      "SOBAODANH": "134678",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

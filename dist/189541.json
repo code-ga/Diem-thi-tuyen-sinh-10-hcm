@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189541",
+      "Id": "189541",
+      "TinhId": 18,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.863017",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189541",
+      "HO_TEN": "NGUYỄN QUỐC VIỆT",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 3.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "189541",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

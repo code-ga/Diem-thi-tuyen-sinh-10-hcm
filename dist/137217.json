@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137217",
+      "Id": "137217",
+      "TinhId": 13,
+      "NGAY_SINH": "01/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.035435",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137217",
+      "HO_TEN": "Nguyễn Phúc Thịnh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "137217",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

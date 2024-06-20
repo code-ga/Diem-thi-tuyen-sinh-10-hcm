@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153865",
+      "Id": "153865",
+      "TinhId": 15,
+      "NGAY_SINH": "09/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.568823",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153865",
+      "HO_TEN": "Huỳnh Nguyễn Khôi Nguyên",
+      "TINH": "HCM",
+      "TOAN": 0.75,
+      "VAN": 1,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 6.25,
+      "SOBAODANH": "153865",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

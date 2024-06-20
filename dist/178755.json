@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178755",
+      "Id": "178755",
+      "TinhId": 17,
+      "NGAY_SINH": "01/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.203986",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178755",
+      "HO_TEN": "Phạm Minh Dũng",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "178755",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

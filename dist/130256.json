@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130256",
+      "Id": "130256",
+      "TinhId": 13,
+      "NGAY_SINH": "11/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.898289",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130256",
+      "HO_TEN": "Nguyễn Khoa Quốc Hưng",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 3.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.5,
+      "SOBAODANH": "130256",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

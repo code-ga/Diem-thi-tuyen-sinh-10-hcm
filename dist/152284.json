@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152284",
+      "Id": "152284",
+      "TinhId": 15,
+      "NGAY_SINH": "02/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.570187",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152284",
+      "HO_TEN": "Phan Đình Nguyên",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 3.75,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "152284",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

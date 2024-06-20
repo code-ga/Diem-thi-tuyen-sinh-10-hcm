@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133081",
+      "Id": "133081",
+      "TinhId": 13,
+      "NGAY_SINH": "05/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.715966",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133081",
+      "HO_TEN": "Trương Minh Mẫn",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "133081",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

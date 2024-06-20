@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133132",
+      "Id": "133132",
+      "TinhId": 13,
+      "NGAY_SINH": "09/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.775516",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133132",
+      "HO_TEN": "Bùi Thị Thu Ngân",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 8.5,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "133132",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

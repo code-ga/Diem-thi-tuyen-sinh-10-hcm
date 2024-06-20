@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165279",
+      "Id": "165279",
+      "TinhId": 16,
+      "NGAY_SINH": "11/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.233386",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165279",
+      "HO_TEN": "Hồ Đỗ Tuyết Ngọc",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "165279",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

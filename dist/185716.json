@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185716",
+      "Id": "185716",
+      "TinhId": 18,
+      "NGAY_SINH": "02/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.926140",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185716",
+      "HO_TEN": "Lại Nguyễn Bảo Anh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "185716",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

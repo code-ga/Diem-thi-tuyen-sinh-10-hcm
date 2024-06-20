@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190054",
+      "Id": "190054",
+      "TinhId": 19,
+      "NGAY_SINH": "10/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.986978",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190054",
+      "HO_TEN": "Bùi Tuyết Giao",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "190054",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

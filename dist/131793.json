@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131793",
+      "Id": "131793",
+      "TinhId": 13,
+      "NGAY_SINH": "05/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.900750",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131793",
+      "HO_TEN": "Lê Doãn Hoài Nam",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 6,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "131793",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132765",
+      "Id": "132765",
+      "TinhId": 13,
+      "NGAY_SINH": "01/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.768972",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132765",
+      "HO_TEN": "Lưu Ngọc Hà",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "132765",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

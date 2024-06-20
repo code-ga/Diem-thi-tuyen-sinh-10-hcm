@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153789",
+      "Id": "153789",
+      "TinhId": 15,
+      "NGAY_SINH": "02/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.691558",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153789",
+      "HO_TEN": "Đoàn Huệ Minh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "153789",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "171472",
+      "Id": "171472",
+      "TinhId": 17,
+      "NGAY_SINH": "08/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.556945",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "171472",
+      "HO_TEN": "NGUYỄN ĐẶNG GIA PHÚC",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "171472",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

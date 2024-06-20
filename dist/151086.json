@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151086",
+      "Id": "151086",
+      "TinhId": 15,
+      "NGAY_SINH": "09/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.037098",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151086",
+      "HO_TEN": "Nguyễn Trần Thảo Nhi",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "151086",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

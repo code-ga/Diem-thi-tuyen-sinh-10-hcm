@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138222",
+      "Id": "138222",
+      "TinhId": 13,
+      "NGAY_SINH": "10/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.102191",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138222",
+      "HO_TEN": "Nguyễn Ánh Phương",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "138222",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

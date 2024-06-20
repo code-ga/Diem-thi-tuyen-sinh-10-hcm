@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191319",
+      "Id": "191319",
+      "TinhId": 19,
+      "NGAY_SINH": "06/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.993708",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191319",
+      "HO_TEN": "Phạm Quốc Thái",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 3.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "191319",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

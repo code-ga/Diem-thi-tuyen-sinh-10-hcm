@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135686",
+      "Id": "135686",
+      "TinhId": 13,
+      "NGAY_SINH": "12/28/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.967578",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135686",
+      "HO_TEN": "Ngô Thị Kiều Như",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "135686",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

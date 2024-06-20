@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169031",
+      "Id": "169031",
+      "TinhId": 16,
+      "NGAY_SINH": "04/18/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.548434",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169031",
+      "HO_TEN": "Trần Gia Lạc",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "169031",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

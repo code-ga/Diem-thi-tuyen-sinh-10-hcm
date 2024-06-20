@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176847",
+      "Id": "176847",
+      "TinhId": 17,
+      "NGAY_SINH": "01/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.823980",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176847",
+      "HO_TEN": "Đặng Thị Hồng Thủy",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "176847",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "132163",
+      "Id": "132163",
+      "TinhId": 13,
+      "NGAY_SINH": "07/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.838295",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "132163",
+      "HO_TEN": "Phan Thanh Bảo Thi",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "132163",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

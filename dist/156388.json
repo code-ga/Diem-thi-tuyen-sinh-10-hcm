@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156388",
+      "Id": "156388",
+      "TinhId": 15,
+      "NGAY_SINH": "10/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.438210",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156388",
+      "HO_TEN": "Hoàng Yến Phương",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "156388",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

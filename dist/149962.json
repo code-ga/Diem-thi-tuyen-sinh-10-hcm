@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149962",
+      "Id": "149962",
+      "TinhId": 14,
+      "NGAY_SINH": "09/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.944315",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149962",
+      "HO_TEN": "Nguyễn Huỳnh Bích Loan Viên",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "149962",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

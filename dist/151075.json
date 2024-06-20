@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "151075",
+      "Id": "151075",
+      "TinhId": 15,
+      "NGAY_SINH": "05/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.049994",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "151075",
+      "HO_TEN": "Lê Ngọc Bảo Nhi",
+      "TINH": "HCM",
+      "TOAN": 0.75,
+      "VAN": 3.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 7,
+      "SOBAODANH": "151075",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

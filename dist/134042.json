@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134042",
+      "Id": "134042",
+      "TinhId": 13,
+      "NGAY_SINH": "12/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.538733",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134042",
+      "HO_TEN": "Trần Lê Khánh Hân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "134042",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

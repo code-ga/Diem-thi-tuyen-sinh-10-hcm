@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130504",
+      "Id": "130504",
+      "TinhId": 13,
+      "NGAY_SINH": "08/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.532091",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130504",
+      "HO_TEN": "Đỗ Hoàng Nam",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "130504",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

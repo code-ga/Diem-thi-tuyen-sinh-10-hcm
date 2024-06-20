@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168761",
+      "Id": "168761",
+      "TinhId": 16,
+      "NGAY_SINH": "01/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.429012",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168761",
+      "HO_TEN": "Hồ Trọng Tuấn",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "168761",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

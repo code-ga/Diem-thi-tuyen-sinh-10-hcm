@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145000",
+      "Id": "145000",
+      "TinhId": 14,
+      "NGAY_SINH": "04/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.445910",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145000",
+      "HO_TEN": "Lê Hoàng Song Ngân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 8,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "145000",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

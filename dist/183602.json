@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183602",
+      "Id": "183602",
+      "TinhId": 18,
+      "NGAY_SINH": "09/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.578249",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183602",
+      "HO_TEN": "VÕ NGUYỄN KHA LÂM",
+      "TINH": "HCM",
+      "TOAN": 8.5,
+      "VAN": 8,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 26.25,
+      "SOBAODANH": "183602",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

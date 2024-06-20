@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129288",
+      "Id": "129288",
+      "TinhId": 12,
+      "NGAY_SINH": "09/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.410813",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129288",
+      "HO_TEN": "Nguyễn Quốc Duy Minh",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.25,
+      "SOBAODANH": "129288",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

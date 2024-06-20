@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "166821",
+      "Id": "166821",
+      "TinhId": 16,
+      "NGAY_SINH": "12/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.236537",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "166821",
+      "HO_TEN": "Nguyễn Phi Long",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6.75,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "166821",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128191",
+      "Id": "128191",
+      "TinhId": 12,
+      "NGAY_SINH": "04/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.469325",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128191",
+      "HO_TEN": "Nguyễn Dương Ngân",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 6,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.75,
+      "SOBAODANH": "128191",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

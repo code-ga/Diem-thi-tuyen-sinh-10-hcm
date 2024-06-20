@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189750",
+      "Id": "189750",
+      "TinhId": 18,
+      "NGAY_SINH": "07/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.051527",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189750",
+      "HO_TEN": "Vũ Ngọc Anh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "189750",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

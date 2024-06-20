@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130076",
+      "Id": "130076",
+      "TinhId": 13,
+      "NGAY_SINH": "07/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.705400",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130076",
+      "HO_TEN": "Phạm Quốc Chung",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 4.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "130076",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143331",
+      "Id": "143331",
+      "TinhId": 14,
+      "NGAY_SINH": "11/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.522795",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143331",
+      "HO_TEN": "Trần Tiến Thành",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "143331",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

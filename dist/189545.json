@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189545",
+      "Id": "189545",
+      "TinhId": 18,
+      "NGAY_SINH": "04/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.783630",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189545",
+      "HO_TEN": "Lý Quốc Vinh",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 2.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "189545",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

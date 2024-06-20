@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191363",
+      "Id": "191363",
+      "TinhId": 19,
+      "NGAY_SINH": "11/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.854889",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191363",
+      "HO_TEN": "Nguyễn Trường Thành",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 24,
+      "SOBAODANH": "191363",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

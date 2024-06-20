@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127591",
+      "Id": "127591",
+      "TinhId": 12,
+      "NGAY_SINH": "07/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.273541",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127591",
+      "HO_TEN": "Trần Nguyễn Minh Vy",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "127591",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

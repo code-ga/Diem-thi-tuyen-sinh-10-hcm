@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "148222",
+      "Id": "148222",
+      "TinhId": 14,
+      "NGAY_SINH": "05/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.172565",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "148222",
+      "HO_TEN": "Phan Nguyễn Trà My",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "148222",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

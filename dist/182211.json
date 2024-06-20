@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182211",
+      "Id": "182211",
+      "TinhId": 18,
+      "NGAY_SINH": "07/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.315553",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182211",
+      "HO_TEN": "Bùi Gia Khải",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "182211",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

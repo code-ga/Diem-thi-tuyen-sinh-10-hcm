@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123278",
+      "Id": "123278",
+      "TinhId": 12,
+      "NGAY_SINH": "10/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.931186",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123278",
+      "HO_TEN": "Phù Vỹ Thanh Lê",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "123278",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

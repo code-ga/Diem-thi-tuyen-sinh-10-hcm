@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128363",
+      "Id": "128363",
+      "TinhId": 12,
+      "NGAY_SINH": "04/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.464577",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128363",
+      "HO_TEN": "Nguyễn Hữu Phúc",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8.75,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 26.25,
+      "SOBAODANH": "128363",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

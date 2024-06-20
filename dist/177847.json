@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177847",
+      "Id": "177847",
+      "TinhId": 17,
+      "NGAY_SINH": "09/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.137047",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177847",
+      "HO_TEN": "Lương Hoài An",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "177847",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

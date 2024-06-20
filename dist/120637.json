@@ -1,6 +1,0 @@
-{
-  "data": [],
-  "total": 0,
-  "success": false,
-  "message": "Client error: `GET http://192.168.62.92:9200/diemthi_tto_lop10_2024/_doc/120637` resulted in a `404 Not Found` response:\n{\"_index\":\"diemthi_tto_lop10_2024\",\"_type\":\"_doc\",\"_id\":\"120637\",\"found\":false}\n"
-}

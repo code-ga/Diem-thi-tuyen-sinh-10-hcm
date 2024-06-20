@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "141235",
+      "Id": "141235",
+      "TinhId": 14,
+      "NGAY_SINH": "09/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.369122",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "141235",
+      "HO_TEN": "NGUYỄN PHẠM LAM PHƯƠNG",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "141235",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

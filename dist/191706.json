@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191706",
+      "Id": "191706",
+      "TinhId": 19,
+      "NGAY_SINH": "03/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.998239",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191706",
+      "HO_TEN": "Trần Thiện Trí",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "191706",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

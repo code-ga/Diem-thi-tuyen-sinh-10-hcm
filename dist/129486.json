@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129486",
+      "Id": "129486",
+      "TinhId": 12,
+      "NGAY_SINH": "06/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.414575",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129486",
+      "HO_TEN": "Ngô Tấn Phát",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "129486",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191838",
+      "Id": "191838",
+      "TinhId": 19,
+      "NGAY_SINH": "06/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.703242",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191838",
+      "HO_TEN": "Lê Quỳnh Tuyết Vân",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "191838",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

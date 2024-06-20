@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184671",
+      "Id": "184671",
+      "TinhId": 18,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.514956",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184671",
+      "HO_TEN": "Nguyễn Trọng Phúc",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16,
+      "SOBAODANH": "184671",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

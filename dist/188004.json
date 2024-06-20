@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188004",
+      "Id": "188004",
+      "TinhId": 18,
+      "NGAY_SINH": "11/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.711144",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188004",
+      "HO_TEN": "Ngô Hồng Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "188004",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

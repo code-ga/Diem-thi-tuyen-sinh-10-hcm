@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144849",
+      "Id": "144849",
+      "TinhId": 14,
+      "NGAY_SINH": "09/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.735231",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144849",
+      "HO_TEN": "Trần Hà Phi Long",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.5,
+      "SOBAODANH": "144849",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

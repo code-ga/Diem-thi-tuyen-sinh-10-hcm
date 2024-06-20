@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188148",
+      "Id": "188148",
+      "TinhId": 18,
+      "NGAY_SINH": "05/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.713781",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188148",
+      "HO_TEN": "Trần Ngân Khánh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "188148",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

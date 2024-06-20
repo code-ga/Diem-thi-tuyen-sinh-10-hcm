@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188515",
+      "Id": "188515",
+      "TinhId": 18,
+      "NGAY_SINH": "12/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.053588",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188515",
+      "HO_TEN": "Nguyễn Xuân Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "188515",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

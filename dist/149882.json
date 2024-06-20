@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149882",
+      "Id": "149882",
+      "TinhId": 14,
+      "NGAY_SINH": "08/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.939733",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149882",
+      "HO_TEN": "Vũ Minh Triết",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 3.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.5,
+      "SOBAODANH": "149882",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

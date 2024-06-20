@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184399",
+      "Id": "184399",
+      "TinhId": 18,
+      "NGAY_SINH": "08/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.587245",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184399",
+      "HO_TEN": "Lê Quý Đôn",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.75,
+      "NGOAI_NGU": 0.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.75,
+      "SOBAODANH": "184399",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 0.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

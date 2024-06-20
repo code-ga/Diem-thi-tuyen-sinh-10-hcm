@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163371",
+      "Id": "163371",
+      "TinhId": 16,
+      "NGAY_SINH": "05/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.838087",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163371",
+      "HO_TEN": "Vũ Đức Thành Lộc",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "163371",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

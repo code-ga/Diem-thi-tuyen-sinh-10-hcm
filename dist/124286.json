@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124286",
+      "Id": "124286",
+      "TinhId": 12,
+      "NGAY_SINH": "11/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.997135",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124286",
+      "HO_TEN": "Trần Nguyễn Thanh Tuấn",
+      "TINH": "HCM",
+      "TOAN": 5.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "124286",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

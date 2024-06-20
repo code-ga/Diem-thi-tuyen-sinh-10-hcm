@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145232",
+      "Id": "145232",
+      "TinhId": 14,
+      "NGAY_SINH": "02/20/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.439547",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145232",
+      "HO_TEN": "Hoàng Thị Thanh Nhung",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 6,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.75,
+      "SOBAODANH": "145232",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

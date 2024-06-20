@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "186656",
+      "Id": "186656",
+      "TinhId": 18,
+      "NGAY_SINH": "10/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.922079",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "186656",
+      "HO_TEN": "Hoàng Lê Diễm My",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "186656",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

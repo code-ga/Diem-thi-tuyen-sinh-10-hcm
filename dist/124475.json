@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124475",
+      "Id": "124475",
+      "TinhId": 12,
+      "NGAY_SINH": "11/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.987037",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124475",
+      "HO_TEN": "Đặng Trần Ngọc Hân",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.75,
+      "SOBAODANH": "124475",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

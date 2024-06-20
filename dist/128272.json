@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128272",
+      "Id": "128272",
+      "TinhId": 12,
+      "NGAY_SINH": "08/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.469921",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128272",
+      "HO_TEN": "Nguyễn Quỳnh Bảo Nhi",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "128272",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

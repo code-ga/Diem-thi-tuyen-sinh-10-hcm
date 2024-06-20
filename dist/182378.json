@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182378",
+      "Id": "182378",
+      "TinhId": 18,
+      "NGAY_SINH": "06/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.644283",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182378",
+      "HO_TEN": "TRỊNH NGUYỄN HOÀNG LONG",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5.25,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "182378",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

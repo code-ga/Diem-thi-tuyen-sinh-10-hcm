@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139640",
+      "Id": "139640",
+      "TinhId": 13,
+      "NGAY_SINH": "09/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.170747",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139640",
+      "HO_TEN": "Nguyễn Huỳnh Minh Thảo",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 8.5,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.5,
+      "SOBAODANH": "139640",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

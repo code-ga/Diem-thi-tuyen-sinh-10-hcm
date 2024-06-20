@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "136734",
+      "Id": "136734",
+      "TinhId": 13,
+      "NGAY_SINH": "03/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.030990",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "136734",
+      "HO_TEN": "Hoàng Bảo Long",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.5,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "136734",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

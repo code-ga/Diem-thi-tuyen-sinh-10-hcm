@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138379",
+      "Id": "138379",
+      "TinhId": 13,
+      "NGAY_SINH": "08/23/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.041309",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138379",
+      "HO_TEN": "Phạm Ngọc Quỳnh Tiên",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "138379",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

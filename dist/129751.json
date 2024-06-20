@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "129751",
+      "Id": "129751",
+      "TinhId": 12,
+      "NGAY_SINH": "04/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.414596",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "129751",
+      "HO_TEN": "Lý Như Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 7,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "129751",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

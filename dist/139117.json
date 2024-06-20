@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139117",
+      "Id": "139117",
+      "TinhId": 13,
+      "NGAY_SINH": "04/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.237697",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139117",
+      "HO_TEN": "Nguyễn Thụy Yến Linh",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19,
+      "SOBAODANH": "139117",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

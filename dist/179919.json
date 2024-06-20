@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "179919",
+      "Id": "179919",
+      "TinhId": 17,
+      "NGAY_SINH": "07/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.458328",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "179919",
+      "HO_TEN": "Huỳnh Lê Minh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "179919",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

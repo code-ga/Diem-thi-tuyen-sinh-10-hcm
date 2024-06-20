@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "156246",
+      "Id": "156246",
+      "TinhId": 15,
+      "NGAY_SINH": "07/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.377923",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "156246",
+      "HO_TEN": "Nguyễn Trọng Nghĩa",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "156246",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

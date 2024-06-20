@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134145",
+      "Id": "134145",
+      "TinhId": 13,
+      "NGAY_SINH": "04/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.601958",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134145",
+      "HO_TEN": "Phạm Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "134145",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

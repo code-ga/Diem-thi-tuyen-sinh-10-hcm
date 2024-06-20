@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184711",
+      "Id": "184711",
+      "TinhId": 18,
+      "NGAY_SINH": "06/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.515929",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184711",
+      "HO_TEN": "Phạm Tấn Tài",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 6.75,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "184711",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154955",
+      "Id": "154955",
+      "TinhId": 15,
+      "NGAY_SINH": "04/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.498864",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154955",
+      "HO_TEN": "Trần Minh Trí",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "154955",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

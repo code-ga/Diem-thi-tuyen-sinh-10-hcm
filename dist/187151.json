@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "187151",
+      "Id": "187151",
+      "TinhId": 18,
+      "NGAY_SINH": "03/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.135114",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "187151",
+      "HO_TEN": "NGÔ ĐÀM SANG SANG",
+      "TINH": "HCM",
+      "TOAN": 2.25,
+      "VAN": 4.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "187151",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

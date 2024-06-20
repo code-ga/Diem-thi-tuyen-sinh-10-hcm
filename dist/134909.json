@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134909",
+      "Id": "134909",
+      "TinhId": 13,
+      "NGAY_SINH": "08/15/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.604980",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134909",
+      "HO_TEN": "Phạm Quang Trí",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "134909",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

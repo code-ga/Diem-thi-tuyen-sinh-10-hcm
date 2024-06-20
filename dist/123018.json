@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123018",
+      "Id": "123018",
+      "TinhId": 12,
+      "NGAY_SINH": "07/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.932543",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123018",
+      "HO_TEN": "Nguyễn Huỳnh Mai Anh",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 8.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.5,
+      "SOBAODANH": "123018",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

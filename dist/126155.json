@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126155",
+      "Id": "126155",
+      "TinhId": 12,
+      "NGAY_SINH": "03/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.280113",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126155",
+      "HO_TEN": "NGUYỄN THỊ VÂN NHI",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8.75,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 25,
+      "SOBAODANH": "126155",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

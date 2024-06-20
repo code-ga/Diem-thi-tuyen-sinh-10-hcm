@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125333",
+      "Id": "125333",
+      "TinhId": 12,
+      "NGAY_SINH": "07/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.142336",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125333",
+      "HO_TEN": "Huỳnh Nguyễn Mẫn Nhi",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 2.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.25,
+      "SOBAODANH": "125333",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

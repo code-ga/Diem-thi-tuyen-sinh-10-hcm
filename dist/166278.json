@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "166278",
+      "Id": "166278",
+      "TinhId": 16,
+      "NGAY_SINH": "01/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.297067",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "166278",
+      "HO_TEN": "Đoàn Xuân Hiền",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 7.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 20,
+      "SOBAODANH": "166278",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

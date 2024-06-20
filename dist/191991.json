@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191991",
+      "Id": "191991",
+      "TinhId": 19,
+      "NGAY_SINH": "09/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.992727",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191991",
+      "HO_TEN": "Lê Ngọc Kim Yến",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "191991",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

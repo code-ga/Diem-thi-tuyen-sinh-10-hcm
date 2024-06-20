@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122089",
+      "Id": "122089",
+      "TinhId": 12,
+      "NGAY_SINH": "03/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.996237",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122089",
+      "HO_TEN": "Ngô Hoàng Phương Uyên",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "122089",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

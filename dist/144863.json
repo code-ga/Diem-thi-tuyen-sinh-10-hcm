@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144863",
+      "Id": "144863",
+      "TinhId": 14,
+      "NGAY_SINH": "02/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.658310",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144863",
+      "HO_TEN": "Bùi Thụy Xuân Mai",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "144863",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

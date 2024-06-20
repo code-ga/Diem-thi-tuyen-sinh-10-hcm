@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "182208",
+      "Id": "182208",
+      "TinhId": 18,
+      "NGAY_SINH": "10/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.321655",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "182208",
+      "HO_TEN": "Đoàn Lê Jenny",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.5,
+      "SOBAODANH": "182208",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

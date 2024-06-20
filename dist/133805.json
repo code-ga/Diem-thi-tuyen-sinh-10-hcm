@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133805",
+      "Id": "133805",
+      "TinhId": 13,
+      "NGAY_SINH": "10/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.601353",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133805",
+      "HO_TEN": "Nguyễn Thị Quỳnh Anh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.5,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "133805",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

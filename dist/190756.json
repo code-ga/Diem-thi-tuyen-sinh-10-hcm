@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190756",
+      "Id": "190756",
+      "TinhId": 19,
+      "NGAY_SINH": "10/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.857326",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190756",
+      "HO_TEN": "Trương Hồng Nga",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 3.75,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.5,
+      "SOBAODANH": "190756",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

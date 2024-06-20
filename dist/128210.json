@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128210",
+      "Id": "128210",
+      "TinhId": 12,
+      "NGAY_SINH": "06/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.415769",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128210",
+      "HO_TEN": "Tô Lâm Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "128210",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

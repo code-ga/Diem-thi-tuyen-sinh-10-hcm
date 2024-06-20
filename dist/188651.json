@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188651",
+      "Id": "188651",
+      "TinhId": 18,
+      "NGAY_SINH": "12/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.717221",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188651",
+      "HO_TEN": "Nguyễn Võ Chí Tin",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "188651",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

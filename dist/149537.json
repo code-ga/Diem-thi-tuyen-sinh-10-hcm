@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149537",
+      "Id": "149537",
+      "TinhId": 14,
+      "NGAY_SINH": "10/19/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.948019",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149537",
+      "HO_TEN": "Trần Sơn Nghĩa",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4.75,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "149537",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

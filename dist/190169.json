@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "190169",
+      "Id": "190169",
+      "TinhId": 19,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.648681",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "190169",
+      "HO_TEN": "Nguyễn Chung Hậu",
+      "TINH": "HCM",
+      "TOAN": 6.75,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "190169",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

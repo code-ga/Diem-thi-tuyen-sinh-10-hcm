@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "133141",
+      "Id": "133141",
+      "TinhId": 13,
+      "NGAY_SINH": "04/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.716114",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "133141",
+      "HO_TEN": "Nguyễn Lê Trúc Ngân",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 23,
+      "SOBAODANH": "133141",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

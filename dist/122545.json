@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122545",
+      "Id": "122545",
+      "TinhId": 12,
+      "NGAY_SINH": "06/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.062181",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122545",
+      "HO_TEN": "Lê Nguyễn Phú Minh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "122545",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "144802",
+      "Id": "144802",
+      "TinhId": 14,
+      "NGAY_SINH": "10/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.516540",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "144802",
+      "HO_TEN": "Phạm Hà Linh",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "144802",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

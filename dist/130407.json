@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130407",
+      "Id": "130407",
+      "TinhId": 13,
+      "NGAY_SINH": "03/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.898570",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130407",
+      "HO_TEN": "Mai Kiều Linh",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 8,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "130407",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

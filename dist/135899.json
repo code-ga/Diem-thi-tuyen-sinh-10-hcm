@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135899",
+      "Id": "135899",
+      "TinhId": 13,
+      "NGAY_SINH": "04/21/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.712134",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135899",
+      "HO_TEN": "Lê Nguyễn Cát Tiên",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "135899",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

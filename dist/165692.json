@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165692",
+      "Id": "165692",
+      "TinhId": 16,
+      "NGAY_SINH": "09/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.232812",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165692",
+      "HO_TEN": "Hồ Quỳnh Phương Uyên",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "165692",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

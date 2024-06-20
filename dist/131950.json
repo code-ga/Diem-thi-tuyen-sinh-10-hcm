@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131950",
+      "Id": "131950",
+      "TinhId": 13,
+      "NGAY_SINH": "05/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.843340",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131950",
+      "HO_TEN": "Đặng Thị Hà Như",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 5.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "131950",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "127818",
+      "Id": "127818",
+      "TinhId": 12,
+      "NGAY_SINH": "12/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.472318",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "127818",
+      "HO_TEN": "Phạm Thế Hải Dương",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.75,
+      "SOBAODANH": "127818",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

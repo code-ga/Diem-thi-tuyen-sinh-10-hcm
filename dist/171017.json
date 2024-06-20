@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "171017",
+      "Id": "171017",
+      "TinhId": 17,
+      "NGAY_SINH": "01/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.682445",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "171017",
+      "HO_TEN": "PHẠM TUẤN KIỆT",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 8.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "171017",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

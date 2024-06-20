@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "191095",
+      "Id": "191095",
+      "TinhId": 19,
+      "NGAY_SINH": "08/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.988550",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "191095",
+      "HO_TEN": "Phạm Hoàng Nam Phong",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "191095",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

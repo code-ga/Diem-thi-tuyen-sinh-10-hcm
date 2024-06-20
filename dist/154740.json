@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "154740",
+      "Id": "154740",
+      "TinhId": 15,
+      "NGAY_SINH": "10/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.626942",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "154740",
+      "HO_TEN": "Nguyễn Ngọc Uyên Nhi",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "154740",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

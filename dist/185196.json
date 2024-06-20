@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185196",
+      "Id": "185196",
+      "TinhId": 18,
+      "NGAY_SINH": "04/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.788607",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185196",
+      "HO_TEN": "PHAN VÕ CẨM LY",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 6,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "185196",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167352",
+      "Id": "167352",
+      "TinhId": 16,
+      "NGAY_SINH": "08/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.301619",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167352",
+      "HO_TEN": "Thạch Minh Thắng",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 2.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.5,
+      "SOBAODANH": "167352",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

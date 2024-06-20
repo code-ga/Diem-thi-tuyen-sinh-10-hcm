@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183443",
+      "Id": "183443",
+      "TinhId": 18,
+      "NGAY_SINH": "12/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.588581",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183443",
+      "HO_TEN": "Đặng Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 8.25,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25,
+      "SOBAODANH": "183443",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

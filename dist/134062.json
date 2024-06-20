@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134062",
+      "Id": "134062",
+      "TinhId": 13,
+      "NGAY_SINH": "06/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.604301",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134062",
+      "HO_TEN": "Đỗ Quang Chí Hiếu",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.25,
+      "SOBAODANH": "134062",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

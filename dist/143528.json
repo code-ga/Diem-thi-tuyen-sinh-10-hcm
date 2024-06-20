@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143528",
+      "Id": "143528",
+      "TinhId": 14,
+      "NGAY_SINH": "05/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.587258",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143528",
+      "HO_TEN": "Võ Lục Quỳnh Trâm",
+      "TINH": "HCM",
+      "TOAN": 8,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.75,
+      "SOBAODANH": "143528",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

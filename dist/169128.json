@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169128",
+      "Id": "169128",
+      "TinhId": 16,
+      "NGAY_SINH": "07/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.548522",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169128",
+      "HO_TEN": "Dương Trung Nhân",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 5.25,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "169128",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

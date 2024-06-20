@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177178",
+      "Id": "177178",
+      "TinhId": 17,
+      "NGAY_SINH": "04/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.202326",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177178",
+      "HO_TEN": "Lều Phúc An",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 24.25,
+      "SOBAODANH": "177178",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

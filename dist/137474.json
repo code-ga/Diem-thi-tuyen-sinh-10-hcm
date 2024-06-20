@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "137474",
+      "Id": "137474",
+      "TinhId": 13,
+      "NGAY_SINH": "09/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.975281",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "137474",
+      "HO_TEN": "Nguyễn Bá Vinh",
+      "TINH": "HCM",
+      "TOAN": 8.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "137474",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

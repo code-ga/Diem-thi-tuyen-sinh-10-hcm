@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123183",
+      "Id": "123183",
+      "TinhId": 12,
+      "NGAY_SINH": "05/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.934085",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123183",
+      "HO_TEN": "Phạm Huy Hùng",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "123183",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

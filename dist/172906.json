@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "172906",
+      "Id": "172906",
+      "TinhId": 17,
+      "NGAY_SINH": "02/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.761160",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "172906",
+      "HO_TEN": "Phan Hoài Gia Nghi",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "172906",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

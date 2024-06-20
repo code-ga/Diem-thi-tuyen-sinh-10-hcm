@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189930",
+      "Id": "189930",
+      "TinhId": 18,
+      "NGAY_SINH": "12/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.988743",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189930",
+      "HO_TEN": "Nguyễn Trần Tiến Đạt",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 3.25,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "189930",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

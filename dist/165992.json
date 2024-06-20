@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165992",
+      "Id": "165992",
+      "TinhId": 16,
+      "NGAY_SINH": "01/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.299197",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165992",
+      "HO_TEN": "Trương Yến Nhi",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "165992",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

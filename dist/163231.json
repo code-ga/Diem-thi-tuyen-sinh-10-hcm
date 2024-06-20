@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "163231",
+      "Id": "163231",
+      "TinhId": 16,
+      "NGAY_SINH": "03/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.838340",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "163231",
+      "HO_TEN": "Nguyễn Thị Cẩm Hằng",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 4.25,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 8.5,
+      "SOBAODANH": "163231",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

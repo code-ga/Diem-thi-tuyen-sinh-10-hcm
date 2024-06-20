@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "139206",
+      "Id": "139206",
+      "TinhId": 13,
+      "NGAY_SINH": "07/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.167516",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "139206",
+      "HO_TEN": "Võ Tiểu My",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.5,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "139206",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

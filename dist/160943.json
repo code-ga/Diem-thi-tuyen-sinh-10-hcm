@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160943",
+      "Id": "160943",
+      "TinhId": 16,
+      "NGAY_SINH": "09/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.089462",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160943",
+      "HO_TEN": "Trương Lê Bảo Ngọc",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 8,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.25,
+      "SOBAODANH": "160943",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

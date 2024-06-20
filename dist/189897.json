@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "189897",
+      "Id": "189897",
+      "TinhId": 18,
+      "NGAY_SINH": "02/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.647636",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "189897",
+      "HO_TEN": "Trần Kim Đào",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 6,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "189897",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

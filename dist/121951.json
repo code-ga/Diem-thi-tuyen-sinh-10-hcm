@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121951",
+      "Id": "121951",
+      "TinhId": 12,
+      "NGAY_SINH": "04/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.990331",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121951",
+      "HO_TEN": "Nguyễn Thị Ngọc Thanh",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 9.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.75,
+      "SOBAODANH": "121951",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

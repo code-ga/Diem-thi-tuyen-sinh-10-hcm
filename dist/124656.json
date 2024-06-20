@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124656",
+      "Id": "124656",
+      "TinhId": 12,
+      "NGAY_SINH": "05/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.988627",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124656",
+      "HO_TEN": "Nguyễn Thị Trúc Ngân",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 17,
+      "SOBAODANH": "124656",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

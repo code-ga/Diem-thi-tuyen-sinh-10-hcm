@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138728",
+      "Id": "138728",
+      "TinhId": 13,
+      "NGAY_SINH": "01/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.173259",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138728",
+      "HO_TEN": "Đậu Doãn Hải Đăng",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 6.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "138728",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "126480",
+      "Id": "126480",
+      "TinhId": 12,
+      "NGAY_SINH": "06/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.340410",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "126480",
+      "HO_TEN": "Đỗ Nhật Vy",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "126480",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

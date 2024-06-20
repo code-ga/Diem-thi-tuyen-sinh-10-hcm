@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "183981",
+      "Id": "183981",
+      "TinhId": 18,
+      "NGAY_SINH": "03/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.578399",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "183981",
+      "HO_TEN": "LÊ NGUYỄN TẤN SANG",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "183981",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

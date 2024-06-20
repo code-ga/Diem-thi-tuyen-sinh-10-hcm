@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "169636",
+      "Id": "169636",
+      "TinhId": 16,
+      "NGAY_SINH": "08/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.485721",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "169636",
+      "HO_TEN": "Đặng Trần Ngọc Lý",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 7,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.25,
+      "SOBAODANH": "169636",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

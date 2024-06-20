@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149722",
+      "Id": "149722",
+      "TinhId": 14,
+      "NGAY_SINH": "02/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.939193",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149722",
+      "HO_TEN": "Nguyễn Đỗ Tố Quyên",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 4.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11,
+      "SOBAODANH": "149722",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

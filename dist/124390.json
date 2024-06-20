@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124390",
+      "Id": "124390",
+      "TinhId": 12,
+      "NGAY_SINH": "02/27/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.935550",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124390",
+      "HO_TEN": "Phan Ngọc Ánh",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 7,
+      "NGOAI_NGU": 3.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "124390",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145687",
+      "Id": "145687",
+      "TinhId": 14,
+      "NGAY_SINH": "08/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.305130",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145687",
+      "HO_TEN": "Nguyễn Phạm Cát Tiên",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 6,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "145687",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

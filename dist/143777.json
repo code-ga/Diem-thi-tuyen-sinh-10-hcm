@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143777",
+      "Id": "143777",
+      "TinhId": 14,
+      "NGAY_SINH": "01/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.584543",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143777",
+      "HO_TEN": "Phan Thị Tường Vy",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 3.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.25,
+      "SOBAODANH": "143777",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

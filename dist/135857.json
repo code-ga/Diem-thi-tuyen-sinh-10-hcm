@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135857",
+      "Id": "135857",
+      "TinhId": 13,
+      "NGAY_SINH": "12/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.969745",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135857",
+      "HO_TEN": "Nguyễn Lê Minh Thông",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 22,
+      "SOBAODANH": "135857",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

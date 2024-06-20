@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "135320",
+      "Id": "135320",
+      "TinhId": 13,
+      "NGAY_SINH": "07/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.969635",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "135320",
+      "HO_TEN": "Huỳnh Trường Nhật Hào",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 7,
+      "NGOAI_NGU": 8.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "135320",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

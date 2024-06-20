@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "184109",
+      "Id": "184109",
+      "TinhId": 18,
+      "NGAY_SINH": "01/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.403668",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "184109",
+      "HO_TEN": "Hoàng Anh Tiến",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 6,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.25,
+      "SOBAODANH": "184109",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

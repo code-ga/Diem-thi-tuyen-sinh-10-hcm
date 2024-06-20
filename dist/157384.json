@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157384",
+      "Id": "157384",
+      "TinhId": 15,
+      "NGAY_SINH": "03/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.629398",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157384",
+      "HO_TEN": "Phan Hồ Bảo Trân",
+      "TINH": "HCM",
+      "TOAN": 1.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "157384",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

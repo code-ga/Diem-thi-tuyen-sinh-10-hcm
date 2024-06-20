@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160143",
+      "Id": "160143",
+      "TinhId": 16,
+      "NGAY_SINH": "10/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.830730",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160143",
+      "HO_TEN": "Nguyễn Trần Thảo My",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 8,
+      "NGOAI_NGU": 6.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "160143",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

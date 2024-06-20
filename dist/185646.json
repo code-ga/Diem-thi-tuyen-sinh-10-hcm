@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "185646",
+      "Id": "185646",
+      "TinhId": 18,
+      "NGAY_SINH": "09/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:33.132620",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "185646",
+      "HO_TEN": "MOHA MAD AMIN",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 3.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "185646",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

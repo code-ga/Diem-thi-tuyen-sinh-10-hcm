@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "180119",
+      "Id": "180119",
+      "TinhId": 18,
+      "NGAY_SINH": "09/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.208840",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "180119",
+      "HO_TEN": "Nguyễn Quỳnh Như",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 7.75,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.75,
+      "SOBAODANH": "180119",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

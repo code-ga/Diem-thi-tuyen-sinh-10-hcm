@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "167338",
+      "Id": "167338",
+      "TinhId": 16,
+      "NGAY_SINH": "09/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.359507",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "167338",
+      "HO_TEN": "Nguyễn Hoàng Minh Tâm",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 4.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "167338",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

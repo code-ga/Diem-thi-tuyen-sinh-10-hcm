@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161003",
+      "Id": "161003",
+      "TinhId": 16,
+      "NGAY_SINH": "03/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.018667",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161003",
+      "HO_TEN": "Võ Thị Tâm Phi",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.5,
+      "SOBAODANH": "161003",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

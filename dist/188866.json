@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188866",
+      "Id": "188866",
+      "TinhId": 18,
+      "NGAY_SINH": "06/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.785595",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188866",
+      "HO_TEN": "Phạm Kim Quốc Anh",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.5,
+      "SOBAODANH": "188866",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

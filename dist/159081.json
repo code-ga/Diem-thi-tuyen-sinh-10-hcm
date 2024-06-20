@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "159081",
+      "Id": "159081",
+      "TinhId": 15,
+      "NGAY_SINH": "02/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.955539",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "159081",
+      "HO_TEN": "Huỳnh Châu Bảo Xuyên",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "159081",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

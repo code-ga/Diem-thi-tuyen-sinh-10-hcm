@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "143630",
+      "Id": "143630",
+      "TinhId": 14,
+      "NGAY_SINH": "08/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.587280",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "143630",
+      "HO_TEN": "Dương Trần Mỹ Tú",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "143630",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

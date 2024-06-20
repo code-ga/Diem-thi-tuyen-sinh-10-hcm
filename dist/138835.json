@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "138835",
+      "Id": "138835",
+      "TinhId": 13,
+      "NGAY_SINH": "03/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.168575",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "138835",
+      "HO_TEN": "Phạm Bùi Gia Hân",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "138835",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

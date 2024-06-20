@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140807",
+      "Id": "140807",
+      "TinhId": 14,
+      "NGAY_SINH": "04/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.655960",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140807",
+      "HO_TEN": "Quách Hoàng Long",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 5,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.25,
+      "SOBAODANH": "140807",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

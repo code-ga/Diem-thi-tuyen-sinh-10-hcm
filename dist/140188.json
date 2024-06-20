@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140188",
+      "Id": "140188",
+      "TinhId": 14,
+      "NGAY_SINH": "07/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.371544",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140188",
+      "HO_TEN": "Trần Gia Bảo",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 6,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.25,
+      "SOBAODANH": "140188",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

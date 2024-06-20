@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152385",
+      "Id": "152385",
+      "TinhId": 15,
+      "NGAY_SINH": "12/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.305785",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152385",
+      "HO_TEN": "Ngô Cát Uyên Phương",
+      "TINH": "HCM",
+      "TOAN": 7.25,
+      "VAN": 8,
+      "NGOAI_NGU": 8,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "152385",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

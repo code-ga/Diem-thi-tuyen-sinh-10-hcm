@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "121482",
+      "Id": "121482",
+      "TinhId": 12,
+      "NGAY_SINH": "10/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.202073",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "121482",
+      "HO_TEN": "Ngô Nguyễn Linh Đan",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "121482",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

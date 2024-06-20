@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128330",
+      "Id": "128330",
+      "TinhId": 12,
+      "NGAY_SINH": "11/21/2007",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.473395",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128330",
+      "HO_TEN": "Phan Vũ Hà Phi",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.25,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.25,
+      "SOBAODANH": "128330",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188499",
+      "Id": "188499",
+      "TinhId": 18,
+      "NGAY_SINH": "01/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.779205",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188499",
+      "HO_TEN": "Mai Duy Quang",
+      "TINH": "HCM",
+      "TOAN": 6.5,
+      "VAN": 5.5,
+      "NGOAI_NGU": 8.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.75,
+      "SOBAODANH": "188499",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 8.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

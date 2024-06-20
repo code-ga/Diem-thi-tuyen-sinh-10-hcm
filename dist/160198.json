@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "160198",
+      "Id": "160198",
+      "TinhId": 16,
+      "NGAY_SINH": "11/05/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.828533",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "160198",
+      "HO_TEN": "Nguyễn Trần Bích Ngọc",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.75,
+      "SOBAODANH": "160198",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

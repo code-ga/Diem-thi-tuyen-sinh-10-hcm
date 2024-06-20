@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177659",
+      "Id": "177659",
+      "TinhId": 17,
+      "NGAY_SINH": "07/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.055441",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177659",
+      "HO_TEN": "Huỳnh Ngọc Sang",
+      "TINH": "HCM",
+      "TOAN": 4.5,
+      "VAN": 7,
+      "NGOAI_NGU": 7.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "177659",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

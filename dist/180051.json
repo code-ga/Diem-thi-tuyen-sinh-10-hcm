@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "180051",
+      "Id": "180051",
+      "TinhId": 18,
+      "NGAY_SINH": "03/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.458351",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "180051",
+      "HO_TEN": "Ngô Chí Nguyên",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": -1,
+      "NGOAI_NGU": -1,
+      "CHUYEN": -1,
+      "TONGDIEM": 0,
+      "SOBAODANH": "180051",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": -1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

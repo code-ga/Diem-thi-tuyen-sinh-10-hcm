@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128259",
+      "Id": "128259",
+      "TinhId": 12,
+      "NGAY_SINH": "09/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.468845",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128259",
+      "HO_TEN": "Đỗ Vũ Thảo Nhi",
+      "TINH": "HCM",
+      "TOAN": 4.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.75,
+      "SOBAODANH": "128259",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

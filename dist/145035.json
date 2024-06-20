@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145035",
+      "Id": "145035",
+      "TinhId": 14,
+      "NGAY_SINH": "04/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.659175",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145035",
+      "HO_TEN": "Từ Lê Xuân Nghi",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6,
+      "NGOAI_NGU": 6.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "145035",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

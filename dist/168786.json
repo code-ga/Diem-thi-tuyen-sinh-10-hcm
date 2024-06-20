@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "168786",
+      "Id": "168786",
+      "TinhId": 16,
+      "NGAY_SINH": "10/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.428982",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "168786",
+      "HO_TEN": "Phan Lê Khánh Vy",
+      "TINH": "HCM",
+      "TOAN": 3.25,
+      "VAN": 4.75,
+      "NGOAI_NGU": 7,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "168786",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

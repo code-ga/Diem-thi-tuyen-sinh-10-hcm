@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "157660",
+      "Id": "157660",
+      "TinhId": 15,
+      "NGAY_SINH": "06/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.706508",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "157660",
+      "HO_TEN": "Lê Kim Hằng",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 5.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "157660",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

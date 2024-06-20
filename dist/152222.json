@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152222",
+      "Id": "152222",
+      "TinhId": 15,
+      "NGAY_SINH": "10/17/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.301583",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152222",
+      "HO_TEN": "Hà Lê Bảo Ngân",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.25,
+      "SOBAODANH": "152222",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

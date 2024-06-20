@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170032",
+      "Id": "170032",
+      "TinhId": 17,
+      "NGAY_SINH": "09/28/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.434413",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170032",
+      "HO_TEN": "Nguyễn Hồng Vy",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 7.75,
+      "NGOAI_NGU": 1.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 12,
+      "SOBAODANH": "170032",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

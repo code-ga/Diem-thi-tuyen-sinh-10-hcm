@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123633",
+      "Id": "123633",
+      "TinhId": 12,
+      "NGAY_SINH": "02/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.931681",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123633",
+      "HO_TEN": "Phan Hoàng Minh Trí",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 6,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 12.75,
+      "SOBAODANH": "123633",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

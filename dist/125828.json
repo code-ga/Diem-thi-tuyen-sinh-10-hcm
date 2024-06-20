@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "125828",
+      "Id": "125828",
+      "TinhId": 12,
+      "NGAY_SINH": "08/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.335111",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "125828",
+      "HO_TEN": "Nguyễn Võ Phúc Hậu",
+      "TINH": "HCM",
+      "TOAN": 6,
+      "VAN": 6,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.5,
+      "SOBAODANH": "125828",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

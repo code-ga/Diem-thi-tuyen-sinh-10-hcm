@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "146694",
+      "Id": "146694",
+      "TinhId": 14,
+      "NGAY_SINH": "04/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.739577",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "146694",
+      "HO_TEN": "Lý Phong Bữu",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 5,
+      "NGOAI_NGU": 9,
+      "CHUYEN": -1,
+      "TONGDIEM": 19.75,
+      "SOBAODANH": "146694",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

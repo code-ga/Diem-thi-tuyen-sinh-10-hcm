@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "177234",
+      "Id": "177234",
+      "TinhId": 17,
+      "NGAY_SINH": "04/10/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.201689",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "177234",
+      "HO_TEN": "Lưu Chí Bảo",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 4,
+      "NGOAI_NGU": 3.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "177234",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

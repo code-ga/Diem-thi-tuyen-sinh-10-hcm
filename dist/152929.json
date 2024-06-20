@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152929",
+      "Id": "152929",
+      "TinhId": 15,
+      "NGAY_SINH": "09/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.368853",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152929",
+      "HO_TEN": "Nguyễn Võ Đăng Khoa",
+      "TINH": "HCM",
+      "TOAN": 0.75,
+      "VAN": 0.75,
+      "NGOAI_NGU": 1.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 3,
+      "SOBAODANH": "152929",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

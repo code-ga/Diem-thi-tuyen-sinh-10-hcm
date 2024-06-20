@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131385",
+      "Id": "131385",
+      "TinhId": 13,
+      "NGAY_SINH": "02/05/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.839912",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131385",
+      "HO_TEN": "Nguyễn Minh Duy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 4.25,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.25,
+      "SOBAODANH": "131385",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

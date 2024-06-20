@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "124145",
+      "Id": "124145",
+      "TinhId": 12,
+      "NGAY_SINH": "11/04/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.997840",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "124145",
+      "HO_TEN": "Lê Nguyễn Như Quỳnh",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 7,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "124145",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170718",
+      "Id": "170718",
+      "TinhId": 17,
+      "NGAY_SINH": "11/24/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.685984",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170718",
+      "HO_TEN": "NGUYỄN ĐỨC DUY",
+      "TINH": "HCM",
+      "TOAN": 2,
+      "VAN": 2,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.5,
+      "SOBAODANH": "170718",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

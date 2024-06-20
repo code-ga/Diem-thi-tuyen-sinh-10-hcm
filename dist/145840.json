@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "145840",
+      "Id": "145840",
+      "TinhId": 14,
+      "NGAY_SINH": "12/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.660013",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "145840",
+      "HO_TEN": "Hồ Nguyên Minh Tú",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 21.75,
+      "SOBAODANH": "145840",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

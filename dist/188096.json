@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "188096",
+      "Id": "188096",
+      "TinhId": 18,
+      "NGAY_SINH": "07/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.779885",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "188096",
+      "HO_TEN": "Lê Gia Huy",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 5.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "188096",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

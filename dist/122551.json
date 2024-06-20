@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "122551",
+      "Id": "122551",
+      "TinhId": 12,
+      "NGAY_SINH": "09/13/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.141402",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "122551",
+      "HO_TEN": "Nguyễn Tiến Minh",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 6.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 13,
+      "SOBAODANH": "122551",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

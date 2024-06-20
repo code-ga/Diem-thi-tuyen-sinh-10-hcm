@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149679",
+      "Id": "149679",
+      "TinhId": 14,
+      "NGAY_SINH": "01/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.937564",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149679",
+      "HO_TEN": "Trần Thị Hà Phúc",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.75,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "149679",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "123100",
+      "Id": "123100",
+      "TinhId": 12,
+      "NGAY_SINH": "09/23/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:27.934690",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "123100",
+      "HO_TEN": "Nguyễn Tấn Đạt",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6.75,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 16.25,
+      "SOBAODANH": "123100",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

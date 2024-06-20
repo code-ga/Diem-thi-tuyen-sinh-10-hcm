@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "170734",
+      "Id": "170734",
+      "TinhId": 17,
+      "NGAY_SINH": "11/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.687631",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "170734",
+      "HO_TEN": "NGUYỄN KIM HOÀNG GIA",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 2.5,
+      "NGOAI_NGU": 4.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.75,
+      "SOBAODANH": "170734",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

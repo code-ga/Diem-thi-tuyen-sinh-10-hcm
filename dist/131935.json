@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131935",
+      "Id": "131935",
+      "TinhId": 13,
+      "NGAY_SINH": "09/07/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.840340",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131935",
+      "HO_TEN": "Nguyễn Thị Yến Nhi",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 20.5,
+      "SOBAODANH": "131935",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

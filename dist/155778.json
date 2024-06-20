@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "155778",
+      "Id": "155778",
+      "TinhId": 15,
+      "NGAY_SINH": "10/30/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.440760",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "155778",
+      "HO_TEN": "Đoàn Ngọc Lan Anh",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 8.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 18,
+      "SOBAODANH": "155778",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

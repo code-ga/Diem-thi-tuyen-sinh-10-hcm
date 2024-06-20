@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "176951",
+      "Id": "176951",
+      "TinhId": 17,
+      "NGAY_SINH": "12/29/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.821361",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "176951",
+      "HO_TEN": "Hà Minh Trọng",
+      "TINH": "HCM",
+      "TOAN": 5.5,
+      "VAN": 3.5,
+      "NGOAI_NGU": 4.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 13.5,
+      "SOBAODANH": "176951",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "161004",
+      "Id": "161004",
+      "TinhId": 16,
+      "NGAY_SINH": "09/08/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.089774",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "161004",
+      "HO_TEN": "Nguyễn Thanh Phong",
+      "TINH": "HCM",
+      "TOAN": 1.5,
+      "VAN": 2.5,
+      "NGOAI_NGU": 2,
+      "CHUYEN": -1,
+      "TONGDIEM": 6,
+      "SOBAODANH": "161004",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

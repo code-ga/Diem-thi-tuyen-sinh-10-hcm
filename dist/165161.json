@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "165161",
+      "Id": "165161",
+      "TinhId": 16,
+      "NGAY_SINH": "10/09/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.231418",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "165161",
+      "HO_TEN": "Nguyễn Ngọc Yến Linh",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 3.75,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "165161",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

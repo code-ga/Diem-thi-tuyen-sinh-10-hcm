@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130665",
+      "Id": "130665",
+      "TinhId": 13,
+      "NGAY_SINH": "04/27/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.609467",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130665",
+      "HO_TEN": "Vũ Lôi Thiên Phong",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 4.25,
+      "NGOAI_NGU": 2.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "130665",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

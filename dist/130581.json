@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130581",
+      "Id": "130581",
+      "TinhId": 13,
+      "NGAY_SINH": "04/03/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.532951",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130581",
+      "HO_TEN": "Phạm Thái Sơn Nguyên",
+      "TINH": "HCM",
+      "TOAN": 3,
+      "VAN": 4.5,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 10.5,
+      "SOBAODANH": "130581",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

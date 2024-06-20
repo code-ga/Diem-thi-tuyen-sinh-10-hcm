@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "149935",
+      "Id": "149935",
+      "TinhId": 14,
+      "NGAY_SINH": "11/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.947317",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "149935",
+      "HO_TEN": "Huỳnh Thị Thanh Tuyền",
+      "TINH": "HCM",
+      "TOAN": 7,
+      "VAN": 6.5,
+      "NGOAI_NGU": 5.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.75,
+      "SOBAODANH": "149935",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

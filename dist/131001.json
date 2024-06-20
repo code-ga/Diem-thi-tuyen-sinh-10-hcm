@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131001",
+      "Id": "131001",
+      "TinhId": 13,
+      "NGAY_SINH": "10/14/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.608943",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131001",
+      "HO_TEN": "Phạm Xuân Tuấn",
+      "TINH": "HCM",
+      "TOAN": 4,
+      "VAN": 4.25,
+      "NGOAI_NGU": 3.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.75,
+      "SOBAODANH": "131001",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

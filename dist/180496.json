@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "180496",
+      "Id": "180496",
+      "TinhId": 18,
+      "NGAY_SINH": "10/22/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.210779",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "180496",
+      "HO_TEN": "MAI QUỐC TRUNG",
+      "TINH": "HCM",
+      "TOAN": 7.75,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.25,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "180496",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.25,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140660",
+      "Id": "140660",
+      "TinhId": 14,
+      "NGAY_SINH": "03/16/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.299289",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140660",
+      "HO_TEN": "Phùng Anh Khoa",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 6,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 21,
+      "SOBAODANH": "140660",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

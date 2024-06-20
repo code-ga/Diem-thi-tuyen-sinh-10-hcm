@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "147869",
+      "Id": "147869",
+      "TinhId": 14,
+      "NGAY_SINH": "05/12/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.942305",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "147869",
+      "HO_TEN": "Thái Võ Tuấn Hùng",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 2.25,
+      "NGOAI_NGU": 2.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 7.5,
+      "SOBAODANH": "147869",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

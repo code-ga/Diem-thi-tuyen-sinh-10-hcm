@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "178505",
+      "Id": "178505",
+      "TinhId": 17,
+      "NGAY_SINH": "06/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:32.058982",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "178505",
+      "HO_TEN": "Nguyễn Ngọc Bảo Thy",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.25,
+      "NGOAI_NGU": 3,
+      "CHUYEN": -1,
+      "TONGDIEM": 14,
+      "SOBAODANH": "178505",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 3,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

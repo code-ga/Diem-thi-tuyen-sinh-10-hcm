@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "134571",
+      "Id": "134571",
+      "TinhId": 13,
+      "NGAY_SINH": "12/18/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.540679",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "134571",
+      "HO_TEN": "Lê Thuận Phát",
+      "TINH": "HCM",
+      "TOAN": -1,
+      "VAN": 1,
+      "NGOAI_NGU": 1,
+      "CHUYEN": -1,
+      "TONGDIEM": 2,
+      "SOBAODANH": "134571",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 1,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

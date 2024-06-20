@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "130604",
+      "Id": "130604",
+      "TinhId": 13,
+      "NGAY_SINH": "10/19/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.535240",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "130604",
+      "HO_TEN": "Bùi Thị Thảo Nhi",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 7.5,
+      "NGOAI_NGU": 4,
+      "CHUYEN": -1,
+      "TONGDIEM": 15.25,
+      "SOBAODANH": "130604",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 4,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

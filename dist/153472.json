@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153472",
+      "Id": "153472",
+      "TinhId": 15,
+      "NGAY_SINH": "03/20/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.568532",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153472",
+      "HO_TEN": "Võ Thanh Bảo",
+      "TINH": "HCM",
+      "TOAN": 2.5,
+      "VAN": 4.25,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 9.5,
+      "SOBAODANH": "153472",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "131103",
+      "Id": "131103",
+      "TinhId": 13,
+      "NGAY_SINH": "08/11/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.907358",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "131103",
+      "HO_TEN": "Bùi Nguyễn Bình An",
+      "TINH": "HCM",
+      "TOAN": 7.5,
+      "VAN": 8.25,
+      "NGOAI_NGU": 9.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 25.25,
+      "SOBAODANH": "131103",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 9.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

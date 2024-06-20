@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "153061",
+      "Id": "153061",
+      "TinhId": 15,
+      "NGAY_SINH": "08/04/2008",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.371361",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "153061",
+      "HO_TEN": "Trần Nguyễn Phương Nghi",
+      "TINH": "HCM",
+      "TOAN": 5.75,
+      "VAN": 8.75,
+      "NGOAI_NGU": 7.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 22.25,
+      "SOBAODANH": "153061",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 7.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

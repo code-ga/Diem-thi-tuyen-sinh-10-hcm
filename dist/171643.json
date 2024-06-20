@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "171643",
+      "Id": "171643",
+      "TinhId": 17,
+      "NGAY_SINH": "12/06/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:31.684758",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "171643",
+      "HO_TEN": "MAI NGUYỄN DUY THÀNH",
+      "TINH": "HCM",
+      "TOAN": 3.5,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 15,
+      "SOBAODANH": "171643",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

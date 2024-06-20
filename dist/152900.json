@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152900",
+      "Id": "152900",
+      "TinhId": 15,
+      "NGAY_SINH": "01/01/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.367462",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152900",
+      "HO_TEN": "Phạm Quốc Huy",
+      "TINH": "HCM",
+      "TOAN": 2.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 2.75,
+      "CHUYEN": -1,
+      "TONGDIEM": 11.25,
+      "SOBAODANH": "152900",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 2.75,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

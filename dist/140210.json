@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "140210",
+      "Id": "140210",
+      "TinhId": 14,
+      "NGAY_SINH": "12/25/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:29.375259",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "140210",
+      "HO_TEN": "Võ Nguyễn Huy Bình",
+      "TINH": "HCM",
+      "TOAN": 3.75,
+      "VAN": 5.75,
+      "NGOAI_NGU": 5,
+      "CHUYEN": -1,
+      "TONGDIEM": 14.5,
+      "SOBAODANH": "140210",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

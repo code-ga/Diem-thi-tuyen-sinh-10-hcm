@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "152787",
+      "Id": "152787",
+      "TinhId": 15,
+      "NGAY_SINH": "07/31/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:30.367167",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "152787",
+      "HO_TEN": "Hà Song Chi",
+      "TINH": "HCM",
+      "TOAN": 6.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 10,
+      "CHUYEN": -1,
+      "TONGDIEM": 23.5,
+      "SOBAODANH": "152787",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 10,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128311",
+      "Id": "128311",
+      "TinhId": 12,
+      "NGAY_SINH": "12/26/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.464884",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128311",
+      "HO_TEN": "Dương Tấn Phát",
+      "TINH": "HCM",
+      "TOAN": 5,
+      "VAN": 7,
+      "NGOAI_NGU": 6.5,
+      "CHUYEN": -1,
+      "TONGDIEM": 18.5,
+      "SOBAODANH": "128311",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6.5,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}

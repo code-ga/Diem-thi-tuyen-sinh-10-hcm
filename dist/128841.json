@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "128841",
+      "Id": "128841",
+      "TinhId": 12,
+      "NGAY_SINH": "06/02/2009",
+      "file_name": "",
+      "modified_date": "2024-06-19T08:21:28.346472",
+      "NAM": "2024",
+      "KY_THI": "LOP10",
+      "SBD": "128841",
+      "HO_TEN": "Trịnh Thái Khánh Đan",
+      "TINH": "HCM",
+      "TOAN": 4.25,
+      "VAN": 7.25,
+      "NGOAI_NGU": 6,
+      "CHUYEN": -1,
+      "TONGDIEM": 17.5,
+      "SOBAODANH": "128841",
+      "LI": "",
+      "HOA": "",
+      "SU": "",
+      "DIA": "",
+      "NN": 6,
+      "GDCN": ""
+    }
+  ],
+  "total": 1,
+  "success": true
+}
