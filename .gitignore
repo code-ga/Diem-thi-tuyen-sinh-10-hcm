@@ -2,3 +2,4 @@ node_modules/
 package-lock.
 build
 unCrawled.json
+.env
